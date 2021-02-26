@@ -6,7 +6,7 @@ nav_order: 2
 
 # Cairn System Reference Document
 
-<p></p>
+
 
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
@@ -46,7 +46,7 @@ Sia il Custode che i giocatori hanno delle linee guida che aiutano a promuovere 
 ### Obiettivi Condivisi
 I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambientazione condivisa, negli obiettivi dei personaggi e nelle sfide di gruppo. Per questo motivo, solitamente il gruppo lavora di squadra verso un obiettivo comune.
 
-<p></p>
+
 
 ## Principi per i Custodi
 ### Informationi
@@ -94,7 +94,7 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - A volte vorrai un elemento di casualità (ad esempio per il tempo atmosferico, per conoscenze uniche del personaggio, ecc.)
 - In queste situazioni, tira 1d6. Un risultato di 4 o più generalmente favorisce i giocatori.
 - Un lancio di 3 o meno tende a rappresentare sfortuna per i PG o i loro alleati.
-<p></p>
+
 
 ## Principi per i Giocatori
 ### Libertà d’azione
@@ -127,7 +127,7 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - Stabilisci degli obiettivi e usa i tuoi pochi mezzi per fare dei passi avanti.
 - Non aspettarti nulla. Guadagnati la tua reputazione.
 - Mantieni le situazioni sempre in movimento e gioca per vedere cosa succede.
-<p></p>
+
 
 ## Creazione del Personaggio
 
@@ -138,7 +138,7 @@ Poi, tira per il resto dei **tratti** del tuo personaggio (aspetto, linguaggio, 
 
 Infine, tira per l’**età** (2d20+10).
 
-### Ability Scores  
+### Punteggi di Abilità 
 I Personaggi Giocanti (PG) hanno solo tre attributi: 
 **Forza (FOR)**, **Destrezza (DES)**, e **Volontà (VOL)**. Quando si crea un PG, il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due dei risultati.
 
@@ -311,7 +311,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Condannato   	| 9		| Ripudiato		|
 | 5	| Maledetto		| 10	| Esiliato      |
 
-<p></p>
+
 
 ### Equipaggiamento di Partenza (d20)
 
@@ -367,7 +367,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | :--- | :--- | :--- | :--- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
 
-<p></p>
+
 
 ### Libri degli Incantesimi (d100)
 
@@ -399,7 +399,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |24 |Camuffamento					|49 | Maniero					|74 | Sonno					|99 |Marchio del Mago 		|
 |25 |Dislocare						|50 | Mania delle Biglie		|75 | Viscido				|100|Vista a Raggi-X 		|	
 
-<p></p>
+
 
 
 ### Equipaggiamento (Prezzi in pezzi d’oro)  
@@ -458,7 +458,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Lanterna e Olio                   	|10	|Aconito       						|10	|
 
 
-<p></p>
+
 
 ### Pacchetti opzionali di Equipaggiamento
 
@@ -542,7 +542,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Segugio | 2 PF, 12 DES, morso (d6) |
 |Corno tonante |
 
-<p></p>
+
 
 ## Regolamento
 
@@ -871,7 +871,7 @@ Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno al
 | 99   | Marchio del Mago | Il tuo dito può lanciare un flusso di vernice color ulfire. La vernice è visibile solo a te e può essere vista a qualsiasi distanza, anche attraverso oggetti solidi|
 | 100  | Vista a Raggi-XP | uoi vedere attraverso i muri, la terra, i vestiti, ecc.|
 
-<p></p>
+
 
 # Riassunto delle Regole
 
