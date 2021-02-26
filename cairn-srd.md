@@ -308,7 +308,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |       Nessuna        | Elmo | Scudo | Elmo e Scudo |
 
 #### Armi
-|  |	|	|	|
+
 | :---: | :---: | :---: | :---: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | Pugnale, Randello, Bastone | Spada, Mazza, Ascia | Arco lungo, Balestra, Fionda | Alabarda, Martello da Guerra, Ascia da Guerra |
@@ -323,7 +323,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Bastone da rabdomante			|10 |Grimaldelli  		|
 
 #### Attrezzi
-||	|	|	|
+
+| |	|	|	|
 |---|---|---|---|
 |1  |Soffietto	|6  |Pentole  			|
 |2  |Secchio	|7  |Piede di Porco    	|
@@ -332,7 +333,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Cesello	|10 |Colla       		|
 
 #### Chincaglierie
-||	|	|	|
+
 |---|---|---|---|
 |1  |Bottiglia     		|6  |Corno 		|
 |2  |Mazzo di carte  	|7  |Incenso    |
@@ -342,7 +343,6 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Oggetto bonus (tira sulla tabella indicata)
 
-|	| 	| 	| 	|
 | 1-5 | 6-13 | 14-17 | 18-20 |
 | :--- | :--- | :--- | :--- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
