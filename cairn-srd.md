@@ -10,8 +10,8 @@ nav_order: 2
 
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-- [repo in lingua originale](https://github.com/yochaigal/cairn)
-- [repo italiana](https://github.com/idolofmanyhands/cairn-ita)
+- [repo in lingua inglese](https://github.com/yochaigal/cairn)
+- [repo in lingua italiana](https://github.com/idolofmanyhands/cairn-ita)
 - puoi scaricare il gioco in lingua originale da [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) o da [itch.io](https://yochaigal.itch.io/cairn)
 - altri [formati](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluso Word, Affinity, Google Docs, ecc).
 
