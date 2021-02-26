@@ -173,7 +173,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 ### Nome e Background (d20)
 
-|Nomi Femminili||||||||
+#### Nomi Femminili
+
+| ||||||||
 |---|---|---|---|---|---|---|---|
 |1	| Agune     |6	|Drelil     |11	|Lirann   |16    |Sybil     |
 |2	| Beatrice  |7	|Elgile     |12	|Lirathil |17    |Theune    |
@@ -181,7 +183,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4	| Bronwyn   |9	|Griya      |14	|Moralil  |19    |Ygwal     |
 |5	| Cannora   |10	|Henaine    |15	|Morgwen  |20    |Yslen     |
 
-|Nomi Maschili||||||||
+#### Nomi Maschili
+
+|||||||||
 |---|---|---|---|---|---|---|---|
 |1	|Arwel     |6	|Breglor    |11	|Grinwit  |16    |Melnax    |
 |2	|Bevan     |7	|Canhoreal  |12	|Gruwid   |17    |Orthax    |
@@ -189,7 +193,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4	|Borrid    |9	|Ethex      |14	|Gwestin  |19    |Wenlan    |
 |5	|Breagle   |10	|Gringle    |15	|Mannog   |20    |Yirmeor   |
 
-|Cognomi||||||||
+#### Cognomi
+
+|||||||||
 |---|---|---|---|---|---|---|---|
 |1	|Abernathy 	|6	|Crumwaller |11	|Harper   |16    |Swinney   |
 |2	|Addercap  	|7	|Dunswallow |12	|Loomer   |17    |Thatcher  |
@@ -197,7 +203,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4	|Candlewick	|9	|Glass      |14	|Smythe   |19    |Weaver    |
 |5	|Cormick   	|10	|Harkness   |15	|Sunderman|20    |Wolder    |
 
-|Background||||||||
+#### Background
+
+|||||||||
 |---|---|---|---|---|---|---|---|
 |1	|Alchimista 	|6	|Chierico     	|11	|Mago 			|16    |Artista |
 |2	|Fabbro			|7	|Scommettitore	|12	|Mercenario		|17    |Borseggiatore|
@@ -206,10 +214,10 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5	|Carpentiere 	|10	|Cacciatore     |15	|Fuorilegge   	|20    |Ranger    |
 
 
-
 ### Tratti del Personaggio (d10)
 
-| Fisico |	|	|	|
+#### Fisico
+|  |	|	|	|
 |---|---|---|---|
 | 1	| Atletico 		| 6    | Gracile    |
 | 2	| Muscoloso   	| 7    | Basso		|
@@ -217,8 +225,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Longilineo    | 9    | Robusto	|
 | 5	| Massiccio   	| 10   | Imponente	|
 
-
-| Pelle |	|	|	|
+#### Pelle
+|  |	|	|	|
 |---|---|---|---|
 | 1	| Voglia  	| 6    | Morbida	|
 | 2	| Scura 	| 7    | Liscia		|
@@ -226,8 +234,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Butterata | 9    | Tatuata  	|
 | 5	| Rosea     | 10   | Segnata 	|
 
-
-| Capelli	|	|	|	|
+#### Capelli
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Calvo			| 6    | Lunghi		|
 | 2	| Intrecciati	| 7    | Voluminosi	|
@@ -235,7 +243,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Sporchi  		| 9    | Mossi      |
 | 5	| Crespi  		| 10   | Sparsi     |
 
-| Faccia	|	|	|	|
+#### Faccia
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Ossuta	| 6    | Perfetta  	|
 | 2	| Rotta    	| 7    | da Topo 	|
@@ -243,7 +252,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Allungata | 9    | Quadrata   |
 | 5	| Pallida	| 10   | Infossata  |
 
-| Parlata	|	|	|	|
+#### Parlata
+|	|	|	|	|
 |---|---|---|---|
 | 1	| Schietta		| 6    | Greve   		|
 | 2	| Profonda		| 7    | Precisa    	|
@@ -251,7 +261,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Monotona		| 9    | Balbettante 	|
 | 5	| Misteriosa	| 10   | Bisbigliante   |
 
-| Vestito	|	|	|	|
+#### Vestito
+
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Antico 		| 6    | Logoro 	|
 | 2	| Insanguinato  | 7    | Sgargiante |
@@ -259,7 +271,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Sporco  		| 9    | Fedito 	|
 | 5	| Esotico 		| 10   | Sudicio 	|
 
-| Virtù	|	|	|	|
+#### Virtù
+
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Ambizioso   	| 6    | Onorevole 			|
 | 2	| Cauto    		| 7    | Umile    			|
@@ -267,7 +281,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Disciplinato 	| 9    | Sereno    			|
 | 5	| Socievole  	| 10   | Tollerante  		|
 
-| Vizio	|	|	|	|
+#### Vizio
+
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Aggressivo 	| 6    | Pigro     		|
 | 2	| Scorbutico	| 7    | Nervoso  		|
@@ -275,7 +291,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Bugiardo  	| 9    | Vanitoso     	|
 | 5	| Avido     	| 10   | Vendicativo 	|
 
-| Reputation	|	|	|	|
+#### Reputation
+
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Ambizioso   		| 6    | Fannullone    	|
 | 2	| Zoticone        	| 7    | Eccentrico   	|
@@ -283,7 +301,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Intrattenitore	| 9    | Rispettato 	|
 | 5	| Onesto      		| 10   | Saggio      	|
 
-| Sfortune	|	|	|	|
+#### Sfortune
+
+| 	|	|	|	|
 |---|---|---|---|
 | 1	| Abbandonato   | 6		| Truffato   	|
 | 2	| Assuefatto    | 7		| Declassato	|
@@ -308,7 +328,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |       Nessuna        | Elmo | Scudo | Elmo e Scudo |
 
 #### Armi
-
+|	|	|	| 	|
 | :---: | :---: | :---: | :---: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | Pugnale, Randello, Bastone | Spada, Mazza, Ascia | Arco lungo, Balestra, Fionda | Alabarda, Martello da Guerra, Ascia da Guerra |
@@ -324,7 +344,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Attrezzi
 
-| |	|	|	|
+| 	|	|	|	|
 |---|---|---|---|
 |1  |Soffietto	|6  |Pentole  			|
 |2  |Secchio	|7  |Piede di Porco    	|
@@ -333,7 +353,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Cesello	|10 |Colla       		|
 
 #### Chincaglierie
-
+| 	|	|	|	|
 |---|---|---|---|
 |1  |Bottiglia     		|6  |Corno 		|
 |2  |Mazzo di carte  	|7  |Incenso    |
