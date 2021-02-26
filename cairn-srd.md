@@ -8,876 +8,891 @@ nav_order: 2
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
+**Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+- [repo in lingua originale](https://github.com/yochaigal/cairn)
+- [repo italiana](https://github.com/idolofmanyhands/cairn-ita)
+- puoi scaricare il gioco in lingua originale da [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) o da [itch.io](https://yochaigal.itch.io/cairn)
+- altri [formati](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluso Word, Affinity, Google Docs, ecc).
 
-## Overview
+**Cairn** è un gioco di avventura per un facilitatore (il **Custode**) e almeno un altro giocatore. 
+I giocatori interpretano avventurieri temprati che esplorano un Bosco oscuro e misterioso pieno di personaggi strani, tesori nascosti e mostruosità indicibili.
 
-**Cairn** was written with the following design philosophies in mind:
+## Panoramica
 
-### Neutrality  
-The Warden&#39;s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+**Cairn** è stato scritto secondo le seguenti filosofie di progettazione:
 
-### Classless  
-A character&#39;s role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+### Neutralità  
+Il ruolo del Custode è quello di presentare le regole, le situazioni, i PNG e la narrazione in modo chiaro, mentre svolge il ruolo di arbitro neutrale.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner,but it is never random or without warning.
+### Senza Classi
+Il ruolo o le abilità di un personaggio non sono limitati da una classe in particolare. La specializzazione è definita dalle sue esperienze e dall’equipaggiamento che porta con sé.
+
+### Morte
+I personaggi saranno anche forti, ma sono anche vulnerabili al danno nelle sue molteplici forme. La morte è sempre dietro l'angolo, ma non si presenta mai per caso o senza preavviso.
 
 ### Fiction First  
-Dice do not always reflect an obstacle&#39;s difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in- world elements.
+I dadi non sempre sono in grado di esprimere la difficoltà o l'esito di un ostacolo. Il successo e il fallimento sono invece arbitrati dal Custode tramite il dialogo con i giocatori, sulla base di elementi del mondo.
 
-### Growth  
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Crescita  
+I personaggi evolvono man mano che avanzano nel mondo, guadagnando nuove competenze e abilità superando ostacoli e sopravvivendo a eventi pericolosi.
 
-### Player Choice  
-Players should always understand the reasons behind the choices they&#39;ve made, and information about potential risks should be provided freely and frequently.
+### Scelta del Giocatore  
+I giocatori dovrebbero sempre essere consci delle motivazioni dietro alle scelte che hanno preso, e le informazioni sui potenziali rischi dovrebbero essere fornite spesso e apertamente.
 
-### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Principi  
+Sia il Custode che i giocatori hanno delle linee guida che aiutano a promuovere un’esperienza di gioco determinata dal pensiero critico, dall’esplorazione e da una narrazione spontanea.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+### Obiettivi Condivisi
+I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambientazione condivisa, negli obiettivi dei personaggi e nelle sfide di gruppo. Per questo motivo, solitamente il gruppo lavora di squadra verso un obiettivo comune.
+
 <p></p>
 
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+## Principi per i Custodi
+### Informationi
+- Dai informazioni utili sul mondo di gioco man mano che i personaggi lo esplorano.
+- I giocatori non hanno bisogno di tirare dadi per conoscere la propria situazione.
+- Rispondi alle loro domande in modo utile e diretto.
+- Reagisci onestamente, descrivi in modo coerente e spiega sempre che possono continuare a fare domande.
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### Difficultà
+- Ai numeri e alla meccanica prediligi contesto e realismo .
+- Se i personaggi vogliono fare qualcosa di semplicemente impossibile, nessun lancio di dadi permetterà loro di farlo.
+- Ciò che il giocatore descrive, e come sfrutta la situazione, ragionevole? Lascia che accada.
+- I tiri salvezza coprono una grande quantità di situazioni incerte e spesso sono tutto ciò che occorre per azioni rischiose.
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do,and how they affect the world.
-- NPCs don&#39;t want to die. Infuse their own self-interest and will to live into every personality.
+### Preparazione
+- Il mondo di gioco è organico, malleabile e casuale. Intuisce e fa delle svolte brusche.
+- Utilizza tabelle e generatori casuali per sviluppare situazioni, non per storie o trame.
+- I PNG ricordano i PG per quello che fanno, per quello che dicono e come influiscono sul mondo.
+- I PNG non vogliono morire. Infondi in ognuno di loro interesse personale e voglia di vivere.
 
-### Narrative Focus  
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### Focus Narrativo
+- Ciò che conta veramente è l’esperienza che emerge dal gioco, non la matematica o le abilità dei personaggi. Per facilitare miglioramento e specializzazione date ai giocatori dei maestri d’arme e missioni personali.
+- Prestate attenzione ai bisogni e ai desideri dei giocatori, dopodiché inserite opportunità realistiche sul loro cammino.
+- Un pugnale alla gola vi ucciderà, indipendentemente dalla vostra armatura costosa o da quanto sia formidabile il vostro addestramento.
 
-### Danger  
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+### Pericolo  
+- Il mondo di gioco presenta per i personaggi un rischio concreto di sofferenza e di morte.
+- Segnala un pericolo serio per i giocatori quando è presente. Più è pericoloso, più è evidente.
+- Posiziona trappole in bella vista e lascia che i giocatori si prendano del tempo per trovare una soluzione.
+- Dai ai giocatori l’opportunità di risolvere i problemi e di interagire con il mondo.
 
-### Treasure  
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky,and rarely useful beyond its worth and prestige.
-- Relics are not Treasure,though they are useful and interesting.
-- Use **Treasure** as a lure to exotic locations under the protection of intimidating foes.
+### Tesoro  
+- Un Tesoro è specifico dell’ambiente in cui è stato recuperato. Esso racconta una storia.
+- Il Tesoro è di grande pregio, quasi sempre ingombrante, e raramente utile al di là del suo valore e del suo prestigio.
+- Le reliquie non sono Tesori, sebbene siano utili e interessanti.
+- Usa il **Tesoro** come un’esca verso luoghi esotici protetti da nemici minacciosi.
 
-### Choice  
-- Give players a solid choice to force outcomes when the situation  lulls.
-- Use binary&quot; so, A or B?&quot; responses when their intentions are vague.
-- Work together with this conversational progress to keep the game moving.
-- Ensure that the player character&#39;s actions leave their mark on the game world.
+### Scelta  
+- Dai ai giocatori una scelta concreta per forzare l’esito quando la situazione si blocca.
+- Utilizza risposte binarie “allora, A o B?” quando le loro intenzioni sono vaghe.
+- Collabora con questo processo discorsivo per mantenere il gioco in continuo movimento.
+- Assicurati che le azioni del giocatore lascino il loro segno nel mondo di gioco.
 
-### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather,unique character knowledge,etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Dado del Fato
+- A volte vorrai un elemento di casualità (ad esempio per il tempo atmosferico, per conoscenze uniche del personaggio, ecc.)
+- In queste situazioni, tira 1d6. Un risultato di 4 o più generalmente favorisce i giocatori.
+- Un lancio di 3 o meno tende a rappresentare sfortuna per i PG o i loro alleati.
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character.They are tools.
-- Don&#39;t ask only what your character would do, ask what you would do,too.
-- Be creative with your intuition, items, and connections.
+## Principi per i Giocatori
+### Libertà d’azione
+- Gli attributi e i relativi tiri salvezza non definiscono il tuo personaggio. Sono soltanto strumenti.
+- Non chiederti solamente cosa farebbe il tuo personaggio, chiediti anche cosa faresti tu.
+- Sii creativo con la tua intuizione, gli oggetti e le tue relazioni.
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Lavoro di Squadra
+- Cerca il consenso degli altri giocatori prima di andare avanti.
+- Rimanete in sintonia su obiettivi e limiti, rispettatevi a vicenda e realizza di più cose in gruppo che da solo.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden&#39;s description without suspicion, but don&#39;t shy away from seeking more information.
-- There is no single correct way forward.
+### Esplorazione
+- Fare domande e prestare attenzione ai dettagli è più utile di qualsiasi statistica, oggetto o abilità che possiedi.
+- Non essere sospettoso della descrizione del Custode, ma non esitare a chiedere maggiori informazioni.
+- Non esiste un solo modo corretto di procedere.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You&#39;ll find that most people are interesting and will want to talk things through before getting violent.
+### Parlare
+- Tratta i PNG come se fossero persone reali, e fai affidamento alla tua curiosità per ottenere informazioni e risolvere i problemi in sicurezza.
+- Scoprirai che la maggior parte delle persone sono interessanti e vorranno dialogare prima di ricorrere alla violenza.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Cautela
+- Combattere è una scelta e raramente si rivela saggia; valuta se la violenza è il modo migliore per raggiungere i tuoi obiettivi.
+- Cerca di aumentare le probabilità a tuo favore e ritirati quando le cose sembrano sfavorevoli.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance,subtlety,and fact-finding.
-- Do some research and ask around about your objectives.
+### Pianificazione
+- Pensa a modi per evitare i tuoi ostacoli attraverso la perlustrazione, la discrezione e la verifica dei fatti.
+- Fai qualche ricerca e chiedi in giro informazioni sui tuoi obiettivi.
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### Ambizione
+- Stabilisci degli obiettivi e usa i tuoi pochi mezzi per fare dei passi avanti.
+- Non aspettarti nulla. Guadagnati la tua reputazione.
+- Mantieni le situazioni sempre in movimento e gioca per vedere cosa succede.
 <p></p>
 
-## Character Generation
+## Creazione del Personaggio
 
-**Name, Background &amp; Traits**  
-First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background**, which informs their knowledge and potential skills.
+**Nome, Background e Tratti**  
+Per prima cosa, scegli o tira un **nome** per il tuo personaggio dalle tabelle **Nome e Background**, poi il suo background, che determina le sue conoscenze e le sue abilità potenziali.
 
-Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables.
+Poi, tira per il resto dei **tratti** del tuo personaggio (aspetto, linguaggio, modi di fare, credenze, reputazione, ecc.) sulle tabelle dei **Tratti del Personaggio**.
 
-Finally, roll for their **age** (2d20+10).
+Infine, tira per l’**età** (2d20+10).
 
 #### Ability Scores  
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
+I Personaggi Giocanti (PG) hanno solo tre attributi: 
+**Forza (FOR)**, **Destrezza (DES)**, e **Volontà (VOL)**. Quando si crea un PG, il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due dei risultati.
 
-**Example:**   
-Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides to swap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
+**Esempio:**
+Ines tira per la **FOR** del suo personaggio, ottenendo un **2**, un **4** e un **6**, per un totale di **12**. I prossimi due tiri di abilità danno come risultato un **9** per **DES** e un **13** per **VOL**. Decide di scambiare il **12** e il **9**, ottenendo un personaggio con **FOR 9**, **DES 12** e **VOL 13**.
 
-### Hit Protection  
-Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
+### Protezione dalle Ferite 
+Tira 1d6 per determinare la **Protezione dalle Ferite (PF)** iniziale del tuo PG, che rispecchia la sua capacità di evitare i danni in combattimento. La PF non indica la salute o la forza d’animo di un personaggio, né la si perde per molto tempo (vedi **Guarigione**). Se un attacco porta la PF di un PG esattamente a 0, il giocatore deve tirare sulla tabella **Cicatrici**.
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Inventario
+I personaggi hanno un totale di 10 slot di inventario: uno zaino con sei slot, uno slot per ogni mano e due slot per la parte superiore del corpo (come la cintura, il petto o la testa). Lo zaino può anche fungere da sacco a pelo di emergenza, ma solo se svuotato del suo contenuto.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden&#39;s discretion.
+La maggior parte degli oggetti occupano uno slot, e gli oggetti piccoli possono essere raggruppati insieme. Gli slot sono astratti e possono essere riorganizzati a discrezione del Custode.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0HP.
+Gli oggetti **ingombranti** occupano due slot e sono tipicamente a due mani o scomodi da trasportare. Chiunque abbia un inventario pieno (ad esempio riempiendo tutti e 10 gli slot) è ridotto a 0 PF.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+Un PG non può trasportare più oggetti di quanti ne permetta il suo inventario. Carretti (che devono essere tirati con entrambe le mani), cavalli o muli possono aumentare l’inventario. Anche i **mercenari** possono essere pagati per trasportare equipaggiamento.
 
-#### Starting Gear
-All PCs begin with:
+#### Equipaggiamento di partenza
+Tutti i PG iniziano con:
 
-- Three days&#39; rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Tre giorni di razioni (uno slot)
+- Una torcia (uno slot)
+- 3d6 pezzi d’oro
 
-Roll on the **Starting Gear** tables to determine your PC&#39;s armor, weapons, tools, and equipment. If indicated, roll on the **Spellbooks** table with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
+Tira sulle tabelle di **Equipaggiamento di Partenza** per determinare l’armatura, le armi, gli strumenti e l’equipaggiamento del tuo PG. Se indicato, tira sulla tabella **Libri degli incantesimi** con un d100 (o tira 2d10, usando un dado per le unità e uno per le decine).
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Vedi la **Lista di equipaggiamento** per i valori di armatura, danno e slot relativi. Gli oggetti più piccoli a volte possono essere raggruppati in un unico slot.
 
-If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
+Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla lista dei **Pacchetti di equipaggiamento opzionali**.
 
 
-## Name &amp; Background (d20)
+## Nome e Background (d20)
 
-|Female Names||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
+|Nomi Femminili||||||||
+|---|---|---|---|---|---|---|---|
+|1	| Agune     |6	|Drelil     |11	|Lirann   |16    |Sybil     |
+|2	| Beatrice  |7	|Elgile     |12	|Lirathil |17    |Theune    |
+|3	| Breagan   |8	|Esme       |13	|Lisabeth |18    |Wenain    |
+|4	| Bronwyn   |9	|Griya      |14	|Moralil  |19    |Ygwal     |
+|5	| Cannora   |10	|Henaine    |15	|Morgwen  |20    |Yslen     |
 
-|Male Names||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
-|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
-|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
-|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
-|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
+|Nomi Maschili||||||||
+|---|---|---|---|---|---|---|---|
+|1	|Arwel     |6	|Breglor    |11	|Grinwit  |16    |Melnax    |
+|2	|Bevan     |7	|Canhoreal  |12	|Gruwid   |17    |Orthax    |
+|3	|Boroth    |8	|Emrys      |13	|Gruwth   |18    |Triunein  |
+|4	|Borrid    |9	|Ethex      |14	|Gwestin  |19    |Wenlan    |
+|5	|Breagle   |10	|Gringle    |15	|Mannog   |20    |Yirmeor   |
 
-|Surnames||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+|Cognomi||||||||
+|---|---|---|---|---|---|---|---|
+|1	|Abernathy 	|6	|Crumwaller |11	|Harper   |16    |Swinney   |
+|2	|Addercap  	|7	|Dunswallow |12	|Loomer   |17    |Thatcher  |
+|3	|Burl      	|8	|Getri      |13	|Malksmilk|18    |Tolmen    |
+|4	|Candlewick	|9	|Glass      |14	|Smythe   |19    |Weaver    |
+|5	|Cormick   	|10	|Harkness   |15	|Sunderman|20    |Wolder    |
 
 |Background||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Butcher   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|---|---|---|---|---|---|---|---|
+|1	|Alchimista 	|6	|Chierico     	|11	|Mago 			|16    |Artista |
+|2	|Fabbro			|7	|Scommettitore	|12	|Mercenario		|17    |Borseggiatore|
+|3	|Macellaio   	|8	|Becchino		|13	|Mercante 		|18    |Contrabbandiere  |
+|4	|Scassinatore   |9	|Erborista  	|14	|Minatore    	|19    |Servitore   |
+|5	|Carpentiere 	|10	|Cacciatore     |15	|Fuorilegge   	|20    |Ranger    |
 
 
 
-## Character Traits (d10)
+## Tratti del Personaggio (d10)
 
-| Physique |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| Fisico |	|	|	|
+|---|---|---|---|
+| 1	| Atletico 		| 6    | Gracile    |
+| 2	| Muscoloso   	| 7    | Basso		|
+| 3	| Corpulento   	| 8    | Statuario	|
+| 4	| Longilineo    | 9    | Robusto	|
+| 5	| Massiccio   	| 10   | Imponente	|
 
-| Skin |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
 
-| Hair |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| Pelle |	|	|	|
+|---|---|---|---|
+| 1	| Voglia  	| 6    | Morbida	|
+| 2	| Scura 	| 7    | Liscia		|
+| 3	| Flaccida  | 8    | Abbronzata	|
+| 4	| Butterata | 9    | Tatuata  	|
+| 5	| Rosea     | 10   | Segnata 	|
 
-| Face |           |      |          |
-| ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
 
-| Speech |         |      |            |
-| ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| Capelli	|	|	|	|
+|---|---|---|---|
+| 1	| Calvo			| 6    | Lunghi		|
+| 2	| Intrecciati	| 7    | Voluminosi	|
+| 3	| Ricci   		| 8    | Grassi		|
+| 4	| Sporchi  		| 9    | Mossi      |
+| 5	| Crespi  		| 10   | Sparsi     |
 
-| Clothing |         |      |        |
-| -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| Faccia	|	|	|	|
+|---|---|---|---|
+| 1	| Ossuta	| 6    | Perfetta  	|
+| 2	| Rotta    	| 7    | da Topo 	|
+| 3	| Cesellata	| 8    | Appuntita 	|
+| 4	| Allungata | 9    | Quadrata   |
+| 5	| Pallida	| 10   | Infossata  |
 
-| Virtue |             |      |           |
-| ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| Parlata	|	|	|	|
+|---|---|---|---|
+| 1	| Schietta		| 6    | Greve   		|
+| 2	| Profonda		| 7    | Precisa    	|
+| 3	| Misteriosa 	| 8    | Stridula    	|
+| 4	| Monotona		| 9    | Balbettante 	|
+| 5	| Misteriosa	| 10   | Bisbigliante   |
 
-| Vice |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| Vestito	|	|	|	|
+|---|---|---|---|
+| 1	| Antico 		| 6    | Logoro 	|
+| 2	| Insanguinato  | 7    | Sgargiante |
+| 3	| Elegante 		| 8    | Livrea 	|
+| 4	| Sporco  		| 9    | Fedito 	|
+| 5	| Esotico 		| 10   | Sudicio 	|
 
-| Reputation |             |      |           |
-| ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| Virtù	|	|	|	|
+|---|---|---|---|
+| 1	| Ambizioso   	| 6    | Onorevole 			|
+| 2	| Cauto    		| 7    | Umile    			|
+| 3	| Coraggioso  	| 8    | Compassionevole  	|
+| 4	| Disciplinato 	| 9    | Sereno    			|
+| 5	| Socievole  	| 10   | Tollerante  		|
 
-| Misfortunes |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| Vizio	|	|	|	|
+|---|---|---|---|
+| 1	| Aggressivo 	| 6    | Pigro     		|
+| 2	| Scorbutico	| 7    | Nervoso  		|
+| 3	| Vile     		| 8    | Rude     		|
+| 4	| Bugiardo  	| 9    | Vanitoso     	|
+| 5	| Avido     	| 10   | Vendicativo 	|
+
+| Reputation	|	|	|	|
+|---|---|---|---|
+| 1	| Ambizioso   		| 6    | Fannullone    	|
+| 2	| Zoticone        	| 7    | Eccentrico   	|
+| 3	| Pericoloso   		| 8    | Ripugnante 	|
+| 4	| Intrattenitore	| 9    | Rispettato 	|
+| 5	| Onesto      		| 10   | Saggio      	|
+
+| Sfortune	|	|	|	|
+|---|---|---|---|
+| 1	| Abbandonato   | 6		| Truffato   	|
+| 2	| Assuefatto    | 7		| Declassato	|
+| 3	| Ricattato 	| 8		| Screditato 	|
+| 4	| Condannato   	| 9		| Ripudiato		|
+| 5	| Maledetto		| 10	| Esiliato      |
 
 <p></p>
 
-## Starting Gear (d20)
+## Equipaggiamento di Partenza (d20)
 
-| Armor |            |           |       |
-| :---: | :--------: | :-------: | :---: |
+| Armatura |	|	|	|
+| :---: | :---: | :---: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| Nessuna  | Brigantina | Cotta di Maglia | Piastre |
 
-| Helmets & Shields |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
+| Elmi e Scudi |	|	|	|
+| :---: | :---: | :---: | :---: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       Nessuna        | Elmo | Scudo | Elmo e Scudo |
 
-|        Weapons        |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Armi |	|	|	|
+| :---: | :---: | :---: | :---: |
+| 1-5 | 6-14 | 15-19 | 20 |
+| Pugnale, Randello, Bastone | Spada, Mazza, Ascia | Arco lungo, Balestra, Fionda | Alabarda, Martello da Guerra, Ascia da Guerra |
 
-|Expeditionary Gear||||
-|------|-----------|------|-----------|
-|1  |Air Bladder|6  |Fire Oil   |
-|2  |Antitoxin  |7  |Grappling Hook |
-|3  |Cart (+4 slots, bulky) |8  |Large Sack |
-|4  |Chain (10ft) |9  |Large Trap |
-|5  |Dowsing Rod|10 |Lockpicks  |
+|Equipaggiamento da Spedizione |	|	|	|
+|---|---|---|---|
+|1  |Sacca d'Aria 					|6  |Olio di fuoco		|
+|2  |Antitossina  					|7  |Rampino 			|
+|3  |Carretto (+4 slot, ingombrante)|8  |Sacco grande 		|
+|4  |Catena (3m) 					|9  |Trappola grande 	|
+|5  |Bastone da rabdomante			|10 |Grimaldelli  		|
 
-|Tools||||
-|------|-----------|------|-----------|
-|1  |Bellows    |6  |Cook Pots  |
-|2  |Bucket     |7  |Crowbar    |
-|3  |Caltrops   |8  |Drill (Manual)|
-|4  |Chalk      |9  |FishingRod |
-|5  |Chisel     |10 |Glue       |
+|Attrezzi|	|	|	|
+|---|---|---|---|
+|1  |Soffietto	|6  |Pentole  			|
+|2  |Secchio	|7  |Piede di Porco    	|
+|3  |Pinze   	|8  |Trapano (manuale)	|
+|4  |Gessetto	|9  |Canna da pesca 	|
+|5  |Cesello	|10 |Colla       		|
 
-|Trinkets||||
-|------|-----------|------|-----------|
-|1  |Bottle     |6  |Horn       |
-|2  |Card Deck  |7  |Incense    |
-|3  |Dice Set   |8  |Instrument |
-|4  |Face Paint |9  |Lens       |
-|5  |Fake Jewels|10 |Marbles    |
+|Chincaglierie|	|	|	|
+|---|---|---|---|
+|1  |Bottiglia     		|6  |Corno 		|
+|2  |Mazzo di carte  	|7  |Incenso    |
+|3  |Set di dadi   		|8  |Strumento 	|
+|4  |Trucchi facciali 	|9  |Lente     	|
+|5  |Gioielli falsi 	|10 |Biglie    	|
 
-#### 																		Bonus Item (roll on table indicated)
 
-|1-5     |6-13  |14-17    | 18-20 |
-|:----:|:----:|:----:|:----:|
-|Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
+|Oggetto bonus (tira sulla tabella indicata)| | | |
+| 1-5 | 6-13 | 14-17 | 18-20 |
+| :---: | :---: | :---: | :---: |
+| Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+## Libri degli Incantesimi (d100)
 
 |||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|---|---|---|---|---|---|---|---|
+|1  |Adesione						|26 | Terremoto					|51 | Mascherata			|76 |Forma di Fumo 			|
+|2  |Ancora							|27 | Elasticità				|52 | Miniaturizzare		|77 |Fiuto 					|
+|3  |Animare Oggetto 				|28 | Muro Elementale			|53 | Immagine Speculare	|78 |Spegnimento 			|		
+|4  |Antropomorfismo				|29 | Gazza						|54 | Passaspecchi			|79 |Ordine 				|
+|5  |Occhio Arcano					|30 | Bagliore					|55 | Multibraccio			|80 |Spettacolo 			|
+|6  |Prigione Astrale				|31 | Nube di Nebbia			|56 | Sfera Notturna		|81 |Lama Incantata 		|
+|7  |Attrarre						|32 | Frenesia					|57 | Oggettivare			|82 |Movimenti del Ragno 	|
+|8  |Illusione sonora				|33 | Portale					|58 | Forma Melmosa			|83 |Evoca Cubo 			|
+|9  |Blaterare						|34 | Inversione di Gravità		|59 | Pacificare			|84 |Sciame 				|	
+|10 |Esca Fiore						|35 | Avidità					|60 | Fobia					|85 |Telecinesi 			|
+|11 |Forma Bestiale					|36 | Velocità					|61 | Fossa					|86 |Telepatia 				|
+|12 |Confusione						|37 | Odio						|62 | Impulso Primordiale	|87 |Teletrasporto 			|	
+|13 |Scambio di Corpi				|38 | Ascoltare i Sussurri		|63 | Spingere/Tirare		|88 |Esca Bersaglio 		|		
+|14 |Affascinare					|39 | Levitazione				|64 | Animare i Morti		|89 |Boscaglia 				|
+|15 |Comando						|40 | Ipnotizzare				|65 | Animare gli Spiriti	|90 |Evoca Idolo 			|	
+|16 |Comprensione					|41 | Tocco Gelido				|66 | Leggere la Mente		|91 |Controllare il Tempo 	|
+|17 |Cono di Schiuma				|42 | Identifica Proprietario	|67 | Repuslione			|92 |Visione del Vero 		|		
+|18 |Controllare Piante				|43 | Illuminare				|68 | Divinazione			|93 |Risalita 				|
+|19 |Controllare Tempo Atmosferico	|44 | Legame Invisibile			|69 | Scolpire Elementi		|94 |Visione 				|	
+|20 |Cura Ferite					|45 | Bussare					|70 | Percepire Oggetto		|95 |Illusione visiva 		|
+|21 |Assordare						|46 | Balzo						|71 | Scudo					|96 |Sigillo 				|
+|22 |Individuazione del Magico		|47 | Aria Liquida				|72 | Velo					|97 |Ragnatela 				|
+|23 |Smontare						|48 | Smorzatore Magico			|73 | Scambio				|98 |Aggeggio 				|
+|24 |Camuffamento					|49 | Maniero					|74 | Sonno					|99 |Marchio del Mago 		|
+|25 |Dislocare						|50 | Mania delle Biglie		|75 | Viscido				|100|Vista a Raggi-X 		|	
 
 <p></p>
 
 
-## Equipment List (Prices in Gold Pieces)  
+## Equipaggiamento (Prezzi in pezzi d’oro)  
 
-|Armor|     |
-|--------------------------------------------------------------|-----|
-|Shield (+1 Armor)   |10   |
-|Helmet (+1 Armor)    |10   |
-|Gambeson (+1 Armor)   |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)      |60   |
+| Armature |     |
+|---|---|---|
+|Scudo (+1 Armatura)   						|10   |
+|Elmo (+1 Armatura)    						|10   |
+|Farsetto (+1 Armatura)  					|15   |
+|Brigantina (1 Armatura, ingombrante) 		|20   |
+|Cotta di Maglia (2 Armatura, ingombrante)  |40   |
+|Piastre (3 Armatura, ingombrante)      	|60   |
 
-|Weapons |     |
-|--------------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
-|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)   |20   |
-|Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                       |20   |
-|Crossbow (d8  damage, bulky)                                  |30   |
+| Armi |     |
+|---|---|---|
+| Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)   						|5    |
+| Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)    					|10   |
+| Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, ingombrante)  	|20   |
+| Fionda (d4 danno)             												|5    |
+| Arco (d6 danno, ingombrante)             										|20   |
+| Balestra (d8 danno, ingombrante)             									|30   |
 
-|Gear & Tools |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30        |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200       |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+
+
+|Attrezzi e Strumenti |	|	|	|
+|---|---|---|---|
+|Sacca d'Aria                     	|5	|Trappola grande       				|20	|
+|Soffietto                     		|10	|Spugna grande       				|5	|
+|Sacco a pelo                     	|5	|Lenti       						|10	|
+|Libro                     			|50	|Grimaldelli       					|25	|
+|Secchio                     		|5	|Manette       						|10	|
+|Triboli                     		|10	|Lima di metallo       				|5	|
+|Carretto (+4 slot, ingombrante)	|30	|Specchio       					|5	|
+|Catena (3m)                     	|10	|Mulo (+6 slot, lento) 				|30	|
+|Gesso                     			|1	|Rete       						|10	|
+|Cesello                     		|5	|Borsa cerata       				|5	|
+|Pentole                     		|10	|Piccone       						|10	|
+|Piede di Porco                     |10	|Carrucola       					|10	|
+|Trapano (manuale)                  |10	|Asta (3m)       					|5	|
+|Trucchi facciali                   |10	|Penna e inchiostro       			|10	|
+|Olio di Fuoco                     	|10	|Razioni (3 giorni) 				|10	|
+|Canna da Pesca                     |10	|Corda (7.5m)       				|5	|
+|Biglie di Vetro                    |5	|Sega       						|5	|
+|Colla                     			|5	|Sacco       						|5	|
+|Grasso                     		|10	|Pala       						|5	|
+|Rampino                     		|25	|Sapone       						|1	|
+|Martello                     		|5	|Picca       						|1	|
+|Acquasanta                    		|25	|Stivali Chiodati   				|5	|
+|Corno                     			|10	|Cannocchiale       				|40	|
+|Cavallo (+4 slot)                  |75	|Catrame       						|10	|
+|Clessidra                     		|50	|Tenda (per 2 persone, ingombrante) |20	|
+|Incenso                     		|10	|Torcia       						|1	|
+|Scala (ingombrante, 3m)           	|10	|Carro  (+8 slot, lento) 			|200|
+|Lanterna e Olio                   	|10	|Aconito       						|10	|
+
 
 <p></p>
 
-## Optional Gear Packages  
+## Pacchetti opzionali di Equipaggiamento
 
-|Dowser|
+|Rabdomante|
 |-----------------------------------------|
-|Sickle (d6)                              |
-|Patchwork Doublet (+1  Armor)            |
-|Dowsing Rod                              |
-|Eyestone (Sense if placed in fresh water)|
-|Worn Map                                 |
-|Spyglass                                 |
+|Falcetto (d6) 								|
+|Farsetto Patchwork (+1 Armatura) 			|
+|Bastone da Rabdomante 						|
+|Occhio d’Agata (Percepire Oggetto se posizionato in acqua fresca) 	|
+|Mappa usurata 								|
+|Cannocchiale 								|
 
-|Dwarf|
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)        |
-|Trowel |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
+|Nano|
+|-------------------------------------------|
+|Radice spinosa (d6) 						|
+|Cotta di Pigne (1 Armatura) 				|
+|Cazzuola 									|
+|Barattolo con Formiche della Foresta 		|
+|Fungo Velenoso 							|
+|Trapano a mano 							|
 
-|Elf|
+|Elfo|
 |-----------------------------------------|
-|Elegant Sword (d8)      |
-|Recurve Bow (d8) |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (Charm or Detect               |
-|Golden Flute                             |
-|Air Bladder                              |
+|Spada Elegante (d8) |
+|Arco Ricurvo (d8) |
+|Vestiti dorati (1 Armatura) |
+|Libro degli Incantesimi (Affascinare o Individuazione del Magico) |
+|Flauto d’oro |
+|Sacca d'Aria |
 
-|Fighter|
+|Guerriero|
 |-----------------------------------------|
-|Glaive (d10, bulky)      |
-| Scimitar (d8)        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Falcione (d10, ingombrante) |
+|Scimitarra (d8) |
+|Spada corta (d6) |
+|Sacchetto di tabacco e pipa |
+|Set di Dadi |
 
 |Friar|
 |-----------------------------------------|
-|Scepter (d6)                    |
-|Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water           |
-|Jug of Honey Wine               |
-|Folk Songbook                   |
-|Cart (+4  slots, bulky)         |
+|Scettro (d6) |
+|Abiti ingannevoli (+1 Armatura) |
+|Censiere e acqua santa |
+|Brocca di vino al miele |
+|Libretto di Canzoni |
+|Carretto (+4 slot, ingombrante) |
 
-| Knight                     |
+| Cavaliere	|
 | -------------------------- |
-| Longsword (d8, bulky)      |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1  Armor)         |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+|Spada lunga (d8, ingombrante) |
+|Cotta di Maglia (2 Armatura, ingombrante) |
+|Elmo (+1 Armatura) |
+|Mantello araldico |
+|Manette |
+|Corda sottile |
 
-|Magic User|
+|Incantatore|
 |-----------------------------------------|
-|Fizzled Staff (d8, bulky) |
-|Dagger (d6)  |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)         |
+|Bastone infuocato (d8, ingombrante) |
+|Pugnale (d6) |
+|Libro degli Incantesimi (incantesimo casuale) |
+|Libro degli Incantesimi (incantesimo casuale) |
+|Abbigliamento lacero (tasche nascoste) |
+|Cappelverde (x2, vedi Reliquie) |
 
-|Thief|
+|Ladro|
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+|Due pugnali (d6+d6) |
+|Farsetto con cappuccio (1 Armatura) |
+|Grimaldelli |
+|Triboli |
+|Rampino |
+|Lima di metallo |
 
 |Ranger|
 |-----------------------------------------|
-|Longbow (d8, bulky)             |
-|Hatchet (d6)                    |
-|Padded Leathers (1  Armor)      |
-|Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
-|Thundering Horn                 |
+|Arco lungo (d8, ingombrante) |
+|Accetta (d6) |
+|Cuoio Imbottito (1 Armatura) |
+|Trappola grande |
+|Segugio | 2 PF, 12 DES, morso (d6) |
+|Corno tonante |
 
 <p></p>
 
-## Rules
-**Abilities**  
-Each of the three **abilities** are used in different circumstances (see **saves** , below).
+## Regolamento
 
-**Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+### Abilità 
+Ciascuna delle tre **abilità** viene utilizzata in diverse circostanze (vedi **tiri salvezza**, sotto).
 
-**Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Forza (FOR)**: Usata per i tiri salvezza che richiedono forza fisica, come sollevare grate, piegare sbarre, resistere al veleno, ecc.
 
-**Willpower** (WIL): Used for saves to persuade,deceive,interrogate,intimidate, charm,provoke,manipulate spells,etc.
+**Destrezza (DES)**: Usata per i tiri salvezza che richiedono prontezza, velocità e riflessi, come schivare, arrampicarsi, muoversi silenziosamente, bilanciarsi, ecc.
 
-**Saves**  
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+**Volontà (VOL)**: Usata per i tiri salvezza per persuadere, ingannare, interrogare, intimidire, affascinare, provocare, manipolare incantesimi, ecc.
 
-**Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+### Tiri Salvezza
+Un tiro salvezza serve ad evitare esiti negativi da scelte e circostanze rischiose. I PG tirano un d20 relativo ad un punteggio di abilità. Se tirano un dado uguale o inferiore a quel punteggio di abilità, hanno successo. Altrimenti, falliscono. Un 1 è sempre un successo e un 20 è sempre un fallimento.
 
-**Deprivation &amp; Fatigue**  
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night&#39;s rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+**Esempio**: _Bea incontra un gruppo di Goblin armati pesantemente che fanno la guardia all’ingresso di un tunnel. Il suo giocatore pianifica attentamente un percorso, realizzando che il suo 13 DES fa sì che sgattaiolare oltre le guardie sia l’opzione migliore. Tira un d20, e il risultato è un 10 - un successo!_
 
-**Healing**  
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week&#39;s rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
+### Privazione e fatica
+Un PG carente di un bisogno essenziale (come il cibo o il riposo) non è in grado di recuperare PF o punteggi di abilità.
+Chiunque sia **esausto** per più di un giorno aggiunge **Fatica** al suo inventario, una volta al giorno. Ogni Fatica occupa uno slot e dura fino a quando non si è in grado di recuperare (come una notte intera di riposo in un luogo sicuro).
+I PG possono ottenere Fatica anche **lanciando incantesimi** o attraverso eventi narrativi.
 
-**Armor**  
-Before calculating damage to HP, subtract the target&#39;s **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### Guarigione
+Riposare per qualche istante e bere un po’ d’acqua ripristina la PF persa, ma lascia il gruppo esposto. La perdita di abilità può di solito essere ripristinata con una settimana di riposo facilitato da un guaritore o da un’altra competenza analoga. Alcuni di questi servizi possono essere gratuiti, mentre mezzi di recupero più convenienti o magici possono avere un costo.
 
-**Reactions**  
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Armatura  
+Prima di calcolare i danni sulla PF, sottrai dal risultato dei tiri di danno il valore di **Armatura** del bersaglio. Scudi e armature simili forniscono un bonus alla difesa (ad esempio +1 Armatura), ma solo mentre l’oggetto è impugnato o indossato.
+Nessuno può avere più di Armatura 3.
+Scudi, guanti d’arme ed elmi possono fornire ulteriori benefici a seconda del loro utilizzo.
+
+
+### Reazioni
+Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode può tirare 2d6 e consultare la seguente tabella:
 
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | :-----: | :--: | :-----: | :--: | ------- |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Ostile | Diffidente | Curioso | Gentile | Utile |
 
-**Morale**  
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader&#39;s WIL in place of their own. Lone foes must save when they&#39;re reduced to 0HP. Morale does not affect PCs.
+### Morale
+I nemici devono superare un tiro salvezza di VOL per evitare di fuggire quando subiscono la prima vittima e ancora quando perdono metà del loro numero. Alcuni gruppi possono usare la VOL del loro leader al posto della propria. Un nemico solitario deve effettuare un tiro salvezza quando è ridotto a 0PF. Il morale non ha effetto sui PG.
 
-**Hirelings**  
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Hirelings
+I PG possono assoldare dei **mercenari** per aiutarli nelle loro spedizioni. Per creare un mercenario, tira 3d6 per ogni punteggio di abilità, poi dagli 1d6 PF e un’arma semplice (d6), poi tira sulle tabelle **Creazione del Personaggio** per dargli ulteriore corpo. I mercenari costano da 1 a 3 po al giorno, o una parte del tesoro che il gruppo ottiene.
 
-**Wealth &amp; Treasure**  
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Ricchezza e Tesoro
+La moneta più comune è il pezzo d’oro (po), che equivale a 10 pezzi d’argento (pa) e 100 pezzi di rame (pr).
 
-Treasure is highly valuable, usually bulky,and rarely useful beyond its value.It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Il tesoro è molto prezioso, di solito ingombrante, e raramente utile al di là del suo valore. Può essere un’esca, conducendo i PG in luoghi esotici e persino pericolosi, ed è spesso sotto la protezione di nemici minacciosi.
 
-Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
-
-**Spellbooks &amp; Scrolls**  
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
-
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
-
-**Scrolls** are similar to Spellbooks, however:
-
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
-
-**Casting Spells**  
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can_enhance_a spell (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
-
-**Relics**  
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
-
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6&quot;tall. Recharge: place in a thimble-sized cup of royal jelly.
-
-**Falconer&#39;s Friend** , 1 charge. A bolt-shaped wand carrying the_Haste_spell. Recharge: fire from a crossbow and recover.
-
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
-
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
-
-## Combat
-
-**Rounds**  
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
-
-**Actions**  
-On their turn, a character may move up to 40ft and take up to one action. This may be_casting a spell, attacking, making a second move, or some other reasonable action.
-
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
-
-**Turns**  
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
-**Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-
-**Attacking &amp; Damage**  
-The attacker rolls their weapon die and subtracts the target&#39;s armor, then deals the remaining total to their opponent&#39;s HP. Unarmed attacks always do 1d4 damage.
-
-**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea&#39;s leather armor, leaving Bea with 2 HP remaining_.
-
-**Multiple Attackers**  
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
-
-**Attack Modifiers**  
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage_regardless_of the attacks damage die.
-
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced** , allowing the attacker to roll 1d12 damage instead of their normal die.
-
-**Dual Weapons**  
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
-
-**Blast**  
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
-
-**Scars**  
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
-
-**Critical Damage**  
-Damage that reduces a target&#39;s HP below zero decreases a target&#39;s STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
-
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
-
-**Ability Score Loss**  
-If a PC&#39;s STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
-
-**Unconsciousness &amp; Death**  
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
-
-**Detachments**  
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-
-Attacks against detachments by individuals are impaired (excluding blast damage).  
-Attacks against individuals by detachments are enhanced and deal blast damage.
-
-**Retreat**  
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
-
-**Scars**  
-When an attack reduces a PC&#39;s HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
-
-|      |                                                              |
-|------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+Villaggi, roccaforti e porti di approdo barattano e commerciano in base alla rarità e al valore locale di un oggetto o di una merce.
+rade based on the local rarity and value of an item or commodity.
 
 
+### Libri degli incantesimi e Pergamene
+I **Libri degli Incantesimi** contengono un singolo incantesimo e occupano uno slot. Non possono essere trascritti o creati; vengono invece ritrovati in luoghi come tombe, sotterranei e manieri.
 
-## Bestiary
+A volte i libri degli incantesimi presentano proprietà o limitazioni insolite, come produrre un odore ripugnante o ultraterreno quando vengono aperti, possedere un’intelligenza innata o essere leggibili solo se utilizzati al chiaro di luna.
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+I libri degli incantesimi attirano l’attenzione di coloro che cercano il potere arcano al loro interno, ed è considerato pericoloso mostrarli apertamente.
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim&#39;s soul (1d4 WIL damage).
+Le **Pergamene** sono simili ai libri degli incantesimi, tuttavia:
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a goodb one.
+- Non occupano uno slot dell’inventario.
+- Non causano fatica.
+- Scompaiono dopo un utilizzo.
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target&#39;s wounds.
+### Casting Spells
+Chiunque può lanciare un incantesimo tenendo un libro degli incantesimi in entrambe le mani e leggendo il suo contenuto ad alta voce. Si deve poi aggiungere una Fatica all’inventario, occupando uno slot. Con abbastanza tempo e sicurezza, i PG possono migliorare un incantesimo (ad esempio, colpendo più bersagli, aumentando il suo potere, ecc) senza alcun costo aggiuntivo. Se il PG è esausto o in pericolo, il Custode può richiedere al PG di effettuare un tiro salvezza VOL per evitare gli effetti negativi del lancio dell’incantesimo. Le conseguenze del fallimento sono alla pari con l’effetto desiderato, e possono risultare in una maggiore fatica, la distruzione del libro degli incantesimi, ferite e persino la morte.
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
-- Beautiful, amoral, andlong-lived.
-- Resistant to most forms ofmagic.
+### Reliquie
+Le **Reliquie** sono oggetti intrisi da un incantesimo o da un potere magico. Non causano Fatica. Le reliquie di solito hanno un uso limitato, così come una condizione di ricarica. Alcuni esempi:
 
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+- **Sigillo mieloso**, 3 cariche. Un anello arrugginito che rimpicciolisce il portatore a 15cm altezza. Ricarica: inserire in una tazza di pappa reale dalle dimensioni di un ditale.
+- **Amico del falconiere**, 1 carica. Una bacchetta a forma di dardo che permette di lanciare l’incantesimo Velocità. Ricarica: sparala da una balestra e recuperala.
+- **Bastone del Silenzio**, 1 carica. Questa bacchetta annerita disattiva temporaneamente tutta la magia nel raggio di 15 metri. Ricarica: immergiti nella luce della luna piena.
+- **Cappelverde**, 1 utilizzo. Chiunque ingerisca questo fungo dal colore verde perde una Fatica, ma deve poi effettuare un tiro salvezza in VOL per evitarne la dipendenza. Un fallimento rende il PG esausto e incapace di concentrarsi fino a quando non può mangiare un altro Cappelverde, fornendo solo una breve tregua dalla dipendenza.
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
 
-**Name**
-X HP, X Armor, X STR, X DEX, X WIL,
-Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+### Combattimoento
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It&#39;s a measure of resilience, luck, and gumption - not health.
+#### Round
+Il gioco in genere si svolge senza tener traccia del tempo in modo rigoroso. In un combattimento o in circostanze in cui il tempismo è utile, usa i round per tenere traccia di quando avviene qualcosa. Un **round** è all’incirca dieci secondi di tempo di gioco ed è composto da turni.
 
-**Converting from OSR Games**  
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+#### Actioni
+Nel suo turno, un personaggio può muoversi fino a 12 metri ed effettuare al massimo un’azione. Questa può essere il lancio di un incantesimo, un attacco, un secondo movimento o un’altra azione simile.
 
-Some pointers:  
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high WIL.
+Ogni turno, i PG dichiarano cosa stanno facendo prima del lancio dei dadi. Se un personaggio tenta qualcosa di rischioso, il Custode richiede un tiro salvezza per i giocatori o i PNG appropriati. Tutte le azioni, gli attacchi e i movimenti avvengono simultaneamente.
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+#### Turni
+Il Custode segnala le azioni più probabili intraprese dai PNG o dai mostri. All’inizio del combattimento, ogni PG deve effettuare un tiro salvezza di DES per agire prima dei suoi avversari.
 
-## 100 Spells
+**Esempio:** _Bea è finita per sbaglio nel territorio di caccia di un enorme Troll dei boschi. Per poter fare una mossa prima del Troll, effettua un tiro salvezza di DES. Fallisce, quindi il Troll attacca per primo._
 
-|      |                   |                                                              |
-| ---- | ----------------- | ------------------------------------------------------------ |
-| 1    | Adhere            | An object is covered in extremely sticky slime.              |
-| 2    | Anchor            | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | Animate Object    | An object obeys your commands as best it can.                |
-| 4    | Anthropomorphize  | An animal either gains human intelligence or human appearance for one day. |
-| 5    | Arcane Eye        | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | Astral Prison     | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | Attract           | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | Auditory Illusion | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | Babble            | A creature must loudly and clearly repeat everything you think It is otherwise mute. |
-| 10   | Bait Flower       | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | Beast Form        | You and your possessions transform into a mundane animal.    |
-| 12   | Befuddle          | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | Body Swap         | You switch bodies with a creature you touch If one body dies, the other dies as well. |
-| 14   | Charm             | A creature you can see treats you as a friend.               |
-| 15   | Comprehend        | You become fluent in all languages for a short while.        |
-| 16   | Command           | A target obeys a single three-word command that does not cause it harm. |
-| 17   | Cone of Foam      | Dense foam sprays from your hand, coating the target.        |
-| 18   | Control Plants    | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | Control Weather   | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | Cure Wounds       | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | Deafen            | All nearby creatures are deafened.                           |
-| 22   | Detect Magic      | You can see or hear nearby magical auras.                    |
-| 23   | Disassemble       | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | Disguise          | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
-| 25   | Displace          | An object appears to be up to 15ft from its actual position. |
-| 26   | Earthquake        | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | Elasticity        | Your body can stretch up to 10ft.                            |
-| 28   | Elemental Wall    | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | Filch             | A visible item teleports to your hands.                      |
-| 30   | Flare             | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | Fog Cloud         | A dense fog spreads out from you.                            |
-| 32   | Frenzy            | A nearby creature erupts in a frenzy of violence.            |
-| 33   | Gate              | A portal to a random plane opens.                            |
-| 34   | Gravity Shift     | You can change the direction of gravity, but only for yourself. |
-| 35   | Greed             | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | Haste             | Your movement speed is tripled.                              |
-| 37   | Hatred            | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | Hear Whispers     | You can hear faint sounds clearly.                           |
-| 39   | Hover             | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | Hypnotize         | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | Icy Touch         | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | Identify Owner    | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | Illuminate        | A floating light moves as you command.                       |
-| 44   | Invisible Tether  | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | Knock             | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | Leap              | You jump up to 10ft high, once.                              |
-| 47   | Liquid Air        | The air around you becomes swimmable .                       |
-| 48   | Magic Dampener    | All nearby magical effects have their effectiveness halved.  |
-| 49   | Manse             | A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
-| 50   | Marble Craze      | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | Masquerade        | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52   | Miniaturize       | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | Mirror Image      | An illusory duplicate of yourself appears and is under your control. |
-| 54   | Mirrorwalk        | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | Multiarm          | You temporarily gain an extra arm.                           |
-| 56   | Night Sphere      | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | Objectify         | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | Ooze Form         | You become a living jelly.                                   |
-| 59   | Pacify            | A creature near you has an aversion to violence.             |
-| 60   | Phobia            | A nearby creature becomes terrified of an object of your choice. |
-| 61   | Pit               | A pit 10ft wide and 10ft deep opens in the ground.             |
-| 62   | Primal Surge      | A creature rapidly evolves into a future version of its species. |
-| 63   | Push/Pull         | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | Raise Dead        | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | Raise Spirit      | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | Read Mind         | You can hear the surface thoughts of nearby creatures.       |
-| 67   | Repel             | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | Scry              | You can see through the eyes of a creature you touched earlier today. |
-| 69   | Sculpt Elements   | Inanimate material behaves like clay in your hands.          |
-| 70   | Sense             | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | Shield            | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | Shroud            | A creature you touch is invisible until they move.           |
-| 73   | Shuffle           | Two creatures you can see instantly switch places.           |
-| 74   | Sleep             | A creature you can see falls into a light sleep.             |
-| 75   | Slick             | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | Smoke Form        | Your body becomes a living smoke that you can control.  |
-| 77   | Sniff             | You can smell even the faintest traces of scents.            |
-| 78   | Snuff             | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | Sort              | Inanimate items sort themselves according to categories you set. |
-| 80   | Spectacle         | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | Spellsaw          | A whirling blade flies from your chest, clearing any plant material in its way It is otherwise harmless. |
-| 82   | Spider Climb      | You can climb surfaces like a spider.                        |
-| 83   | Summon Cube       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
-| 84   | Swarm             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
-| 85   | Telekinesis       | You may mentally 1 move item under 60lbs.                      |
-| 86   | Telepathy         | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | Teleport          | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | Target Lure       | An object you touch becomes the target of any nearby spell.  |
-| 89   | Thicket           | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | Summon Idol       | A carved stone statue the size of a mule rises from the ground. |
-| 91   | Time Control      | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | True Sight        | You see through all nearby illusions.                        |
-| 93   | Upwell            | A spring of seawater appears.                                |
-| 94   | Vision            | You completely control what a creature sees.                 |
-| 95   | Visual Illusion   | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | Ward              | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | Web               | Your wrists shoot thick webbing.                             |
-| 98   | Widget            | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | Wizard Mark       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | X-Ray Vision      | You can see through walls, dirt, clothing, etc.              |
+#### Attacco e Danni
+L’attaccante tira il dado della sua arma e sottrae l’armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario. I colpi senz’armi fanno sempre 1d4 danni.
+
+**Esempio:** _Il Troll dei boschi ruggisce, facendo roteare la sua clava contro Bea, che ha 5 PF. La clava fa 1d10 danni e il Custode tira un 4. Sottrae 1 per tenere conto dell’armatura di pelle di Bea, lasciando Bea con 2 PF rimanenti._
+
+#### Attaccanti Multipli
+Se più attaccanti colpiscono lo stesso nemico, tira tutti i dadi di danno e tieni il singolo risultato più alto.
+
+#### Modificatori di Attacco 
+Se si combatte da una posizione di svantaggio (come attraverso una copertura o con le mani legate), l’attacco è **compromesso** e l’attaccante deve tirare 1d4 danni indipendentemente dal dado di danno dell’attacco.
+
+Se si combatte da una posizione di vantaggio (come contro un nemico indifeso o con una manovra audace), l’attacco è **potenziato**, permettendo all’attaccante di tirare 1d12 danni invece del suo dado normale.
+
+#### Combattere con due Armi 
+Se attacchi con due armi allo stesso tempo, tira entrambi i dadi dei danni e tieni il risultato più alto.
+
+#### Scoppio  
+Gli attacchi con il descrittore **scoppio** colpiscono tutti i bersagli nell’area indicata, tirando separatamente per ogni personaggio colpito. Il termine scoppio si riferisce a qualsiasi cosa, dalle esplosioni agli imponenti assalti a colpi di fendenti o all’impatto di un meteorite. Se non sei sicuro di quanti bersagli possano essere colpiti, tira il relativo dado del danno per avere un risultato.
+
+#### Scars
+Quando un danno a un PG riduce la sua PF esattamente a 0, a volte viene danneggiato in modo irreversibile. Vedi **Cicatrici** per saperne di più.
+
+#### Danno Critico
+Il danno che riduce a zero la PF di un bersaglio diminuisce la sua FOR della quantità rimanente. Deve quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Inoltre, alcuni nemici hanno abilità o effetti speciali che si attivano quando il loro bersaglio fallisce un tiro salvezza per danni critici.
+
+Qualsiasi PG che subisce un danno critico non può fare altro che strisciare debolmente, aggrappandosi alla vita. Se gli viene dato aiuto e riposo, si stabilizzerà. Se non viene curato, muore entro un’ora.
+
+
+#### Perdita di Punti Abilità 
+Se la FOR di un PG è ridotta a 0, muore. Se la sua DES è ridotta a 0, è paralizzato. Se la sua VOL è ridotta a 0, delira.
+La perdita completa di DES e VOL rende il personaggio incapace di agire fino a quando non viene ristorata attraverso il riposo prolungato o con mezzi straordinari.  
+
+#### Perdita di coscienza e Morte
+Quando un personaggio muore, il giocatore è libero di creare un nuovo personaggio o prendere il controllo di un mercenario. Questi si uniscono immediatamente al party per ridurre i tempi morti.
+
+#### Formazione  
+Grandi gruppi di guerrieri simili che combattono insieme sono trattati come un’unica **formazione**. Quando una formazione subisce un danno critico, viene messo in rotta o indebolito significativamente. Quando raggiunge 0 FOR, viene distrutta.
+
+Attacchi contro le formazioni da parte di individui sono compromessi (esclusi i danni da scoppio).
+Attacchi contro gli individui da parte delle formazioni sono potenziati e infliggono danni da scoppio.
+
+#### Fuga
+Scappare da una situazione disastrosa richiede sempre un tiro salvezza di DES riuscito, oltre a una destinazione sicura verso cui fuggire.
+
+#### Cicatrici   
+Quando un attacco riduce la PF di un PG esattamente a 0, ne subisce l’impatto in modo particolare. Cerca il risultato sulla tabella sottostante in base al danno totale subito:
+
+|	|	|
+|---|---|
+|1	| Cicatrice permanente: Tira 1d6, 1: Collo, 2: Mani, 3: Occhio, 4: Petto, 5: Game, 6: Orecchio. Tira 1d6. Se il totale è maggiore della tua PF massima, tieni il nuovo risultato. |
+|2	| Colpo sferzante: Sei disorientato e scosso. Descrivi come recuperi la concentrazione. Tira 1d6. Se il totale è maggiore della tua PF massima, tieni il nuovo risultato. |
+|3	| Sbattuto: Vieni lanciato in volo e atterri a faccia in giù, senza fiato. Sei esausto finché non ti riposi per qualche ora. Poi, tira 1d6. Aggiungi questo valore alla tua PF massimo. |
+|4	| Arto Rotto: Tira 1d6, 1-2: Gamba, 3-4: Braccio, 5: Costola, 6: Cranio. Una volta guariti, tira 2d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
+|5	| Malato: Sei afflitto da una disgustosa e fastidiosa infezione. Quando la superi, tira 2d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
+|6	| Ferita alla Testa disorientante: Tira 1d6, 1-2: FOR, 3-4: DES, 5-6: VOL. Tira 3d6. Se il totale è superiore al tuo attuale punteggio di abilità, prendi il nuovo risultato. |
+|7	| Ostacolato: Riesci a malapena a muoverti finché non ricevi un aiuto adeguato e ti riposi. Dopo esserti ripreso, tira 3d6. Se il totale è superiore al tuo DES massima, prendi il nuovo risultato. |
+|8	| Assordato: Non riesci a sentire nulla finché non trovi un aiuto straordinario. In ogni caso, effettua un tiro salvezza di VOL. Se lo superi, aumenta il tuo VOL massimo di 1d4. |
+|9	| Traumatizzato: Una parte nascosta della tua psiche viene messa fuori gioco. Tira 3d6. Se il totale è superiore al tuo VOL massimo, prendi il nuovo risultato. |
+|10	| Abbattuto: Un'appendice è strappata, storpiata o inutile. Il Custode ti dirà quale. Poi, fai un tiro salvezza VOL. Se lo superi, aumenta il tuo VOL massimo di 1d6. |
+|11	| Ferita Mortale: Sei esaurito e fuori combattimento. Muori entro un'ora se non sei guarito. Al momento del recupero, tira 2d6. Tieni il nuovo risultato come tua PF massima. |
+|12	| Condannato: La morte sembrava così vicina, ma in qualche modo sei sopravvissuto. Se il tuo prossimo tiro salvezza contro danno critico è un fallimento, muori orribilmente. Se lo superi, tira 3d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
+
+
+## Bestiario
+
+**Goblin delle Radici**  
+4 PF, 8 FOR, 14 DES, 8 VOL, lancia (d6)
+- Evitano il combattimento a meno di essere in vantaggio (come la superiorità numerica)
+- Custodiscono i beni rubati fino alla morte.
+- Apprezzano i LIbri degli Incantesimi; disponibile a barattare.
+
+**Uomini incappucciati**
+12 PF, 9 FOR, 12 DES, 14 VOL, bastone di legno (d8), un Libro degli Incantesimi (Scegli uno: Affascinare, Ipnotizzare, Spingere/Tirare, Scudo)
+- Gli Osservatori del Bosco; un culto che trae il suo potere dalle ley line, dalle pietre runiche e simili.
+- Danno critico: prosciuga una parte dell'anima della vittima (1d4 VOL danno).
+
+**Segugi di pietra**
+12 PF, 2 Armatura, 14 FOR, 1 DES, 8 VOL, morso (d10)
+- Costrutti immobili tipicamente usati come guardiani di grandi tombe o artefatti.
+- Indifferenti alle tecniche di persuasione ordinarie - ma amano un bell’osso.
+
+**Troll dei Boschi**
+12 PF, 15 FOR, 12 DES, 7 VOL, artigli e morso (d8+d8 scoppio)
+- Come azione, può recuperare i PF persi.
+- Danno critico: muschio e ramoscelli iniziano a crescere dalle ferite del bersaglio.
+
+**Elfo del Gelo**
+14 PF, 1 Armatura, 8 FOR, 13 DES, 14 VOL, pugnale di ghiaccio (d6), un libro degli incantesimi (Scegli uno: Sonno, Teletrasporto, Individuazione del Magico)
+- Bello, amorale e longevo.
+- Resistente alla maggior parte delle forme di magia.
+
+**Boggart**
+3 PF, 4 FOR, 17 DES, 13 VOL
+- Un imbroglione selvaggio e peloso che prova piacere nell'essere una piccola peste.
+- Privilegia le reliquie e i gingilli luccicanti sopra ogni cosa, ma non è disposto a scambiarli per denaro.
+- I Boggart hanno nomi che descrivono la loro vera natura. Conoscere il loro vero nome permette di controllare un Boggart.
+
+### Creare Mostri
+Usa il seguente template per modellare qualsiasi Mostro o PNG più sofisticato:
+
+**Nome**
+X PF, X Armatura, X FOR, X DES, X VOL,
+Arma (dX, oggetti speciali, qualità)
+- Descrittore coinvolgente dell’aspetto o atteggiamento.
+- Stranezza, tattica o peculiarità che rende unico questo PNG
+- Effetto speciale o conseguenza del danno critico
+
+#### Principi Generali
+Punteggi di abilità: 3 è carente, 6 è debole, 10 è medio, 14 è notevole e 18 è leggendario. Aggiustare secondo necessità.
+- Dai alle creature normali 3 PF, a quelle resistenti 6 PF, e alle minacce serie 10+ PF.
+- Usate carattere e stile per aiutarle a distinguersi. I giocatori ricorderanno più facilmente un umanoide con la faccia da maiale che cerca la sua pecora mancante che un generico arciere goblin.
+- Usate il danno critico per far risaltare la minaccia o l’unicità di qualsiasi PNG aggressivo.
+- Ricordate che PF è Protezione dalle Ferite , non Punti ferita. È una misura di resilienza, fortuna e grinta, non di salute.
+
+
+#### Converting from OSR Games
+- Dai 1 PF per DV (Dado Vita) alla maggior parte delle creature.
+- La maggior parte degli umanoidi ha almeno 4PF.
+- Il **Morale** può anche essere usato come valore di base.
+
+Alcune indicazioni:
+- È bravo a evitare un colpo? Dategli PF.
+- Assorbe i danni? Dategli un’armatura.
+- È forte? Dagli una **FOR** alta.
+- È agile? Dagli una **DES** alta.
+- È carismatico? Dagli una **VOL** alta.
+
+Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno almeno 1d6 danni.
+
+
+## 100 Incantesimi
+
+|  |  |
+| --- | --- | --- |
+| 1    | Adesione | Un oggetto è coperto di melma estremamente appiccicosa.|
+| 2    | Ancora | Un filo robusto spunta dalle tue braccia, fissandosi a due punti nel raggio di metri su ogni lato.|
+| 3    | Animare Oggetto | Un oggetto obbedisce ai tuoi comandi al meglio delle sue possibilità.|
+| 4    | Antropomorfismo | Un animale ottiene l’intelligenza umana o l’aspetto umano per un giorno.|
+| 5    | Occhio Arcano | Puoi vedere attraverso un bulbo oculare magico galleggiante che vola in giro al tuo comando.|
+| 6    | Prigione astrale | Un oggetto è congelato nel tempo e nello spazio all’interno di un guscio di cristallo invulnerabile.|
+| 7    | Attrarre | Due oggetti sono fortemente attratti magneticamente l’uno dall’altro se si trovano a pochi metri.|
+| 8    | Illusione sonora | Crei dei suoni illusori che sembrano provenire da una direzione a tua scelta.|
+| 9    | Blaterare | Una creatura deve ripetere ad alta voce e chiaramente tutto ciò che pensi, altrimenti è muta.|
+| 10   | Esca Fiore | Una pianta spunta dal terreno ed emana l’odore della carne in decomposizione.|
+| 11   | Forma Bestiale | Tu e i tuoi averi vi trasformate in un animale comune.|
+| 12   | Confusione | Una creatura a tua scelta non è in grado di formare nuovi ricordi a breve termine per la durata dell’incantesimo.|
+| 13   | Scambio di corpi | Scambi il corpo con una creatura che tocchi. Se un corpo muore, muore anche l’altro.|
+| 14   | Affascinare | Una creatura che puoi vedere ti tratta come un amico.|
+| 15   | Comprensione | Diventi fluente in tutte le lingue per un breve periodo.|
+| 16   | Comando | Un bersaglio obbedisce a un singolo comando di tre parole che non lo danneggia.|
+| 17   | Cono di Schiuma | La schiuma densa spruzza dalla tua mano, ricoprendo il bersaglio.|
+| 18   | Controllare Piante | Le piante e gli alberi vicini ti obbediscono e acquisiscono la capacità di muoversi a passo lento.|
+| 19   | Controllare Tempo Atmosferico | Puoi alterare il tipo di condizione atmosferica a tuo piacimento, ma non lo controlli in altro modo.|
+| 20   | Cura Ferite | Ristora 1d4 FOR al giorno a una creatura che puoi toccare.|
+| 21   | Assordare | Tutte le creature vicine sono assordate.|
+| 22   | Individuazione del Magico | Puoi vedere o sentire le aure magiche vicine.|
+| 23   | Smontare | Qualsiasi parte del tuo corpo può essere staccata e riattaccata a volontà, senza causare dolore o danni.|
+| 24   | Camuffamento | Puoi alterare l’aspetto di un personaggio a volontà, purché rimanga umanoide. I tentativi di duplicare altri personaggi appariranno strani.|
+| 25   | Dislocare | Un oggetto sembra essere fino a 4,5m dalla sua posizione reale.|
+| 26   | Terremoto | Il terreno inizia a tremare violentemente. Le strutture possono subire danni o crollare.|
+| 27   | Elasticità | Il tuo corpo può allungarsi fino a 3 metri.|
+| 28   | Muro Elementale | Un muro di ghiaccio o di fuoco lungo 15 metri e alto 3 metri si innalza dal terreno.|
+| 29   | Gazza | Un oggetto visibile si teletrasporta nelle tue mani.|
+| 30   | Bagliore | Una sfera luminosa di energia proietta una scia di luce nel cielo, rivelando la tua posizione ad amici o nemici.|
+| 31   | Nube di Nebbia | Una densa nebbia si diffonde da te.|
+| 32   | Frenesia | Una creatura vicina esplode in una frenesia di violenza.|
+| 33   | Portale | Si apre un portale verso un piano casuale.|
+| 34   | Inversione di gravità | Puoi cambiare la direzione della gravità, ma solo per te.|
+| 35   | Avidità | Una creatura sviluppa il desiderio irrefrenabile di possedere un oggetto visibile a tua scelta.|
+| 36   | Velocità | La tua velocità di movimento è triplicata.|
+| 37   | Odio | Una creatura sviluppa un odio profondo verso un’altra creatura o un gruppo e desidera distruggerli.|
+| 38   | Ascoltare i Sussurri | Si possono udire chiaramente suoni deboli.|
+| 39   | Levitazione | Un oggetto che si libra, senza attrito, a 60 cm dal suolo. Può sostenere fino a un umanoide.|
+| 40   | Ipnotizzare | Una creatura entra in trance e risponderà sinceramente a una domanda con un sì o un no.|
+| 41   | Tocco gelido | Uno spesso strato di ghiaccio si estende su una superficie toccata, fino a 3 metri di raggio.|
+| 42   | Identifica Proprietario | Sull’oggetto che tocchi appaiono delle lettere che indicano il nome dei proprietari dell’oggetto, se ce ne sono.|
+| 43   | Illuminare | Una luce fluttuante si muove al tuo comando.|
+| 44   | Legame Invisibile | Due oggetti entro 3 metri l’uno dall’altro non possono essere spostati a più di 3 metri di distanza.|
+| 45   | Bussare | Una serratura ordinaria o magica nelle vicinanze si sblocca rumorosamente.|
+| 46   | Balzo | Salti in alto fino a 3 metri, una volta.|
+| 47   | Aria Liquida | L’aria attorno a te rende possibile nuotarci dentro.|
+| 48   | Smorzatore Magico | Tutti gli effetti magici nelle vicinanze sono dimezzati nella loro efficacia.|
+| 49   | Maniero | Un cottage robusto e arredato appare per ore. Puoi permettere e proibire l’ingresso ad esso a volontà.|
+| 50   | Mania delle biglie | Le tue tasche sono piene di biglie e si riempiono nuovamente ogni secondo.|
+| 51   | Mascherata | L’aspetto e la voce di un personaggio diventano identici a quelli di un personaggio che si tocca.|
+| 52   | Miniaturizzare | Una creatura che tocchi si rimpicciolisce fino alle dimensioni di un topo.|
+| 53   | Immagine speculare | Appare un tuo duplicato illusorio sotto il tuo controllo.|
+| 54   | Passaspecchi | Uno specchio diventa un passaggio per un altro specchio in cui hai guardato oggi.|
+| 55   | Multibraccio | Guadagni temporaneamente un braccio in più.|
+| 56   | Sfera notturna | Una sfera di oscurità larga 15 metri raffigurante il cielo notturno appare davanti a voi.|
+| 57   | Oggettivare | Diventi un qualsiasi oggetto inanimato tra le dimensioni di un pianoforte a coda e una mela.|
+| 58   | Forma Melmosa | Diventi una gelatina vivente.|
+| 59   | Pacificare | Una creatura vicina a te ha un’avversione per la violenza.|
+| 60   | Fobia | Una creatura vicina diventa terrorizzata da un oggetto a tua scelta.|
+| 61   | Fossa | Nel terreno si apre una fossa larga 3 metri e profonda 3 metri.|
+| 62   | Impulso primordiale | Una creatura si evolve rapidamente in una versione futura della sua specie.|
+| 63   | Spingere/Tirare | Un oggetto di qualsiasi dimensione viene tirato direttamente verso di voi o spinto direttamente via da voi con la forza di un uomo.|
+| 64   | Animare i Morti | Uno scheletro emerge dalla terra per servirti. Sono incredibilmente stupidi e possono solo obbedire a ordini semplici.|
+| 65   | Animare lo Spirito | Lo spirito di un cadavere vicino si manifesta e risponderà a 1 domanda.|
+| 66   | Leggere la Mente | Puoi sentire i pensieri superficiali delle creature vicine.|
+| 67   | Repulsione | Due oggetti sono fortemente respinti magneticamente l’uno dall’altro nel raggio di 3 metri.|
+| 68   | Divinazione | Puoi vedere attraverso gli occhi di una creatura che hai toccato prima.|
+| 69   | Scolpire Elementi | Il materiale inanimato si comporta come l’argilla nelle tue mani.|
+| 70   | Percepire Oggetto | Scegli un tipo di oggetto (chiave, oro, freccia, brocca, ecc.). Puoi avvertire l’esempio più vicino.|
+| 71   | Scudo | Una creatura che tocchi è protetta dagli attacchi ordinari per un minuto.|
+| 72   | Velo | Una creatura che tocchi è invisibile finché non si muove.|
+| 73   | Scambio | Due creature che riesci a vedere si scambiano istantaneamente di posto.|
+| 74   | Sonno | Una creatura che puoi vedere cade in un sonno leggero.|
+| 75   | Viscido | Ogni superficie nel raggio di 9 metri diventa estremamente scivolosa.|
+| 76   | Forma di Fumo | Il tuo corpo diventa fumo vivente che puoi controllare.|
+| 77   | Fiuto |  Si possono sentire anche le più deboli tracce di odore.|
+| 78   | Snuff | La fonte di qualsiasi luce ordinaria che puoi vedere si spegne all’istante.|
+| 79   | Ordinare |Gli oggetti inanimati si ordinano secondo le categorie che hai impostato.|
+| 80   | Spettacolo |  Appare un’illusione a tua scelta, chiaramente falsa ma impressionante, sotto il tuo controllo. Può essere grande come un palazzo e ha pieno movimento e suono.|
+| 81   | Lama Incantata | Una lama rotante vola dal tuo petto, eliminando qualsiasi materiale vegetale sul suo cammino. A parte questo, è innocua.|
+| 82   | Movimenti del Ragno |Puoi arrampicarti sulle superfici come un ragno.|
+| 83   | Evoca Cubo | Una volta al secondo puoi evocare o bandire un cubo di terra largo 1 metro. I nuovi cubi devono essere attaccati alla terra o ad altri cubi.|
+| 84   | Sciame |  Diventi uno stormo di corvi, uno sciame di ratti o un branco di piranha. Puoi essere danneggiato solo da attacchi di scoppio.|
+| 85   | Telecinesi |Puoi spostare mentalmente un oggetto sotto i 27 kg.|
+| 86   | Telepatia | Due creature possono sentire i pensieri gli uni degli altri, non importa quanto siano distanti.|
+| 87   | Teletrasporto | Un oggetto o una persona che puoi vedere viene trasportato da un posto all’altro in un raggio di 15 metri.|
+| 88   | Esca Bersaglio | Un oggetto che tocchi diventa il bersaglio di qualsiasi incantesimo vicino.|
+| 89   | Boscaglia |  Una boscaglia di alberi e cespugli densi fino a 15 metri di larghezza spunta all’improvviso.|
+| 90   | Evoca Idolo | Una statua di pietra scolpita delle dimensioni di un mulo emerge dal terreno.|
+| 91   | Controllare il Tempo | All’interno di una bolla di 15 metri il tempo rallenta o aumenta del 10% per 30 secondi.|
+| 92   | Visione del Vero |Vedi attraverso tutte le illusioni vicine.|
+| 93   | Risalita | Appare una sorgente di acqua di mare.|
+| 94   | Visione | Controlli completamente ciò che una creatura vede.|
+| 95   | Illusione visiva |  Appare un’illusione silenziosa, immobile e grande come una stanza, a tua scelta.|
+| 96   | Sigillo | Sul terreno appare un cerchio d’argento di 15 metri di diametro. Scegli una specie che non può attraversarlo.|
+| 97   | Ragnatela | I tuoi polsi possono lanciare ragnatele spesse.|
+| 98   | Congegno | Una versione primitiva di uno strumento o di un oggetto disegnato appare davanti a voi e scompare dopo poco tempo. |
+| 99   | Marchio del Mago | Il tuo dito può lanciare un flusso di vernice color ulfire. La vernice è visibile solo a te e può essere vista a qualsiasi distanza, anche attraverso oggetti solidi|
+| 100  | Vista a Raggi-XP | uoi vedere attraverso i muri, la terra, i vestiti, ecc.|
 
 <p></p>
 
-# Rules Summary
+# Riassunto delle Regole
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+## Azioni**  
+Nel proprio turno, un personaggio può muoversi fino a 12 metri e compiere un’azione. Le azioni possono includere lanciare un incantesimo, attaccare, fare un secondo movimento o altre azioni simili. Azioni, attacchi e movimenti avvengono simultaneamente. Ogni volta che l’ordine del turno è incerto, i PG dovrebbero fare un tiro salvezza di DES per vedere se vanno prima dei loro nemici. 
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+**Ritirarsi** da una situazione pericolosa richiede sempre un tiro salvezza DES riuscito, oltre a una destinazione sicura verso cui correre.
 
-**ABILITIES**  
-**STR:** Brawn, prowess &amp; resistance.   
-**DEX:** Dodging, sneaking &amp; reflexes.   
-**WIL:**  Persuasion, intimidation &amp; magic.
+## Abilità
+**FOR**: Forza bruta, prodezza e resistenza.
+**DES**: Schivare, furtività e riflessi.
+**VOL**: Persuasione, intimidazione e magia.
 
-**SAVES**  
-- Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+## Tiri Salvezza
+- Tira 1d20 uguale o inferiore a un’abilità.
+- 1 è sempre un successo, 20 è sempre un fallimento.
 
-**HIT PROTECTION**  
-**HP** indicates a PC&#39;s ability to avoid getting hurt. It is lost during combat &amp; recovered after a few moment&#39;s rest.
+## Protezione dalle Ferite  
+**PF** indica la capacità di un PG di evitare di farsi male. Si perde durante il combattimento e si recupera dopo qualche istante di riposo.
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+## Inventario  
+I PG hanno 10 slot di inventario: quattro sul corpo e sei nello zaino (che funge da sacco a pelo se svuotato). La maggior parte degli oggetti occupano uno slot, ma gli oggetti più piccoli possono essere raggruppati. Gli oggetti ingombranti occupano due slot e sono scomodi o difficili da trasportare.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts &amp; horses may provide an increase in slots.
+Riempire tutti e dieci gli slot degli oggetti riduce un PG a 0 PF. I PG non possono trasportare più di quanto il loro inventario permetta, anche se i carretti e i cavalli possono fornire un aumento degli slot.
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+## Privazione
+I PG **Esausti** non possono recuperare PF. Se esausti per più di un giorno, aggiungono una **Fatica** all’inventario. La fatica occupa uno slot e dura finché si può riposare in sicurezza. Questo effetto è cumulativo.
 
-**HEALING**  
-A moment&#39;s rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week&#39;s rest and the aid of a skilled healer.
+## Guarire
+Un momento di riposo e un sorso d’acqua ripristinano la PF persi, ma possono lasciare il gruppo vulnerabile. La perdita di **Abilità** richiede una settimana di riposo e l’aiuto di un guaritore esperto.
 
-**SPELLBOOKS**
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC&#39;s inventory.
+## Libri degli Incantesimi
+I libri degli incantesimi contengono un singolo incantesimo e occupano uno slot oggetto. Chiunque può lanciare un incantesimo tenendo un libro degli incantesimi in entrambe le mani e leggendone il contenuto ad alta voce. Lanciare un incantesimo aggiunge Fatica all’inventario del PG.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+Dati tempo e sicurezza, i PG possono migliorare un incantesimo senza alcun costo aggiuntivo. Se sono esausti o in pericolo, può essere richiesto un tiro salvezza VOL per evitare conseguenze terribili.
 
-**COMBAT**  
-The attacker rolls their weapon die and subtracts the target&#39;s Armor, then deals the remaining total to their opponent&#39;s HP.
+## Combattimento
+L’attaccante tira il dado della sua arma e sottrae l’Armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario.
 
-Before calculating damage to HP, subtract the target&#39;s **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Prima di calcolare i danni alla PF, si sottrae il valore dell’Armatura del bersaglio dal risultato dei tiri di dado. Scudi e armature simili forniscono un bonus alla difesa (ad esempio +1 Armatura), ma solo mentre l’oggetto è tenuto o indossato.
 
-No one can have more than 3 Armor.
+Nessuno può avere più di Armatura 3.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damaged ice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+I **colpi senz’armi** fanno sempre 1d4 danni. Se **attaccanti multipli** bersagliano lo stesso nemico, tira tutti i dadi danno e tieni il singolo risultato più alto. Se si **attacca con due armi** contemporaneamente, tira entrambi i dadi danno e tieni il più alto.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced** , the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+Se un attacco è **compromesso**, il dado di danno è ridotto a 1d4, indipendentemente dall’arma. Se l’attacco è **potenziato**, l’attaccante tira 1d12. Gli attacchi con la qualità **scoppio** colpiscono tutti i bersagli ad area, tirando separatamente per ognuno.
 
-**DAMAGE**  
-If an attack takes a PC&#39;s HP exactly to 0, the player rolls on the **Scars** table.
+## Danno
+Se un attacco porta la PF di un PG esattamente a 0, il giocatore tira sulla tabella **Cicatrici**.
 
-Damage that reduces a target&#39;s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+I danni che riducono la PF di un bersaglio **sotto** 0 diminuiscono del valore rimanente la sua FOR. Devono quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Il fallimento li mette fuori combattimento e, se non curati, muoiono. 
 
-Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+Avere FOR 0 significa **morte**; avere DES 0 è **paralisi**; avere VOL 0 è **delirio**.
