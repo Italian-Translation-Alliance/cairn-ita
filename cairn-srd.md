@@ -6,8 +6,6 @@ nav_order: 2
 
 # Cairn System Reference Document
 
-
-
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 - [repo in lingua originale](https://github.com/yochaigal/cairn)
@@ -45,8 +43,6 @@ Sia il Custode che i giocatori hanno delle linee guida che aiutano a promuovere 
 
 ### Obiettivi Condivisi
 I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambientazione condivisa, negli obiettivi dei personaggi e nelle sfide di gruppo. Per questo motivo, solitamente il gruppo lavora di squadra verso un obiettivo comune.
-
-
 
 ## Principi per i Custodi
 ### Informationi
@@ -94,7 +90,6 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - A volte vorrai un elemento di casualità (ad esempio per il tempo atmosferico, per conoscenze uniche del personaggio, ecc.)
 - In queste situazioni, tira 1d6. Un risultato di 4 o più generalmente favorisce i giocatori.
 - Un lancio di 3 o meno tende a rappresentare sfortuna per i PG o i loro alleati.
-
 
 ## Principi per i Giocatori
 ### Libertà d’azione
@@ -217,7 +212,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 ### Tratti del Personaggio (d10)
 
 #### Fisico
-|  |	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Atletico 		| 6    | Gracile    |
 | 2	| Muscoloso   	| 7    | Basso		|
@@ -226,7 +221,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Massiccio   	| 10   | Imponente	|
 
 #### Pelle
-|  |	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Voglia  	| 6    | Morbida	|
 | 2	| Scura 	| 7    | Liscia		|
@@ -235,7 +230,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Rosea     | 10   | Segnata 	|
 
 #### Capelli
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Calvo			| 6    | Lunghi		|
 | 2	| Intrecciati	| 7    | Voluminosi	|
@@ -244,7 +239,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Crespi  		| 10   | Sparsi     |
 
 #### Faccia
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Ossuta	| 6    | Perfetta  	|
 | 2	| Rotta    	| 7    | da Topo 	|
@@ -253,7 +248,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Pallida	| 10   | Infossata  |
 
 #### Parlata
-|	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Schietta		| 6    | Greve   		|
 | 2	| Profonda		| 7    | Precisa    	|
@@ -263,7 +258,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Vestito
 
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Antico 		| 6    | Logoro 	|
 | 2	| Insanguinato  | 7    | Sgargiante |
@@ -273,7 +268,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Virtù
 
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Ambizioso   	| 6    | Onorevole 			|
 | 2	| Cauto    		| 7    | Umile    			|
@@ -283,7 +278,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Vizio
 
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Aggressivo 	| 6    | Pigro     		|
 | 2	| Scorbutico	| 7    | Nervoso  		|
@@ -293,7 +288,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Reputation
 
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Ambizioso   		| 6    | Fannullone    	|
 | 2	| Zoticone        	| 7    | Eccentrico   	|
@@ -303,7 +298,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Sfortune
 
-| 	|	|	|	|
+|||||
 |---|---|---|---|
 | 1	| Abbandonato   | 6		| Truffato   	|
 | 2	| Assuefatto    | 7		| Declassato	|
@@ -320,14 +315,14 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |||||
 | :---: | :---: | :---: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| Nessuna  | Brigantina | Cotta di Maglia | Piastre |
+| Nessuna | Brigantina | Cotta di Maglia | Piastre |
 
 #### Elmi e Scudi
 
 |||||
 | :---: | :---: | :---: | :---: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       Nessuna        | Elmo | Scudo | Elmo e Scudo |
+| Nessuna | Elmo | Scudo | Elmo e Scudo |
 
 #### Armi
 
@@ -346,7 +341,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4  |Catena (3m) 					|9  |Trappola grande 	|
 |5  |Bastone da rabdomante			|10 |Grimaldelli  		|
 
-#### Attrezzi
+#### Attrezzi
 
 |||||
 |---|---|---|---|
@@ -369,7 +364,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Oggetto bonus (tira sulla tabella indicata)
 
 | 1-5 | 6-13 | 14-17 | 18-20 |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
 
 
@@ -411,7 +406,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Armature
 
 |||
-|---|---|---|
+|---|---|
 |Scudo (+1 Armatura)   						|10   |
 |Elmo (+1 Armatura)    						|10   |
 |Farsetto (+1 Armatura)  					|15   |
@@ -422,7 +417,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Armi
 
 |||
-|---|---|---|
+|---|---|
 |Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)   						|5    |
 |Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)    						|10   |
 |Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, ingombrante)  	|20   |
@@ -464,13 +459,10 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Scala (ingombrante, 3m)           	|10	|Carro  (+8 slot, lento) 			|200|
 |Lanterna e Olio                   	|10	|Aconito       						|10	|
 
-
-
-
 ### Pacchetti opzionali di Equipaggiamento
 
 |Rabdomante|
-|-----------------------------------------|
+|---|
 |Falcetto (d6) 								|
 |Farsetto Patchwork (+1 Armatura) 			|
 |Bastone da Rabdomante 						|
@@ -479,7 +471,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Cannocchiale 								|
 
 |Nano|
-|-------------------------------------------|
+|---|
 |Radice spinosa (d6) 						|
 |Cotta di Pigne (1 Armatura) 				|
 |Cazzuola 									|
@@ -488,7 +480,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Trapano a mano 							|
 
 |Elfo|
-|-----------------------------------------|
+|---|
 |Spada Elegante (d8) |
 |Arco Ricurvo (d8) |
 |Vestiti dorati (1 Armatura) |
@@ -497,15 +489,15 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Sacca d'Aria |
 
 |Guerriero|
-|-----------------------------------------|
+|---|
 |Falcione (d10, ingombrante) |
 |Scimitarra (d8) |
 |Spada corta (d6) |
 |Sacchetto di tabacco e pipa |
 |Set di Dadi |
 
-|Friar|
-|-----------------------------------------|
+|Frate|
+|---|
 |Scettro (d6) |
 |Abiti ingannevoli (+1 Armatura) |
 |Censiere e acqua santa |
@@ -549,7 +541,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Segugio | 2 PF, 12 DES, morso (d6) |
 |Corno tonante |
 
-
+---
 
 ## Regolamento
 
@@ -579,7 +571,6 @@ Riposare per qualche istante e bere un po’ d’acqua ripristina la PF persa, m
 Prima di calcolare i danni sulla PF, sottrai dal risultato dei tiri di danno il valore di **Armatura** del bersaglio. Scudi e armature simili forniscono un bonus alla difesa (ad esempio +1 Armatura), ma solo mentre l’oggetto è impugnato o indossato.
 Nessuno può avere più di Armatura 3.
 Scudi, guanti d’arme ed elmi possono fornire ulteriori benefici a seconda del loro utilizzo.
-
 
 ### Reazioni
 Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode può tirare 2d6 e consultare la seguente tabella:
@@ -656,22 +647,21 @@ Se si combatte da una posizione di svantaggio (come attraverso una copertura o c
 
 Se si combatte da una posizione di vantaggio (come contro un nemico indifeso o con una manovra audace), l’attacco è **potenziato**, permettendo all’attaccante di tirare 1d12 danni invece del suo dado normale.
 
-#### Combattere con due Armi 
+#### Combattere con due Armi 
 Se attacchi con due armi allo stesso tempo, tira entrambi i dadi dei danni e tieni il risultato più alto.
 
-#### Scoppio  
+#### Scoppio  
 Gli attacchi con il descrittore **scoppio** colpiscono tutti i bersagli nell’area indicata, tirando separatamente per ogni personaggio colpito. Il termine scoppio si riferisce a qualsiasi cosa, dalle esplosioni agli imponenti assalti a colpi di fendenti o all’impatto di un meteorite. Se non sei sicuro di quanti bersagli possano essere colpiti, tira il relativo dado del danno per avere un risultato.
 
-#### Scars
+#### Scars
 Quando un danno a un PG riduce la sua PF esattamente a 0, a volte viene danneggiato in modo irreversibile. Vedi **Cicatrici** per saperne di più.
 
-#### Danno Critico
+#### Danno Critico
 Il danno che riduce a zero la PF di un bersaglio diminuisce la sua FOR della quantità rimanente. Deve quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Inoltre, alcuni nemici hanno abilità o effetti speciali che si attivano quando il loro bersaglio fallisce un tiro salvezza per danni critici.
 
 Qualsiasi PG che subisce un danno critico non può fare altro che strisciare debolmente, aggrappandosi alla vita. Se gli viene dato aiuto e riposo, si stabilizzerà. Se non viene curato, muore entro un’ora.
 
-
-#### Perdita di Punti Abilità 
+#### Perdita di Punti Abilità 
 Se la FOR di un PG è ridotta a 0, muore. Se la sua DES è ridotta a 0, è paralizzato. Se la sua VOL è ridotta a 0, delira.
 La perdita completa di DES e VOL rende il personaggio incapace di agire fino a quando non viene ristorata attraverso il riposo prolungato o con mezzi straordinari.  
 
@@ -878,7 +868,7 @@ Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno al
 | 99   | Marchio del Mago | Il tuo dito può lanciare un flusso di vernice color ulfire. La vernice è visibile solo a te e può essere vista a qualsiasi distanza, anche attraverso oggetti solidi|
 | 100  | Vista a Raggi-XP | uoi vedere attraverso i muri, la terra, i vestiti, ecc.|
 
-
+---
 
 # Riassunto delle Regole
 
