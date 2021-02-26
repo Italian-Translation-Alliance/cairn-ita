@@ -10,8 +10,8 @@ nav_order: 2
 
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-- [repo in lingua inglese](https://github.com/yochaigal/cairn)
-- [repo in lingua italiana](https://github.com/idolofmanyhands/cairn-ita)
+- [repo in lingua originale](https://github.com/yochaigal/cairn)
+- [repo italiana](https://github.com/idolofmanyhands/cairn-ita)
 - puoi scaricare il gioco in lingua originale da [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) o da [itch.io](https://yochaigal.itch.io/cairn)
 - altri [formati](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluso Word, Affinity, Google Docs, ecc).
 
@@ -334,7 +334,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | Pugnale, Randello, Bastone | Spada, Mazza, Ascia | Arco lungo, Balestra, Fionda | Alabarda, Martello da Guerra, Ascia da Guerra |
 
 #### Equipaggiamento da Spedizione
-| |	|	|	|
+|	|	|	| 	|
 |---|---|---|---|
 |1  |Sacca d'Aria 					|6  |Olio di fuoco		|
 |2  |Antitossina  					|7  |Rampino 			|
@@ -343,8 +343,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Bastone da rabdomante			|10 |Grimaldelli  		|
 
 #### Attrezzi
-
-| 	|	|	|	|
+|	|	|	| 	|
 |---|---|---|---|
 |1  |Soffietto	|6  |Pentole  			|
 |2  |Secchio	|7  |Piede di Porco    	|
@@ -352,8 +351,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4  |Gessetto	|9  |Canna da pesca 	|
 |5  |Cesello	|10 |Colla       		|
 
-#### Chincaglierie
-| 	|	|	|	|
+#### Chincaglierie
+|	|	|	| 	|
 |---|---|---|---|
 |1  |Bottiglia     		|6  |Corno 		|
 |2  |Mazzo di carte  	|7  |Incenso    |
@@ -362,7 +361,6 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Gioielli falsi 	|10 |Biglie    	|
 
 #### Oggetto bonus (tira sulla tabella indicata)
-
 | 1-5 | 6-13 | 14-17 | 18-20 |
 | :--- | :--- | :--- | :--- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
@@ -370,7 +368,6 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 
 ### Libri degli Incantesimi (d100)
-
 |||||||||
 |---|---|---|---|---|---|---|---|
 |1  |Adesione						|26 | Terremoto					|51 | Mascherata			|76 |Forma di Fumo 			|
