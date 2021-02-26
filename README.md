@@ -5,14 +5,15 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall.
+Cairn è un [gioco d'avventura](http://questingblog.com/adventure-game-vs-osr) sull'esplorazione di un Bosco oscuro e misterioso pieno di gente strana, tesori nascosti e mostruosità indicibili. La creazione del personaggio è veloce e casuale, senza classi, e si basa sull'avanzamento narrativo al posto PE (punti esperienza) o livelli. Si basa su [Knave](https://www.drivethrurpg.com/product/250888/Knave) di Ben Milton e [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) di Chris McDowall.
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
+La versione PDF è disponibile gratuitamente su [Itch.io](https://yochaigal.itch.io/cairn) e [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
+Il testo integrale è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+I sorgente in formato Affinity Publisher è disponibile nei download.
 
-A print version of Cairn is now available!  
-See the [Print](/print.md) page for more.
+Da oggi è disponibile una versione stampata di Cairn!  
+Vedi la pagina [Print](/print.md) per ulteriori informazioni.
+
 
 <p></p>
 
