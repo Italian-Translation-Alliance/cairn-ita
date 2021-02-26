@@ -607,7 +607,7 @@ Le **Pergamene** sono simili ai libri degli incantesimi, tuttavia:
 - Non causano fatica.
 - Scompaiono dopo un utilizzo.
 
-### Casting Spells
+### Lanciare incantesimi
 Chiunque può lanciare un incantesimo tenendo un libro degli incantesimi in entrambe le mani e leggendo il suo contenuto ad alta voce. Si deve poi aggiungere una Fatica all’inventario, occupando uno slot. Con abbastanza tempo e sicurezza, i PG possono migliorare un incantesimo (ad esempio, colpendo più bersagli, aumentando il suo potere, ecc) senza alcun costo aggiuntivo. Se il PG è esausto o in pericolo, il Custode può richiedere al PG di effettuare un tiro salvezza VOL per evitare gli effetti negativi del lancio dell’incantesimo. Le conseguenze del fallimento sono alla pari con l’effetto desiderato, e possono risultare in una maggiore fatica, la distruzione del libro degli incantesimi, ferite e persino la morte.
 
 ### Reliquie
@@ -748,7 +748,7 @@ Punteggi di abilità: 3 è carente, 6 è debole, 10 è medio, 14 è notevole e 1
 - Ricordate che PF è Protezione dalle Ferite , non Punti ferita. È una misura di resilienza, fortuna e grinta, non di salute.
 
 
-#### Converting from OSR Games
+#### Conversione da Giochi OSR
 - Dai 1 PF per DV (Dado Vita) alla maggior parte delle creature.
 - La maggior parte degli umanoidi ha almeno 4PF.
 - Il **Morale** può anche essere usato come valore di base.
