@@ -619,30 +619,30 @@ Le **Reliquie** sono oggetti intrisi da un incantesimo o da un potere magico. No
 - **Cappelverde**, 1 utilizzo. Chiunque ingerisca questo fungo dal colore verde perde una Fatica, ma deve poi effettuare un tiro salvezza in VOL per evitarne la dipendenza. Un fallimento rende il PG esausto e incapace di concentrarsi fino a quando non può mangiare un altro Cappelverde, fornendo solo una breve tregua dalla dipendenza.
 
 
-### Combattimoento
+### Combattimento
 
-#### Round
+#### Round
 Il gioco in genere si svolge senza tener traccia del tempo in modo rigoroso. In un combattimento o in circostanze in cui il tempismo è utile, usa i round per tenere traccia di quando avviene qualcosa. Un **round** è all’incirca dieci secondi di tempo di gioco ed è composto da turni.
 
-#### Actioni
+#### Azioni
 Nel suo turno, un personaggio può muoversi fino a 12 metri ed effettuare al massimo un’azione. Questa può essere il lancio di un incantesimo, un attacco, un secondo movimento o un’altra azione simile.
 
 Ogni turno, i PG dichiarano cosa stanno facendo prima del lancio dei dadi. Se un personaggio tenta qualcosa di rischioso, il Custode richiede un tiro salvezza per i giocatori o i PNG appropriati. Tutte le azioni, gli attacchi e i movimenti avvengono simultaneamente.
 
-#### Turni
+#### Turni
 Il Custode segnala le azioni più probabili intraprese dai PNG o dai mostri. All’inizio del combattimento, ogni PG deve effettuare un tiro salvezza di DES per agire prima dei suoi avversari.
 
 **Esempio:** _Bea è finita per sbaglio nel territorio di caccia di un enorme Troll dei boschi. Per poter fare una mossa prima del Troll, effettua un tiro salvezza di DES. Fallisce, quindi il Troll attacca per primo._
 
-#### Attacco e Danni
+#### Attacco e Danni
 L’attaccante tira il dado della sua arma e sottrae l’armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario. I colpi senz’armi fanno sempre 1d4 danni.
 
 **Esempio:** _Il Troll dei boschi ruggisce, facendo roteare la sua clava contro Bea, che ha 5 PF. La clava fa 1d10 danni e il Custode tira un 4. Sottrae 1 per tenere conto dell’armatura di pelle di Bea, lasciando Bea con 2 PF rimanenti._
 
-#### Attaccanti Multipli
+#### Attaccanti Multipli
 Se più attaccanti colpiscono lo stesso nemico, tira tutti i dadi di danno e tieni il singolo risultato più alto.
 
-#### Modificatori di Attacco 
+#### Modificatori di Attacco 
 Se si combatte da una posizione di svantaggio (come attraverso una copertura o con le mani legate), l’attacco è **compromesso** e l’attaccante deve tirare 1d4 danni indipendentemente dal dado di danno dell’attacco.
 
 Se si combatte da una posizione di vantaggio (come contro un nemico indifeso o con una manovra audace), l’attacco è **potenziato**, permettendo all’attaccante di tirare 1d12 danni invece del suo dado normale.
@@ -765,7 +765,7 @@ Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno al
 
 ## 100 Incantesimi
 
-|  |  |
+||||
 | --- | --- | --- |
 | 1    | Adesione | Un oggetto è coperto di melma estremamente appiccicosa.|
 | 2    | Ancora | Un filo robusto spunta dalle tue braccia, fissandosi a due punti nel raggio di metri su ogni lato.|
@@ -872,7 +872,7 @@ Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno al
 
 # Riassunto delle Regole
 
-## Azioni**  
+## Azioni  
 Nel proprio turno, un personaggio può muoversi fino a 12 metri e compiere un’azione. Le azioni possono includere lanciare un incantesimo, attaccare, fare un secondo movimento o altre azioni simili. Azioni, attacchi e movimenti avvengono simultaneamente. Ogni volta che l’ordine del turno è incerto, i PG dovrebbero fare un tiro salvezza di DES per vedere se vanno prima dei loro nemici. 
 
 **Ritirarsi** da una situazione pericolosa richiede sempre un tiro salvezza DES riuscito, oltre a una destinazione sicura verso cui correre.
@@ -922,4 +922,3 @@ Se un attacco porta la PF di un PG esattamente a 0, il giocatore tira sulla tabe
 I danni che riducono la PF di un bersaglio **sotto** 0 diminuiscono del valore rimanente la sua FOR. Devono quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Il fallimento li mette fuori combattimento e, se non curati, muoiono. 
 
 Avere FOR 0 significa **morte**; avere DES 0 è **paralisi**; avere VOL 0 è **delirio**.
-
