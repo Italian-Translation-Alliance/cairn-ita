@@ -131,14 +131,14 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 
 ## Creazione del Personaggio
 
-**Nome, Background e Tratti**  
+### Nome, Background e Tratti 
 Per prima cosa, scegli o tira un **nome** per il tuo personaggio dalle tabelle **Nome e Background**, poi il suo background, che determina le sue conoscenze e le sue abilità potenziali.
 
 Poi, tira per il resto dei **tratti** del tuo personaggio (aspetto, linguaggio, modi di fare, credenze, reputazione, ecc.) sulle tabelle dei **Tratti del Personaggio**.
 
 Infine, tira per l’**età** (2d20+10).
 
-#### Ability Scores  
+### Ability Scores  
 I Personaggi Giocanti (PG) hanno solo tre attributi: 
 **Forza (FOR)**, **Destrezza (DES)**, e **Volontà (VOL)**. Quando si crea un PG, il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due dei risultati.
 
@@ -148,7 +148,7 @@ Ines tira per la **FOR** del suo personaggio, ottenendo un **2**, un **4** e un 
 ### Protezione dalle Ferite 
 Tira 1d6 per determinare la **Protezione dalle Ferite (PF)** iniziale del tuo PG, che rispecchia la sua capacità di evitare i danni in combattimento. La PF non indica la salute o la forza d’animo di un personaggio, né la si perde per molto tempo (vedi **Guarigione**). Se un attacco porta la PF di un PG esattamente a 0, il giocatore deve tirare sulla tabella **Cicatrici**.
 
-#### Inventario
+### Inventario
 I personaggi hanno un totale di 10 slot di inventario: uno zaino con sei slot, uno slot per ogni mano e due slot per la parte superiore del corpo (come la cintura, il petto o la testa). Lo zaino può anche fungere da sacco a pelo di emergenza, ma solo se svuotato del suo contenuto.
 
 La maggior parte degli oggetti occupano uno slot, e gli oggetti piccoli possono essere raggruppati insieme. Gli slot sono astratti e possono essere riorganizzati a discrezione del Custode.
@@ -157,7 +157,7 @@ Gli oggetti **ingombranti** occupano due slot e sono tipicamente a due mani o sc
 
 Un PG non può trasportare più oggetti di quanti ne permetta il suo inventario. Carretti (che devono essere tirati con entrambe le mani), cavalli o muli possono aumentare l’inventario. Anche i **mercenari** possono essere pagati per trasportare equipaggiamento.
 
-#### Equipaggiamento di partenza
+### Equipaggiamento di partenza
 Tutti i PG iniziano con:
 
 - Tre giorni di razioni (uno slot)
@@ -171,7 +171,7 @@ Vedi la **Lista di equipaggiamento** per i valori di armatura, danno e slot rela
 Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla lista dei **Pacchetti di equipaggiamento opzionali**.
 
 
-## Nome e Background (d20)
+### Nome e Background (d20)
 
 |Nomi Femminili||||||||
 |---|---|---|---|---|---|---|---|
@@ -207,7 +207,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 
 
-## Tratti del Personaggio (d10)
+### Tratti del Personaggio (d10)
 
 | Fisico |	|	|	|
 |---|---|---|---|
@@ -293,24 +293,28 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 <p></p>
 
-## Equipaggiamento di Partenza (d20)
+### Equipaggiamento di Partenza (d20)
 
-| Armatura |	|	|	|
+#### Armatura
+|  |	|	|	|
 | :---: | :---: | :---: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
 | Nessuna  | Brigantina | Cotta di Maglia | Piastre |
 
-| Elmi e Scudi |	|	|	|
+#### Elmi e Scudi
+|  |	|	|	|
 | :---: | :---: | :---: | :---: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       Nessuna        | Elmo | Scudo | Elmo e Scudo |
 
-| Armi |	|	|	|
+#### Armi
+|  |	|	|	|
 | :---: | :---: | :---: | :---: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | Pugnale, Randello, Bastone | Spada, Mazza, Ascia | Arco lungo, Balestra, Fionda | Alabarda, Martello da Guerra, Ascia da Guerra |
 
-|Equipaggiamento da Spedizione |	|	|	|
+#### Equipaggiamento da Spedizione
+| |	|	|	|
 |---|---|---|---|
 |1  |Sacca d'Aria 					|6  |Olio di fuoco		|
 |2  |Antitossina  					|7  |Rampino 			|
@@ -318,7 +322,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4  |Catena (3m) 					|9  |Trappola grande 	|
 |5  |Bastone da rabdomante			|10 |Grimaldelli  		|
 
-|Attrezzi|	|	|	|
+#### Attrezzi
+||	|	|	|
 |---|---|---|---|
 |1  |Soffietto	|6  |Pentole  			|
 |2  |Secchio	|7  |Piede di Porco    	|
@@ -326,7 +331,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4  |Gessetto	|9  |Canna da pesca 	|
 |5  |Cesello	|10 |Colla       		|
 
-|Chincaglierie|	|	|	|
+#### Chincaglierie
+||	|	|	|
 |---|---|---|---|
 |1  |Bottiglia     		|6  |Corno 		|
 |2  |Mazzo di carte  	|7  |Incenso    |
@@ -334,15 +340,16 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |4  |Trucchi facciali 	|9  |Lente     	|
 |5  |Gioielli falsi 	|10 |Biglie    	|
 
+#### Oggetto bonus (tira sulla tabella indicata)
 
-|Oggetto bonus (tira sulla tabella indicata)| | | |
+|	| 	| 	| 	|
 | 1-5 | 6-13 | 14-17 | 18-20 |
-| :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
 
 <p></p>
 
-## Libri degli Incantesimi (d100)
+### Libri degli Incantesimi (d100)
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -375,9 +382,10 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 <p></p>
 
 
-## Equipaggiamento (Prezzi in pezzi d’oro)  
+### Equipaggiamento (Prezzi in pezzi d’oro)  
 
-| Armature |     |
+#### Armature
+|  |     |
 |---|---|---|
 |Scudo (+1 Armatura)   						|10   |
 |Elmo (+1 Armatura)    						|10   |
@@ -386,7 +394,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Cotta di Maglia (2 Armatura, ingombrante)  |40   |
 |Piastre (3 Armatura, ingombrante)      	|60   |
 
-| Armi |     |
+#### Armi
+|  |     |
 |---|---|---|
 | Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)   						|5    |
 | Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)    					|10   |
@@ -396,8 +405,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | Balestra (d8 danno, ingombrante)             									|30   |
 
 
-
-|Attrezzi e Strumenti |	|	|	|
+#### Attrezzi e Strumenti
+| |	|	|	|
 |---|---|---|---|
 |Sacca d'Aria                     	|5	|Trappola grande       				|20	|
 |Soffietto                     		|10	|Spugna grande       				|5	|
@@ -431,7 +440,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 <p></p>
 
-## Pacchetti opzionali di Equipaggiamento
+### Pacchetti opzionali di Equipaggiamento
 
 |Rabdomante|
 |-----------------------------------------|
@@ -896,3 +905,4 @@ Se un attacco porta la PF di un PG esattamente a 0, il giocatore tira sulla tabe
 I danni che riducono la PF di un bersaglio **sotto** 0 diminuiscono del valore rimanente la sua FOR. Devono quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Il fallimento li mette fuori combattimento e, se non curati, muoiono. 
 
 Avere FOR 0 significa **morte**; avere DES 0 è **paralisi**; avere VOL 0 è **delirio**.
+
