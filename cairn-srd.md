@@ -653,7 +653,7 @@ Se attacchi con due armi allo stesso tempo, tira entrambi i dadi dei danni e tie
 #### Scoppio  
 Gli attacchi con il descrittore **scoppio** colpiscono tutti i bersagli nell’area indicata, tirando separatamente per ogni personaggio colpito. Il termine scoppio si riferisce a qualsiasi cosa, dalle esplosioni agli imponenti assalti a colpi di fendenti o all’impatto di un meteorite. Se non sei sicuro di quanti bersagli possano essere colpiti, tira il relativo dado del danno per avere un risultato.
 
-#### Scars
+#### Cicatrici
 Quando un danno a un PG riduce la sua PF esattamente a 0, a volte viene danneggiato in modo irreversibile. Vedi **Cicatrici** per saperne di più.
 
 #### Danno Critico
@@ -886,7 +886,7 @@ Nel proprio turno, un personaggio può muoversi fino a 12 metri e compiere un’
 - Tira 1d20 uguale o inferiore a un’abilità.
 - 1 è sempre un successo, 20 è sempre un fallimento.
 
-## Protezione dalle Ferite  
+## Protezione dalle Ferite  
 **PF** indica la capacità di un PG di evitare di farsi male. Si perde durante il combattimento e si recupera dopo qualche istante di riposo.
 
 ## Inventario  
@@ -905,7 +905,7 @@ I libri degli incantesimi contengono un singolo incantesimo e occupano uno slot 
 
 Dati tempo e sicurezza, i PG possono migliorare un incantesimo senza alcun costo aggiuntivo. Se sono esausti o in pericolo, può essere richiesto un tiro salvezza VOL per evitare conseguenze terribili.
 
-## Combattimento
+## Combattimento
 L’attaccante tira il dado della sua arma e sottrae l’Armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario.
 
 Prima di calcolare i danni alla PF, si sottrae il valore dell’Armatura del bersaglio dal risultato dei tiri di dado. Scudi e armature simili forniscono un bonus alla difesa (ad esempio +1 Armatura), ma solo mentre l’oggetto è tenuto o indossato.
