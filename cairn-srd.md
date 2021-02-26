@@ -55,7 +55,7 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - Rispondi alle loro domande in modo utile e diretto.
 - Reagisci onestamente, descrivi in modo coerente e spiega sempre che possono continuare a fare domande.
 
-### Difficultà
+### Difficoltà
 - Ai numeri e alla meccanica prediligi contesto e realismo .
 - Se i personaggi vogliono fare qualcosa di semplicemente impossibile, nessun lancio di dadi permetterà loro di farlo.
 - Ciò che il giocatore descrive, e come sfrutta la situazione, ragionevole? Lascia che accada.
