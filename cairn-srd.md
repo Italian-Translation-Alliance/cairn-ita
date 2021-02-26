@@ -316,25 +316,29 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 ### Equipaggiamento di Partenza (d20)
 
 #### Armatura
-|  |	|	|	|
+
+| | | |
 | :---: | :---: | :---: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
 | Nessuna  | Brigantina | Cotta di Maglia | Piastre |
 
 #### Elmi e Scudi
-|  |	|	|	|
+
+| | | |
 | :---: | :---: | :---: | :---: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       Nessuna        | Elmo | Scudo | Elmo e Scudo |
 
 #### Armi
-|	|	|	| 	|
+
+| | | |
 | :---: | :---: | :---: | :---: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | Pugnale, Randello, Bastone | Spada, Mazza, Ascia | Arco lungo, Balestra, Fionda | Alabarda, Martello da Guerra, Ascia da Guerra |
 
 #### Equipaggiamento da Spedizione
-|	|	|	| 	|
+
+| | | |
 |---|---|---|---|
 |1  |Sacca d'Aria 					|6  |Olio di fuoco		|
 |2  |Antitossina  					|7  |Rampino 			|
@@ -343,7 +347,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Bastone da rabdomante			|10 |Grimaldelli  		|
 
 #### Attrezzi
-|	|	|	| 	|
+
+| | | |
 |---|---|---|---|
 |1  |Soffietto	|6  |Pentole  			|
 |2  |Secchio	|7  |Piede di Porco    	|
@@ -352,7 +357,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Cesello	|10 |Colla       		|
 
 #### Chincaglierie
-|	|	|	| 	|
+
+| | | |
 |---|---|---|---|
 |1  |Bottiglia     		|6  |Corno 		|
 |2  |Mazzo di carte  	|7  |Incenso    |
@@ -361,6 +367,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |5  |Gioielli falsi 	|10 |Biglie    	|
 
 #### Oggetto bonus (tira sulla tabella indicata)
+
 | 1-5 | 6-13 | 14-17 | 18-20 |
 | :--- | :--- | :--- | :--- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
@@ -402,7 +409,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 ### Equipaggiamento (Prezzi in pezzi d’oro)  
 
 #### Armature
-|  |     |
+
+| | |
 |---|---|---|
 |Scudo (+1 Armatura)   						|10   |
 |Elmo (+1 Armatura)    						|10   |
@@ -412,18 +420,20 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Piastre (3 Armatura, ingombrante)      	|60   |
 
 #### Armi
-|  |     |
+
+| | |
 |---|---|---|
-| Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)   						|5    |
-| Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)    					|10   |
-| Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, ingombrante)  	|20   |
-| Fionda (d4 danno)             												|5    |
-| Arco (d6 danno, ingombrante)             										|20   |
-| Balestra (d8 danno, ingombrante)             									|30   |
+|Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)   						|5    |
+|Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)    						|10   |
+|Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, ingombrante)  	|20   |
+|Fionda (d4 danno)             													|5    |
+|Arco (d6 danno, ingombrante)             										|20   |
+|Balestra (d8 danno, ingombrante)             									|30   |
 
 
 #### Attrezzi e Strumenti
-| |	|	|	|
+
+| | | |
 |---|---|---|---|
 |Sacca d'Aria                     	|5	|Trappola grande       				|20	|
 |Soffietto                     		|10	|Spugna grande       				|5	|
