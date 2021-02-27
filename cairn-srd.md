@@ -921,14 +921,6 @@ I libri degli incantesimi contengono un singolo incantesimo e occupano uno slot 
 
 Dati tempo e sicurezza, i PG possono migliorare un incantesimo senza alcun costo aggiuntivo. Se sono esausti o in pericolo, può essere richiesto un tiro salvezza VOL per evitare conseguenze terribili.
 
-## Azioni
-Durante il proprio turno, un personaggio può muoversi fino a 12 m e fare al più un’azione. Le azioni possono includere lanciare un incantesimo, attaccare, fare un
-secondo movimento o altre attività simili. Azioni, attacchi e movimenti avvengono simultaneamente.
-
-Se l’ordine di turno è incerto, I PG devono fare un tiro salvezza in DES per vedere se agiscono prima dei loro nemici.
-
-**Scappare** da una situazione pericolosa richiede sempre un successo su DES, e un destinazione sicura verso cui correre.
-
 ## Combattimento
 L’attaccante tira il dado della sua arma e sottrae l’Armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario.
 
