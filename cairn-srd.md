@@ -106,7 +106,7 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - Non essere sospettoso della descrizione del Custode, ma non esitare a chiedere maggiori informazioni.
 - Non esiste un solo modo corretto di procedere.
 
-### Parlare
+### Dialogo
 - Tratta i PNG come se fossero persone reali, e fai affidamento alla tua curiosità per ottenere informazioni e risolvere i problemi in sicurezza.
 - Scoprirai che la maggior parte delle persone sono interessanti e vorranno dialogare prima di ricorrere alla violenza.
 
