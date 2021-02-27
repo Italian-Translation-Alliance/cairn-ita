@@ -9,15 +9,15 @@ nav_order: 4
 Una collezione in costante crescita di schede del personaggio, link, avventure, ecc.
 
 ## Creazione del Personaggio
-[Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) - Download as PDF or PNG
+[Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) - Download in formato PDF o PNG
 
 [Online Character Keeper](https://docs.google.com/spreadsheets/d/1Ueq-v5XZ-mC1qFd81T0892RzRsr8WdgAG89M4ZXe5qM) (Google Sheets)
 
-[Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog) (Make a copy)
+[Online Character Sheet + Tokens](https://docs.google.com/presentation/d/1rYEUNE9_zsEUBut3a3UyRhRr8fy33s5fjX4Y7L6lvog) (Crea una copia)
 
-[Fillable Character Sheets (token)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view) (Spanish)
+[Fillable Character Sheets (token)](https://drive.google.com/file/d/1J9rOVBWIsf1_SSvNou8lLPN2zIodQ-dy/view) (Spagnolo)
 
-[idolofmanyhand's generator (with gear packages!)](http://d12dev.com/chart/32009)
+[idolofmanyhands' generator (con pacchetti di equip addizionali!)](http://d12dev.com/chart/32009)
 
 [Classic Fantasy Starting Packages](https://dreamingdragonslayer.wordpress.com/2021/01/06/classic-fantasy-starting-packages-for-into-the-odd/)
 
