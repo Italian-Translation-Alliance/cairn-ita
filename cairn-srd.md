@@ -45,7 +45,7 @@ Sia il Custode che i giocatori hanno delle linee guida che aiutano a promuovere 
 I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambientazione condivisa, negli obiettivi dei personaggi e nelle sfide di gruppo. Per questo motivo, solitamente il gruppo lavora di squadra verso un obiettivo comune.
 
 ## Principi per i Custodi
-### Informationi
+### Informazioni
 - Dai informazioni utili sul mondo di gioco man mano che i personaggi lo esplorano.
 - I giocatori non hanno bisogno di tirare dadi per conoscere la propria situazione.
 - Rispondi alle loro domande in modo utile e diretto.
