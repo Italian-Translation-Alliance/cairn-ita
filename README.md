@@ -11,7 +11,6 @@ Cairn è un [gioco d'avventura](http://questingblog.com/adventure-game-vs-osr) s
 - Editing: [Jim Parkin](https://d66kobolds.blogspot.com/)
 - Cover Design: [CosmicOrrery](https://cosmicorrery.itch.io/)
 - Character Sheet: [Licopeo](https://www.instagram.com/licopeoart/)
-
 - Traduzione Italiana: [Stefano Grassi](https://twitter.com/FabulousFreak)
 - Revisione Italiana: [OSR Italia, Facebook](https://www.facebook.com/groups/osritalia/), [Ruling the Game, Telegram](http://t.me/osritalia) ed in particolare Francisco Pettigiani, Roberto Bisceglie, Yuri Zanelli, Barakiel The Archangel, Dismanster FraNe.
 
