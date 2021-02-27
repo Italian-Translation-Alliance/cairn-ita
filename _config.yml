@@ -5,4 +5,4 @@ color_scheme: light
 plugins:
   - jekyll-redirect-from
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
