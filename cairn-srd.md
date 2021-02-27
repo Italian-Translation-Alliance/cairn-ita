@@ -374,33 +374,33 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 ### Libri degli Incantesimi (d100)
 
-|||||||||
-|---|---|---|---|---|---|---|---|
-|1  |Adesione						|26 | Terremoto					|51 | Mascherata			|76 |Forma di Fumo 			|
-|2  |Ancora							|27 | Elasticità				|52 | Miniaturizzare		|77 |Fiuto 					|
-|3  |Animare Oggetto 				|28 | Muro Elementale			|53 | Immagine Speculare	|78 |Spegnimento 			|		
-|4  |Antropomorfismo				|29 | Gazza						|54 | Passaspecchi			|79 |Ordine 				|
-|5  |Occhio Arcano					|30 | Bagliore					|55 | Multibraccio			|80 |Spettacolo 			|
-|6  |Prigione Astrale				|31 | Nube di Nebbia			|56 | Sfera Notturna		|81 |Lama Incantata 		|
-|7  |Attrarre						|32 | Frenesia					|57 | Oggettivare			|82 |Movimenti del Ragno 	|
-|8  |Illusione sonora				|33 | Portale					|58 | Forma Melmosa			|83 |Evoca Cubo 			|
-|9  |Blaterare						|34 | Inversione di Gravità		|59 | Pacificare			|84 |Sciame 				|	
-|10 |Esca Fiore						|35 | Avidità					|60 | Fobia					|85 |Telecinesi 			|
-|11 |Forma Bestiale					|36 | Velocità					|61 | Fossa					|86 |Telepatia 				|
-|12 |Confusione						|37 | Odio						|62 | Impulso Primordiale	|87 |Teletrasporto 			|	
-|13 |Scambio di Corpi				|38 | Ascoltare i Sussurri		|63 | Spingere/Tirare		|88 |Esca Bersaglio 		|		
-|14 |Affascinare					|39 | Levitazione				|64 | Animare i Morti		|89 |Boscaglia 				|
-|15 |Comando						|40 | Ipnotizzare				|65 | Animare gli Spiriti	|90 |Evoca Idolo 			|	
-|16 |Comprensione					|41 | Tocco Gelido				|66 | Leggere la Mente		|91 |Controllare il Tempo 	|
-|17 |Cono di Schiuma				|42 | Identifica Proprietario	|67 | Repuslione			|92 |Visione del Vero 		|		
-|18 |Controllare Piante				|43 | Illuminare				|68 | Divinazione			|93 |Risalita 				|
-|19 |Controllare Tempo Atmosferico	|44 | Legame Invisibile			|69 | Scolpire Elementi		|94 |Visione 				|	
-|20 |Cura Ferite					|45 | Bussare					|70 | Percepire Oggetto		|95 |Illusione visiva 		|
-|21 |Assordare						|46 | Balzo						|71 | Scudo					|96 |Sigillo 				|
-|22 |Individuazione del Magico		|47 | Aria Liquida				|72 | Velo					|97 |Ragnatela 				|
-|23 |Smontare						|48 | Smorzatore Magico			|73 | Scambio				|98 |Aggeggio 				|
-|24 |Camuffamento					|49 | Maniero					|74 | Sonno					|99 |Marchio del Mago 		|
-|25 |Dislocare						|50 | Mania delle Biglie		|75 | Viscido				|100|Vista a Raggi-X 		|	
+| | | | | | | | |
+|----|----------------------|----|-------------------------------|----|---------------------|-----|-------------------|
+| 1  | Adesione             | 26 | Controllare Tempo Atmosferico | 51 | Ipnotizzare         | 76  | Risalita          |
+| 2  | Affascinare          | 27 | Cura Ferite                   | 52 | Lama Incantata      | 77  | Scambio           |
+| 3  | Aggeggio             | 28 | Dislocare                     | 53 | Legame Invisibile   | 78  | Scambio di Corpi  |
+| 4  | Ancora               | 29 | Divinazione                   | 54 | Leggere la Mente    | 79  | Sciame            |
+| 5  | Animare gli Spiriti  | 30 | Elasticità                    | 55 | Levitazione         | 80  | Scolpire Elementi |
+| 6  | Animare i Morti      | 31 | Esca Bersaglio                | 56 | Mania delle Biglie  | 81  | Scudo             |
+| 7  | Animare Oggetto      | 32 | Esca Fiore                    | 57 | Maniero             | 82  | Sfera Notturna    |
+| 8  | Antropomorfismo      | 33 | Evoca Cubo                    | 58 | Marchio del Mago    | 83  | Sigillo           |
+| 9  | Aria Liquida         | 34 | Evoca Idolo                   | 59 | Mascherata          | 84  | Smontare          |
+| 10 | Ascoltare i Sussurri | 35 | Fiuto                         | 60 | Miniaturizzare      | 85  | Smorzatore Magico |
+| 11 | Assordare            | 36 | Fobia                         | 61 | Movimenti del Ragno | 86  | Sonno             |
+| 12 | Attrarre             | 37 | Forma Bestiale                | 62 | Multibraccio        | 87  | Spegnimento       |
+| 13 | Avidità              | 38 | Forma di Fumo                 | 63 | Muro Elementale     | 88  | Spettacolo        |
+| 14 | Bagliore             | 39 | Forma Melmosa                 | 64 | Nube di Nebbia      | 89  | Spingere/Tirare   |
+| 15 | Balzo                | 40 | Fossa                         | 65 | Occhio Arcano       | 90  | Telecinesi        |
+| 16 | Blaterare            | 41 | Frenesia                      | 66 | Odio                | 91  | Telepatia         |
+| 17 | Boscaglia            | 42 | Gazza                         | 67 | Oggettivare         | 92  | Teletrasporto     |
+| 18 | Bussare              | 43 | Identifica Proprietario       | 68 | Ordine              | 93  | Terremoto         |
+| 19 | Camuffamento         | 44 | Illuminare                    | 69 | Pacificare          | 94  | Tocco Gelido      |
+| 20 | Comando              | 45 | Illusione sonora              | 70 | Passaspecchi        | 95  | Velo              |
+| 21 | Comprensione         | 46 | Illusione visiva              | 71 | Percepire Oggetto   | 96  | Velocità          |
+| 22 | Confusione           | 47 | Immagine Speculare            | 72 | Portale             | 97  | Viscido           |
+| 23 | Cono di Schiuma      | 48 | Impulso Primordiale           | 73 | Prigione Astrale    | 98  | Visione           |
+| 24 | Controllare il Tempo | 49 | Individuazione del Magico     | 74 | Ragnatela           | 99  | Visione del Vero  |
+| 25 | Controllare Piante   | 50 | Inversione di Gravità         | 75 | Repuslione          | 100 | Vista a Raggi-X   |	
 
 
 ### Equipaggiamento (Prezzi in pezzi d’oro)  
@@ -781,108 +781,108 @@ Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno al
 
 ## 100 Incantesimi
 
-||||
-| --- | --- | --- |
-| 1    | Adesione | Un oggetto è coperto di melma estremamente appiccicosa.|
-| 2    | Ancora | Un filo robusto spunta dalle tue braccia, fissandosi a due punti nel raggio di metri su ogni lato.|
-| 3    | Animare Oggetto | Un oggetto obbedisce ai tuoi comandi al meglio delle sue possibilità.|
-| 4    | Antropomorfismo | Un animale ottiene l’intelligenza umana o l’aspetto umano per un giorno.|
-| 5    | Occhio Arcano | Puoi vedere attraverso un bulbo oculare magico galleggiante che vola in giro al tuo comando.|
-| 6    | Prigione astrale | Un oggetto è congelato nel tempo e nello spazio all’interno di un guscio di cristallo invulnerabile.|
-| 7    | Attrarre | Due oggetti sono fortemente attratti magneticamente l’uno dall’altro se si trovano a pochi metri.|
-| 8    | Illusione sonora | Crei dei suoni illusori che sembrano provenire da una direzione a tua scelta.|
-| 9    | Blaterare | Una creatura deve ripetere ad alta voce e chiaramente tutto ciò che pensi, altrimenti è muta.|
-| 10   | Esca Fiore | Una pianta spunta dal terreno ed emana l’odore della carne in decomposizione.|
-| 11   | Forma Bestiale | Tu e i tuoi averi vi trasformate in un animale comune.|
-| 12   | Confusione | Una creatura a tua scelta non è in grado di formare nuovi ricordi a breve termine per la durata dell’incantesimo.|
-| 13   | Scambio di corpi | Scambi il corpo con una creatura che tocchi. Se un corpo muore, muore anche l’altro.|
-| 14   | Affascinare | Una creatura che puoi vedere ti tratta come un amico.|
-| 15   | Comprensione | Diventi fluente in tutte le lingue per un breve periodo.|
-| 16   | Comando | Un bersaglio obbedisce a un singolo comando di tre parole che non lo danneggia.|
-| 17   | Cono di Schiuma | La schiuma densa spruzza dalla tua mano, ricoprendo il bersaglio.|
-| 18   | Controllare Piante | Le piante e gli alberi vicini ti obbediscono e acquisiscono la capacità di muoversi a passo lento.|
-| 19   | Controllare Tempo Atmosferico | Puoi alterare il tipo di condizione atmosferica a tuo piacimento, ma non lo controlli in altro modo.|
-| 20   | Cura Ferite | Ristora 1d4 FOR al giorno a una creatura che puoi toccare.|
-| 21   | Assordare | Tutte le creature vicine sono assordate.|
-| 22   | Individuazione del Magico | Puoi vedere o sentire le aure magiche vicine.|
-| 23   | Smontare | Qualsiasi parte del tuo corpo può essere staccata e riattaccata a volontà, senza causare dolore o danni.|
-| 24   | Camuffamento | Puoi alterare l’aspetto di un personaggio a volontà, purché rimanga umanoide. I tentativi di duplicare altri personaggi appariranno strani.|
-| 25   | Dislocare | Un oggetto sembra essere fino a 4,5m dalla sua posizione reale.|
-| 26   | Terremoto | Il terreno inizia a tremare violentemente. Le strutture possono subire danni o crollare.|
-| 27   | Elasticità | Il tuo corpo può allungarsi fino a 3 metri.|
-| 28   | Muro Elementale | Un muro di ghiaccio o di fuoco lungo 15 metri e alto 3 metri si innalza dal terreno.|
-| 29   | Gazza | Un oggetto visibile si teletrasporta nelle tue mani.|
-| 30   | Bagliore | Una sfera luminosa di energia proietta una scia di luce nel cielo, rivelando la tua posizione ad amici o nemici.|
-| 31   | Nube di Nebbia | Una densa nebbia si diffonde da te.|
-| 32   | Frenesia | Una creatura vicina esplode in una frenesia di violenza.|
-| 33   | Portale | Si apre un portale verso un piano casuale.|
-| 34   | Inversione di gravità | Puoi cambiare la direzione della gravità, ma solo per te.|
-| 35   | Avidità | Una creatura sviluppa il desiderio irrefrenabile di possedere un oggetto visibile a tua scelta.|
-| 36   | Velocità | La tua velocità di movimento è triplicata.|
-| 37   | Odio | Una creatura sviluppa un odio profondo verso un’altra creatura o un gruppo e desidera distruggerli.|
-| 38   | Ascoltare i Sussurri | Si possono udire chiaramente suoni deboli.|
-| 39   | Levitazione | Un oggetto che si libra, senza attrito, a 60 cm dal suolo. Può sostenere fino a un umanoide.|
-| 40   | Ipnotizzare | Una creatura entra in trance e risponderà sinceramente a una domanda con un sì o un no.|
-| 41   | Tocco gelido | Uno spesso strato di ghiaccio si estende su una superficie toccata, fino a 3 metri di raggio.|
-| 42   | Identifica Proprietario | Sull’oggetto che tocchi appaiono delle lettere che indicano il nome dei proprietari dell’oggetto, se ce ne sono.|
-| 43   | Illuminare | Una luce fluttuante si muove al tuo comando.|
-| 44   | Legame Invisibile | Due oggetti entro 3 metri l’uno dall’altro non possono essere spostati a più di 3 metri di distanza.|
-| 45   | Bussare | Una serratura ordinaria o magica nelle vicinanze si sblocca rumorosamente.|
-| 46   | Balzo | Salti in alto fino a 3 metri, una volta.|
-| 47   | Aria Liquida | L’aria attorno a te rende possibile nuotarci dentro.|
-| 48   | Smorzatore Magico | Tutti gli effetti magici nelle vicinanze sono dimezzati nella loro efficacia.|
-| 49   | Maniero | Un cottage robusto e arredato appare per ore. Puoi permettere e proibire l’ingresso ad esso a volontà.|
-| 50   | Mania delle biglie | Le tue tasche sono piene di biglie e si riempiono nuovamente ogni secondo.|
-| 51   | Mascherata | L’aspetto e la voce di un personaggio diventano identici a quelli di un personaggio che si tocca.|
-| 52   | Miniaturizzare | Una creatura che tocchi si rimpicciolisce fino alle dimensioni di un topo.|
-| 53   | Immagine speculare | Appare un tuo duplicato illusorio sotto il tuo controllo.|
-| 54   | Passaspecchi | Uno specchio diventa un passaggio per un altro specchio in cui hai guardato oggi.|
-| 55   | Multibraccio | Guadagni temporaneamente un braccio in più.|
-| 56   | Sfera notturna | Una sfera di oscurità larga 15 metri raffigurante il cielo notturno appare davanti a voi.|
-| 57   | Oggettivare | Diventi un qualsiasi oggetto inanimato tra le dimensioni di un pianoforte a coda e una mela.|
-| 58   | Forma Melmosa | Diventi una gelatina vivente.|
-| 59   | Pacificare | Una creatura vicina a te ha un’avversione per la violenza.|
-| 60   | Fobia | Una creatura vicina diventa terrorizzata da un oggetto a tua scelta.|
-| 61   | Fossa | Nel terreno si apre una fossa larga 3 metri e profonda 3 metri.|
-| 62   | Impulso primordiale | Una creatura si evolve rapidamente in una versione futura della sua specie.|
-| 63   | Spingere/Tirare | Un oggetto di qualsiasi dimensione viene tirato direttamente verso di voi o spinto direttamente via da voi con la forza di un uomo.|
-| 64   | Animare i Morti | Uno scheletro emerge dalla terra per servirti. Sono incredibilmente stupidi e possono solo obbedire a ordini semplici.|
-| 65   | Animare lo Spirito | Lo spirito di un cadavere vicino si manifesta e risponderà a 1 domanda.|
-| 66   | Leggere la Mente | Puoi sentire i pensieri superficiali delle creature vicine.|
-| 67   | Repulsione | Due oggetti sono fortemente respinti magneticamente l’uno dall’altro nel raggio di 3 metri.|
-| 68   | Divinazione | Puoi vedere attraverso gli occhi di una creatura che hai toccato prima.|
-| 69   | Scolpire Elementi | Il materiale inanimato si comporta come l’argilla nelle tue mani.|
-| 70   | Percepire Oggetto | Scegli un tipo di oggetto (chiave, oro, freccia, brocca, ecc.). Puoi avvertire l’esempio più vicino.|
-| 71   | Scudo | Una creatura che tocchi è protetta dagli attacchi ordinari per un minuto.|
-| 72   | Velo | Una creatura che tocchi è invisibile finché non si muove.|
-| 73   | Scambio | Due creature che riesci a vedere si scambiano istantaneamente di posto.|
-| 74   | Sonno | Una creatura che puoi vedere cade in un sonno leggero.|
-| 75   | Viscido | Ogni superficie nel raggio di 9 metri diventa estremamente scivolosa.|
-| 76   | Forma di Fumo | Il tuo corpo diventa fumo vivente che puoi controllare.|
-| 77   | Fiuto |  Si possono sentire anche le più deboli tracce di odore.|
-| 78   | Snuff | La fonte di qualsiasi luce ordinaria che puoi vedere si spegne all’istante.|
-| 79   | Ordinare |Gli oggetti inanimati si ordinano secondo le categorie che hai impostato.|
-| 80   | Spettacolo |  Appare un’illusione a tua scelta, chiaramente falsa ma impressionante, sotto il tuo controllo. Può essere grande come un palazzo e ha pieno movimento e suono.|
-| 81   | Lama Incantata | Una lama rotante vola dal tuo petto, eliminando qualsiasi materiale vegetale sul suo cammino. A parte questo, è innocua.|
-| 82   | Movimenti del Ragno |Puoi arrampicarti sulle superfici come un ragno.|
-| 83   | Evoca Cubo | Una volta al secondo puoi evocare o bandire un cubo di terra largo 1 metro. I nuovi cubi devono essere attaccati alla terra o ad altri cubi.|
-| 84   | Sciame |  Diventi uno stormo di corvi, uno sciame di ratti o un branco di piranha. Puoi essere danneggiato solo da attacchi di scoppio.|
-| 85   | Telecinesi |Puoi spostare mentalmente un oggetto sotto i 27 kg.|
-| 86   | Telepatia | Due creature possono sentire i pensieri gli uni degli altri, non importa quanto siano distanti.|
-| 87   | Teletrasporto | Un oggetto o una persona che puoi vedere viene trasportato da un posto all’altro in un raggio di 15 metri.|
-| 88   | Esca Bersaglio | Un oggetto che tocchi diventa il bersaglio di qualsiasi incantesimo vicino.|
-| 89   | Boscaglia |  Una boscaglia di alberi e cespugli densi fino a 15 metri di larghezza spunta all’improvviso.|
-| 90   | Evoca Idolo | Una statua di pietra scolpita delle dimensioni di un mulo emerge dal terreno.|
-| 91   | Controllare il Tempo | All’interno di una bolla di 15 metri il tempo rallenta o aumenta del 10% per 30 secondi.|
-| 92   | Visione del Vero |Vedi attraverso tutte le illusioni vicine.|
-| 93   | Risalita | Appare una sorgente di acqua di mare.|
-| 94   | Visione | Controlli completamente ciò che una creatura vede.|
-| 95   | Illusione visiva |  Appare un’illusione silenziosa, immobile e grande come una stanza, a tua scelta.|
-| 96   | Sigillo | Sul terreno appare un cerchio d’argento di 15 metri di diametro. Scegli una specie che non può attraversarlo.|
-| 97   | Ragnatela | I tuoi polsi possono lanciare ragnatele spesse.|
-| 98   | Congegno | Una versione primitiva di uno strumento o di un oggetto disegnato appare davanti a voi e scompare dopo poco tempo. |
-| 99   | Marchio del Mago | Il tuo dito può lanciare un flusso di vernice color ulfire. La vernice è visibile solo a te e può essere vista a qualsiasi distanza, anche attraverso oggetti solidi|
-| 100  | Vista a Raggi-XP | uoi vedere attraverso i muri, la terra, i vestiti, ecc.|
+|     |                               |                                                                                                                                                                      |
+|-----|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Adesione                      | Un oggetto è coperto di melma estremamente appiccicosa.                                                                                                              |
+| 2   | Affascinare                   | Una creatura che puoi vedere ti tratta come un amico.                                                                                                                |
+| 3   | Ancora                        | Un filo robusto spunta dalle tue braccia, fissandosi a due punti nel raggio di metri su ogni lato.                                                                   |
+| 4   | Animare i Morti               | Uno scheletro emerge dalla terra per servirti. Sono incredibilmente stupidi e possono solo obbedire a ordini semplici.                                               |
+| 5   | Animare lo Spirito            | Lo spirito di un cadavere vicino si manifesta e risponderà a 1 domanda.                                                                                              |
+| 6   | Animare Oggetto               | Un oggetto obbedisce ai tuoi comandi al meglio delle sue possibilità.                                                                                                |
+| 7   | Antropomorfismo               | Un animale ottiene l’intelligenza umana o l’aspetto umano per un giorno.                                                                                             |
+| 8   | Aria Liquida                  | L’aria attorno a te rende possibile nuotarci dentro.                                                                                                                 |
+| 9   | Ascoltare i Sussurri          | Si possono udire chiaramente suoni deboli.                                                                                                                           |
+| 10  | Assordare                     | Tutte le creature vicine sono assordate.                                                                                                                             |
+| 11  | Attrarre                      | Due oggetti sono fortemente attratti magneticamente l’uno dall’altro se si trovano a pochi metri.                                                                    |
+| 12  | Avidità                       | Una creatura sviluppa il desiderio irrefrenabile di possedere un oggetto visibile a tua scelta.                                                                      |
+| 13  | Bagliore                      | Una sfera luminosa di energia proietta una scia di luce nel cielo, rivelando la tua posizione ad amici o nemici.                                                     |
+| 14  | Balzo                         | Salti in alto fino a 3 metri, una volta.                                                                                                                             |
+| 15  | Blaterare                     | Una creatura deve ripetere ad alta voce e chiaramente tutto ciò che pensi, altrimenti è muta.                                                                        |
+| 16  | Boscaglia                     | Una boscaglia di alberi e cespugli densi fino a 15 metri di larghezza spunta all’improvviso.                                                                         |
+| 17  | Bussare                       | Una serratura ordinaria o magica nelle vicinanze si sblocca rumorosamente.                                                                                           |
+| 18  | Camuffamento                  | Puoi alterare l’aspetto di un personaggio a volontà, purché rimanga umanoide. I tentativi di duplicare altri personaggi appariranno strani.                          |
+| 19  | Comando                       | Un bersaglio obbedisce a un singolo comando di tre parole che non lo danneggia.                                                                                      |
+| 20  | Comprensione                  | Diventi fluente in tutte le lingue per un breve periodo.                                                                                                             |
+| 21  | Confusione                    | Una creatura a tua scelta non è in grado di formare nuovi ricordi a breve termine per la durata dell’incantesimo.                                                    |
+| 22  | Congegno                      | Una versione primitiva di uno strumento o di un oggetto disegnato appare davanti a voi e scompare dopo poco tempo.                                                   |
+| 23  | Cono di Schiuma               | La schiuma densa spruzza dalla tua mano, ricoprendo il bersaglio.                                                                                                    |
+| 24  | Controllare il Tempo          | All’interno di una bolla di 15 metri il tempo rallenta o aumenta del 10% per 30 secondi.                                                                             |
+| 25  | Controllare Piante            | Le piante e gli alberi vicini ti obbediscono e acquisiscono la capacità di muoversi a passo lento.                                                                   |
+| 26  | Controllare Tempo Atmosferico | Puoi alterare il tipo di condizione atmosferica a tuo piacimento, ma non lo controlli in altro modo.                                                                 |
+| 27  | Cura Ferite                   | Ristora 1d4 FOR al giorno a una creatura che puoi toccare.                                                                                                           |
+| 28  | Dislocare                     | Un oggetto sembra essere fino a 4,5m dalla sua posizione reale.                                                                                                      |
+| 29  | Divinazione                   | Puoi vedere attraverso gli occhi di una creatura che hai toccato prima.                                                                                              |
+| 30  | Elasticità                    | Il tuo corpo può allungarsi fino a 3 metri.                                                                                                                          |
+| 31  | Esca Bersaglio                | Un oggetto che tocchi diventa il bersaglio di qualsiasi incantesimo vicino.                                                                                          |
+| 32  | Esca Fiore                    | Una pianta spunta dal terreno ed emana l’odore della carne in decomposizione.                                                                                        |
+| 33  | Evoca Cubo                    | Una volta al secondo puoi evocare o bandire un cubo di terra largo 1 metro. I nuovi cubi devono essere attaccati alla terra o ad altri cubi.                         |
+| 34  | Evoca Idolo                   | Una statua di pietra scolpita delle dimensioni di un mulo emerge dal terreno.                                                                                        |
+| 35  | Fiuto                         | Si possono sentire anche le più deboli tracce di odore.                                                                                                              |
+| 36  | Fobia                         | Una creatura vicina diventa terrorizzata da un oggetto a tua scelta.                                                                                                 |
+| 37  | Forma Bestiale                | Tu e i tuoi averi vi trasformate in un animale comune.                                                                                                               |
+| 38  | Forma di Fumo                 | Il tuo corpo diventa fumo vivente che puoi controllare.                                                                                                              |
+| 39  | Forma Melmosa                 | Diventi una gelatina vivente.                                                                                                                                        |
+| 40  | Fossa                         | Nel terreno si apre una fossa larga 3 metri e profonda 3 metri.                                                                                                      |
+| 41  | Frenesia                      | Una creatura vicina esplode in una frenesia di violenza.                                                                                                             |
+| 42  | Gazza                         | Un oggetto visibile si teletrasporta nelle tue mani.                                                                                                                 |
+| 43  | Identifica Proprietario       | Sull’oggetto che tocchi appaiono delle lettere che indicano il nome dei proprietari dell’oggetto, se ce ne sono.                                                     |
+| 44  | Illuminare                    | Una luce fluttuante si muove al tuo comando.                                                                                                                         |
+| 45  | Illusione sonora              | Crei dei suoni illusori che sembrano provenire da una direzione a tua scelta.                                                                                        |
+| 46  | Illusione visiva              | Appare un’illusione silenziosa, immobile e grande come una stanza, a tua scelta.                                                                                     |
+| 47  | Immagine speculare            | Appare un tuo duplicato illusorio sotto il tuo controllo.                                                                                                            |
+| 48  | Impulso primordiale           | Una creatura si evolve rapidamente in una versione futura della sua specie.                                                                                          |
+| 49  | Individuazione del Magico     | Puoi vedere o sentire le aure magiche vicine.                                                                                                                        |
+| 50  | Inversione di gravità         | Puoi cambiare la direzione della gravità, ma solo per te.                                                                                                            |
+| 51  | Ipnotizzare                   | Una creatura entra in trance e risponderà sinceramente a una domanda con un sì o un no.                                                                              |
+| 52  | Lama Incantata                | Una lama rotante vola dal tuo petto, eliminando qualsiasi materiale vegetale sul suo cammino. A parte questo, è innocua.                                             |
+| 53  | Legame Invisibile             | Due oggetti entro 3 metri l’uno dall’altro non possono essere spostati a più di 3 metri di distanza.                                                                 |
+| 54  | Leggere la Mente              | Puoi sentire i pensieri superficiali delle creature vicine.                                                                                                          |
+| 55  | Levitazione                   | Un oggetto che si libra, senza attrito, a 60 cm dal suolo. Può sostenere fino a un umanoide.                                                                         |
+| 56  | Mania delle biglie            | Le tue tasche sono piene di biglie e si riempiono nuovamente ogni secondo.                                                                                           |
+| 57  | Maniero                       | Un cottage robusto e arredato appare per ore. Puoi permettere e proibire l’ingresso ad esso a volontà.                                                               |
+| 58  | Marchio del Mago              | Il tuo dito può lanciare un flusso di vernice color ulfire. La vernice è visibile solo a te e può essere vista a qualsiasi distanza, anche attraverso oggetti solidi |
+| 59  | Mascherata                    | L’aspetto e la voce di un personaggio diventano identici a quelli di un personaggio che si tocca.                                                                    |
+| 60  | Miniaturizzare                | Una creatura che tocchi si rimpicciolisce fino alle dimensioni di un topo.                                                                                           |
+| 61  | Movimenti del Ragno           | Puoi arrampicarti sulle superfici come un ragno.                                                                                                                     |
+| 62  | Multibraccio                  | Guadagni temporaneamente un braccio in più.                                                                                                                          |
+| 63  | Muro Elementale               | Un muro di ghiaccio o di fuoco lungo 15 metri e alto 3 metri si innalza dal terreno.                                                                                 |
+| 64  | Nube di Nebbia                | Una densa nebbia si diffonde da te.                                                                                                                                  |
+| 65  | Occhio Arcano                 | Puoi vedere attraverso un bulbo oculare magico galleggiante che vola in giro al tuo comando.                                                                         |
+| 66  | Odio                          | Una creatura sviluppa un odio profondo verso un’altra creatura o un gruppo e desidera distruggerli.                                                                  |
+| 67  | Oggettivare                   | Diventi un qualsiasi oggetto inanimato tra le dimensioni di un pianoforte a coda e una mela.                                                                         |
+| 68  | Ordinare                      | Gli oggetti inanimati si ordinano secondo le categorie che hai impostato.                                                                                            |
+| 69  | Pacificare                    | Una creatura vicina a te ha un’avversione per la violenza.                                                                                                           |
+| 70  | Passaspecchi                  | Uno specchio diventa un passaggio per un altro specchio in cui hai guardato oggi.                                                                                    |
+| 71  | Percepire Oggetto             | Scegli un tipo di oggetto (chiave, oro, freccia, brocca, ecc.). Puoi avvertire l’esempio più vicino.                                                                 |
+| 72  | Portale                       | Si apre un portale verso un piano casuale.                                                                                                                           |
+| 73  | Prigione astrale              | Un oggetto è congelato nel tempo e nello spazio all’interno di un guscio di cristallo invulnerabile.                                                                 |
+| 74  | Ragnatela                     | I tuoi polsi possono lanciare ragnatele spesse.                                                                                                                      |
+| 75  | Repulsione                    | Due oggetti sono fortemente respinti magneticamente l’uno dall’altro nel raggio di 3 metri.                                                                          |
+| 76  | Risalita                      | Appare una sorgente di acqua di mare.                                                                                                                                |
+| 77  | Scambio                       | Due creature che riesci a vedere si scambiano istantaneamente di posto.                                                                                              |
+| 78  | Scambio di corpi              | Scambi il corpo con una creatura che tocchi. Se un corpo muore, muore anche l’altro.                                                                                 |
+| 79  | Sciame                        | Diventi uno stormo di corvi, uno sciame di ratti o un branco di piranha. Puoi essere danneggiato solo da attacchi di scoppio.                                        |
+| 80  | Scolpire Elementi             | Il materiale inanimato si comporta come l’argilla nelle tue mani.                                                                                                    |
+| 81  | Scudo                         | Una creatura che tocchi è protetta dagli attacchi ordinari per un minuto.                                                                                            |
+| 82  | Sfera notturna                | Una sfera di oscurità larga 15 metri raffigurante il cielo notturno appare davanti a voi.                                                                            |
+| 83  | Sigillo                       | Sul terreno appare un cerchio d’argento di 15 metri di diametro. Scegli una specie che non può attraversarlo.                                                        |
+| 84  | Smontare                      | Qualsiasi parte del tuo corpo può essere staccata e riattaccata a volontà, senza causare dolore o danni.                                                             |
+| 85  | Smorzatore Magico             | Tutti gli effetti magici nelle vicinanze sono dimezzati nella loro efficacia.                                                                                        |
+| 86  | Sonno                         | Una creatura che puoi vedere cade in un sonno leggero.                                                                                                               |                                                                                           |
+| 87  | Spegnere                      | La fonte di qualsiasi luce ordinaria che puoi vedere si spegne all’istante.
+| 88  | Spettacolo                    | Appare un’illusione a tua scelta, chiaramente falsa ma impressionante, sotto il tuo controllo. Può essere grande come un palazzo e ha pieno movimento e suono.       |
+| 89  | Spingere/Tirare               | Un oggetto di qualsiasi dimensione viene tirato direttamente verso di voi o spinto direttamente via da voi con la forza di un uomo.                                  |
+| 90  | Telecinesi                    | Puoi spostare mentalmente un oggetto sotto i 27 kg.                                                                                                                  |
+| 91  | Telepatia                     | Due creature possono sentire i pensieri gli uni degli altri, non importa quanto siano distanti.                                                                      |
+| 92  | Teletrasporto                 | Un oggetto o una persona che puoi vedere viene trasportato da un posto all’altro in un raggio di 15 metri.                                                           |
+| 93  | Terremoto                     | Il terreno inizia a tremare violentemente. Le strutture possono subire danni o crollare.                                                                             |
+| 94  | Tocco gelido                  | Uno spesso strato di ghiaccio si estende su una superficie toccata, fino a 3 metri di raggio.                                                                        |
+| 95  | Velo                          | Una creatura che tocchi è invisibile finché non si muove.                                                                                                            |
+| 96  | Velocità                      | La tua velocità di movimento è triplicata.                                                                                                                           |
+| 97  | Viscido                       | Ogni superficie nel raggio di 9 metri diventa estremamente scivolosa.                                                                                                |
+| 98  | Visione                       | Controlli completamente ciò che una creatura vede.                                                                                                                   |
+| 99  | Visione del Vero              | Vedi attraverso tutte le illusioni vicine.                                                                                                                           |
+| 100 | Vista a Raggi-XP              | uoi vedere attraverso i muri, la terra, i vestiti, ecc.                                                                                                              |
 
 ---
 
