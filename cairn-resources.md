@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Additional Resources
+title: Risorse addizionali
 nav_order: 4
 ---
 
-# Additional Resources
+# Risorse addizionali
 
-A growing collection of additional character sheets, links, adventures, etc.
+Una collezione in costante crescita di schede del personaggio, link, avventure, ecc.
 
-## Character Creation
+## Creazione del Personaggio
 [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) - Download as PDF or PNG
 
 [Online Character Keeper](https://docs.google.com/spreadsheets/d/1Ueq-v5XZ-mC1qFd81T0892RzRsr8WdgAG89M4ZXe5qM) (Google Sheets)
@@ -25,7 +25,7 @@ A growing collection of additional character sheets, links, adventures, etc.
 <p></p>
 
 
-## Adventures
+## Avventure
 [Hideous Daylight (converted)](https://docs.google.com/document/d/1P6yZTtamLkSKAruc_AlGktWwbUxRPtFdTreCnTAX3rE/edit)
 
 [Lair of the Serpent Prince (official conversion)](https://nakade.itch.io/lair-of-the-serpent-prince-cairn)
@@ -34,7 +34,7 @@ A growing collection of additional character sheets, links, adventures, etc.
 <p></p>
 
 
-### Monsters
+### Mostri
 [Tomb of the Serpent Kings Monsters](https://docs.google.com/document/d/16d1F-V0i1GrcYu0Ug2UfPC1Uy7FVbYef7sp1CqWTGLA/edit)
 
 [Xenio's old school monsters](https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html) (also [here](https://yochaigal.github.io/intotheodd/#xenio))
