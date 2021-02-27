@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Print
+title: Stamp
 nav_order: 2
 ---
 
 # Grab a print copy!
 
-A deluxe print edition of Cairn can be purchased from the following places:
+Un'edizione di stampa deluxe di Cairn può essere acquistata nei seguenti store:
 
 ## US
-- [Direct](https://gum.co/cairnrpg)
+- [Direttamente](https://gum.co/cairnrpg)
 - [Floating Chair](https://floatingchair.club/collections/zines/products/cairn)
 - [Spear Witch](https://spearwitch.com/collections/new-arrivals/products/cairn)
 - [Exalted Funeral](https://www.exaltedfuneral.com/products/cairn)
@@ -28,4 +28,4 @@ A deluxe print edition of Cairn can be purchased from the following places:
 - Sagen Editora (coming soon)
 
 ## EU
-- Still looking for distributors!
+- Ancora alla ricerca di distributori!
