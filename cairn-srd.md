@@ -339,40 +339,38 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Equipaggiamento da Spedizione
 
 |||||
-|---|---|---|---|
-|1  |Sacca d'Aria 					|6  |Olio di fuoco		|
-|2  |Antitossina  					|7  |Rampino 			|
-|3  |Carretto (+4 slot, ingombrante)|8  |Sacco grande 		|
-|4  |Catena (3m) 					|9  |Trappola grande 	|
-|5  |Bastone da rabdomante			|10 |Grimaldelli  		|
+|---|---|---|---|---|---|---|---|
+|1  |Sacca d'Aria 					        |6  |Olio di fuoco		|11  |Manette		      |16  |Corda (7,5m)		|
+|2  |Antitossina  					        |7  |Rampino 			    |12  |Piccone		      |17  |Amuleto		      |
+|3  |Carretto (+4 slot, ingombrante)|8  |Sacco grande 		|13  |Asta (3m)		    |18  |Cannocchiale		|
+|4  |Catena (3m) 					          |9  |Trappola grande 	|14  |Carrucola	      |19  |Acciarino	    	|
+|5  |Bastone da rabdomante			    |10 |Grimaldelli  		|15  |Repellente		  |20  |Aconito		      |
 
 #### Attrezzi
 
 |||||
 |---|---|---|---|
-|1  |Soffietto	|6  |Pentole  			|
-|2  |Secchio	|7  |Piede di Porco    	|
-|3  |Pinze   	|8  |Trapano (manuale)	|
-|4  |Gessetto	|9  |Canna da pesca 	|
-|5  |Cesello	|10 |Colla       		|
+|1  |Soffietto	                     |6  |Pentole  			    |11  |Grasso		      |16  |Rete (7,5m)		|
+|2  |Secchio	                       |7  |Piede di Porco    |12  |Martello		    |17  |Sega (7,5m)		|
+|3  |Pinze   	                       |8  |Trapano (manuale)	|13  |Clessidrea		  |18  |Sigillante (7,5m)		|
+|4  |Gessetto	                       |9  |Canna da pesca 	  |14  |Lima metallica  |19  |Pala (7,5m)		|
+|5  |Cesello	                       |10 |Colla       		  |15  |Chiodi		      |20  |Pinze (7,5m)		|
 
 #### Chincaglierie
 
 |||||
 |---|---|---|---|
-|1  |Bottiglia     		|6  |Corno 		|
-|2  |Mazzo di carte  	|7  |Incenso    |
-|3  |Set di dadi   		|8  |Strumento 	|
-|4  |Trucchi facciali 	|9  |Lente     	|
-|5  |Gioielli falsi 	|10 |Biglie    	|
+|1  |Bottiglia     		              |6  |Corno 		          |11  |Specchio		            |16  |Sapone (7,5m)		|
+|2  |Mazzo di carte  	              |7  |Incenso            |12  |Profumo		              |17  |Spugna (7,5m)		|
+|3  |Set di dadi   		              |8  |Strumento 	        |13  |Pennino e inchiostro		|18  |Vaso di pece (7,5m)		|
+|4  |Trucchi facciali 	            |9  |Lente     	        |14  |Pacchetto di sale		    |19  |Spago (7,5m)		|
+|5  |Gioielli falsi 	              |10 |Biglie    	        |15  |Campanella		          |20  |Fischietto (7,5m)		|
 
 #### Oggetto bonus (tira sulla tabella indicata)
 
 | 1-5 | 6-13 | 14-17 | 18-20 |
 | --- | --- | --- | --- |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
-
-
 
 ### Libri degli Incantesimi (d100)
 
@@ -403,8 +401,6 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |23 |Smontare						|48 | Smorzatore Magico			|73 | Scambio				|98 |Aggeggio 				|
 |24 |Camuffamento					|49 | Maniero					|74 | Sonno					|99 |Marchio del Mago 		|
 |25 |Dislocare						|50 | Mania delle Biglie		|75 | Viscido				|100|Vista a Raggi-X 		|	
-
-
 
 
 ### Equipaggiamento (Prezzi in pezzi d’oro)  
@@ -605,7 +601,7 @@ Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode
 ### Morale
 I nemici devono superare un tiro salvezza di VOL per evitare di fuggire quando subiscono la prima vittima e ancora quando perdono metà del loro numero. Alcuni gruppi possono usare la VOL del loro leader al posto della propria. Un nemico solitario deve effettuare un tiro salvezza quando è ridotto a 0PF. Il morale non ha effetto sui PG.
 
-### Hirelings
+### Mercenari
 I PG possono assoldare dei **mercenari** per aiutarli nelle loro spedizioni. Per creare un mercenario, tira 3d6 per ogni punteggio di abilità, poi dagli 1d6 PF e un’arma semplice (d6), poi tira sulle tabelle **Creazione del Personaggio** per dargli ulteriore corpo. I mercenari costano da 1 a 3 po al giorno, o una parte del tesoro che il gruppo ottiene.
 
 ### Ricchezza e Tesoro
@@ -614,8 +610,6 @@ La moneta più comune è il pezzo d’oro (po), che equivale a 10 pezzi d’arge
 Il tesoro è molto prezioso, di solito ingombrante, e raramente utile al di là del suo valore. Può essere un’esca, conducendo i PG in luoghi esotici e persino pericolosi, ed è spesso sotto la protezione di nemici minacciosi.
 
 Villaggi, roccaforti e porti di approdo barattano e commerciano in base alla rarità e al valore locale di un oggetto o di una merce.
-rade based on the local rarity and value of an item or commodity.
-
 
 ### Libri degli incantesimi e Pergamene
 I **Libri degli Incantesimi** contengono un singolo incantesimo e occupano uno slot. Non possono essere trascritti o creati; vengono invece ritrovati in luoghi come tombe, sotterranei e manieri.
@@ -640,7 +634,6 @@ Le **Reliquie** sono oggetti intrisi da un incantesimo o da un potere magico. No
 - **Amico del falconiere**, 1 carica. Una bacchetta a forma di dardo che permette di lanciare l’incantesimo Velocità. Ricarica: sparala da una balestra e recuperala.
 - **Bastone del Silenzio**, 1 carica. Questa bacchetta annerita disattiva temporaneamente tutta la magia nel raggio di 15 metri. Ricarica: immergiti nella luce della luna piena.
 - **Cappelverde**, 1 utilizzo. Chiunque ingerisca questo fungo dal colore verde perde una Fatica, ma deve poi effettuare un tiro salvezza in VOL per evitarne la dipendenza. Un fallimento rende il PG esausto e incapace di concentrarsi fino a quando non può mangiare un altro Cappelverde, fornendo solo una breve tregua dalla dipendenza.
-
 
 ### Combattimento
 
@@ -927,6 +920,14 @@ Un momento di riposo e un sorso d’acqua ripristinano la PF persi, ma possono l
 I libri degli incantesimi contengono un singolo incantesimo e occupano uno slot oggetto. Chiunque può lanciare un incantesimo tenendo un libro degli incantesimi in entrambe le mani e leggendone il contenuto ad alta voce. Lanciare un incantesimo aggiunge Fatica all’inventario del PG.
 
 Dati tempo e sicurezza, i PG possono migliorare un incantesimo senza alcun costo aggiuntivo. Se sono esausti o in pericolo, può essere richiesto un tiro salvezza VOL per evitare conseguenze terribili.
+
+## Azioni
+Durante il proprio turno, un personaggio può muoversi fino a 12 m e fare al più un’azione. Le azioni possono includere lanciare un incantesimo, attaccare, fare un
+secondo movimento o altre attività simili. Azioni, attacchi e movimenti avvengono simultaneamente.
+
+Se l’ordine di turno è incerto, I PG devono fare un tiro salvezza in DES per vedere se agiscono prima dei loro nemici.
+
+**Scappare** da una situazione pericolosa richiede sempre un successo su DES, e un destinazione sicura verso cui correre.
 
 ## Combattimento
 L’attaccante tira il dado della sua arma e sottrae l’Armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario.
