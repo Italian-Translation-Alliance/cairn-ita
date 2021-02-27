@@ -6,6 +6,8 @@ nav_order: 2
 
 # Cairn System Reference Document
 
+[TOC]
+
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 - [repo in lingua originale](https://github.com/yochaigal/cairn)
@@ -212,6 +214,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 ### Tratti del Personaggio (d10)
 
 #### Fisico
+
 |||||
 |---|---|---|---|
 | 1	| Atletico 		| 6    | Gracile    |
@@ -221,6 +224,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Massiccio   	| 10   | Imponente	|
 
 #### Pelle
+
 |||||
 |---|---|---|---|
 | 1	| Voglia  	| 6    | Morbida	|
@@ -230,6 +234,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Rosea     | 10   | Segnata 	|
 
 #### Capelli
+
 |||||
 |---|---|---|---|
 | 1	| Calvo			| 6    | Lunghi		|
@@ -239,6 +244,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Crespi  		| 10   | Sparsi     |
 
 #### Faccia
+
 |||||
 |---|---|---|---|
 | 1	| Ossuta	| 6    | Perfetta  	|
@@ -248,6 +254,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 5	| Pallida	| 10   | Infossata  |
 
 #### Parlata
+
 |||||
 |---|---|---|---|
 | 1	| Schietta		| 6    | Greve   		|
@@ -286,7 +293,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Bugiardo  	| 9    | Vanitoso     	|
 | 5	| Avido     	| 10   | Vendicativo 	|
 
-#### Reputation
+#### Reputazione
 
 |||||
 |---|---|---|---|
@@ -321,7 +328,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 |||||
 | :---: | :---: | :---: | :---: |
-|       1-13        | 14-16  | 17-19  |       20        |
+| 1-13 | 14-16 | 17-19  | 20 |
 | Nessuna | Elmo | Scudo | Elmo e Scudo |
 
 #### Armi
@@ -370,6 +377,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 
 ### Libri degli Incantesimi (d100)
+
 |||||||||
 |---|---|---|---|---|---|---|---|
 |1  |Adesione						|26 | Terremoto					|51 | Mascherata			|76 |Forma di Fumo 			|
@@ -461,7 +469,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 ### Pacchetti opzionali di Equipaggiamento
 
-|Rabdomante|
+#### Rabdomante
+
+||
 |---|
 |Falcetto (d6) 								|
 |Farsetto Patchwork (+1 Armatura) 			|
@@ -470,7 +480,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Mappa usurata 								|
 |Cannocchiale 								|
 
-|Nano|
+#### Nano
+
+||
 |---|
 |Radice spinosa (d6) 						|
 |Cotta di Pigne (1 Armatura) 				|
@@ -479,7 +491,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Fungo Velenoso 							|
 |Trapano a mano 							|
 
-|Elfo|
+#### Elfo
+
+||
 |---|
 |Spada Elegante (d8) |
 |Arco Ricurvo (d8) |
@@ -488,7 +502,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Flauto d’oro |
 |Sacca d'Aria |
 
-|Guerriero|
+#### Guerriero
+
+||
 |---|
 |Falcione (d10, ingombrante) |
 |Scimitarra (d8) |
@@ -496,7 +512,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Sacchetto di tabacco e pipa |
 |Set di Dadi |
 
-|Frate|
+#### Frate
+||
 |---|
 |Scettro (d6) |
 |Abiti ingannevoli (+1 Armatura) |
@@ -505,7 +522,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Libretto di Canzoni |
 |Carretto (+4 slot, ingombrante) |
 
-| Cavaliere	|
+#### Cavaliere
+
+||
 | -------------------------- |
 |Spada lunga (d8, ingombrante) |
 |Cotta di Maglia (2 Armatura, ingombrante) |
@@ -514,7 +533,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Manette |
 |Corda sottile |
 
-|Incantatore|
+#### Incantatore
+
+||
 |-----------------------------------------|
 |Bastone infuocato (d8, ingombrante) |
 |Pugnale (d6) |
@@ -523,7 +544,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Abbigliamento lacero (tasche nascoste) |
 |Cappelverde (x2, vedi Reliquie) |
 
-|Ladro|
+#### Ladro
+
+||
 |-----------------------------------------|
 |Due pugnali (d6+d6) |
 |Farsetto con cappuccio (1 Armatura) |
@@ -532,7 +555,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Rampino |
 |Lima di metallo |
 
-|Ranger|
+#### Ranger
+
+||
 |-----------------------------------------|
 |Arco lungo (d8, ingombrante) |
 |Accetta (d6) |
