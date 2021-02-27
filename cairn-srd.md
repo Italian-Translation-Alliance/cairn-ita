@@ -6,8 +6,6 @@ nav_order: 2
 
 # Cairn System Reference Document
 
-[TOC]
-
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 - [repo in lingua originale](https://github.com/yochaigal/cairn)
