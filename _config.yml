@@ -4,3 +4,5 @@ logo: "/img/logo.png"
 color_scheme: light
 plugins:
   - jekyll-redirect-from
+
+theme: jekyll-theme-cayman
