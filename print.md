@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Stamp
+title: Versione Stampata
 nav_order: 2
 ---
 
-# Grab a print copy!
+# Acquista una copia stampata!
 
 Un'edizione di stampa deluxe di Cairn può essere acquistata nei seguenti store:
 
