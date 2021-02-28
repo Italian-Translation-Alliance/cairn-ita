@@ -16,6 +16,17 @@ nav_order: 2
 **Cairn** è un gioco di avventura per un facilitatore (il **Custode**) e almeno un altro giocatore. 
 I giocatori interpretano avventurieri temprati che esplorano un Bosco oscuro e misterioso pieno di personaggi strani, tesori nascosti e mostruosità indicibili.
 
+## Indice
+- [Panoramica](#panoramica)
+- [Principi per i Custodi](#principi-per-i-custodi)
+- [Principi per i Giocatori](#principi-per-i-giocatori)
+- [Creazione del Personaggio](#creazione-del-personaggio)
+- [Equipaggiamento](#equipaggiamento-prezzi-in-pezzi-doro)
+- [Regolamento](#regolamento)
+- [Bestiario](#bestiario)
+- [100 Incantesimi](#100-incantesimi)
+- [Riassunto delle Regole](#riassunto-delle-regole)
+
 ## Panoramica
 
 **Cairn** è stato scritto secondo le seguenti filosofie di progettazione:
@@ -43,6 +54,8 @@ Sia il Custode che i giocatori hanno delle linee guida che aiutano a promuovere 
 
 ### Obiettivi Condivisi
 I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambientazione condivisa, negli obiettivi dei personaggi e nelle sfide di gruppo. Per questo motivo, solitamente il gruppo lavora di squadra verso un obiettivo comune.
+
+[vai all'indice](#indice)
 
 ## Principi per i Custodi
 ### Informazioni
@@ -91,6 +104,8 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - In queste situazioni, tira 1d6. Un risultato di 4 o più generalmente favorisce i giocatori.
 - Un lancio di 3 o meno tende a rappresentare sfortuna per i PG o i loro alleati.
 
+[vai all'indice](#indice)
+
 ## Principi per i Giocatori
 ### Libertà d’azione
 - Gli attributi e i relativi tiri salvezza non definiscono il tuo personaggio. Sono soltanto strumenti.
@@ -122,6 +137,8 @@ I giocatori contano l'uno sull'altro al fine di sentirsi coinvolti nell’ambien
 - Stabilisci degli obiettivi e usa i tuoi pochi mezzi per fare dei passi avanti.
 - Non aspettarti nulla. Guadagnati la tua reputazione.
 - Mantieni le situazioni sempre in movimento e gioca per vedere cosa succede.
+
+[vai all'indice](#indice)
 
 
 ## Creazione del Personaggio
@@ -165,6 +182,7 @@ Vedi la **Lista di equipaggiamento** per i valori di armatura, danno e slot rela
 
 Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla lista dei **Pacchetti di equipaggiamento opzionali**.
 
+[vai all'indice](#indice)
 
 ### Nome e Background (d20)
 
@@ -311,7 +329,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 4	| Condannato   	| 9		| Ripudiato		|
 | 5	| Maledetto		| 10	| Esiliato      |
 
-
+[vai all'indice](#indice)
 
 ### Equipaggiamento di Partenza (d20)
 
@@ -402,6 +420,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 24 | Controllare il Tempo | 49 | Individuazione del Magico     | 74 | Ragnatela           | 99  | Visione del Vero  |
 | 25 | Controllare Piante   | 50 | Inversione di Gravità         | 75 | Repuslione          | 100 | Vista a Raggi-X   |	
 
+[vai all'indice](#indice)
 
 ### Equipaggiamento (Prezzi in pezzi d’oro)  
 
@@ -460,6 +479,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Incenso                     		|10	|Torcia       						|1	|
 |Scala (ingombrante, 3m)           	|10	|Carro  (+8 slot, lento) 			|200|
 |Lanterna e Olio                   	|10	|Aconito       						|10	|
+
+[vai all'indice](#indice)
 
 ### Pacchetti opzionali di Equipaggiamento
 
@@ -561,6 +582,8 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Segugio - 2 PF, 12 DES, morso (d6) |
 |Corno tonante |
 
+[vai all'indice](#indice)
+
 ---
 
 ## Regolamento
@@ -636,6 +659,8 @@ Le **Reliquie** sono oggetti intrisi da un incantesimo o da un potere magico. No
 - **Amico del falconiere**, 1 carica. Una bacchetta a forma di dardo che permette di lanciare l’incantesimo Velocità. Ricarica: sparala da una balestra e recuperala.
 - **Bastone del Silenzio**, 1 carica. Questa bacchetta annerita disattiva temporaneamente tutta la magia nel raggio di 15 metri. Ricarica: immergiti nella luce della luna piena.
 - **Cappelverde**, 1 utilizzo. Chiunque ingerisca questo fungo dal colore verde perde una Fatica, ma deve poi effettuare un tiro salvezza in VOL per evitarne la dipendenza. Un fallimento rende il PG esausto e incapace di concentrarsi fino a quando non può mangiare un altro Cappelverde, fornendo solo una breve tregua dalla dipendenza.
+
+[vai all'indice](#indice)
 
 ### Combattimento
 
@@ -885,6 +910,8 @@ Il dado dei danni è più o meno lo stesso, ma gli attacchi con le armi fanno al
 | 99  | Visione del Vero              | Vedi attraverso tutte le illusioni vicine.                                                                                                                           |
 | 100 | Vista a Raggi-XP              | uoi vedere attraverso i muri, la terra, i vestiti, ecc.                                                                                                              |
 
+[vai all'indice](#indice)
+
 ---
 
 # Riassunto delle Regole
@@ -939,3 +966,5 @@ Se un attacco porta la PF di un PG esattamente a 0, il giocatore tira sulla tabe
 I danni che riducono la PF di un bersaglio **sotto** 0 diminuiscono del valore rimanente la sua FOR. Devono quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Il fallimento li mette fuori combattimento e, se non curati, muoiono. 
 
 Avere FOR 0 significa **morte**; avere DES 0 è **paralisi**; avere VOL 0 è **delirio**.
+
+[vai all'indice](#indice)
