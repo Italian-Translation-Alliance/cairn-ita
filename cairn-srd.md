@@ -4,6 +4,9 @@ title: SRD
 nav_order: 2
 ---
 
+* TOC
+{:toc}
+
 # Cairn System Reference Document
 
 **Cairn** è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
