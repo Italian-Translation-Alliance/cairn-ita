@@ -594,8 +594,9 @@ Scudi, guanti d’arme ed elmi possono fornire ulteriori benefici a seconda del 
 ### Reazioni
 Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode può tirare 2d6 e consultare la seguente tabella:
 
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
+| | | | | |
 | :-----: | :--: | :-----: | :--: | ------- |
+|    2    | 3-5  |   6-8   | 9-11 | 12      |
 | Ostile | Diffidente | Curioso | Gentile | Utile |
 
 ### Morale
