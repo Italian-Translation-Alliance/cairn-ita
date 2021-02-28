@@ -507,6 +507,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Set di Dadi |
 
 #### Frate
+
 ||
 |---|
 |Scettro (d6) |
@@ -519,7 +520,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Cavaliere
 
 ||
-| -------------------------- |
+|---|
 |Spada lunga (d8, ingombrante) |
 |Cotta di Maglia (2 Armatura, ingombrante) |
 |Elmo (+1 Armatura) |
@@ -530,7 +531,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Incantatore
 
 ||
-|-----------------------------------------|
+|---|
 |Bastone infuocato (d8, ingombrante) |
 |Pugnale (d6) |
 |Libro degli Incantesimi (incantesimo casuale) |
@@ -541,7 +542,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Ladro
 
 ||
-|-----------------------------------------|
+|---|
 |Due pugnali (d6+d6) |
 |Farsetto con cappuccio (1 Armatura) |
 |Grimaldelli |
@@ -552,7 +553,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 #### Ranger
 
 ||
-|-----------------------------------------|
+|---|
 |Arco lungo (d8, ingombrante) |
 |Accetta (d6) |
 |Cuoio Imbottito (1 Armatura) |
