@@ -700,19 +700,18 @@ Quando un attacco riduce la PF di un PG esattamente a 0, ne subisce l’impatto 
 
 |	|	|
 |---|---|
-|1	| Cicatrice permanente: Tira 1d6, 1: Collo, 2: Mani, 3: Occhio, 4: Petto, 5: Game, 6: Orecchio. Tira 1d6. Se il totale è maggiore della tua PF massima, tieni il nuovo risultato. |
-|2	| Colpo sferzante: Sei disorientato e scosso. Descrivi come recuperi la concentrazione. Tira 1d6. Se il totale è maggiore della tua PF massima, tieni il nuovo risultato. |
-|3	| Sbattuto: Vieni lanciato in volo e atterri a faccia in giù, senza fiato. Sei esausto finché non ti riposi per qualche ora. Poi, tira 1d6. Aggiungi questo valore alla tua PF massimo. |
-|4	| Arto Rotto: Tira 1d6, 1-2: Gamba, 3-4: Braccio, 5: Costola, 6: Cranio. Una volta guariti, tira 2d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
-|5	| Malato: Sei afflitto da una disgustosa e fastidiosa infezione. Quando la superi, tira 2d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
-|6	| Ferita alla Testa disorientante: Tira 1d6, 1-2: FOR, 3-4: DES, 5-6: VOL. Tira 3d6. Se il totale è superiore al tuo attuale punteggio di abilità, prendi il nuovo risultato. |
-|7	| Ostacolato: Riesci a malapena a muoverti finché non ricevi un aiuto adeguato e ti riposi. Dopo esserti ripreso, tira 3d6. Se il totale è superiore al tuo DES massima, prendi il nuovo risultato. |
-|8	| Assordato: Non riesci a sentire nulla finché non trovi un aiuto straordinario. In ogni caso, effettua un tiro salvezza di VOL. Se lo superi, aumenta il tuo VOL massimo di 1d4. |
-|9	| Traumatizzato: Una parte nascosta della tua psiche viene messa fuori gioco. Tira 3d6. Se il totale è superiore al tuo VOL massimo, prendi il nuovo risultato. |
-|10	| Abbattuto: Un'appendice è strappata, storpiata o inutile. Il Custode ti dirà quale. Poi, fai un tiro salvezza VOL. Se lo superi, aumenta il tuo VOL massimo di 1d6. |
-|11	| Ferita Mortale: Sei esaurito e fuori combattimento. Muori entro un'ora se non sei guarito. Al momento del recupero, tira 2d6. Tieni il nuovo risultato come tua PF massima. |
-|12	| Condannato: La morte sembrava così vicina, ma in qualche modo sei sopravvissuto. Se il tuo prossimo tiro salvezza contro danno critico è un fallimento, muori orribilmente. Se lo superi, tira 3d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
-
+|1	| **Cicatrice permanente**: Tira 1d6, 1: Collo, 2: Mani, 3: Occhio, 4: Petto, 5: Game, 6: Orecchio. Tira 1d6. Se il totale è maggiore della tua PF massima, tieni il nuovo risultato. |
+|2	| **Colpo sferzante**: Sei disorientato e scosso. Descrivi come recuperi la concentrazione. Tira 1d6. Se il totale è maggiore della tua PF massima, tieni il nuovo risultato. |
+|3	| **Sbattuto**: Vieni lanciato in volo e atterri a faccia in giù, senza fiato. Sei esausto finché non ti riposi per qualche ora. Poi, tira 1d6. Aggiungi questo valore alla tua PF massimo. |
+|4	| **Arto Rotto**: Tira 1d6, 1-2: Gamba, 3-4: Braccio, 5: Costola, 6: Cranio. Una volta guariti, tira 2d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
+|5	| **Malato**: Sei afflitto da una disgustosa e fastidiosa infezione. Quando la superi, tira 2d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
+|6	| **Ferita alla Testa disorientante**: Tira 1d6, 1-2: FOR, 3-4: DES, 5-6: VOL. Tira 3d6. Se il totale è superiore al tuo attuale punteggio di abilità, prendi il nuovo risultato. |
+|7	| **Ostacolato**: Riesci a malapena a muoverti finché non ricevi un aiuto adeguato e ti riposi. Dopo esserti ripreso, tira 3d6. Se il totale è superiore al tuo DES massima, prendi il nuovo risultato. |
+|8	| **Assordato**: Non riesci a sentire nulla finché non trovi un aiuto straordinario. In ogni caso, effettua un tiro salvezza di VOL. Se lo superi, aumenta il tuo VOL massimo di 1d4. |
+|9	| **Traumatizzato**: Una parte nascosta della tua psiche viene messa fuori gioco. Tira 3d6. Se il totale è superiore al tuo VOL massimo, prendi il nuovo risultato. |
+|10	| **Abbattuto**: Un'appendice è strappata, storpiata o inutile. Il Custode ti dirà quale. Poi, fai un tiro salvezza VOL. Se lo superi, aumenta il tuo VOL massimo di 1d6. |
+|11	| **Ferita Mortale**: Sei esaurito e fuori combattimento. Muori entro un'ora se non sei guarito. Al momento del recupero, tira 2d6. Tieni il nuovo risultato come tua PF massima. |
+|12	| **Condannato**: La morte sembrava così vicina, ma in qualche modo sei sopravvissuto. Se il tuo prossimo tiro salvezza contro danno critico è un fallimento, muori orribilmente. Se lo superi, tira 3d6. Se il totale è superiore al tuo PF massimo, prendi il nuovo risultato. |
 
 ## Bestiario
 
