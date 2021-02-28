@@ -16,3 +16,8 @@ td {
 thead{
   display: none;
 }
+
+tbody tr:last-of-type td{
+  padding-bottom: .35rem;
+}
+
