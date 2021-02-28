@@ -386,8 +386,9 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 #### Oggetto bonus (tira sulla tabella indicata)
 
-| 1-5 | 6-13 | 14-17 | 18-20 |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| 1-5 | 6-13 | 14-17 | 18-20 |
 | Attrezzo o Chincaglieria  | Equipaggiamento da Spedizione | Armatura o Arma | Libro degli incantesimi |
 
 ### Libri degli Incantesimi (d100)
