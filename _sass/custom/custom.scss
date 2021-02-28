@@ -3,7 +3,9 @@ tr:nth-child(even) td{
 }
   
 th, td {
-    min-width: initial;
+  min-width: initial;
+  padding-top: .35rem;
+  padding-bottom: .35rem;
 }
 
 td {
