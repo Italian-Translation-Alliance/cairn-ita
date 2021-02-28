@@ -558,7 +558,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Accetta (d6) |
 |Cuoio Imbottito (1 Armatura) |
 |Trappola grande |
-|Segugio | 2 PF, 12 DES, morso (d6) |
+|Segugio - 2 PF, 12 DES, morso (d6) |
 |Corno tonante |
 
 ---
