@@ -23,4 +23,4 @@ Vedi la pagina [Versione Stampata](/print.md) per ulteriori informazioni.
 
 <p></p>
 
-<img src="https://idolofmanyhands.github.io/cairn-ita/img/cairn.png" style="zoom:50%;" />
+<img src="https://idolofmanyhands.github.io/cairn-ita/img/cairn.png" style="zoom:30%;" />
