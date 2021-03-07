@@ -10,8 +10,9 @@ nav_order: 2
 
 - [repo in lingua originale](https://github.com/yochaigal/cairn)
 - [repo italiana](https://github.com/idolofmanyhands/cairn-ita)
-- puoi scaricare il gioco in lingua originale da [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) o da [itch.io](https://yochaigal.itch.io/cairn)
-- altri [formati](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluso Word, Affinity, Google Docs, ecc).
+- puoi scaricare il gioco in _lingua italiana_ da [itch-io](https://idolofmanyhands.itch.io/cairn-ita) e [Google Drive](https://drive.google.com/drive/folders/1HMw_tJSakb5ojPDtcMx9JxEYPCMEyykk?usp=sharing)
+- puoi scaricare il gioco in _lingua originale_ da [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) o da [itch.io](https://yochaigal.itch.io/cairn)
+- altri [formati] in _lingua originale_ (https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluso Word, Affinity, Google Docs, ecc).
 
 **Cairn** è un gioco di avventura per un facilitatore (il **Custode**) e almeno un altro giocatore. 
 I giocatori interpretano avventurieri temprati che esplorano un Bosco oscuro e misterioso pieno di personaggi strani, tesori nascosti e mostruosità indicibili.
