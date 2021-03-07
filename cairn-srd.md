@@ -554,7 +554,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 ||
 |---|
-|Bastone infuocato (d8, ingombrante) |
+|Bastone affievolito (d8, ingombrante) |
 |Pugnale (d6) |
 |Libro degli Incantesimi (incantesimo casuale) |
 |Libro degli Incantesimi (incantesimo casuale) |
