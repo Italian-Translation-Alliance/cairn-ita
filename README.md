@@ -14,7 +14,7 @@ permalink: /
 - Traduzione Italiana: [Stefano Grassi](https://twitter.com/FabulousFreak)
 - Revisione Italiana: [OSR Italia, Facebook](https://www.facebook.com/groups/osritalia/), [Ruling the Game, Telegram](http://t.me/osritalia) ed in particolare Francisco Pettigiani, Roberto Bisceglie, Yuri Zanelli, Barakiel The Archangel.
 
-Il [sito ufficiale](http://cairnrpg.com/) in lingua inglese.
+Il [sito ufficiale](http://cairnrpg.com/) in lingua inglese.  
 La versione PDF è disponibile gratuitamente su [Itch.io](https://idolofmanyhands.itch.io/cairn-ita) e [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
 Il testo integrale è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it).  
 Il sorgente in formato [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) è disponibile nei download.
