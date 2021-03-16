@@ -487,27 +487,27 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 ### Pacchetti opzionali di Equipaggiamento
 
-#### Rabdomante
+#### Cavaliere
 
 ||
 |---|
-|Falcetto (d6) 								|
-|Farsetto Patchwork (+1 Armatura) 			|
-|Bastone da Rabdomante 						|
-|Occhio d’Agata (Percepire Oggetto se posizionato in acqua fresca) 	|
-|Mappa usurata 								|
-|Cannocchiale 								|
+|Spada lunga (d8, ingombrante) |
+|Cotta di Maglia (2 Armatura, ingombrante) |
+|Elmo (+1 Armatura) |
+|Mantello araldico |
+|Manette |
+|Corda sottile |
 
-#### Nano
+#### Chierico
 
 ||
 |---|
-|Radice spinosa (d6) 						|
-|Cotta di Pigne (1 Armatura) 				|
-|Cazzuola 									|
-|Barattolo con Formiche della Foresta 		|
-|Fungo Velenoso 							|
-|Trapano a mano 							|
+|Martello da Guerra (d10, ingombrante)|
+|Cotta di maglia (2 Armatura, ingombrante)|
+|Guanti d'arme (+1 Armatura)|
+|Lama ricurva (d8)|
+|Simbolo sacro (Sigillo, uno al giorno)|
+|Mantello dell'Ordine|
 
 #### Elfo
 
@@ -520,16 +520,6 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Flauto d’oro |
 |Sacca d'Aria |
 
-#### Guerriero
-
-||
-|---|
-|Falcione (d10, ingombrante) |
-|Scimitarra (d8) |
-|Spada corta (d6) |
-|Sacchetto di tabacco e pipa |
-|Set di Dadi |
-
 #### Frate
 
 ||
@@ -541,16 +531,15 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Libretto di Canzoni |
 |Carretto (+4 slot, ingombrante) |
 
-#### Cavaliere
+#### Guerriero
 
 ||
 |---|
-|Spada lunga (d8, ingombrante) |
-|Cotta di Maglia (2 Armatura, ingombrante) |
-|Elmo (+1 Armatura) |
-|Mantello araldico |
-|Manette |
-|Corda sottile |
+|Falcione (d10, ingombrante) |
+|Scimitarra (d8) |
+|Spada corta (d6) |
+|Sacchetto di tabacco e pipa |
+|Set di Dadi |
 
 #### Incantatore
 
@@ -574,6 +563,17 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Rampino |
 |Lima di metallo |
 
+#### Nano
+
+||
+|---|
+|Radice spinosa (d6) 						|
+|Cotta di Pigne (1 Armatura) 				|
+|Cazzuola 									|
+|Barattolo con Formiche della Foresta 		|
+|Fungo Velenoso 							|
+|Trapano a mano 							|
+
 #### Ranger
 
 ||
@@ -584,6 +584,18 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 |Trappola grande |
 |Segugio - 2 PF, 12 DES, morso (d6) |
 |Corno tonante |
+
+#### Rabdomante
+
+||
+|---|
+|Falcetto (d6) 								|
+|Farsetto Patchwork (+1 Armatura) 			|
+|Bastone da Rabdomante 						|
+|Occhio d’Agata (Percepire Oggetto se posizionato in acqua fresca) 	|
+|Mappa usurata 								|
+|Cannocchiale 								|
+
 
 [vai all'indice](#indice)
 
