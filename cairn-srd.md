@@ -503,7 +503,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 ||
 |---|
 |Martello da Guerra (d10, ingombrante)|
-|Cotta di maglia (2 Armatura, ingombrante)|
+|Cotta di Maglia (2 Armatura, ingombrante)|
 |Guanti d'arme (+1 Armatura)|
 |Lama ricurva (d8)|
 |Simbolo sacro (Sigillo, uno al giorno)|
