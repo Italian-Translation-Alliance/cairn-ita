@@ -11,7 +11,7 @@ nav_order: 2
 - [sito ufficiale](http://cairnrpg.com/) in lingua inglese
 - [repo in lingua inglese](https://github.com/yochaigal/cairn)
 - [repo italiana](https://github.com/idolofmanyhands/cairn-ita)
-- puoi scaricare il gioco in _lingua italiana_ da [itch-io](https://idolofmanyhands.itch.io/cairn-ita) e [Google Drive](https://drive.google.com/drive/folders/1HMw_tJSakb5ojPDtcMx9JxEYPCMEyykk?usp=sharing)
+- puoi scaricare il gioco in _lingua italiana_ da [itch-io](https://idolofmanyhands.itch.io/cairn-ita) e [Google Drive](https://drive.google.com/drive/u/0/folders/1PtMksWEeUn0mISXze9Zm22QCG6L5p8Da)
 - puoi scaricare il gioco in _lingua inglese da [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) o da [itch.io](https://yochaigal.itch.io/cairn)
 - altri [formati](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) in _lingua originale_ (incluso Word, Affinity, Google Docs, ecc).
 
