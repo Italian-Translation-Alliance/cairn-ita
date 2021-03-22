@@ -6,7 +6,7 @@ nav_order: 1
 nav_exclude: true
 ---
 
-<a href='#/' id='expAll' class='exp'>Expand All</a>
+<a href='#/' id='expAll' class='exp'>Expand/Collapse All Examples</a>
 
 # Frequently Asked Questions
 ---
