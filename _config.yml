@@ -9,7 +9,7 @@ plugins:
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Torna su"
 
 footer_content: "Il testo presente in questa pagina è sotto licenza <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
 # Footer last edited timestamp
