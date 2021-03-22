@@ -200,10 +200,10 @@ xa.addEventListener('click', function(e) {
 
   Array.from(details).forEach(function(obj, idx) {
     if (e.target.classList.contains('exp')) {
-      obj.open = true;
-    } else {
       obj.open = false;
+    } else {
+      obj.open = true;
     }
   });
-}, true);
+}, false);
 </script>
