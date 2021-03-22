@@ -205,5 +205,5 @@ xa.addEventListener('click', function(e) {
       obj.open = false;
     }
   });
-}, false);
+}, true);
 </script>
