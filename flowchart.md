@@ -17,7 +17,7 @@ flowchart TD
     M -->Q[Standard]
     end
     subgraph three [" "]
-    R["Damage<br>#40;Dmg-Armor#41;-HP"]
+    R["Deal Damage<br>#40;Dmg-Armor#41;-HP"]
     R --> |HP > 0| S[done]
     R --> |HP = 0| T[PC: roll scars<br>Lone foe: Morale check]
     R --> |HP < 0| U[subtract STR<br>Lone foe: Morale check]
