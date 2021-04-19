@@ -4,28 +4,42 @@
 
 ```mermaid
 
-graph TD
-    E[Fight] --> G{Dmg<br>Die?}
-    G -->|disadvange?| H[impaired 1d4]
-    G -->|advange?| I[enhanced 1d12]
+flowchart TD
+    E[Fight] --> G{Dmg<br>Die}
+    subgraph one [" "]
+    G -->|impaired| H[1d4]
+    G -->|enhanced| I[1d12]
     G -->|standard| L[weapon die]
-    H --> M{Atk<br>Type?}
-    I --> M
-    L --> M  
-    M -->|Dual weapon| N[Pick best roll]
-    M -->|Multiple Attackers| N
+    end
+    one --> two
+    subgraph two  [" "]
+    M{Atk<br>Type?}
+    M -->|Multiple Attackers<br>Dual Weapon| N[Pick best roll]
     M -->|Blast| P[Roll for each target]
     M -->Q[Standard]
-    N --> R{"#40;Dmg-Armor#41;-HP"} 
-    P --> R
-    Q --> R
+    end
+    subgraph three [" "]
+    R["Damage<br>#40;Dmg-Armor#41;-HP"]
     R --> |HP > 0| S[done]
-    R --> |HP = 0| T[roll scars]
-    R --> |HP < 0| U[subtract STR]
-    U --> |STR > 0| W{Crit?<br>STR save}
-    U --> |STR =< 0| Z[death]
+    R --> |HP = 0| T[PC: roll scars<br>Lone foe: Morale check]
+    R --> |HP < 0| U[subtract STR<br>Lone foe: Morale check]
+    end
+    two --> three
+    subgraph four [" "]
+    W{"Crit?<br>#40;STR save#41;"}
     W --> |success?| 1["done"]
     W --> |fail?| 2["crit"]
+    end
+    U --> |STR > 0| four
+    U --> |STR =< 0| Z[death]
+    Z --> 3{first casualty?<br>OR<br>half group?}
+    subgraph five [" "]
+    3 --> |yes| 4["Morale check<br>#40;WIL save#41;"]
+    4 --> |success?| 6["done"]
+    4 --> |fail?| 7["flee"]
+    end
+    3 --> |no| 5[done]
+ classDef default text-align:center
    
 ```
 
