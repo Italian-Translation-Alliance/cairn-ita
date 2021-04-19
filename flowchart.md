@@ -42,21 +42,23 @@ flowchart TD
 
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  <script>
-  var config = {
-      startOnLoad:true,
-      theme: 'default',
-      flowchart:{
-              useMaxWidth:false,
-              htmlLabels:true
-      }
-  };
-  mermaid.initialize(config);
-  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-  </script>
-  <style media="screen">
-    code.language-mermaid {
-      background-color: transparent;
-      border: none;
+
+<script>
+var config = {
+    startOnLoad:true,
+    theme: 'default',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
     }
-  </style>
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
+
+<style media="screen">
+  code.language-mermaid {
+    background-color: transparent;
+    border: none;
+  }
+</style>
