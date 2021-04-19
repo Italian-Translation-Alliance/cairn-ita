@@ -2,8 +2,9 @@
 
 ```mermaid
 flowchart TD
-    E[Fight] --> G{Dmg<br>Die}
+    E[Fight] --> one
     subgraph one [" "]
+    G{Dmg<br>Die}
     G -->|impaired| H[1d4]
     G -->|enhanced| I[1d12]
     G -->|standard| L[weapon die]
