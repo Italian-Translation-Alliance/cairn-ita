@@ -37,11 +37,10 @@ flowchart TD
     4 --> |fail?| 7["flee"]
     end
     3 --> |no| 5[done]
- classDef default text-align:center
-   
+
+classDef default text-align:center
+
 ```
-
-
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
@@ -52,7 +51,7 @@ flowchart TD
       flowchart:{
               useMaxWidth:false,
               htmlLabels:true
-          }
+      }
   };
   mermaid.initialize(config);
   window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
@@ -75,9 +74,11 @@ flowchart TD
               htmlLabels:true
           }
   };
+    
   mermaid.initialize(config);
   window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
   </script>
+  
   <style media="screen">
     code.language-mermaid {
       background-color: transparent;
