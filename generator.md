@@ -1,7 +1,5 @@
 # Combat Flowchart
 
-## Top Down
-
 ```mermaid
 
 flowchart TD
