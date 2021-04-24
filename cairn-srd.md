@@ -279,7 +279,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 2	| Profonda		| 7    | Precisa    	|
 | 3	| Misteriosa 	| 8    | Stridula    	|
 | 4	| Monotona		| 9    | Balbettante 	|
-| 5	| Misteriosa	| 10   | Bisbigliante   |
+| 5	| Formale	| 10   | Bisbigliante   |
 
 #### Vestito
 
