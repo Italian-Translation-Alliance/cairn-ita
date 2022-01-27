@@ -2,7 +2,7 @@
 layout: default
 title: Esempio di gioco
 parent: Risorse
-nav_order: 4
+nav_order: 2
 ---
 
 # Esempio di gioco
