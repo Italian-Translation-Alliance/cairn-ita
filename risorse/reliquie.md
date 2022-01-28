@@ -105,3 +105,26 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 ### Pugnale del ritorno, 3 cariche
 - Un pugnale da lancio che ritorna in mano al proprietario quando manca il bersaglio.
 - **Ricarica**: Colpire un qualsiasi bersaglio tre volte di fila.
+
+### Cotta dell'Assemblaggio rapido, 2 cariche
+- Una cotta di maglia smontata che si riassembla addosso al proprietario con una parola di comando. Ripeti la parola di comando per farla smontare e tornare nella sua borsa.
+- **Ricarica**: Immergere la cotta smontata in olio per un'ora.
+
+### Braccialetto Strisciante, 2 cariche
+- Un braccialetto di giada che si trasforma in un serpente velenoso da 10 FOR / 11 DES / 8 VOL sotto il controllo del portatore.
+- **Ricarica**: Dare al serpente qualcosa di vivo da mangiare.
+
+### Corda dell'attaccamento, 5 cariche
+- L'estremità di questa corda da 50 piedi si attacca a qualsiasi superficie. Tirala due volte per staccarla.
+- **Ricarica**: Tagliare via 5 piedi di corda.
+
+### Candela dell'Oscurità, 7 cariche
+- Una candela che emana pura oscurità invece di luce, in un raggio di 10 piedi. Non si **Ricarica**.
+
+### Scudo del Magnetismo, 5 cariche
+- Quando un'arma metallica viene parata con questo scudo, vi rimane attaccata.
+- **Ricarica**: Lo scudo deve essere colpito direttamente da un fulmine.
+
+### Pala per Roccia, 1 carica
+- Spala la roccia come se fosse terra
+- **Ricarica**: Trascorrere un'ora a spalare terra sotto la pioggia 
