@@ -127,4 +127,22 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 
 ### Pala per Roccia, 1 carica
 - Spala la roccia come se fosse terra
-- **Ricarica**: Trascorrere un'ora a spalare terra sotto la pioggia 
+- **Ricarica**: Trascorrere un'ora a spalare terra sotto la pioggia.
+
+## Dal Discord dell'NSR
+
+### Ultimo Respiro, Spada Corta, d8 danni, 1 carica
+- Piantare **Ultimo Respiro** nel terreno crea una [Prigione Astrale](/cairn-srd/#100-incantesimi) attorno al portatore. Il portatore è invulnerabile al danno, ma incapace di muoversi mentre è all'interno della prigione.
+- **Ricarica**: Nutrire **Ultimo Respiro** con le anime necessarie a costruire la prigione.
+
+### Spada del Santo Cavaliere (d6), d6 cariche
+- Quando attacchi un nemico non morto con questa spada d'argento, puoi spendere una carica per ignorare i PF e infliggere i danni direttamente a FOR.
+- **Ricarica**: Lavare con acqua santa e lasciar asciugare completamente al sole mattutino.
+
+### Mantello del dislocamento, 3 cariche
+- Un mantello tenebroso che si muove gentilmente anche in assenza di vento, la stoffa è perfettamente liscia, come se fosse fatto di pura notte. Quando soffri danno da combattimento, puoi spendere una carica per ignorarlo.
+- **Ricarica**: Lasciare all'aperto sotto al cielo per un'intera notte senza luna.
+
+### Bracciali della Forza, d6 cariche
+- Un paio di bracciali di bronzo lunghi abbastanza da coprire il grosso degli avambracci del portatore. Mentre indossi questi bracciali, puoi consumare una carica per superare un tiro di FOR. Devi decidere se farlo prima di tirare il dado.
+- **Ricarica**: Sconfiggi un nemico più forte di te in combattimento
