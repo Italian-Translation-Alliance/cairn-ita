@@ -87,3 +87,21 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 - Uno stampo per ceralacca fatto di rocce, bastoncini, un teschio d'uccello e una coda di ratto. Qualsiasi foglio con un sigillo impresso con questo stampo in ceralacca giallo-verdognolasarà considerato da ogni goblin con un ordine dal Gran Gob in persona.
 - Al costo di una carica, marchia un progetto che descriva una macchina meravigliosa o un oggetto magico e assembla una pila di pietre luccicanti, paglia, insetti, funghi o simili in un mucchio che ricordi vagamente la forma di detto oggetto. Il mucchio si lega e agisce come l'oggetto descritto per circa un'ora. Poi fallisce in modo catastrofico.
 - **Ricarica**: Supplica davanti al Gran Gob, descrivendo in modo colorito quanto tu e i tuoi compagni siate inferiori alla sua magnificenza. Imploralo di darti un dono - se impressionato, ti fornirà un piccolo e, probabilmente, viscido segno del suo apprezzamento da aggiungere al sigillo.
+
+## Da [Ialath](https://ialath.com/)
+
+### Copriteschio, 1 carica
+- Un elmetto che fa apparire la testa di chi lo indossa come un teschio fino all'alba.
+- **Ricarica**: Seppellire con ossa umane per una notte.
+
+### Cappuccio del silenzio, 2 cariche
+- Un cappuccio che avvolge il portatore in assoluto silenzio, incapace sia di parlare che di ascoltare.
+- **Ricarica**: Meditare in assoluto silenzio per un'ora, col cappuccio addosso.
+
+### Borsa dell'erborista, 1 carica
+- Produce una piccola quantità di erbe o reagenti magici che sono presenti entro 5000 piedi dal portatore.
+- **Ricarica**: Inserire un qualsiasi tipo di erba e lasciarla chiusa per un giorno.
+
+### Pugnale del ritorno, 3 cariche
+- Un pugnale da lancio che ritorna in mano al proprietario quando manca il bersaglio.
+- **Ricarica**: Colpire un qualsiasi bersaglio tre volte di fila.
