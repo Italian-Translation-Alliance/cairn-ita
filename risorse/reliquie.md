@@ -2,7 +2,7 @@
 layout: default
 title: Reliquie
 parent: Risorse
-nav_order: 3
+nav_order: 4
 ---
 
 # Reliquie
@@ -146,3 +146,96 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 ### Bracciali della Forza, d6 cariche
 - Un paio di bracciali di bronzo lunghi abbastanza da coprire il grosso degli avambracci del portatore. Mentre indossi questi bracciali, puoi consumare una carica per superare un tiro di FOR. Devi decidere se farlo prima di tirare il dado.
 - **Ricarica**: Sconfiggi un nemico più forte di te in combattimento
+
+### Collana delle Palle di fuoco, 1 carica
+- Una collana con un piccolo rubino pendente. Può essere lanciata, evocando un'esplosione di fiamme nell'area attorno a dove atterra, che infligge d8+d8 danni a chiunque ne venga coinvolto.
+- **Ricarica**: Lasciala in un falò ruggente finché le fiamme non si spengono da sè.
+
+### Servitore assassino, pugnale, d6 danni, 1 carica
+- Quando ferisce mortalmente una vittima, la intrappola nella lama.
+- Premendo il teschio di topo sull'impugnatura libera la vittima per servire il portatore prima che muoia.
+- **Ricarica**: Lavare attivamente nell'acqua gelata per mezza giornata.
+
+### Bastone del Potere Signorile, Bastone, 1 carica
+- Può sempre essere battuto contro il terreno per amplificare la voce.
+- Per una carica può essere puntato verso una creatura con VOL inferiore alla tua, che ti giurerà fedeltà indefinitamente o finché non ti vedrà compiere qualcosa che va contro il proprio credo.
+- **Ricarica**: Uccidere un nobile o (se sei nobile) nominare qualcuno cavaliere.
+
+### Lama Dimenticata del Maestro di Spada, d8 danni, 2 cariche
+- Una spada consunta e danneggiata, di un colore azzurro-grigio, imbevuta della memoria di un antico maestro di spada, noto per la sua abilità di affrontare più di un avversario alla volta.
+- Incanalando la memoria del maestro dimenticato produce un mulinello vorticante, che attacca tutti i nemici (fino a 4) attorno nel raggio di 10 piedi, per d6 danni.
+- In caso di danno critico: tiro salvezza su DES o disarma
+- **Ricarica**: Sconfiggi in duello un avversario degno o disarma un nemico in combattimento
+
+### Mantello della Regina Monarca, 3 cariche
+- Mantello nero sbiadito, con disegni geometrici arancioni e bianchi.
+- Scatta o vola rapidamente attraverso distanze di 30 piedi.
+- **Ricarica**: Saltare da altezze di 50 piedi o superiori, oppure trascorrere un'ora all'avventura in mezzo a venti furiosi.
+
+### Specchio Specchio, 1 carica
+- Un grosso specchio rotondo delle dimensioni di una ruota da carro. Incorniciato in una fluente opera di art-noveau di ceramica smaltata di verde.
+- Se ti posizioni tra Specchio Specchio e uno specchio mondano e osservi i riflessi infiniti tra i due, Specchio Specchio ricorda lo specchio mondano.
+- Puoi sempre guardare dentro Specchio Specchio per vedere il riflesso attuale di ogni specchio di cui si ricorda.
+- Per una carica, puoi sporgerti attraverso Specchio Specchio e uscire da qualsiasi specchio mondano ricordi, con appena un arto o l'intero corpo. Quando ritrai il tuo arto o esci completamente dall'altra parte, Specchio Specchio si spacca a metà e una debole immagine residua della tua persona è incisa in tutti gli altri specchi, mentre li dimentica uno a uno.
+- **Ricarica**: Individua ogni specchio in cui è incisa la tua immagine e gratta meticolosamente via la tua faccia, finché non è irriconoscibile. Dormi con Specchio Specchio sotto la tua testa e sopravvivi all'assalto dei frammentati te-riflessi che ti aggrediscono nei tuoi sogni, allora troverai Specchio Specchio guarito ed intero una volta sveglio.
+
+### Asta da Rabdomante, 1 carica
+- Scegli un tipo generale di oggetto o materiale. L'asta indica la distanza, direzione e quantità dell'oggetto più vicino corrispondente.
+- **Ricarica**: Esponi l'asta a un fulmine a una potente scarica elettrica.
+
+### Dono del Pelleserpe, 1 carica
+- Nel corso di diverse ore, puoi perdere dolorosamente tutta la tua pelle, perdendo 1d4 FOR.
+- Dopodiché riveli la tua nuova pelle, genericamente simile alla precedente ma con nuove caratteristiche, viste o immaginate.
+- **Ricarica**: Divora fino in fondo la pelle di un serpente gigante.
+
+### Mantello del Nano, 1 carica
+- Un mantello di pelle d'agnello, preso da un nano, che rende chi lo indossa invisibile.
+- Brucia completamente se esposto alla luce del sole.
+- **Ricarica**: Mangia sette libbre di carne umana.
+
+### Bacchetta dei mille sentieri, 1 carica
+- Un bastone da passeggio con un grosso bulbo oculare in cima.
+- Puoi fissare l'occhio e vedere l'esito di un'azione nell'immediato futuro (giocatela normalmente e il giocatore decide se confermare o meno), dopodiché l'occhio si chiude.
+- **Ricarica**: Muoviti esclusivamente nella direzione del vento per un giorno
+
+### Spada della grande prestanza, 3 cariche
+- Una spada corta rosso scura, con inscrizioni di scene di antiche battaglie.
+- Spendi una carica per darti la forza di un semidio per la durata di un singolo gesto (piegare sbarre, sollevare cancelli, lanciare macigni).
+- **Ricarica**: Deve infliggere il colpo di grazia a una creatura più forte di ogni umano vivente o morto.
+
+### Bomba uccello, 1 carica
+- Un uovo fragile che rilascia un puzza incredibile, che costringe chiunque nei dintorni a vomitare. Come trasporti un oggetto del genere? Cosa succede se si rompe nel tuo zaino durante un combattimento?
+- **Ricarica**: Seppelisci il guscio in una tomba. La mattina successiva vi troverai altre tre uova.
+
+### Spada di legno marcio
+- Sembra una vera spada quando impugnata
+- Infligge d4 danni, ma le vittime sembra brutalmente ferite per un momento, anche quando non vengono davvero colpite.
+- Si rompe se tiri un 1.
+
+### Rampicagemello
+- Una corda verde brillante e appiccicosa lunga 16 pollici.
+- Avvolgila una volta attorno a un oggetto e pianta un'estremità a terra. Una replica dell'oggetto avvolto cresce durante la notte.
+- La corda rimane, ma la lunghezza ora è dimezzata.
+
+### Mappa del predatore
+- Una pergamena di cuoio bianca. Versaci sopra del sangue e verrà assorbito.
+- Srotolala in seguito per rivelare una mappa dettagliata di ovunque si trovi il resto del sangue.
+- L'effetto termina quando la mappa si trova a pochi piedi dal suo bersaglio.
+- **Ricarica**: la pergamena deve essere interamente ingerita e defecata da una qualsiasi creatura che cacci annusando il sangue: lupo, tigre, squalo, zanzara...
+
+### Vermi onesti
+- Un verme che si contorce, delle dimensioni del mignolo di un bambino. Puzza. Infilalo nell'orecchio di una persona e questa ti rivelerà la verità, che lo voglia o no.
+- **Ricarica**: Cerca nella foresta la più grossa pila di foglie marce che riesci a trovare. Quindi, urla i tuoi segreti più privati, i tuoi pensieri e desideri al cielo. Dopodiché, mangia quante più foglie e detriti riesci. Il giorno dopo, ti sveglierai trovando 1d4-1 larve che escono dalle tue orecchie.
+
+### Sacro Vendicatore (Spada, d8)
+- Le creature nonmorte falliscono automaticamente i tiri per evitare i danni critici causati da questa spada.
+- Tu e gli alleati vicini siete immuni alla paura e agli effetti di charme, ma siete forzati a lanciarvi in battaglia.
+
+### Velo del Camminasogni, 3 cariche
+- Un mantello fatto di seta brillante e quasi trasparente.
+- Consumando una carica, chi lo indossa può ignorare completamente un'istanza di danni a VOL.
+- **Ricarica**: Indossa il mantello durante un'intera notte di sonno magicamente indotto.
+
+### Mano di Sir Crufiks, 1 carica
+- Mastini e altre bestie addomesticate diventano docili al tocco di questa mano mummificata.
+- **Ricarica**: Passa un po' di tempo a coccolare il bravo ragazzo.
