@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Risorse addizionali
+title: Risorse
 nav_order: 4
+has_children: true
 ---
 
 # Risorse addizionali
