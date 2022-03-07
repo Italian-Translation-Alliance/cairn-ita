@@ -37,7 +37,7 @@ nav_order: 2
 
  **Esther**: _"Eccellente. Voglio provare a estrarre con cura una delle foglie, per usarla in futuro, e poi andare avanti."_
 
- **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo orrido che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparendemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra mèta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
+ **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo crepaccio che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparendemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra mèta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
 
  **Esther**: _"Penso che dovremmo accamparci prima di andare avanti. Se dobbiamo calarci o aggirare l'abisso, preferirei avere la luce dalla nostra!"_
 
@@ -47,11 +47,11 @@ nav_order: 2
 
  **Esther**: _"Il primo turno lo prendo io."_
 
- **Custode**: _"Vi accampate e mangiare una delle vostre razioni. A metà del primo turno di guardia, il rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
+ **Custode**: _"Vi accampate e mangiate una delle vostre razioni. A metà del primo turno di guardia, sentite un rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
 
  **Esther**: _"Vorrei svegliare il mio compagno con un calcio, così non devo affrontare questa cosa da sola, indicandogli silenziosamente con la testa la direzione del rumore e facendogli cenno di far silenzio."_
 
- **Custode**: _"Lo fai e proprio mentre si sta alzando un paio di orridi occhi rossi diventa visibile dietro alle foglie del sottobosco."_
+ **Custode**: _"Lo fai proprio quando un paio di orridi occhi rossi diventano visibili da dietro le foglie del sottobosco."_
 
  **Barry**: _"Cosa sappiamo delle creature che vivono qui?"_
 
@@ -63,7 +63,7 @@ nav_order: 2
  
  **Barry**: _"E io?"_
 
- **Custode**: _"Tu dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
+ **Custode**: _"Dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
 
  **Barry**: _"Ho tirato 1d20 e ho fatto 17. Ahia."_
 
@@ -85,7 +85,7 @@ nav_order: 2
 
  **Barry**: _"Uhm... suona come un piano, credo. Sì, facciamolo!"_
 
- **Custode**: _"**Esther**, lanci una estremità della tua corda a **Barry**, che la fa girare attorno alla Quercia e poi corre verso lo strapiombo dall'altra parte, urlando alla creatura di attaccarlo. **Esther** prende posizione come una sorta di contrappeso se dovesse cadere. **Barry**, siccome sei in condizione di reagire, ti permetto una specie di reazione da fuori dal combattimento."_
+ **Custode**: _"**Esther**, lanci una estremità della tua corda a **Barry**, che la fa girare attorno alla Quercia e poi corre verso lo strapiombo dall'altra parte, urlando alla creatura di attaccarlo. **Esther** prende posizione come una sorta di contrappeso se dovesse cadere. **Barry**, siccome sei in condizione di reagire, ti permetto una specie di reazione fuori dal combattimento."_
  
   **Barry**: _"Va bene, se mi si avvicina vorrei stare vicino al bordo del dirupo, pronto a saltar via."_
 
@@ -241,9 +241,9 @@ nav_order: 2
 
   **Custode**: _"Guardando nell'acqua vicino alla riva vedi che tutte le creature bioluminescenti sono scappate, come se avessero paura di questa parte del fiume."_
 
-  **Esther**: _"Uhm...ok, ho una teoria. **Barry**, dovresti reggere la lanterna sul buco nel "ponte" e vedere cosa succede."_
+  **Esther**: _"Uhm...va bene, ho una teoria. **Barry**, dovresti reggere la lanterna sul buco nel "ponte" e vedere cosa succede."_
 
-  **Barry**: _"Ok. Cammino attentamente fino al centro del fiume sul "ponte", poi mi sdraio e estendo la lanterna oltre il bordo - ma poco. Voglio stare più al sicuro possibile qui."_
+  **Barry**: _"Ehm, Ok. Cammino attentamente fino al centro del fiume sul "ponte", poi mi sdraio ed estendo la lanterna oltre il bordo - ma poco. Voglio stare più al sicuro possibile qui."_
 
   **Custode**: _"Nel momento in cui la abbassi, una lucida anguilla nera salta in aria e fa scattare i suoi denti acuminati verso la lanterna. Sei abbastanza veloce da salvarla, però. L'anguilla ricade in acqua con uno spruzzo."_
 
