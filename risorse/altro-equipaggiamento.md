@@ -66,3 +66,40 @@ nav_order: 5
 | Abito elegante                 | 40          | Tunica                                        | 45        |
 | Abito elegante, seta           | 80          | Tunica, seta                                  | 55        |
 
+## Cibo e Bevande
+
+|||||
+| -----------------------------.- | ----------- | --------------------------------------------- | --------- |
+| **Oggetto**                     | **Costo**   | **Oggetto**                                   | **Costo** |
+| Alcol, idromele (brocca da mezzo gallone) | 1 | Pollame, tacchino (intero)                    | 15        |
+| Alcol, birra                    | 3           | Pesce, comune                                 | 2         |
+| Alcol, vino, scadente (bottiglia) | 4         | Pesce, pescato                                | 6         |
+| Alcol, vino, buono (bottiglia)  | 10          | Pesce, crostacei (dozzina)                    | 8         |
+| Alcol, champagne (bottiglia)    | 18          | Pesce, affumicato (libbra)                    | 3         |
+| Alcol, brandy (bottiglia)       | 20          | Pesce, salato (libbra)                        | 3         |
+| Alcol, rum (bottiglia)          | 15          | Farina (libbra)                               | 1         |
+| Alcol, clandestino (caraffa)    | 12          | Succo di frutta (gallone)                     | 2         |
+| Bovino, bistecca                | 4           | Miele (pinta)                                 | 2         |
+| Bovino, gamba o arrosto         | 25          | Pasto in locanda, scadente                    | 1         |
+| Bovino, culaccio                | 75          | Pasto in locanda, buono                       | 2         |
+| Bovino, intera mucca            | 190         | Pasto in locanda, superbo                     | 5         |
+| Bovino, affumicato (libbra)     | 4           | Marmellata (pinta)                            | 3         |
+| Bovino, salato (libbra)         | 4           | Agnello, gamba o arrosto                      | 12        |
+| Bovino, essicato (libbra)       | 5           | Agnello, culaccio                             | 35        |
+| Pane (quattro pagnotte)         | 1           | Agnello, intero                               | 65        |
+| Panini (due dozzine)            | 1           | Strutto (libbra)                              | 1         |
+| Burro (libbra)                  | 3           | Latte, mucca (gallone)                        | 4         |
+| Formaggio, locale (libbra)      | 2           | Latte, capra (gallone)                        | 2         |
+| Formaggio, importato (libbra)   | 8           | Montone, gamba o arrosto                      | 8         |
+| Olio da cucina (2 pinte)        | 1           | Montone, culaccia                             | 25        |
+| Panna (pinta)                   | 2           | Montone, intero                               | 40        |
+| Frutta essiccata (libbra)       | 1           | Frutta secca (libbra)                         | 3         |
+| Verdura essiccata (libbra)      | 1           | Maiale, bistecca                              | 4         |
+| Uova (dozzina)                  | 1           | Maiale, culaccia                              | 20        |
+| Pollame, piccione (intero)      | 3           | Maiale, intero                                | 50        |
+| Pollame, pollo (intero)         | 5           | Coniglio/Scoiattolo                           | 8         |
+| Pollame, anatra (intera)        | 8           | Riso (libbra)                                 | 1         |
+| Pollame, oca (intera)           | 12          | Sale (libbra)                                 | 4         |
+| Pollame, quaglia (intera)       | 10          | Spezie (oncia)                                | 5         |
+| Pollame, fagiano (intero)       | 20          | Zucchero (libbra)                             | 5         |
+
