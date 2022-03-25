@@ -39,3 +39,30 @@ nav_order: 5
 | Tetto, tegole                  | 100         | Finestra                 | 10        |
 | Tetto, legno                   | 40          | Sbarre da Finestra       | 10        |
 | Porta o botola segreta         | 5 x normale | Persiane                 | 5         |
+
+## Vestiario
+
+|||||
+| ------------------------------ | ----------- | --------------------------------------------- | --------- |
+| **Oggetto**                    | **Costo**   | **Oggetto**                                   | **Costo** |
+| Grembiule, tessuto             | 20          | Benda, cuoio                                  | 3         |
+| Grembiule, cuoio               | 60          | Guanti, mano                                  | 10        |
+| Abito da sera, semplice        | 150         | Guanti, mezzo avambraccio                     | 20        |
+| Abito da sera, stravagante     | 300         | Guanti, al gomito                             | 25        |
+| Cintura, cuoio                 | 5           | Abito religioso                               | 40        |
+| Corsetto                       | 65          | Cappello, semplice                            | 10        |
+| Stivali, tessuto               | 12          | Cappello, paglia                              | 2         |
+| Stivali, cuoio morbido         | 25          | Cappello, elegante                            | 65        |
+| Stivali, cuoio indurito        | 35          | Cappello, elegante - moda donna               | 80        |
+| Stivali, rinforzati            | 45          | Giustacuore                                   | 45        |
+| Berretto                       | 10          | Kilt (da avvolgere e passare sopra la spalla) | 125       |
+| Cappa, corta                   | 30          | Tunica                                        | 30        |
+| Cappa, lunga                   | 50          | Sandali                                       | 20        |
+| Mantello, tessuto              | 40          | Camicia, tessuto                              | 12        |
+| Mantello, lana                 | 70          | Camicia, seta                                 | 15        |
+| Cappotto                       | 30          | Gonna, tessuto                                | 20        |
+| Cappotto, pelliccia            | 120         | Gonna, seta                                   | 30        |
+| Farsetto                       | 100         | Pantaloni                                     | 15        |
+| Abito elegante                 | 40          | Tunica                                        | 45        |
+| Abito elegante, seta           | 80          | Tunica, seta                                  | 55        |
+
