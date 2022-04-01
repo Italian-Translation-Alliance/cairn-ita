@@ -127,7 +127,7 @@ Il primo valore è la paga settimanale, il secondo il tesoro (negoziabile).
 ## Scagnozzi: Specialisti
 
 I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate riferimento alla fiction!
-
+|||
 |------------------------------|-------------------|
 | **Specialista**              | **Paga Mensile**  |
 | Alchimista                   | 1000              |
@@ -142,3 +142,20 @@ I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate
 | Marinaio                     | 10                |
 | Capitano di nave             | 250               |
 | Spia                         | 500 (o più)       |
+
+## Animali da cortile
+
+|||||
+| ------------------------ | -------- | ------------- | -------- |
+| **Animale**              | **Costo**| **Animale**   | **Costo**|
+| Toro                     | 600      | Pollo         | 10       |
+| Gatto, da cortile        | 20       | Anatra        | 10       |
+| Gatto, di razza          | 150      | Oca           | 15       |
+| Mucca                    | 400      | Quaglia       | 12       |
+| Cane, non addestrato     | 30       | Fagiano       | 25       |
+| Cane, da caccia          | 80       | Tacchino      | 20       |
+| Cane, da pastore         | 120      | Capra         | 80       |
+| Cane, da caccia          | 150      | Maiale        | 300      |
+| Falco, addestrato        | 500      | Coniglio      | 15       |
+| Piccione                 | 5        | Pecora        | 300      |
+| Piccione, viaggiatore    | 30       |               |          |
