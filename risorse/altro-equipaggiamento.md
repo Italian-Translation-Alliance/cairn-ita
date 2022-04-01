@@ -159,3 +159,13 @@ I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate
 | Falco, addestrato        | 500      | Coniglio      | 15       |
 | Piccione                 | 5        | Pecora        | 300      |
 | Piccione, viaggiatore    | 30       |               |          |
+
+## Mangimi per animali
+
+|||
+| ------------------ | -------- |
+| **Mangime**        | **Costo**|
+| Grano  (25 libbre) | 20       |
+| Avena (25 libbre)  | 15       |
+| Fieno (25 libbre)  | 10       |
+| Paglia (25 libbre) | 7        |
