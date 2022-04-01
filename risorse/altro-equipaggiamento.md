@@ -208,3 +208,39 @@ I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate
 | Grossa trappola       | 20   | Otre                        | 1    |
 | Grossa spugna         | 5    | Fischietto                  |  5   |
 | Lente                 | 10   | Luparia                     |  10  |
+
+## Trasporto: Animali
+
+|||
+| ------------------------------ | ---- |
+| **Animale**                    | **Costo**|
+| Cammello (+3 slot, veloce)     | 85   |
+| Asino (+4 slot, lento)         | 30   |
+| Cavallo, da soma (+3 slot)     | 40   |
+| Cavallo, da monta (+2 slot, veloce) | 75   |
+| Mulo (+6 slot, lento)          | 50   |
+| Bue  (+6 slot)               | 60   |
+
+## Trasporto: Veicoli di terra
+|||
+| ------------------------ | ---- |
+| **Veicolo**              | **Costo**|
+| Carretto, grande (+6 slot)  | 100  |
+| Carreto, small (+4 slots, _massiccio_) | 30   |
+| Carro (+8 slots, lento) | 200  |
+
+## Trasporto: Veicoli d'acqua
+
+|||
+| ------------------- | ------------------- |
+| **Veicolo**         | **Costo**               |
+| Barca, fluviale     | 4000                |
+| Barca, marina       | 2000                |
+| Canoa               | 50                  |
+| Galea, grande       | 30000               |
+| Galea, piccola      | 10000               |
+| Galea, da guerra    | 60000               |
+| Drakkar             | 15000               |
+| Zattera (professionale) | 1 po per piede quadro |
+| Veliero, grande     | 20000               |
+| Veliero, piccolo    | 5000                |
