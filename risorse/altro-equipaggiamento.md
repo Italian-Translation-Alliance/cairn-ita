@@ -123,3 +123,22 @@ Il primo valore è la paga settimanale, il secondo il tesoro (negoziabile).
 | Fante, leggero, umano          | 2 / 0.4%         | Arciere con arco lungo, elfo        | 20 / 4%       |
 | Fante, leggero, elfo           | 4 / 0.8%         | Paesano                             | 1 / 0.2%      |
 | Fante, leggero, orco           | 1 / 0.2%         | Cavalcalupi, goblin                 | 5 / 1%        |
+
+## Scagnozzi: Specialisti
+
+I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate riferimento alla fiction!
+
+|------------------------------|-------------------|
+| **Specialista**              | **Paga Mensile**  |
+| Alchimista                   | 1000              |
+| Addestratore di animali      | 500               |
+| Armaiolo                     | 100               |
+| Assistente Armaiolo          | 15                |
+| Fabbro                       | 25                |
+| Ingegnere                    | 750               |
+| Navigatore                   | 150               |
+| Rematore                     | 2                 |
+| Saggio                       | 2000              |
+| Marinaio                     | 10                |
+| Capitano di nave             | 250               |
+| Spia                         | 500 (o più)       |
