@@ -69,7 +69,7 @@ nav_order: 5
 ## Cibo e Bevande
 
 |||||
-| -----------------------------.- | ----------- | --------------------------------------------- | --------- |
+| ------------------------------- | ----------- | --------------------------------------------- | --------- |
 | **Oggetto**                     | **Costo**   | **Oggetto**                                   | **Costo** |
 | Alcol, idromele (brocca da mezzo gallone) | 1 | Pollame, tacchino (intero)                    | 15        |
 | Alcol, birra                    | 3           | Pesce, comune                                 | 2         |
@@ -103,3 +103,23 @@ nav_order: 5
 | Pollame, quaglia (intera)       | 10          | Spezie (oncia)                                | 5         |
 | Pollame, fagiano (intero)       | 20          | Zucchero (libbra)                             | 5         |
 
+## Scagnozzi: Mercenari
+
+Il primo valore è la paga settimanale, il secondo il tesoro (negoziabile).
+
+|||||
+| ------------------------------ | ---------------- | --------------------------------------------- | --------- |
+| **Mercenario**                 | **Paga settimanale**   | **Mercenario**                                | **Paga settimanale** |
+| Arciere, umano                 | 5 / 1%           | Fante, leggero, goblin              | 1 / 0.2%      |
+| Arciere, elfo                  | 10 / 2%          | Fante, pesante, umano               | 2 / 0.4%      |
+| Arciere, orco                  | 3 / 0.6%         | Fante, pesante, nano                | 5 / 1%        |
+| Arciere, goblin                | 2 / 0.4%         | Fante, pesante, elfo                | 6 / 1.2%      |
+| Arciere, a cavallo, umano      | 15 / 3%          | Fante, pesante, orco                | 15 / 3%       |
+| Arciere, a cavallo, elfo       | 30 / 6%          | Cavaliere, leggero, umano           | 10 / 2%       |
+| Balestriere, umano             | 4 / 0.8%         | Cavaliere, leggero, elfo            | 20 / 4%       |
+| Balestriere, nano              | 6 / 1.2%         | Cavaliere, medio                    | 15 / 3%       |
+| Balestriere, orco              | 2 / 0.4%         | Cavaliere, pesante                  | 20 / 4%       |
+| Balestriere, a cavallo, nano   | 15 / 3%          | Arciere con arco lungo, umano       | 10 / 2%       |
+| Fante, leggero, umano          | 2 / 0.4%         | Arciere con arco lungo, elfo        | 20 / 4%       |
+| Fante, leggero, elfo           | 4 / 0.8%         | Paesano                             | 1 / 0.2%      |
+| Fante, leggero, orco           | 1 / 0.2%         | Cavalcalupi, goblin                 | 5 / 1%        |
