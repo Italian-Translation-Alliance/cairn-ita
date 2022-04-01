@@ -169,3 +169,42 @@ I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate
 | Avena (25 libbre)  | 15       |
 | Fieno (25 libbre)  | 10       |
 | Paglia (25 libbre) | 7        |
+
+## Strumenti e Attrezzi
+
+|||||
+| --------------------- | ------- | ------------------------ | -------- |
+| **Oggetto**           | **Cost**| **Oggetto**              | **Costo**|
+| Vescica d'aria        | 5    | Grimaldelli                 | 25   |
+| Bardatura (armatura per cavalli) | 150  | Manette          | 10   |
+| Mantice               | 10   | Lima di metallo             | 5    |
+| Giaciglio             | 5    | Specchio                    | 5    |
+| Libro                 | 50   | Rete                        | 10   |
+| Secchio               | 5    | Olio (1 fiasco)             | 2    |
+| Triboli               | 10   | Borsa in tela cerata        | 5    |
+| Catena (10 piedi)     | 10   | Profumo (oncia)             | 15   |
+| Gesso                 | 1    | Piccone                     | 10   |
+| Scalpello             | 5    | Pipa                        | 3    |
+| Pentole da cucina     | 10   | Carrucola                   | 10   |
+| Piede di porco        | 10   | Asta (10 piedi)             | 5    |
+| Bastone da rabdomante | 10   | Piuma e inchiostro          | 10   |
+| Trapano (manuale)     | 10   | Razioni (per 3 giorni)      | 10   |
+| Pittura per viso      | 10   | Corda (25 piedi)            | 5    |
+| Olio di fuoco         | 10   | Scala di Corda (25 piedi)   | 25   |
+| Canna da pesca        | 10   | Sega                        | 5    |
+| Biglie di Vetro       | 5    | Sacco                       | 5    |
+| Colla                 | 5    | Sella e redini              | 25   |
+| Grasso                | 10   | Kit da cucito               | 15   |
+| Rampino               | 25   | Pala                        | 5    |
+| Martello              | 5    | Sapone                      | 1    |
+| Simbolo Sacro         | 25   | Arpione                     | 1    |
+| Acqua Santa (fiala)   | 25   | Stivali Chiodati            | 5    |
+| Corno                 | 10   | Cannocchiale                | 40   |
+| Clessidra             | 50   | Picchetti (3) e mazza       | 3    |
+| Incenso               | 10   | Catrame                     | 10   |
+| Scala (ingombrante, 10 piedi)  | 10   | Tenda (ospita 2 persone, ingombrante) | 20   |
+| Lanterna e Olio       | 10   | Acciarino e pietra focaia   | 3    |
+| Lucchetto (chiave inclusa) | 30   | Torcia                 | 1    |
+| Grossa trappola       | 20   | Otre                        | 1    |
+| Grossa spugna         | 5    | Fischietto                  |  5   |
+| Lente                 | 10   | Luparia                     |  10  |
