@@ -491,7 +491,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 
 ||
 |---|
-|Spada lunga (d8, ingombrante) |
+|Spada lunga (d10, ingombrante) |
 |Cotta di Maglia (2 Armatura, ingombrante) |
 |Elmo (+1 Armatura) |
 |Mantello araldico |
