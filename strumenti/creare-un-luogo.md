@@ -56,3 +56,19 @@ Quando hai finito:
 * Posiziona pericoli addizionali (soprattutto nascosti), incontri o PNG in alcuni dei PdI.
 * Aggiungi alcune complicazioni di viaggio o di rotta, prendendo in considerazione i PdI lungo la strada.
 
+## Creare gli Incontri
+
+* Crea una tabella degli incontri (da 1d6 o 2d6) con almeno un risultato legato al gruppo o ai suoi membri.
+* Aggiungi dettagli su tesori o reliquie (Chi li vuole? Dove sono? Perché non sono già stati presi?). Includi delle mappe.
+* Descrivi le stanze dei dungeon (basta una frase che descriva ostacoli, pericoli, creature o tesori minori).
+
+Non è necessario farlo per ogni Punto d'Interesse, solo quelli che ritieni importanti.
+
+## Creare il Tesoro
+
+* Guarda la mappa e pensa a chi vorrebbe del tesoro, e di che tipo.
+* Guarda la mappa e pensa a dove potrebbe stare quel tesoro ora.
+* Aggiungi 2-3 passaggi che portino alla posizione del tesoro, ma che non siano troppo ovvi.
+* Aggiungi un qualche tipo di "dungeon" dove si trova il tesoro.
+* Rifornisci le "stanze" del dungeon (qui ci vanno i tesori addizionali).
+* [Maze Rats](https://questingbeast.itch.io/maze-rats) ha delle bellissime tabelle (in inglese) per il tesoro e per saccheggiare i corpi. Ce n'è una versione automatizzata nell'app [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith).
