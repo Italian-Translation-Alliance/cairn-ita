@@ -46,3 +46,13 @@ Quando hai finito:
 * Ti conviene generare almeno 10 frasi interessanti da usare come ispirazione.
 * Puoi sempre scrivere 40 parole che suonano bene assieme.
 * Anche le immagini possono fare da spark.
+
+## Disegnare una Mappa
+
+* Se sai disegnare, perfetto! Altrimenti trova un tool di map-making che funzioni per te. Alcuni esempi sono [draw.io](http://draw.io/), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraf](https://www.wonderdraft.net/)...
+* Disegna almeno quattro linee di qualsiasi forma, ognuna di un colore differente. Ogni linea dovrebbe incrociarne un'altra almeno una volta. Queste linee rappresentano strade e sentieri.
+* Genera almeno 3 Punti d'Interesse: prendi in considerazione i temi e le fazioni. Posizionali dove si incrociano le linee.
+* Genera le caratteristiche della regione o dell'esagono (se usi una mappa esagonale) per ogni PdI, usando delle tabelle. Posiziona le caratteristiche nei PdI dove hanno più senso.
+* Posiziona pericoli addizionali (soprattutto nascosti), incontri o PNG in alcuni dei PdI.
+* Aggiungi alcune complicazioni di viaggio o di rotta, prendendo in considerazione i PdI lungo la strada.
+
