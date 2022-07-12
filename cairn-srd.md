@@ -288,7 +288,7 @@ Se vuoi qualcosa di più simile alle classi tradizionali, fai riferimento alla l
 | 1	| Antico 		| 6    | Logoro 	|
 | 2	| Insanguinato  | 7    | Sgargiante |
 | 3	| Elegante 		| 8    | Livrea 	|
-| 4	| Sporco  		| 9    | Fedito 	|
+| 4	| Sporco  		| 9    | Fetido 	|
 | 5	| Esotico 		| 10   | Sudicio 	|
 
 #### Virtù
