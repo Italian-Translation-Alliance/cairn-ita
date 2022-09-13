@@ -1,5 +1,5 @@
 gen_data['character'] = [
-  'Sei <i> {name} {surname}</i>, precedentemente un {background}. Hai un fisico {physique}, pelle {skin}, capelli {hair}, e una faccia {face}. Parli in modo {speech} e indossi vestiti {clothing}. Sei {vice} ma {virtue} e generalmente considerato {reputation}. Hai avuto la sfortuna di essere {misfortune}.'
+  'Sei <i> {name} {surname}</i>, precedentemente un <i><b>{background}</b></i>. Hai un fisico {physique}, pelle {skin}, capelli {hair}, e una faccia {face}. Parli con voce {speech} e indossi vestiti {clothing}. Sei {vice} ma {virtue} e generalmente considerato {reputation}. Hai avuto la sfortuna di essere {misfortune}.'
 ]
 
 gen_data['name'] = [
@@ -271,20 +271,20 @@ gen_data['bonus'] = {
 gen_data['tool'] = [
   'Canna da pesca'
 , 'Cesello'
-, 'Chiodi'
+, 'Chiodi (accumula)'
 , 'Clessidrea'
-, 'Colla'
+, 'Colla (accumula)'
 , 'Gessetto'
 , 'Grasso'
-, 'Lima metallica'
+, 'Lima metallica (accumula)'
 , 'Martello'
 , 'Pala (7,5m)'
 , 'Pentole'
 , 'Piede di Porco'
 , 'Pinze (7,5m)'
 , 'Pinze'
-, 'Rete (7,5m)'
-, 'Secchio'
+, 'Rete (7,5m) (accumula)'
+, 'Secchio (accumula)'
 , 'Sega (7,5m)'
 , 'Sigillante (7,5m)'
 , 'Soffietto'
