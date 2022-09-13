@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generatori personaggi
+title: Generatore di personaggi
 parent: Strumenti
 redirect_from: /resources/tools/character-generator/
 ---
