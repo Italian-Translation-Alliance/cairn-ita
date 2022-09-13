@@ -1,17 +1,19 @@
 ---
 layout: default
-title:  Versione Stampata
-nav_order: 2
+title: Versione Stampata
+nav_order: 3
 ---
 
-# Acquista una copia!
+# Acquista una copia cartacea!
 
-- Print-on-demand lingua **Inglese** [lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html). 
+<br>
 
-- Print-on-demand lingua **Italiana** [lulu](https://www.lulu.com/it/it/shop/yochai-gal-and-cosmicorrery-and-jim-parkin-and-stefano-grassi/cairn/paperback/product-zvw9j5.html?page=1&pageSize=4). 
-- Print-on-demand lingua **Italiana** [Amazon](https://www.amazon.it/dp/B09FS8D5Z2). 
+## Print on Demand
+- Una versione print on demand è disponibile su [Lulu](https://www.lulu.com/shop/yochai-gal-and-cosmicorrery-and-jim-parkin-and-stefano-grassi/cairn-versione-italiana/paperback/product-zvw9j5.html), e [Amazon](https://www.amazon.it/dp/B09FS8D5Z2). Il prezzo è _al costo_.
+- La versione Lulu è leggermente più bella delle altre opzioni PoD ed è una bella azienda. Supportali se potete.
+- Anche la versione **Inglese** è disponibile su [Lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html), anche in formato a [spirale](https://www.lulu.com/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn-coilbound/paperback/product-gm9e8g.html)!
 
-Un'edizione di stampa _deluxe_ di Cairn può essere acquistata nei seguenti store:
+Un'edizione di stampa _deluxe_ di Cairn (versione inglese) può essere acquistata nei seguenti store:
 
 ## US
 - [Direttamente](https://gum.co/cairnrpg)
