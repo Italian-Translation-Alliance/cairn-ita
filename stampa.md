@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stampa
+title: Versione Stampata
 nav_order: 3
 ---
 
