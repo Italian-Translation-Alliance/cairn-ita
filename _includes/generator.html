@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Generatore Personaggio</title>
+    <h2>Generatore Personaggio</h2>
+  </head>
+  <body>
+    <script type="text/javascript" src="/character-generator/js/generator.js"></script>
+    <script type="text/javascript" src="/character-generator/js/cairn_data.js"></script>
+    <div class="chargen">
+      <h3>Aspetto</h3>
+      <span id="character"></span> Hai <span id="age"></span> anni.
+      <h3>Attributi</h3>
+        <b>PF: </b>&nbsp;<span id="hp"></span><br>
+        <b>Armatura: </b>&nbsp;<span id="armorTotal"></span><br>
+        <b>FOR: </b>&nbsp;<span id="str"></span><br>
+        <b>DES: </b>&nbsp;<span id="dex"></span><br>
+        <b>VOL: </b>&nbsp;<span id="wil"></span><br>
+      <h3>Equipaggiamento</h3>
+        <b>Armatura: </b>&nbsp;<span id="armor" ></span><span id="helmet"></span><br>
+        <b>Armi: </b>&nbsp;<span id="weapons"></span><br>
+        <b>Attrezzi, strumenti & cincaglierie: </b>&nbsp;<span id="tool"></span>, <span id="gear"></span> e <span id="trinket"></span><br>
+        <b>Oggetto bonus: </b>&nbsp;<span id="bonus"></span><br>
+        <b>Forniture di partenza: </b>&nbsp;<span id="gold"></span> pezzi d'oro, una torcia e razioni per tre giorni<br>
+        <b>Inventario: </b>&nbsp; stai usando <span id="total"></span> di 10 slot disponibili<br>
+        <script type="text/javascript" src="/character-generator/js/jquery-3.5.1.min.js"></script>
+        <script type="text/javascript" src="/character-generator/js/main.js"></script>
+      <h3>Note</h3>
+      <li>Se un oggetto "si accumula" occupa lo stesso spazio di un altro oggetto!</li>
+      <li>Se il tuo inventario è pieno, sei ridotto a 0 PF.</li>
+    </div>
+  </body>
+<br><br>
+<a href="javascript:window.scrollTo(0,0); window.location.reload(true)">Reload this page</a> to generate a new character.
+<br>Basato sul generatore Cairn originale di <a href="https://nakade.itch.io">Nakade</a>.
+<br>Si basa su gli incredibili <a href="https://donjon.bin.sh/code/random">generatori di donjon</a>.
+</html>
