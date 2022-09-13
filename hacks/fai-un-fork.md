@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fai un fork
-parent: Hacks
+parent: Hack
 nav_order: 9
 ---
 
