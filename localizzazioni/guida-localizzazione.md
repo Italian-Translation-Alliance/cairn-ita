@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Localization Guide
+title: Guida alla localizzazione
 nav_order: 1
-parent: Localizations
+parent: Localizzazioni
 ---
 
-# Localization Guide
+# Guida alla localizzazione
 ---
 Sebbene le regole di Cairn esistano in molti formati (PDF, Google Docs, Word, ecc.), l'[SRD](/cairn-srd) è probabilmente la scelta migliore per la facilità di traduzione.
 
