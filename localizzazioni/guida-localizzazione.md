@@ -12,7 +12,7 @@ Sebbene le regole di Cairn esistano in molti formati (PDF, Google Docs, Word, ec
 ## Tradurre l'SRD
 1. Copia l'[SRD Markdown](https://github.com/yochaigal/cairn/blob/main/cairn-srd.md) (fai clic su Raw) in un editor di markdown come [Typora](https://typora.com ) o un renderer basato sul Web come [dillinger.io](https://dillinger.io). Se sai come usare Git, puoi usare [Atom](atom.io). Se non conosci il markdown, non preoccuparti! È facile. Leggi ulteriori informazioni [qui](https://guides.github.com/features/mastering-markdown/).
 
-2. Fai il grosso del lavoro di tradurre il documento principale. [Google Translate](https://translate.google.com) e [deepl.com](https://deepl.com) sono buone risorse; puoi anche tradurre tutto il documento in una volta sola, quindi revisionarlo per le correzioni.
+2. Fai il grosso del lavoro di tradurre il documento principale. [Google Translate](https://translate.google.com) e [deepl.com](https://deepl.com) sono risorse valide; puoi anche tradurre tutto il documento in una volta sola, quindi revisionarlo per le correzioni.
 
 ## Facoltativo: crea una versione specifica per la lingua di questo sito Web!
 1. Segui  [questi](/hacks/crea-un-fork) passaggi per iniziare a creare il fork di questo repository.
