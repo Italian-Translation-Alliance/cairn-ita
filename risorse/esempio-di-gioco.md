@@ -37,7 +37,7 @@ nav_order: 2
 
  **Esther**: _"Eccellente. Voglio provare a estrarre con cura una delle foglie, per usarla in futuro, e poi andare avanti."_
 
- **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo crepaccio che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparendemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra mèta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
+ **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo crepaccio che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparentemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra meta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
 
  **Esther**: _"Penso che dovremmo accamparci prima di andare avanti. Se dobbiamo calarci o aggirare l'abisso, preferirei avere la luce dalla nostra!"_
 
@@ -71,7 +71,7 @@ nav_order: 2
 
  **Esther**: _"Sappiamo qualcosa di questa creatura?"_
 
- **Custode**: _"Sì - è un'[**Alce Sanguinaria**](/monsters/blood-elk/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
+ **Custode**: _"Sì - è un'[**Alce Sanguinaria**](/mostri/alce-sanguinaria/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
 
  **Esther**: _"Spaventoso! In questo caso, voglio usare la mia azione per aiutare il mio compagno a trascinarsi fuori dal suo percorso, magari verso quella Quercia che hai menzionato prima."_
 
@@ -93,7 +93,7 @@ nav_order: 2
 
   **Custode**: _"Dopo il vostro incontro con l'**Alce di Sangue**, tornate all'accampamento cercando di recuperare quanto più sonno potete. All'alba siete entrambi svegli e pronti a continuare il vostro viaggio."_
 
- **Esther**: _"Va bene. La domanda è, come attaversiamo il **Crollo Divino**? Ci sono ponti al nostro livello?"_
+ **Esther**: _"Va bene. La domanda è, come attraversiamo il **Crollo Divino**? Ci sono ponti al nostro livello?"_
 
  **Custode**: _"Non che possiate vedere. Lontano a Nord un gruppetto di alberi cresce vicino al crepaccio e blocca parzialmente la vostra visuale; dovrete esplorare un po' per vedere cosa c'è oltre. Qualche centinaio di metri a Sud, invece, potete vedere un piccolo ripiano che sporge dalle pareti del crepaccio, circa cinquanta piedi più sotto. Ha una specie di forma a "L" e si avvicina parecchio all'altro lato. Potrà volerci un po' di lavoro per arrivarci, ma sembra fattibile."_
 
@@ -107,7 +107,7 @@ nav_order: 2
 
  **Custode**: _"Trovi una grossa pietra sul bordo e ci pianti dentro il chiodo."_
 
- **Barry**: _"Ottimo, mi calo e po accendo la mia lanterna. **Esther** mi seguirà, suppongo."_
+ **Barry**: _"Ottimo, mi calo e poi accendo la mia lanterna. **Esther** mi seguirà, suppongo."_
 
  **Custode**: _"Piantando attentamente i tuoi piedi sul ripiano, testi la corda e chiami **Esther**, che si cala. Dopo che è arrivata in sicurezza sul ripiano, osservate i vostri dintorni. Il ripiano sembra andare a zigzag verso il basso, all'interno dell'orrido e quasi fino in fondo. Il suono dell'acqua corrente riempie il crepaccio. Volete lasciare la corda qui per il viaggio di ritorno?"_
 
@@ -189,7 +189,7 @@ nav_order: 2
 
   **Esther**: _"Ehm... posso sentirle?"_
 
-  **Custode**: _"Senti solo l'umidità dell'acqua. Frose un lontano solletico, ma potrebbero essere solo delle canne. Sembrano reagire a ogni tuo movimento."_
+  **Custode**: _"Senti solo l'umidità dell'acqua. Forse un lontano solletico, ma potrebbero essere solo delle canne. Sembrano reagire a ogni tuo movimento."_
 
   **Esther**: _"Interessante. Se non sono in pericolo immediato credo che andrò avanti. La nostra luce ci permette di vedere fino dall'altra parte del fiume?"_
 
@@ -199,7 +199,7 @@ nav_order: 2
 
   **Esther**: _"Posso andare più veloce di questa cosa?"_
 
-  **Warden**: _"Uhm... Dovrai fare un tiro salvezza su DES."_
+  **Custode**: _"Uhm... Dovrai fare un tiro salvezza su DES."_
 
   **Esther**: _"Scusa **Barry**, voglio vedere se riesco a batterla. Capiremo come farti attraversare una volta che sarò di nuovo all'asciutto. Ok, andiamo... Sì! Un 2! Attraverso in corsa."_
 
@@ -217,11 +217,11 @@ nav_order: 2
 
   **Custode**: _"Marciate in parallelo su entrambi i lati del fiume, con la luce della lampada di **Barry** che illumina a malapena la vostra strada. **Esther**, tu stai facendo particolarmente fatica, perché devi stare molto vicina al fiume per evitare di finire in ombre sconosciute."_
 
-  **Esther**: _"Se sono vicina al fiume, vorrei studiarlo ancora un po'. Riesco ancora a vedere quelle cose piantose bioluminescenti?"_
+  **Esther**: _"Se sono vicina al fiume, vorrei studiarlo ancora un po'. Riesco ancora a vedere quelle cose a forma di piante bioluminescenti?"_
   
-  **Warden**: _"Sì e sembra che ti seguano. La cosa interessante è che la luce dei loro movimenti è quasi sufficente a farti vedere il fiume."_
+  **Custode**: _"Sì e sembra che ti seguano. La cosa interessante è che la luce dei loro movimenti è quasi sufficiente a farti vedere il fiume."_
 
-  **Barry**: _"Bene. Magari riesci a tenere gli occhi aperti nel caso ci siano altre anguille? E io? Cosa vedo mentre attraverso questo crepaccio dimenticato dagli dèi?"_
+  **Barry**: _"Bene. Magari riesci a tenere gli occhi aperti nel caso ci siano altre anguille? E io? Cosa vedo mentre attraverso questo crepaccio dimenticato dagli dei?"_
 
   **Custode**: _"Le pareti dal tuo lato del fiume si restringono un po' mentre ti avvicini alla sporgenza sollevata che avevi visto prima; in effetti, inizi a sentirti piuttosto schiacciato. Fortunatamente  sei abbastanza ossuto da riuscire a raggiungere la sporgenza, che blocca completamente il passaggio."_
 
