@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reliquie
+title: Altre Reliquie
 parent: Risorse
 nav_order: 4
 ---
