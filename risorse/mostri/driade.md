@@ -4,7 +4,7 @@ parent: Mostri
 grand_parent: Risorse
 ---
 
-# Dryad
+# Driade
 4 PF, 14 VOL, disarmata (d4) 
 - Timidi e pacifici spiriti arborei, che si manifestano come belle donne.
 - Spiritualmente legati ad un albero, possono sparire riunendosi ad esso. Non possono allontanarvisi troppo e muoiono se l'albero muore.

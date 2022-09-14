@@ -12,7 +12,7 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 
 ### Presa di Gaia, 5 cariche
 - Un braccialetto fatto di sottili viti intrecciate. Quando chi lo indossa stringe qualcosa, dei viticci escono dalle viti e ne assicurano la presa. Lasceranno andare solo se incendiati o per volontà di chi indossa il braccialetto.
-- **Ricarica**: Piantare il braccialetto essicato nel ricco suolo di una foresta e innaffiarlo liberamente con sangue di fata. Un nuovo braccialetto sboccerà durante la notte.
+- **Ricarica**: Piantare il braccialetto essiccato nel ricco suolo di una foresta e innaffiarlo liberamente con sangue di fata. Un nuovo braccialetto sboccerà durante la notte.
 
 ### Porte del Corvo, 1 carica
 - Una grossa bottiglia marrone piena di birra scura e amara. L'etichetta mostra un corvo col becco spalancato e linee angolari indicano il rumore che ne esce. Mentre sta venendo bevuta, il bevitore si vanterà incautamente e ad alta voce dei propri segreti più reconditi, che valga o meno la pena di vantarsene.
@@ -27,7 +27,7 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 
 ### Penna del Patto, 1 carica
 - Una penna d'oca nera con macchie d'oro. Quando un contratto viene scritto con questa penna, tutti quelli che lo firmano in accordo sono magicamente vincolati a rispettarne i termini, con l'eccezione di chi l'ha scritto.
-- **Ricarica**: Astenersi dal leggere o scrivere per un intero ciclo lunare, mentre si tiene la penna su di sè.
+- **Ricarica**: Astenersi dal leggere o scrivere per un intero ciclo lunare, mentre si tiene la penna su di sé.
 
 ### Dita di Ghoul, 3 usi
 - Un sacchetto di dita umane tagliate, grigie e parzialmente mummificate. Le dita possono essere spezzate se piegate in direzione opposta alla giuntura, rilasciando uno sbuffo di polvere. Chiunque respiri la polvere è temporaneamente paralizzato, subisce d8 danni a DES e ottiene un'immunità permanente agli effetti di sonno e fascino.
@@ -81,10 +81,10 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 
 ### Ossa della Volontà, 3 cariche
 - Una coppia di costole di cervo ingrigite, tagliate per suonare meglio. Una ha un rozzo teschio inciso sopra, l'altra una mano scheletrica. Quando vengono suonate, possono essere usate per controllare le ossa di un'altra creatura. Se il bersaglio è ancora vivo, l'effetto è breve: un singoli istante di improvviso controllo corporeo, che potrebbe essere abbastanza per rovinare un'altra azione fisica. Se il bersaglio è morto o non morto, l'effetto dura finché si va avanti a suonare.
-- **Ricarica**: Stai ai margini della foresta oscura e lancia una delle Ossa quanto più lontano ti riesce tra gli alberi. Tieni gli occhi saldamente chiusi mentre entri nella foresta per recuperarla. Non sbirciare e non rispondere ai provocanti sussuri dei morti che ti chiamano.
+- **Ricarica**: Stai ai margini della foresta oscura e lancia una delle Ossa quanto più lontano ti riesce tra gli alberi. Tieni gli occhi saldamente chiusi mentre entri nella foresta per recuperarla. Non sbirciare e non rispondere ai provocanti sussurri dei morti che ti chiamano.
 
 ### Sigillo del Gran Gob, 1 carica
-- Uno stampo per ceralacca fatto di rocce, bastoncini, un teschio d'uccello e una coda di ratto. Qualsiasi foglio con un sigillo impresso con questo stampo in ceralacca giallo-verdognolasarà considerato da ogni goblin con un ordine dal Gran Gob in persona.
+- Uno stampo per ceralacca fatto di rocce, bastoncini, un teschio d'uccello e una coda di ratto. Qualsiasi foglio con un sigillo impresso con questo stampo in ceralacca giallo-verdognola sarà considerato da ogni goblin con un ordine dal Gran Gob in persona.
 - Al costo di una carica, marchia un progetto che descriva una macchina meravigliosa o un oggetto magico e assembla una pila di pietre luccicanti, paglia, insetti, funghi o simili in un mucchio che ricordi vagamente la forma di detto oggetto. Il mucchio si lega e agisce come l'oggetto descritto per circa un'ora. Poi fallisce in modo catastrofico.
 - **Ricarica**: Supplica davanti al Gran Gob, descrivendo in modo colorito quanto tu e i tuoi compagni siate inferiori alla sua magnificenza. Imploralo di darti un dono - se impressionato, ti fornirà un piccolo e, probabilmente, viscido segno del suo apprezzamento da aggiungere al sigillo.
 
@@ -129,7 +129,7 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 - Spala la roccia come se fosse terra
 - **Ricarica**: Trascorrere un'ora a spalare terra sotto la pioggia.
 
-## Dal Discord dell'NSR
+## Dal Discord NSR
 
 ### Ultimo Respiro, Spada Corta, d8 danni, 1 carica
 - Piantare **Ultimo Respiro** nel terreno crea una [Prigione Astrale](/cairn-srd/#100-incantesimi) attorno al portatore. Il portatore è invulnerabile al danno, ma incapace di muoversi mentre è all'interno della prigione.
@@ -149,7 +149,7 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 
 ### Collana delle Palle di fuoco, 1 carica
 - Una collana con un piccolo rubino pendente. Può essere lanciata, evocando un'esplosione di fiamme nell'area attorno a dove atterra, che infligge d8+d8 danni a chiunque ne venga coinvolto.
-- **Ricarica**: Lasciala in un falò ruggente finché le fiamme non si spengono da sè.
+- **Ricarica**: Lasciala in un falò ruggente finché le fiamme non si spengono da sé.
 
 ### Servitore assassino, pugnale, d6 danni, 1 carica
 - Quando ferisce mortalmente una vittima, la intrappola nella lama.
@@ -205,7 +205,7 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 
 ### Bomba uccello, 1 carica
 - Un uovo fragile che rilascia un puzza incredibile, che costringe chiunque nei dintorni a vomitare. Come trasporti un oggetto del genere? Cosa succede se si rompe nel tuo zaino durante un combattimento?
-- **Ricarica**: Seppelisci il guscio in una tomba. La mattina successiva vi troverai altre tre uova.
+- **Ricarica**: Seppellisci il guscio in una tomba. La mattina successiva vi troverai altre tre uova.
 
 ### Spada di legno marcio
 - Sembra una vera spada quando impugnata
