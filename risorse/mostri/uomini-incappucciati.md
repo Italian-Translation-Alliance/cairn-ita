@@ -4,7 +4,7 @@ parent: Mostri
 grand_parent: Risorse
 ---
 
-# Uomini Incappucciat
+# Uomini Incappucciati
   
  12 PF, 9 FOR, 12 DES, 14 VOL, bastone di legno (d8), un Libro degli Incantesimi (Scegli uno: _Affascinare_, _Ipnotizzare_, _Spingere/Tirare_, _Scudo_)
 
