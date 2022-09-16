@@ -52,4 +52,4 @@ sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiario-a4.pdf"
-#rm -rf $tmpdir
+rm -rf $tmpdir
