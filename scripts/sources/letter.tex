@@ -44,11 +44,11 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Cairn Bestiary},
+  pdftitle={Cairn - Bestiario},
   pdfauthor={Yochai Gal},
-  pdflang={en-US},
+  pdflang={it-IT},
   hidelinks,
-  pdfcreator={LaTeX}}
+  pdfcreator={LaTeX}}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[papersize={8.5in,11in},margin=.5in]{geometry}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
@@ -60,19 +60,19 @@
 \ifxetex
   % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
   \usepackage{polyglossia}
-  \setmainlanguage[variant=american]{english}
+  \setmainlanguage{italian}
 \else
-  \usepackage[shorthands=off,main=american]{babel}
+  \usepackage[shorthands=off,main=italian]{babel}
 \fi
 
-\title{Cairn Bestiary}
+\title{Cairn - Bestiario}
 \usepackage{etoolbox}
 \makeatletter
 \providecommand{\subtitle}[1]{% add subtitle to \maketitle
   \apptocmd{\@title}{\par {\large #1 \par}}{}{}
 }
 \makeatother
-\subtitle{Compiled on {\today} by Yochai Gal \\ CC-BY-SA 4.0}
+\subtitle{Compilato il {\today} dall'Italian Translation Alliance \\ CC-BY-SA 4.0}
 \date{}
 \clearpage
 \pagestyle{plain}

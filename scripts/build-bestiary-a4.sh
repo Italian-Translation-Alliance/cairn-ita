@@ -35,12 +35,12 @@ if ! [ -x $destdir ]; then
 	mkdir $destdir
 fi
 
-if ! [ -x "$tmpdir/mostri" ]; then
-	mkdir -p $tmpdir/mostri
+if [ -x "$tmpdir/mostri" ]; then
+	rm -rf $tmpdir/mostri
 fi
 
-# Break if any command exits with error
-set -e
+mkdir $tmpdir/mostri
+
 
 rsync -av $sourcedir/ $tmpdir/mostri/
 sed -i -f $scriptdir/sources/prep.sed $tmpdir/mostri/*.md
@@ -52,4 +52,4 @@ sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiario-a4.pdf"
-rm -rf $tmpdir
+#rm -rf $tmpdir

@@ -44,11 +44,11 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Cairn Bestiary},
+  pdftitle={Cairn - Bestiario},
   pdfauthor={Yochai Gal},
-  pdflang={en-US},
+  pdflang={it-IT},
   hidelinks,
-  pdfcreator={LaTeX via pandoc}}
+  pdfcreator={LaTeX via pandoc}}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[papersize={5.5in,8.5in},margin=0.625in]{geometry}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
@@ -60,12 +60,12 @@
 \ifxetex
   % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
   \usepackage{polyglossia}
-  \setmainlanguage[variant=american]{english}
+  \setmainlanguage{italian}
 \else
-  \usepackage[shorthands=off,main=american]{babel}
+  \usepackage[shorthands=off,main=italian]{babel}
 \fi
 
-\title{Cairn Bestiary}
+\title{Cairn - Bestiario}
 \usepackage{etoolbox}
 \makeatletter
 \providecommand{\subtitle}[1]{% add subtitle to \maketitle
@@ -89,8 +89,8 @@
 \thispagestyle{empty}
 \AtBeginShipoutNext{\AtBeginShipoutDiscard}
 \let\oldtoc\tableofcontents
-\renewcommand{\contentsname}{\centering Creatures from A to Z}
-\title{Sections and Chapters}
+\renewcommand{\contentsname}{\centering Creature dalla A alla Z}
+\title{Sezioni e Capitoli}
 \renewcommand{\tableofcontents}{\oldtoc\newpage}
 {
 \pagestyle{empty}
