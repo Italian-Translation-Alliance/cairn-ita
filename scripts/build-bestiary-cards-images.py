@@ -2,6 +2,8 @@
 # Written by Oskar Swida
 # This creates monster cards from original monsters in markdown format
 
+from sys import argv, exit
+from os import path, mkdir
 
 import glob
 from textwrap import wrap
@@ -9,7 +11,9 @@ from textwrap import wrap
 import marko
 from lxml import html
 from marko.ast_renderer import ASTRenderer
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont 
+
+from multiprocessing import Pool, cpu_count
 
 
 class Coords:
@@ -85,14 +89,16 @@ class TextBox:
 
 
 class MonsterCard:
-    def __init__(self, outdir):
+    def __init__(self, basedir):
+        self.outdir = basedir + "/build/carte-mostro"
+        self.fontsdir = basedir + "/scripts/fonts/"
         self.titleCoords = Coords(19, 79, 314, 67)
         self.titleBox = TextBox(self.titleCoords)
         self.attrCoords = Coords(115, 35, 490, 82)
         self.attrBox = TextBox(self.attrCoords)
         self.descCoords = Coords(117, 146, 502, 292)
         self.descBox = TextBox(self.descCoords)
-        self.outdir = outdir
+
 
     def generate(self, mdfile):
         self.image = Image.open("sources/monster-ls.png")
@@ -120,19 +126,32 @@ class MonsterCard:
             d = d.replace("\n", " ", -1)
             desc.append("• "+d)
         self.attrBox.drawText(
-            self.image, paragraphs[0], '/mnt/c/Users/utente/Documents/GitHub/cairn-ita/scripts/fonts/Alegreya-Italic.ttf', center=True, initial_size=56)
+            self.image, paragraphs[0], self.fontsdir + '/Alegreya-Italic.ttf', center=True, initial_size=56)
         self.titleBox.drawText(
-            self.image, title[0], '/mnt/c/Users/utente/Documents/GitHub/cairn-ita/scripts/fonts/Alegreya-Bold.ttf', angle=90, center=True)
+            self.image, title[0], self.fontsdir + '/Alegreya-Bold.ttf', angle=90, center=True)
         self.descBox.drawText(self.image, "\n".join(
-            desc), '/mnt/c/Users/utente/Documents/GitHub/cairn-ita/scripts/fonts/Alegreya-Regular.ttf', initial_size=40)
+            desc), self.fontsdir + '/Alegreya-Regular.ttf', initial_size=40)
+        print(self.outdir+"/"+title[0]+".png")
         self.image.save(self.outdir+"/"+title[0]+".png")
-        pass
 
 
-# Please adjust to your monster markdown & output directory
-dir = "/mnt/c/Users/utente/Documents/GitHub/cairn-ita/risorse/mostri"
-filelist = [f for f in glob.glob(dir + "/*.md")]
-cnt = 0
-for file in filelist:
-    mc = MonsterCard("/mnt/c/Users/utente/Documents/GitHub/cairn-ita/build/carte-mostro")
-    mc.generate(file)
+if __name__ == "__main__":
+    if len(argv) < 2:
+        print("Usage: python3 " + argv[0] + " /path/to/cairn/repository")
+        exit(1)
+    basedir = argv[1]
+
+    dir = basedir + "/risorse/mostri"
+    outdir = basedir + "/build/carte-mostro"
+
+    if not path.exists(outdir):
+        mkdir(outdir)
+
+    def generate_card(file):
+        mc = MonsterCard(basedir)
+        mc.generate(file)
+
+    pool = Pool(cpu_count())
+    pool.map(generate_card, [f for f in glob.glob(dir + "/*.md")])
+    pool.close()
+    pool.join()
