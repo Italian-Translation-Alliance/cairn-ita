@@ -976,7 +976,7 @@ I **colpi senz’armi** fanno sempre 1d4 danni. Se **attaccanti multipli** bersa
 Se un attacco è **compromesso**, il dado di danno è ridotto a 1d4, indipendentemente dall’arma. Se l’attacco è **potenziato**, l’attaccante tira 1d12. Gli attacchi con la qualità **scoppio** colpiscono tutti i bersagli ad area, tirando separatamente per ognuno.
 
 ## Danno
-Se un attacco porta la PF di un PG esattamente a 0, il giocatore tira sulla tabella **Cicatrici**.
+Se un attacco porta la PF di un PG esattamente a 0, il giocatore consulta la tabella **Cicatrici**.
 
 I danni che riducono la PF di un bersaglio **sotto** 0 diminuiscono del valore rimanente la sua FOR. Devono quindi effettuare un tiro salvezza di FOR per evitare il **danno critico**. Il fallimento li mette fuori combattimento e, se non curati, muoiono. 
 
