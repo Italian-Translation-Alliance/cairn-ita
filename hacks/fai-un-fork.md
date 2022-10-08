@@ -27,4 +27,4 @@ nav_order: 9
 1. Contatta [Licopeo](https://twitter.com/LicopeoArt) e chiedi gentilmente. Magari anche un contributo in denaro.
 
 
-Di [Stefano Grassi](https://twitter.com/FabulousFreak).
+Di [Stefano Grassi](https://twitter.com/idolofmanyhands).
