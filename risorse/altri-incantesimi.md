@@ -3,7 +3,6 @@ layout: default
 title: Altri libri di incantesimi
 parent: Risorse
 nav_order: 5
-nav_exclude: true
 ---
 
 # Altri libri di incantesimi
