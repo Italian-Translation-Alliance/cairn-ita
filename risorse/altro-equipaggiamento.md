@@ -2,7 +2,7 @@
 layout: default
 title: Altro Equipaggiamento
 parent: Risorse
-nav_order: 5
+nav_order: 6
 ---
 
 # Altro Equipaggiamento
