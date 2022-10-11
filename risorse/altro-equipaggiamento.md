@@ -226,6 +226,7 @@ I salari sono presentati come paghe mensili. Per le percentuali del tesoro, fate
 | Mulo (+6 slot, lento)               | 50        |
 
 ## Trasporto: Veicoli di terra
+
 |                                          |           |
 | ---------------------------------------- | --------- |
 | **Veicolo**                              | **Costo** |
