@@ -6,8 +6,8 @@ grand_parent: Risorse
 
 # Idra
 
-9 PF, 1 Armatura, 14 FOR, 12 DES, morso (d10, scoppio)
+18 PF, 2 Armatura, 15 FOR, 12 VOL, morso (d12, scoppio)
 
-- Creature draconiche con nove teste di serpente. Possono attaccare un numero di bersagli pari al numero di teste.
+- Grandi rettili con nove teste di serpente. Possono attaccare un numero di bersagli pari al numero di teste.
 - Ogni volta che subisce danno a FOR, perde una testa. Le teste tagliate ricrescono dopo un turno, recuperando 1 PF per testa ricresciuta.
-- Il danno da fuoco ricevuto è migliorato e impedisce la ricrescita delle teste per un turno.
+- Il danno da fuoco ricevuto è _potenziato_ e impedisce la ricrescita delle teste per un turno.

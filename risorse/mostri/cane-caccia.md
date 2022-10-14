@@ -6,7 +6,7 @@ grand_parent: Risorse
 
 # Cane, da caccia
 
-2 PF, 12 DES, morso (d6)
+3 PF, 12 DES, morso (d6)
 
 - Razze massicce e esclusivamente domestiche, con una natura feroce.
 - Tracciano col fiuto. Una volta lanciati, è molto difficile allontanarli dalla pista.

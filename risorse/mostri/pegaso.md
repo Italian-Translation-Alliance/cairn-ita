@@ -6,7 +6,8 @@ grand_parent: Risorse
 
 # Pegaso
 
-3 PF, 12 FOR, 14 DES, 12 VOL, artigli (d6+d6)
+6 PF, 12 FOR, 15 DES, 15 VOL, artigli (d6+d6)
 
 - Cavalli alati intelligenti, volitivi e orgogliosi. Vengono visti come simboli di bellezza e nobiltà.
-- Possono essere addestrati a fare da cavalcature per i personaggi legali.
+- Hanno un rigido senso della moralità e sentono se una persona l'ha infranto.
+- Si offrirà di aiutare gli avventurieri come cavalcatura se giudica nobile e giusta la causa della persona.

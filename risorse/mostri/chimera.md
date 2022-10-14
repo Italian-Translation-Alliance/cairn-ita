@@ -6,7 +6,7 @@ grand_parent: Risorse
 
 # Chimera
 
-9 PF, 14 FOR, morso (d6+d6+d6, scoppio)  
+10 PF, 14 FOR, morso e incornata (d10+10), soffio infuocato (d12, _scoppio_)  
 
 - Mostruosità volanti a tre teste; ibridi di leone, capra e drago.
-- La testa di drago sputa fuoco in un cono per d10 danni.  
+- Create attraverso una potente magia, queste creature possono essere legate a un maestro o vagare libere.
