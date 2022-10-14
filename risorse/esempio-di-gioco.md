@@ -8,6 +8,8 @@ nav_order: 2
 # Esempio di gioco
 ---
 
+Per una "actual play" dal vivo di Cairn (con il commento del Custode), vedete [qui](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
+
 **Tieni a mente che:**
 - **Esther** sta giocando un ex **Erborista**
 - **Barry** gioca un ex **Cacciatore**
