@@ -6,8 +6,8 @@ grand_parent: Risorse
 
 # Zombie
 
-2 PF, 14 FOR, 6 DES, 3 VOL, arma (d8)
+6 PF, 6 DES, 3 VOL, arma arrugginita (d6)
 
-- Lenti corpi umanoidi privi di intelletto, rianimati da potenti maghi o chierici per servire come guardiani.
-- Attaccano tutto ciò che si avvicina.
-- Immuni agli effetti mentali.
+- Cadaveri rianimati lenti e senza intelletto. Creati da maghi malvagi per servire come guardiani in orde.
+- Attaccano semplicemente tutto ciò che si avvicina.
+- Non sono afflitti da attacchi mentali.

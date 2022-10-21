@@ -6,7 +6,8 @@ grand_parent: Risorse
 
 # Viverna
 
-7 PF, 14 DES, 11 VOL, morso (d8+d8) o pungiglione velenoso (d6)
+7 PF, 14 DES, morso (d8+d8) o pungiglione velenoso (d6)
 
-- Mostri alati a due gambe, simili ai draghi, con una lunga coda che termina in un pungiglione velenoso. Vivono su ogni terreno, ma preferiscono alture e foreste.
-- Danno critico: Il letale veleno infligge ulteriori d8 danni a FOR.
+- Mostri rettiliani alati, a due gambe con una lunga coda puntata da un pungiglione velenoso. Vive su qualsiasi terreno, ma prediligono le scogliere asciutte.
+- Evita le altre creature, ma attacca tutto ciò che arriva nella vittima del suo nido.
+- **Danno critico**: il veleno mortale debilita permanentemente il bersaglio, riducendo la sua FOR massima al valore attuale.

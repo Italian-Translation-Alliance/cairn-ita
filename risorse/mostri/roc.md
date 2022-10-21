@@ -6,7 +6,7 @@ grand_parent: Risorse
 
 # Roc
 
-30 PF, 18 FOR, 14 DES, 12 VOL, artigli (d6+d6, scoppio) o morso (d10+d10), _formazione_
+18 PF, 18 FOR, 14 DES, 12 VOL, artigli (d8+d8, scoppio) o morso (d10+d10), _formazione_
 
 - Uccelli da preda gargantueschi, che fanno il nido in cima alle montagne più alte e attaccano qualsiasi cosa vi si avvicini. Considerati un mito dalla maggior parte della gente.
 - Sorprendono le vittime attaccando dall'alto.
