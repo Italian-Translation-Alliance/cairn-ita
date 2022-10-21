@@ -6,8 +6,8 @@ grand_parent: Risorse
 
 # Fantasma
 
-10 PF, 3 Armatura, 14 VOL, tocco prosciugante (d6)
+8 PF, 15 VOL, tocco gelido (d4)
 
-- Spiriti incorporei dei morti inquieti.
-- Possono possedere le vittime che falliscono un tiro su VOL, prendendo il controllo dei loro corpi.
-- Danno critico: prosciuga la forza vitale della vittima (d6 danni extra a FOR).
+- Spiriti incorporei dei morti inquieti. Evita il confronto diretto, possendendo invece con facilità un bersaglio e agendo attraverso di esso quando possibile.
+- Immune alla maggior parte delle forme di danno, suscettibile solo alla magia e all'acqua santa.
+- **Possessione**: Un bersaglio deve effettuare in tiro salvezza su VOL o essere posseduto, controllato dal fantasma finché non viene in qualche modo scacciato.

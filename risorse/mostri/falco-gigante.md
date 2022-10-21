@@ -6,8 +6,9 @@ grand_parent: Risorse
 
 # Falco, Gigante
 
-4 PF, 14 FOR, 14 DES, 8 VOL, artigli o becco (d6)
+10 PF, 8 FOR, 15 DES, 8 VOL, artigli e becco (d8+d6)
 
-- Grosso uccello predatore, delle dimensioni di un grosso cane. Caccia animali di taglia simile, ma può attaccare gli umani se affamato.
+- Grandi rapaci, delle dimensioni di un lupo. Possono trasportare animali della loro taglia.
+- Caccia gli animali che sono in grado di trasportare, ma potrebbero attaccare gli umani o una preda maggiore se disperati.
 - Sorprendono le proprie vittime attaccando in picchiata da grandi altezze.
-- Può portare via creature grosse quanto lui.
+- Potrebbero essere addestrati per essere animali da caccia.

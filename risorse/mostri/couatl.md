@@ -10,4 +10,5 @@ grand_parent: Risorse
 
 - Lunghi serpenti piumati con ali colorate. Vivono nelle giungle calde e sono considerati divini dai nativi.
 - Estremamente intelligenti e magici, possono parlare diversi linguaggi.  
-- Mutaforma: possono prendere la forma di bestie e umanoidi.
+- Possono cambiare forma assumendo quella di una persona o di un piccolo animale.
+

@@ -9,5 +9,5 @@ grand_parent: Risorse
 16 PF, 11 FOR, 15 DES, 8 VOL, colpo di vento (d8)
 
 - Grossi vortici viventi di aria turbinante.
-- Spazzano via le creature più leggere con i loro venti forti.
-- Feriscono le creature volanti interrompendone il volo.
+- Le creature più leggere sono spazzate via dalla sua presenza.
+- I suoi attacchi ignorano qualsiasi armatura consumata.

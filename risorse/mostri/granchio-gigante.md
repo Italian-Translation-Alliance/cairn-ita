@@ -1,12 +1,13 @@
 ---
 layout: default
 parent: Mostri
-grand_parent: Risorse 
---- 
+grand_parent: Risorse
+---
 
-# Granchio, Gigante
+# Granchio Gigante
 
-3 PF, 3 Armatura, 11 FOR, 4 DES, chele (d8)
+6 PF, 3 Armatura, 14 FOR, 3 DES, 8 VOL, tenaglie (d12)
 
-- Enormi crostacei che vivono nelle aree costiere e attaccano istintivamente qualsiasi cosa vi si avvicini.
-- I loro pesanti carapaci li rendono estremamente robusti, ma lenti e incapaci di nuotare.
+- Enormi crostacei che vivono nelle zone costiere e attaccano senza pensare tutto ciò che si avvicina.
+- Le loro tenaglie schiacciano con una forza sufficiente per ignorare qualsiasi armatura inferiore alla piastra.
+- Il loro pesante carapace li rende particolarmente resistenti ma ugualmente lenti.

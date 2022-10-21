@@ -6,8 +6,8 @@ grand_parent: Risorse
 
 # Elementale, Terra
 
-12 PF, 3 Armatura, 16 FOR, 8 DES, pugno (d10)
+12 PF, 3 Armatura, 16 FOR, 8 DES, pugno (d12)
 
 - Grossi esseri umanoidi fatti di terra e pietra.
-- Creano piccoli tremori nel terreno con la loro forza naturale. 
+- Provocano costanti tremori nel terreno con la loro presenza. 
 - Possono mescolarsi alla terra e muovervisi attraverso come se nuotassero.

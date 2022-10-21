@@ -6,7 +6,8 @@ grand_parent: Risorse
 
 # Cockatrice
 
-5 PF, 8 FOR, 12 DES, becco (d6)
+5 PF, 8 FOR, 14 DES, becco (d6)
 
-- Piccolo ibrido, assomiglia a un pollo con caratteristiche da rettile.
-- Danno critico: la vittima viene pietrificata (d8+d8 danni a DES).
+- Piccole creature simili a polli con caratteristiche rettili.
+- Particolarmente agili e difficili da individuare, il loro più grande nemico è la donnola.
+- **Danno critico**: la vittima viene tramutata in pietra finché la Cockatrice non viene uccisa.

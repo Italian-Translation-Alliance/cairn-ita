@@ -6,7 +6,8 @@ grand_parent: Risorse
 
 # Serpente, Cobra Sputante
 
-3 PF, 14 DES, morso (d6) o sputo acido (d4)
+3 PF, 14 DES, sputo acido (d6)
 
-- Serpente lungo 3 piedi con scaglie grigie e bianche. Preferiscono attaccare da lontano con il loro sputo acido.
-- Danno critico: Il veleno uccide il bersaglio in 2d8 turni, se non viene trattato.
+- Serpente lungo 3' con squame grigie e bianche. Particolarmente timido, vive in luoghi dove può mimetizzarsi.
+- Attacca a distanza con il loro sputo acido, puntando sempre alla testa del bersaglio.
+- **Danno critico**: l'acido corrode la faccia del bersaglio, danneggiandone permanentemente l'aspetto e i sensi.

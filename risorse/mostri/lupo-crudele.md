@@ -4,10 +4,10 @@ parent: Mostri
 grand_parent: Risorse
 ---
 
-# Lupo, Crudele
+# Lupo Crudele
 
-5 PF, 14 FOR, 12 DES, morso (d8)
+8 PF, 14 FOR, 12 DES, morso (d10)
 
-- Grossi lupi, feroci e semi-intelligenti. Vivono in grotte, sulle montagne e nelle foreste.
-- Possono essere addestrati come i cani se catturati da giovani. I lupi crudeli sono particolarmente difficili da addestrare.
-- Talvolta vengono usati come cavalcature dai goblin.
+- Lupi semi-intelligenti delle dimensioni di un cavallo. Altamente territoriale, vive nelle foreste o in montagna e custodisce ferocemente i suoi dintorni.
+- I lupi normali ne hanno paura, ma combatteranno al loro fianco contro gli invasori.
+- Possono essere addestrati come cani se catturati giovani, ma è una sfida estremamente difficile.

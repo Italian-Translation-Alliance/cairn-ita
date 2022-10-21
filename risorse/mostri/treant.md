@@ -6,8 +6,8 @@ grand_parent: Risorse
 
 # Treant
 
-8 PF, 1 Armatura, 15 FOR, 8 DES, pugni (d6+d6)
+10 PF, 1 Armatura, 15 FOR, 3 DES, 12 VOL, radici (d10+d8, scoppio)
 
-- Giganteschi umanoidi fatti di corteccia d'alberi e fogliame. Vivono nelle foreste e si preoccupano soltanto di proteggere le piante della loro casa.
-- Odiano il fuoco e attaccano chiunque lo usi.
-- Sorprendono le proprie vittime rimanendo immobili e venendo scambiati per un normale albero.
+- Un volto umano fatto di corteccia sul tronco di un albero imponente. Si può trovare al centro di fitte foreste dove diffonde le sue massicce radici.
+- Collegato a tutti gli alberi della sua foresta, può controllarne la crescita e muoverne i rami.
+- Si nutre drenando energia dai corpi freschi, qualsiasi quantità può essere utilizzata, ma più potente è la creatura, meglio è.

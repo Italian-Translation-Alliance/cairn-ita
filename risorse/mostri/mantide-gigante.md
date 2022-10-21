@@ -10,4 +10,4 @@ grand_parent: Risorse
 
 - Insetti lunghi 12 piedi con gli arti superiori artigliati e mascelle fendenti. Vivono nelle foreste calde e nelle giungle.
 - Cacciano qualsiasi preda, usando la propria colorazione verde per mimetizzarsi tra le foglie. Non attaccano nessun nemico visibilmente più forte.
-- Danno critico: Blocca la vittima tra gli artigli e la decapita con un morso.
+- **Danno critico**: Blocca la vittima tra gli artigli e la decapita con un morso.
