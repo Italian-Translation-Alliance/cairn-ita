@@ -27,13 +27,15 @@ I comandi che iniziano con `#` sono da eseguire sul proprio terminale, mentre i 
 $ cd scripts
 ```
 
-A questo punto è possibile eseguire tutti gli script di build finora supportati (non ci sono garanzie per gli script non elencati):
+A questo punto è possibile eseguire tutti gli script di build presenti nella cartella `scripts`, che ricevono come input il percorso alla cartella di Cairn nel filesystem di Docker (se avete montato correttamente la cartella come nel secondo comando del listato precedente, il percorso è `/cairn`):
+```bash
+$ ./build-bestiary-master-script.sh /cairn
+```
 
-* build-bestiary-a4.sh
-* build-bestiary-a5.sh
-* build-bestiary-cards-images.py
-* build-bestiary-cards-pdf.sh
-* build-bestiary-letter.sh
+Lo script `build-bestiary-master-script.sh` lancia tutti gli script precedenti.
+
+Lanciare uno script senza alcun argomento lo farà terminare stampando le istruzioni per utilizzarlo.
+
 
 I risultati degli script sono disponibili nella cartella build del repository.
 
