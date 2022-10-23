@@ -29,6 +29,7 @@ vendor/bundle
 *.gem
 _zip
 .DS_Store
+tmp/
 
 Gemfile
 Gemfile.lock

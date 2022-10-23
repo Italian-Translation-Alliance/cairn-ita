@@ -23,6 +23,7 @@ scriptdir="$BASE_DIR/scripts"
 sourcedir="$BASE_DIR/risorse/mostri"
 tmpdir="$BASE_DIR/tmp"
 destdir="$BASE_DIR/build"
+bestiary="$tmpdir/cairn-bestiary-tmp.md"
 
 echo "Directory checks"
 if ! [ -x $scriptdir ]; then
@@ -35,17 +36,16 @@ if ! [ -x $sourcedir ]; then
 	exit 1
 fi
 
-if ! [ -x $tmpdir ]; then
-	mkdir $tmpdir
+if [ -x $tmpdir ]; then
+	rm -rf "$tmpdir"
 fi
+
+mkdir $tmpdir
 
 if ! [ -x $destdir ]; then
 	mkdir $destdir
 fi
 
-if [ -x "$tmpdir/mostri" ]; then
-	rm -rf $tmpdir/mostri
-fi
 
 mkdir $tmpdir/mostri
 
@@ -53,12 +53,12 @@ echo "Starting file preparation"
 
 rsync -av $sourcedir/ $tmpdir/mostri/
 sed -i -f $scriptdir/sources/prep.sed $tmpdir/mostri/*.md
-cat $tmpdir/mostri/*.md >> $tmpdir/cairn-bestiary-tmp.md
+cat $tmpdir/mostri/*.md >> $bestiary
 cp $scriptdir/sources/a4.tex $tmpdir/cairn-bestiary.tex
 
 echo "PDF build"
 
-pandoc $tmpdir/cairn-bestiary-tmp.md -f markdown -t latex -o $tmpdir/cairn-bestiary-tmp.tex
+pandoc $bestiary -f markdown -t latex -o $tmpdir/cairn-bestiary-tmp.tex
 cat $tmpdir/cairn-bestiary-tmp.tex >> $tmpdir/cairn-bestiary.tex
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 

@@ -10,7 +10,15 @@ fi
 
 BASE_DIR=$1
 
-SCRIPT_DIR="$1/scripts"
+if [ -x "$BASE_DIR/tmp" ]; then
+	rm -rf "$BASE_DIR/tmp"
+fi
+
+if [ -x "$BASE_DIR/build" ]; then
+	rm -rf "$BASE_DIR/build"
+fi
+
+SCRIPT_DIR="$BASE_DIR/scripts"
 
 bash "$SCRIPT_DIR/build-bestiary-letter.sh" $BASE_DIR
 
