@@ -4,10 +4,14 @@
 # Parameters validation
 
 if [ -z "$1" ]; then
-	echo "Usage: build-bestiary-letter.sh path/to/cairn/dir"
+	echo "Usage: build-bestiary-letter.sh path/to/cairn/dir [debug]"
+	echo "Any second parameter keeps the temporary directory"
 	exit 1
 fi
 
+if [ -z "$2" ]; then
+	echo "DEBUG MODE"
+fi
 # Directories set up
 
 BASE_DIR=$1
@@ -54,4 +58,9 @@ pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestia
 pdfjam --letterpaper --booklet true --landscape --noautoscale true $tmpdir/cairn-bestiary.pdf -o $tmpdir/cairn-bestiary-booklet.pdf --preamble '\usepackage{everyshi} \makeatletter \EveryShipout{\ifodd\c@page\pdfpageattr{/Rotate 180}\fi} \makeatother'
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-statement.pdf"
 mv $tmpdir/cairn-bestiary-booklet.pdf "$destdir/cairn-bestiary-letter-booklet.pdf"
-rm -rf $tmpdir
+
+if ! [ -z "$2" ]; then
+	rm -rf $tmpdir
+else
+	echo "Build files kept in $tmpdir"
+fi

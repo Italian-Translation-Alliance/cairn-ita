@@ -6,8 +6,13 @@
 echo "Parameters validation"
 
 if [ -z "$1" ]; then
-	echo "Usage: build-bestiary-a4.sh path/to/cairn/dir"
+	echo "Usage: build-bestiary-a4.sh path/to/cairn/dir [debug]"
+	echo "Any second parameter keeps the temporary directory"
 	exit 1
+fi
+
+if [ -z "$2" ]; then
+	echo "DEBUG MODE"
 fi
 
 # Directories set up
@@ -62,4 +67,9 @@ pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestia
 echo "Moving output"
 
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiario-a4.pdf"
-#rm -rf $tmpdir
+
+if [ ! -z "$2" ]; then
+	#rm -rf $tmpdir
+else
+	echo "Build files kept in $tmpdir"
+fi

@@ -3,8 +3,13 @@
 # Parameters validation
 
 if [ -z "$1" ]; then
-	echo "Usage: build-bestiary-a4.sh path/to/cairn/dir"
+	echo "Usage: build-bestiary-a4.sh path/to/cairn/dir [debug]"
+	echo "Any second parameter keeps the temporary directory"
 	exit 1
+fi
+
+if [ -z "$2" ]; then
+	echo "DEBUG MODE"
 fi
 
 # Directories set up
@@ -49,8 +54,12 @@ cat $tmpdir/cairn-bestiary-tmp.tex >> $tmpdir/cairn-bestiary.tex
 sed -i '$a \newpage\null\thispagestyle{empty}\newpage' $tmpdir/cairn-bestiary.tex
 sed -i '$a \\\end{document}' $tmpdir/cairn-bestiary.tex
 pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex 
-pdflatex -interaction=nonstopmode -output-directory=$tmpdir $tmpdir/cairn-bestiary.tex
 pdfjam --a5paper --booklet true --landscape $tmpdir/cairn-bestiary.pdf -o $tmpdir/cairn-bestiary-booklet.pdf --preamble '\usepackage{everyshi} \makeatletter \EveryShipout{\ifodd\c@page\pdfpageattr{/Rotate 180}\fi} \makeatother'
 mv $tmpdir/cairn-bestiary.pdf "$destdir/cairn-bestiary-a5.pdf"
 mv $tmpdir/cairn-bestiary-booklet.pdf "$destdir/cairn-bestiary-a5-booklet.pdf"
-#rm -rf $tmpdir
+
+if ! [  -z "$2" ]; then
+	rm -rf $tmpdir
+else
+	echo "Build files kept in $tmpdir"
+fi
