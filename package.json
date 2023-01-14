@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "markdown-split": "^0.1.0",
+    "split-md": "^0.3.0"
+  }
+}
