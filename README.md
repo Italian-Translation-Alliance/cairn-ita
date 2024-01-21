@@ -10,7 +10,7 @@ permalink: /
 - Editing: [Jim Parkin](https://d66kobolds.blogspot.com/)
 - Copertina: [CosmicOrrery](https://cosmicorrery.itch.io/)
 - Scheda del Personaggio: [Licopeo](https://www.instagram.com/licopeoart/)
-- Traduzione Italiana SRD: [Stefano Grassi](https://twitter.com/FabulousFreak)
+- Traduzione Italiana SRD: Stefano Grassi
 - Traduzione Italiana Sito Web: [Lorenzo Rossi](https://oicn.icu/), [Alessio Persichetti](https://deeperintothedungeon.wordpress.com/) e [Roberto Bisceglie](https://zeruhur.space)
 - Revisione Italiana: [OSR Italia, Facebook](https://www.facebook.com/groups/osritalia/),[Ruling the Game, Telegram](http://t.me/osritalia) ed in particolare Francisco Pettigiani, Roberto Bisceglie, Yuri Zanelli, Barakiel The Archangel.
 
