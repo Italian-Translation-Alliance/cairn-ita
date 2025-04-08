@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Versione Stampata
-nav_order: 3
+parent: Prima Edizione
+nav_order: 5
 ---
 
 # Acquista una copia cartacea!

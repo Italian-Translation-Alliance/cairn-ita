@@ -1,7 +1,9 @@
 ---
 layout: default
 title: SRD
-nav_order: 2
+parent: Prima Edizione
+redirect_from: /cairn-srd/
+nav_order: 1
 ---
 
 # Cairn System Reference Document

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Strumenti
-nav_order: 9
+parent: Prima Edizione
+nav_order: 6
 has_children: true
 ---
 

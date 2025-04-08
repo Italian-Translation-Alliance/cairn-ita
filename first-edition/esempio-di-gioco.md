@@ -1,37 +1,23 @@
 ---
 layout: default
-title: FAQ
-parent: Risorse
-nav_order: 1
+title: Esempio di gioco
+parent: Prima Edizione
+nav_order: 3
 ---
 
-# Domande Frequenti
+# Esempio di gioco
 ---
 
-## Introduzione
+Per una "actual play" dal vivo di Cairn (con il commento del Custode), vedete [qui](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
 
-Qui sotto si trovano un po' di risposte ad alcune delle domande poste più di frequente da chi si approccia a Cairn per la prima volta. Per favore fate riferimento all'[SRD](/cairn-srd/), in particolare per quanto riguarda i [**tiri salvezza**](/cairn-srd/#tiri-salvezza) e il [**combattimento**](/cairn-srd/#combattimento), mentre leggete questa sezione.
-
-**Da tenere a mente per i testi d'esempio!**
+**Tieni a mente che:**
 - **Esther** sta giocando un ex **Erborista**
 - **Barry** gioca un ex **Cacciatore**
 - I personaggi sono in cerca di una potente [**Reliquia**](/cairn-srd/#reliquie), che si dice abbia poteri curativi.
 - Di recente, il gruppo ha scoperto una pergamena che descriveva la vera posizione dell'oggetto, da qualche parte nell'estremità orientale della **Foresta di Geunant**, un bosco noto per i suoi alberi antichi e massicci, i cui grandi rami fanno passare poca luce.
 
-Puoi anche leggere l'intero **Esempio di Gioco** in una sola pagina [qui](/risorse/esempio-di-gioco).
 
-<a href='#/' id='expAll' class='exp'>Clicca qui per espandere/collassare tutti gli esempi</a>{: .btn }
-
-## Che impatto ha il background di un PG?
-
-Il background, la storia e le esperienze di un personaggio, se rilevanti, possono fornire un potenziale beneficio (o svantaggio), in determinate situazioni. Allo stesso modo, eventi precedenti avvenuti in gioco possono influenzare l'impatto delle sue azioni, arrivando persino a negare il bisogno di un **tiro salvezza** in determinate circostanze!
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
-
- **Custode**: _"Avete trascorso buona parte della mattinata facendovi strada attraverso la **Foresta di Geunant**, tagliando viticci pendenti e cespugli che vi arrivavano alla vita. È molto facile perdersi da queste parti, in mezzo al folto sottobosco. Per peggiorare le cose, il Sole è completamente oscurato dai folti rami sopra le vostre teste."_
+**Custode**: _"Avete trascorso buona parte della mattinata facendovi strada attraverso la **Foresta di Geunant**, tagliando viticci pendenti e cespugli che vi arrivavano alla vita. È molto facile perdersi qua, in mezzo al folto sottobosco. Per peggiorare le cose, il Sole è completamente oscurato dai folti rami sopra le vostre teste."_
 
  **Barry**: _"Il mio background da **Cacciatore** può aiutarci in qualche modo?"_
 
@@ -53,23 +39,7 @@ Espandi per leggere l'esempio
 
  **Esther**: _"Eccellente. Voglio provare a estrarre con cura una delle foglie, per usarla in futuro, e poi andare avanti."_
 
- **Cosa sarebbe successo se nessuno dei PG avesse avuto esperienze o competenze rilevanti?**
-
- - Se non ci fosse stato nessun PG con il background **Erborista**, il Custode avrebbe probabilmente dichiarato che i PG ignoravano le proprietà della pianta e, si spera, i giocatori avrebbero provato a imparare di più facendo domande ed esperimenti.
-
- - Se un PG avesse avuto un background _tangenziale_ (come il **Cacciatore**) il Custode avrebbe potuto [lasciar decidere al Fato](/cairn-srd/#dado-del-fato) e tirare 1d6. Più alto il tiro, più probabilmente i PG avrebbero imparato qualcosa di importante o utile.
-</details>
-
-## Quando dovrebbe iniziare un combattimento?
-
-**Cairn** assume che i personaggi vivano in un mondo pericoloso, dove anche l'interazione più piccola può diventare piuttosto letale. I giocatori dovrebbero quindi essere incoraggiati a trovare soluzioni non-violente ai propri problemi. Ci sono, ovviamente, momenti in cui questo è impossibile e spetta al Custode decidere se una situazione violenta deve essere risolta col combattimento.
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
-
- **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dal folto, quasi cadete in un profondo orrido che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparentemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra meta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
+ **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo crepaccio che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparentemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra meta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
 
  **Esther**: _"Penso che dovremmo accamparci prima di andare avanti. Se dobbiamo calarci o aggirare l'abisso, preferirei avere la luce dalla nostra!"_
 
@@ -79,11 +49,11 @@ Espandi per leggere l'esempio
 
  **Esther**: _"Il primo turno lo prendo io."_
 
- **Custode**: _"Vi accampate e mangiare una delle vostre razioni. A metà del primo turno di guardia, il rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
+ **Custode**: _"Vi accampate e mangiate una delle vostre razioni. A metà del primo turno di guardia, sentite un rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
 
  **Esther**: _"Vorrei svegliare il mio compagno con un calcio, così non devo affrontare questa cosa da sola, indicandogli silenziosamente con la testa la direzione del rumore e facendogli cenno di far silenzio."_
 
- **Custode**: _"Lo fai e proprio mentre si sta alzando un paio di orridi occhi rossi diventa visibile dietro alle foglie del sottobosco."_
+ **Custode**: _"Lo fai proprio quando un paio di orridi occhi rossi diventano visibili da dietro le foglie del sottobosco."_
 
  **Barry**: _"Cosa sappiamo delle creature che vivono qui?"_
 
@@ -91,43 +61,16 @@ Espandi per leggere l'esempio
 
  **Esther**: _"Allora sono pronta a combattere. Mi alzo e sfodero la spada, pronta per qualsiasi cosa arrivi"_
 
-</details>
-
-## Come si decide l'ordine dei turni?
-
-Alcuni giochi si basano sul concetto di "Iniziativa" per determinare chi agisce per primo quando inizia il combattimento. In **Cairn**, ogni PG deve superare un **tiro salvezza su DES** per poter agire prima dei propri avversari. Quando questo primo round finisce, le due "fazioni" attaccano a turno, con i singoli membri che agiscono nell'ordine che preferiscono. In alcuni casi il **tiro salvezza su DES** potrebbe _non_ essere necessario, specialmente se il PG o PNG era in guardia o pronto per un attacco.
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
-
  **Custode**: _"Una creatura simile a un alce, con occhi rossi come braci, esplode dall'oscurità della foresta dalla parte opposta dell'accampamento del gruppo. Un mare di nebbia fluisce dal corpo della creatura mentre ti corre incontro, **Barry**. **Esther** era già pronta, quindi agisce per prima."_
  
  **Barry**: _"E io?"_
 
- **Custode**: _"Tu dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
+ **Custode**: _"Dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
 
  **Barry**: _"Ho tirato 1d20 e ho fatto 17. Ahia."_
 
  **Custode**: _"Già, è un fallimento. **Esther**, tu agirai per prima, poi la creatura e infine **Barry**. Dopodiché voi due agirete di nuovo nell'ordine che preferite, poi toccherà alla creatura e via così"_
 
-</details>
-
-## Quand'è che un PG o PNG dovrebbe effettuare un tiro salvezza?
-
-Un PG o PNG deve effettuare un **tiro salvezza** se si verificano una o più delle seguenti condizioni:
- - Il risultato di un'azione è incerto.
- - Qualcosa è a rischio (una vita, un pericolo incombente, eccetera).
- - Se si effettua un tiro salvezza per Danno Critico in [**combattimento**](/cairn-srd/#danno-critico).
-
-I **tiri salvezza** possono avvenire sia dentro che fuori il combattimento. Un **tiro salvezza** non è _quasi_ mai richiesto quando un PG o PNG è sotto attacco, perché gli attacchi colpiscono in automatico. Comunque, ci sono situazioni in cui la storia potrebbe dettare che un attacco è automaticamente fallimentare o impossibile.
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
- 
  **Esther**: _"Sappiamo qualcosa di questa creatura?"_
 
  **Custode**: _"Sì - è un'[**Alce Sanguinaria**](/mostri/alce-sanguinaria/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
@@ -144,54 +87,13 @@ Espandi per leggere l'esempio
 
  **Barry**: _"Uhm... suona come un piano, credo. Sì, facciamolo!"_
 
- **Perché non c'era bisogno che Barry facesse un tiro salvezza per fissare la corda all'albero?**
-
- In un turno, un PG può tentare qualsiasi azione; un **tiro salvezza** è richiesto solo se si verifica una delle condizioni elencate sopra. Sembra ragionevole che **Barry** possa fare una folle corsa attorno all'albero (che era a pochi piedi di distanza) con la corda senza troppo pericolo. Avesse provato a correre verso l'**Alce Sanguinaria** o fatto qualcosa di similmente incerto o pericolo, avrebbe dovuto fare un **tiro salvezza**.
-
-</details>
-
-## In un'azione contestata, chi deve fare il tiro salvezza?
-
-Se due avversari stanno entrambi tentando di sopraffarsi a vicenda, chiunque è più a rischio deve fare un **tiro salvezza**. Il Custode dovrebbe prendere una decisione _consistente_ a proposito e, se possibile, assicurarsi che sia spiegata chiaramente ai giocatori prima che il rischio sia corso.
-
-
- <details markdown="block">
-   <summary>
- Espandi per leggere l'esempio
-  </summary>
-
-  **Custode**: _"**Esther**, lanci una estremità della tua corda a **Barry**, che la fa girare attorno alla Quercia e poi corre verso lo strapiombo dall'altra parte, urlando alla creatura di attaccarlo. **Esther** prende posizione come una sorta di contrappeso se dovesse cadere. **Barry**, siccome sei in condizione di reagire, ti permetto una specie di reazione da fuori dal combattimento."_
+ **Custode**: _"**Esther**, lanci una estremità della tua corda a **Barry**, che la fa girare attorno alla Quercia e poi corre verso lo strapiombo dall'altra parte, urlando alla creatura di attaccarlo. **Esther** prende posizione come una sorta di contrappeso se dovesse cadere. **Barry**, siccome sei in condizione di reagire, ti permetto una specie di reazione fuori dal combattimento."_
  
   **Barry**: _"Va bene, se mi si avvicina vorrei stare vicino al bordo del dirupo, pronto a saltar via."_
 
   **Custode**: _"Capito. Ora tocca all'**Alce Sanguinaria** e ovviamente è ancora molto arrabbiata con te, **Barry**. Alzando i suoi diabolici zoccoli, la bestia carica di nuovo nella tua direzione. Tu salti giù dal dirupo all'ultimo secondo, tenendoti alla corda con tutta la tua forza. L'**Alce Sanguinaria** tenta di fermare il proprio attacco nel momento in cui vede cadere il suo bersaglio. Fa un **tiro salvezza su DES** per vedere se riesce a fermarsi. Diamine, ha tirato un 20 e precipita oltre l'orlo del burrone nella vasta oscurità sottostante."_
 
-  **Perché l'Alce Sanguinaria non ha fatto un tiro d'attacco, come suggeriscono le regole del combattimento?**
-  L'attacco era considerato possibile, ma anche molto pericoloso. Se la creatura avesse effettuato un attacco a distanza o fosse stata un combattente da mischia addestrato, sarebbe stato molto meno pericoloso attaccare **Barry**. Sfortunatamente era una bestia, e una capace solo di calpestare la gente con i suoi zoccoli affilati.
-
-  **Perché ha tirato l'Alce Sanguinaria invece di Barry, che anche lui a rischio?**
-  In questo esempio, l'**Alce Sanguinaria** era molto più a rischio del suo avversario umano perché:
-  - In quanto bestia furibonda, era probabilmente incapace di pensiero creativo e priva di capacità avanzate di risoluzione dei problemi.
-  - Una delle sue caratteristiche primarie è la velocità relativa alla stazza ed è probabile che queste proprietà avrebbero reso una fermata improvvisa più difficile.
-  - Di conseguenza, non c'erano benefici situazionali o meccanici che potessero fornire qualsivoglia vantaggio all'**Alce Sanguinaria** in questo scenario.
-
-  D'altra parte, **Barry** era quello meno a rischio dei due:
-  - Come ex cacciatore, aveva già stabilito chiaramente di essere in grado di compiere azioni di questo tipo.
-  - **Esther** aveva legato la corda attorno a un albero, usando sé stessa come contrappeso. Questo gli forniva un chiaro vantaggio *situazionale*.
-
-  Se **Barry** fosse stato ferito o avesse avuto meno tempo per prepararsi, sarebbe stato concepibile di chiedergli un **tiro salvezza su FOR** per vedere se riusciva a tenersi alla corda.
-</details>
-
-## Come si assegna il danno fuori dal combattimento?
-
-Occasionalmente, un'azione pericolosa, una trappola, un attacco a sorpresa o un cataclisma possono causare ferite gravi o persino la morte. Tipicamente, il Custode dichiara il tipo di danno (ad esempio **FOR/DES/VOL**) seguito dall'ammontare perso (o in termini di valori specifici o di tiro di dado). Può essere difficile determinare esattamente che tipo di danno infliggere e quanto.
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
-
- **Custode**: _"Dopo il vostro incontro con l'**Alce Sanguinario**, tornate all'accampamento cercando di recuperare quanto più sonno potete. All'alba siete entrambi svegli e pronti a continuare il vostro viaggio."_
+  **Custode**: _"Dopo il vostro incontro con l'**Alce di Sangue**, tornate all'accampamento cercando di recuperare quanto più sonno potete. All'alba siete entrambi svegli e pronti a continuare il vostro viaggio."_
 
  **Esther**: _"Va bene. La domanda è, come attraversiamo il **Crollo Divino**? Ci sono ponti al nostro livello?"_
 
@@ -229,26 +131,7 @@ Espandi per leggere l'esempio
 
  **Custode**: _"Scivoli e cadi lungo la cascata e nel bacino d'acqua sottostante, battendo forte la mano sul bordo allo stesso tempo. Ricevi 1d4 danni a DES e non puoi stringere bene gli oggetti nella tua mano dominante. È quasi completamente buio, ma puoi ancora vedere la luce della torcia della tua compagna sopra di te."_
 
-**Che caratteristica dovrebbe colpire il danno non da combattimento?**
-- Se la ferita colpisce la forza fisica o la salute, sottrai da **FOR**. _Questo non innesca un **tiro salvezza da danno critico**_. **FOR** è un riflesso della salute del PG e dovrebbe mostrarlo in modi sottili ma interessanti: magari richiedendo un **tiro salvezza** quando prima non era necessario.
-- Se la ferita impatta sulla capacità di muoversi, reagire prontamente o sulle abilità motorie delicate, sottrai da **DES**. Questo è spesso abbinato a un effetto anche nel mondo di gioco; avere le dita rotte impatterebbe sulla capacità di un PG di scassinare serrature, ad esempio.
-- Se lo spirito, la forza di volontà o la determinazione di un PG vengono colpiti, sottrai da **VOL**. Questo tipo di danno è particolarmente utile da considerare per ferite magiche o superficiali. Un PG la cui anima è stata bruciata dalle energie arcane potrebbe aver bisogno di fare un tiro salvezza su **VOL** per leggere i Libri di Incantesimi, per esempio.
-
-Alcune considerazioni:
-- Una ferita potrebbe avere più aspetti: la [**fatica**](/cairn-srd/#privazione-e-fatica) potrebbe accompagnare una perdita di FOR dovuta a un veleno, per esempio. Fornisci sempre una possibile soluzione per superare una malattia.
-- Il danno dovrebbe essere una conseguenza del fallire un **tiro salvezza**. Non far fare **tiri salvezza** ai giocatori dopo che hanno subito danni.
-- I danni narrativi sono tanto potenti quanto i danni meccanici diretti. Perde **DES** avrà un impatto sui riflessi e la velocità di un personaggio, ma una gamba rotta gli impedirà del tutto di muoversi!
-</details>
-
-## Quando ciò che sta accadendo nella finzione prevale sulle meccaniche di gioco?
-Le realtà degli eventi in gioco dovrebbero avere sempre la precedenza sulle meccaniche. Occasionalmente, i dettagli di una particolare scena (come le conoscenze e abilità di un PG o PNG) renderanno obsoleta qualche regola o meccanica. Se un ladro dalle gambe corte cerca di saltare oltre un abisso assurdamente largo non c'è tiro salvezza che tenga, cade e basta. D'altra parte, se lo stesso ladro stesse cercando di stendere una guardia distratta e indifesa, succederebbe e basta, senza bisogno di tirare.
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
-
- **Barry**: _"Beh, quella era una cattiva idea! Come farò a risalire? A meno che... Ehi, quanto riesco a vedere nell'oscurità sotto di me?"_
+  **Barry**: _"Beh, quella era una cattiva idea! Come farò a risalire? A meno che... Ehi, quanto riesco a vedere nell'oscurità sotto di me?"_
 
  **Custode**: _"Non c'è molta luce qui, ma qualcosa brilla nell'oscurità sotto di te. Se avessi più luce, forse potresti vedere cos'è"_
 
@@ -280,34 +163,7 @@ Espandi per leggere l'esempio
 
  **Custode**: _"Il rumore del piccolo pezzo di metallo che rimbalza contro le pareti dell'orrido si interrompe quando raggiunge l'acqua corrente al di sotto."_
 
-</details>
-
-
-## Come progrediscono i personaggi senza cose come livelli o PE?
-
-In **Cairn**, la _crescita_ del personaggio è preferibile al suo _avanzamento_. Questo vuol dire che anche se un PG _cambierà_, non è detto che _migliori_ col tempo. La crescita avviene sia in modi meccanici (come le [**Cicatrici**](/cairn-srd/#cicatrici)) sia tramite eventi che hanno impatto solo nella storia.
-
-**Il Custode dovrebbe considerare quanto segue quando fa crescere i PG senza usare le meccaniche:**
-- La crescita dovrebbe essere legata a un evento _specifico_ avvenuto nella storia.
-- È più importante che un PG diventi più _interessante_ piuttosto che più abile o capace.
-- I PG crescono non necessariamente perché hanno ottenuto più abilità ed esperienza, ma perché _cambiano_ in un modo significativo.
-- Dovrebbero esserci possibilità di crescita e cambiamento ovunque, _specialmente_ quando un PG si mette a rischio.
-- La crescita avviene _mentre gli eventi accadono_, non solo dopo che i PG si sono riposati.
-- Per quanto possibile, Addestramento e Specializzazione dovrebbero essere legati alle missioni e alla crescita del personaggio.
-
-**Alcuni esempi di Addestramento e Specializzazione:**
-- Due giorni di studio presso un ex arciere del re ti hanno insegnato come scagliare frecce più efficacemente. Gli attacchi con l'arco lungo sono migliorati.
-- Dopo due settimane di pratica giornaliera con la _Spada di Gwoed_, ti senti confidente ad usare quell'arma letale in combattimento. Danno Critico: il bersaglio perde un arto o viene sventrato (scegli tu).
-- Tre giorni di studio presso un abile guerriero ti hanno insegnato come non essere mai colto alla sprovvista. Non devi più fare un Tiro Salvezza di DES prima dei combattimenti (a meno che non lo dica il Custode).
-- Cinque notti di intenso studio del _Libro delle Maledizioni_ ti hanno dato un vantaggio in battaglia. Se insulti un avversario prima di iniziare il combattimento, tutti i suoi attacchi contro di te e i tuoi amici hanno svantaggio.
-- Dopo esserti addestrata presso i _Monaci Piangenti di Es'ta_ puoi parlare con i morti. Dopo averlo fatto, sei esausta.
-
-<details markdown="block">
-  <summary>
-Espandi per leggere l'esempio
- </summary>
-
-  **Custode**: _"Lentamente, scendete nell'oscurità quasi totale dell'orrido. La vostra lanterna è abbastanza luminosa da garantire un viaggio sicuro, ma è anche un faro nella notte per chiunque o qualsiasi cosa possa trovarsi qua sotto. Fortunatamente, sembrate essere da soli, almeno per ora. Alla fine, il ruggito del fiume copre le vostre parole."_
+ **Custode**: _"Lentamente, scendete nell'oscurità quasi totale dell'orrido. La vostra lanterna è abbastanza luminosa da garantire un viaggio sicuro, ma è anche un faro nella notte per chiunque o qualsiasi cosa possa trovarsi qua sotto. Fortunatamente, sembrate essere da soli, almeno per ora. Alla fine, il ruggito del fiume copre le vostre parole."_
 
   **Esther**: _"Ho un brutto presentimento. Quanto dobbiamo ancora scendere?"_
 
@@ -387,9 +243,9 @@ Espandi per leggere l'esempio
 
   **Custode**: _"Guardando nell'acqua vicino alla riva vedi che tutte le creature bioluminescenti sono scappate, come se avessero paura di questa parte del fiume."_
 
-  **Esther**: _"Uhm...ok, ho una teoria. **Barry**, dovresti reggere la lanterna sul buco nel "ponte" e vedere cosa succede."_
+  **Esther**: _"Uhm...va bene, ho una teoria. **Barry**, dovresti reggere la lanterna sul buco nel "ponte" e vedere cosa succede."_
 
-  **Barry**: _"Ok. Cammino attentamente fino al centro del fiume sul "ponte", poi mi sdraio e estendo la lanterna oltre il bordo - ma poco. Voglio stare più al sicuro possibile qui."_
+  **Barry**: _"Ehm, Ok. Cammino attentamente fino al centro del fiume sul "ponte", poi mi sdraio ed estendo la lanterna oltre il bordo - ma poco. Voglio stare più al sicuro possibile qui."_
 
   **Custode**: _"Nel momento in cui la abbassi, una lucida anguilla nera salta in aria e fa scattare i suoi denti acuminati verso la lanterna. Sei abbastanza veloce da salvarla, però. L'anguilla ricade in acqua con uno spruzzo."_
 
@@ -408,8 +264,3 @@ Espandi per leggere l'esempio
   **Custode**: _"Nella completa oscurità, sì. Speriamo che tu non vada a strisciare nel buio tanto presto."_
 
   **Barry**: _"Questo è figo. Quindi alle anguille piace la luce, eh? Questo mi dà un'idea..."_
-
-</details>
-
-
-<script src="/js/expand-all.js"></script>

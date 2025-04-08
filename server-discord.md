@@ -1,5 +1,5 @@
 ---
 title: Server Discord
-nav_order: 6
-redirect_to: https://discord.io/cairn
+nav_order: 2
+redirect_to: https://discord.gg/7U6px3Mdkg
 ---
