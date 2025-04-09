@@ -98,7 +98,7 @@ _**Cosa possiamo imparare da questo?**_
 - Andrei con **morso (d6)** per l'attacco con i denti e **artigli (d8+d8)**, come qualsiasi arma a due mani.
 
 _**In sintesi, questo ci lascia con il seguente blocco di statistiche di apertura:**_  
-_8 HP, 12 FOR, 14 DEX, 15 WIL, denti (d6), artigli (d8+d8)_
+_8 PV, 12 FOR, 14 DES, 15 VOL, denti (d6), artigli (d8+d8)_
 
 _**Ora sulle sue abilità:**_  
 Questo è piuttosto semplice. Leggiamo semplicemente il blocco delle statistiche immaginario che abbiamo creato in precedenza!

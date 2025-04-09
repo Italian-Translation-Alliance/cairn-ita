@@ -43,7 +43,7 @@ grand_parent: Seconda Edizione
 ## Inventario
 - I personaggi hanno un totale di dieci slot di inventario, ma possono portare comodamente solo quattro o cinque oggetti senza l'aiuto di borse, zaini, cavalli, carri, ecc.
 - Ogni PG parte con uno **Zaino** che può contenere fino a sei slot di oggetti o **Fatica**. I carretti (che devono essere trainati con entrambe le mani), i cavalli o i muli possono fare una grande differenza nel quanto un PG può portare con sé in un'avventura. **I mercenari** possono anche essere pagati per portare l'equipaggiamento.
-- L'inventario è astratto, dipendente solo dalla narrazione e dal giudizio del Custode. Chiunque abbia un inventario pieno (ovvero che occupa tutti e 10 gli slot) è ridotto a 0 PV. Un personaggio non può riempire più di dieci slot.
+- L'inventario è astratto, dipendente solo dalla narrazione e dal giudizio del Custode. Chiunque abbia un inventario pieno (ovvero che occupa tutti e 10 gli slot) è ridotto a 0 PF. Un personaggio non può riempire più di dieci slot.
 
 ### Slot dell'Inventario
 - La maggior parte degli oggetti occupa uno slot, salvo diversa indicazione.
@@ -137,8 +137,8 @@ grand_parent: Seconda Edizione
 
 | D20    | Legame                                                                                                                                                                                                                                     |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1**  | Hai ereditato una **Gemma Singola** (500mo, fredda e fragile) da un parente ormai deceduto. È arrivata con un avvertimento: sperpera le tue ricchezze appena acquisite e un debito che si credeva dimenticato verrà risvegliato.           |
-| **2**  | Un cugino lontano ti ha lasciato una piccola eredità. Prendi **20mo** e una **Strana Bussola** (_minuto_) che punta sempre verso qualcosa nel profondo della Foresta.                                                                     |
+| **1**  | Hai ereditato una **Gemma Singola** (500po, fredda e fragile) da un parente ormai deceduto. È arrivata con un avvertimento: sperpera le tue ricchezze appena acquisite e un debito che si credeva dimenticato verrà risvegliato.           |
+| **2**  | Un cugino lontano ti ha lasciato una piccola eredità. Prendi **20po** e una **Strana Bussola** (_minuto_) che punta sempre verso qualcosa nel profondo della Foresta.                                                                     |
 | **3**  | Porti con te un **Ritratto** in una medaglia (_minuto_) di un amore passato che è scomparso nella Foresta molto tempo fa. In qualche modo sai che è ancora vivo.                                                                          |
 | **4**  | Hai trovato un **Piccolo Prisma di Cristallo** (_minuto_) sepolto nella terra. Se lo tieni alla luce, mostra visioni di una località sconosciuta nel profondo della Foresta. A volte senti una presenza che ti osserva.                   |
 | **5**  | Una volta hai liberato una Naiade da un ruscello ostruito. In cambio, ti ha dato un po' di **Muschio d'Argento** (_minuto_). Se lo inghiotti vicino all'acqua, la creatura verrà, una sola volta, a ripagare il suo debito.               |

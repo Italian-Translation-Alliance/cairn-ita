@@ -251,7 +251,7 @@ Il giocatore deve descrivere precisamente cosa vorrebbe migliorare e un **Maestr
 
 **Esempi:**
 
-- **La Parata a Due Mani**: Quando combatte con una mano libera, gli HP di un PG aumentano temporaneamente di 1d4. Il gruppo ha assunto un mercenario dalle **Terre Craterizzate**, i cui combattenti enfatizzano l'evitare gli attacchi nemici. Ha accettato di addestrare chiunque possa batterla in combattimento a mani nude.
+- **La Parata a Due Mani**: Quando combatte con una mano libera, i PF di un PG aumentano temporaneamente di 1d4. Il gruppo ha assunto un mercenario dalle **Terre Craterizzate**, i cui combattenti enfatizzano l'evitare gli attacchi nemici. Ha accettato di addestrare chiunque possa batterla in combattimento a mani nude.
 - **Erboristeria**: Dati gli ingredienti adeguati, un PG può creare un **Unguento Curativo** (ripristina 4 FOR) come **Azione di Tempo Libero**. Dopo aver ricevuto cure da un anziano erborista nelle **Radure Verdeggianti**, il PG ferito ha chiesto di essere addestrato nelle arti di guarigione. Il **Maestro** ha acconsentito, ma ha chiesto che raccolgano tre erbe rare prima che l'addestramento possa iniziare.
 - **Maestro di Trote**: Quando si intraprende l'**Azione** di Rifornimento, le **Razioni** raccolte vicino a fonti di acqua dolce fredda aumentano di un livello (ad esempio, 1d4 diventa 1d6). Il gruppo ha scortato un naturalista arenato dai famigerati **Deserti d'Argento** in sicurezza fino alla città. Come ringraziamento, ha offerto di addestrare un PG a identificare e catturare un comune pesce di lago che frequenta le acque più fredde.
 
