@@ -28,4 +28,4 @@ Questo progetto è mantenuto dall'[Italian Translation Alliance](https://www.ita
 
 <p></p>
 
-[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
+[![Alt text]({{ site.baseurl }}/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}]({{ site.baseurl }}/img/cairn.svg)
