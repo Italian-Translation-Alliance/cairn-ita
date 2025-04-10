@@ -36,11 +36,11 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## Di che legno è fatto il tuo arco? Tira 1d6:
 
-|       |                                                                                                                     |
-| ----- | ------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Tasso Occidentale** (d6, _ingombrante_). Può essere usato come arma contundente (d6). Rumoroso.                   |
-| **2** | **Quercia Farnia** (d8, _ingombrante_). Colpisce con forza. Se infligge **Danno Critico**, qualcosa viene strappato via. |
+|       |                                                                                                                                |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Tasso Occidentale** (d6, _ingombrante_). Può essere usato come arma contundente (d6). Rumoroso.                              |
+| **2** | **Quercia Farnia** (d8, _ingombrante_). Colpisce con forza. Se infligge **Danno Critico**, qualcosa viene strappato via.       |
 | **3** | **Pino Domestico** (d6, _ingombrante_). Produce una dose di **Resina Appiccicosa** al giorno. La resina è altamente esplosiva. |
-| **4** | **Frassino Bianco** (d6, _ingombrante_). Può essere usato al posto di uno scudo in combattimento corpo a corpo (+1 Armatura). |
-| **5** | **Bambù Striato** (d6). Pieghevole, occupa solo uno slot (ma richiede comunque entrambe le mani).                    |
-| **6** | **Olmo Selvatico** (d6, _ingombrante_). Protegge chi lo impugna da veleni e tossine, finché lo tiene in mano.        |
+| **4** | **Frassino Bianco** (d6, _ingombrante_). Può essere usato al posto di uno scudo in combattimento corpo a corpo (+1 Armatura).  |
+| **5** | **Bambù Striato** (d6). Pieghevole, occupa solo uno slot (ma richiede comunque entrambe le mani).                              |
+| **6** | **Olmo Selvatico** (d6, _ingombrante_). Protegge chi lo impugna da veleni e tossine, finché lo tiene in mano.                  |

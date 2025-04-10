@@ -11,7 +11,7 @@ grand_parent: Seconda Edizione
 
 ## Armature
 
-| Nome                                          | po  |
+|                                               |     |
 | --------------------------------------------- | --- |
 | Scudo (+1 Armatura)                           | 10  |
 | Elmo (+1 Armatura)                            | 10  |
@@ -22,7 +22,7 @@ grand_parent: Seconda Edizione
 
 ## Armi
 
-| Nome                                                                        | po  |
+|                                                                             |     |
 | --------------------------------------------------------------------------- | --- |
 | Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)                       | 5   |
 | Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)                      | 10  |
@@ -33,7 +33,7 @@ grand_parent: Seconda Edizione
 
 ## Mezzi di trasporto
 
-| Nome                              | MO  |
+|                                   |     |
 | --------------------------------- | --- |
 | Carretto (+4 slot, _ingombrante_) | 30  |
 | Carro (+8 slots, slow)            | 200 |
@@ -44,7 +44,7 @@ grand_parent: Seconda Edizione
 
 ## Servizi
 
-| Tipo                                              | MO  |
+|                                                   |     |
 | ------------------------------------------------- | --- |
 | Vitto e alloggio (comune) (a notte)               | 10  |
 | Vitto e alloggio (stanza privata) (max 4 persone) | 35  |
@@ -55,24 +55,24 @@ grand_parent: Seconda Edizione
 
 ## Mercenari
 
-| Tipo                       | MO al giorno |
-| -------------------------- | ------------ |
-| Addestratore di Animali    | 5            |
-| Alchimista                 | 30           |
-| Cacciatore di pellicce     | 5            |
-| Fabbro                     | 15           |
-| Guardia del Corpo          | 10           |
-| Guardia del Corpo Veterana | 20           |
-| Guilda Locale              | 5            |
-| Ladruncolo                 | 10           |
-| Marinaio                   | 5            |
-| Navigatore                 | 10           |
-| Segugio                    | 5            |
-| Studioso                   | 20           |
+|                            |     |
+| -------------------------- | --- |
+| Addestratore di Animali    | 5   |
+| Alchimista                 | 30  |
+| Cacciatore di pellicce     | 5   |
+| Fabbro                     | 15  |
+| Guardia del Corpo          | 10  |
+| Guardia del Corpo Veterana | 20  |
+| Guilda Locale              | 5   |
+| Ladruncolo                 | 10  |
+| Marinaio                   | 5   |
+| Navigatore                 | 10  |
+| Segugio                    | 5   |
+| Studioso                   | 20  |
 
 ## Oggetti
 
-| Nome                                                                   | MO  |
+|                                                                        |     |
 | ---------------------------------------------------------------------- | --- |
 | Agenti Comuni (Colla, Grasso, ecc.)                                    | 10  |
 | Antitossina                                                            | 20  |

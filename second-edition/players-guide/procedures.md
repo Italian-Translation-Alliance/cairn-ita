@@ -31,14 +31,14 @@ Esplorare un dungeon è sempre pericoloso, e il tempo deve sempre essere valutat
 
 **Tira sulla tabella sottostante.**
 
-|  d6   |     Evento      |                                                                      Descrizione                                                                       |     |
-| :---: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
-| **1** |  **Incontro**   | Tira su una tabella degli incontri. Possibilmente **ostile**. (Vedi [Reazioni](https://claude.ai/second-edition/players-guide/core-rules/#reactions).) |     |
-| **2** |    **Segno**    |                                   Un indizio, traccia, pista, tana abbandonata, odore, vittima, ecc. viene scoperto.                                   |     |
-| **3** |  **Ambiente**   |               L'ambiente circostante cambia o peggiora. L'acqua sale, i soffitti crollano, un rituale si avvicina al completamento, ecc.               |     |
-| **4** |   **Perdita**   |                Le torce si spengono, un incantesimo in corso si dissolve, ecc. Il gruppo deve risolvere l'effetto prima di proseguire.                 |     |
-| **5** | **Esaurimento** |               Il gruppo deve riposare (innescando un altro tiro su questa tabella), aggiungere una **Fatica**, o consumare una razione.                |     |
-| **6** |  **Silenzio**   |                                              Il gruppo viene lasciato solo (e al sicuro) per il momento.                                               |     |
+|  d6   |     Evento      |                                                                      Descrizione                                                                       |       |
+| :---: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
+| **1** |  **Incontro**   | Tira su una tabella degli incontri. Possibilmente **ostile**. (Vedi [Reazioni](https://claude.ai/second-edition/players-guide/core-rules/#reactions).) |       |
+| **2** |    **Segno**    |                                   Un indizio, traccia, pista, tana abbandonata, odore, vittima, ecc. viene scoperto.                                   |       |
+| **3** |  **Ambiente**   |               L'ambiente circostante cambia o peggiora. L'acqua sale, i soffitti crollano, un rituale si avvicina al completamento, ecc.               |       |
+| **4** |   **Perdita**   |                Le torce si spengono, un incantesimo in corso si dissolve, ecc. Il gruppo deve risolvere l'effetto prima di proseguire.                 |       |
+| **5** | **Esaurimento** |               Il gruppo deve riposare (innescando un altro tiro su questa tabella), aggiungere una **Fatica**, o consumare una razione.                |       |
+| **6** |  **Silenzio**   |                                              Il gruppo viene lasciato solo (e al sicuro) per il momento.                                               |       |
 
 ### Azioni
 - Le **Azioni** sono qualsiasi attività non passiva, come _cercare trappole_, _forzare una porta_, _ascoltare per pericoli_, _disarmare una trappola_, _ingaggiare un nemico in combattimento_, _lanciare un incantesimo_, _schivare una trappola_, _scappare_, _riposare_, ecc.
@@ -98,22 +98,25 @@ Il tempo, il terreno, l'oscurità, i membri del gruppo feriti e altri ostacoli p
 
 ### Difficoltà del Percorso
 
-| **Percorso**     | **Penalità** | **Probabilità di Perdersi** |
+|                  |              |
 | ---------------- | ------------ | --------------------------- |
+| **Percorso**     | **Penalità** | **Probabilità di Perdersi** |
 | Strade           | Nessuna      | Nessuna                     |
 | Sentieri         | +1 Turno     | 2 su 6                      |
 | Natura Selvaggia | +2 Turni     | 3 su 6                      |
 
-| **Distanza del Percorso** | **Penalità** |
+|                           |              |
 | ------------------------- | ------------ |
+| **Distanza del Percorso** | **Penalità** |
 | Breve                     | +1 Turno     |
 | Media                     | +2 Turni     |
 | Lunga                     | +3 Turni     |
 
 ### Difficoltà del Terreno
 
-| **Difficoltà** | **Terreno**                   | **Penalità** | **Fattori**                                                                                                         |
+|                |                               |              |                                                                                                                     |
 | -------------- | ----------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Difficoltà** | **Terreno**                   | **Penalità** | **Fattori**                                                                                                         |
 | **Facile**     | **Pianure, altopiani, valli** | nessuna      | _Aree sicure per il riposo, altri viaggiatori, buona visibilità_                                                    |
 | **Difficile**  | **Foreste, deserti, colline** | +1 Turno     | _Animali selvatici, inondazioni, attrezzature rotte, cadute di rocce, rifugi non sicuri, trappole per cacciatori_   |
 | **Pericoloso** | **Montagne, giungle, paludi** | +2 Turni     | _Sabbie mobili, fango succhiante, liane soffocanti, acqua impura, piante e animali velenosi, navigazione difficile_ |
@@ -123,8 +126,9 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 
 #### Tipo di Tempo
 
-| **d6** | **Primavera** | **Estate** | **Autunno** | **Inverno** |
+|        |               |            |             |             |
 | ------ | ------------- | ---------- | ----------- | ----------- |
+| **d6** | **Primavera** | **Estate** | **Autunno** | **Inverno** |
 | **1**  | Bello         | Bello      | Discreto    | Discreto    |
 | **2**  | Discreto      | Bello      | Discreto    | Spiacevole  |
 | **3**  | Discreto      | Discreto   | Spiacevole  | Inclemente  |
@@ -134,8 +138,9 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 
 #### Difficoltà del Tempo
 
-| **Tempo**        | **Effetto**                                                                                             | **Esempi**                                                         |
+|                  |                                                                                                         |                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Tempo**        | **Effetto**                                                                                             | **Esempi**                                                         |
 | **Bello**        | Condizioni favorevoli per il viaggio.                                                                   | _Cieli sereni, soleggiato_                                         |
 | **Discreto**     | Condizioni favorevoli per il viaggio.                                                                   | _Nuvoloso, ventilato_                                              |
 | **Spiacevole**   | Aggiungi una **Fatica** _o_ aggiungi un **turno** al viaggio.                                           | _Venti a raffica, pioggia leggera, calore soffocante, aria fredda_ |
@@ -150,9 +155,9 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 
 ### Eventi della Natura Selvaggia
 
-| d6    | Evento          | Descrizione                                                                                                                                                                                                                                                         |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Incontro**    | Tira su una tabella degli incontri per quel tipo di terreno o località. Non dimenticare di tirare per le [reazioni](/second-edition/players-guide/core-rules#reazioni) dei PNG se applicabile.                                                                                                 |
+|       |                 |                                                                                                                                                                                                                            |
+| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Incontro**    | Tira su una tabella degli incontri per quel tipo di terreno o località. Non dimenticare di tirare per le [reazioni](/second-edition/players-guide/core-rules#reazioni) dei PNG se applicabile.                                                                      |
 | **2** | **Segno**       | Il gruppo scopre un indizio, una traccia o un'indicazione di un incontro nelle vicinanze, una località, una caratteristica nascosta o informazioni su un'area vicina.                                                                                               |
 | **3** | **Ambiente**    | Un cambiamento nel tempo o nel terreno.                                                                                                                                                                                                                             |
 | **4** | **Perdita**     | Il gruppo si trova di fronte a una scelta che costa loro una risorsa (razioni, strumenti, ecc.), tempo o sforzo.                                                                                                                                                    |

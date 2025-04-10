@@ -37,8 +37,9 @@ Ciascuna dei tre **attributi** viene utilizzata in diverse circostanze (vedi 
 ## Reazioni
 Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode può tirare 2d6 e consultare la seguente tabella:
 
-| 2      | 3-5      | 6-8     | 9-11    | 12         |
-| ------ | -------- | ------- | ------- | ---------- |
+|        |          |         |         |            |
+| :----: | :------: | :-----: | :-----: | :--------: |
+|   2    |   3-5    |   6-8   |  9-11   |     12     |
 | Ostile | Prudente | Curioso | Gentile | Amichevole |
 
 ## Morale
@@ -100,8 +101,9 @@ Se un danno a un PG riduce i suoi PF esattamente a 0, consulta il risultato sull
 
 ### Tabella delle Cicatrici
 
-| **PF persi** | **Risultato**                                                                                                                                                                                                                                                                       |
+|              |                                                                                                                                                                                                                                                                                     |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PF persi** | **Risultato**                                                                                                                                                                                                                                                                       |
 | 1            | **Cicatrice permanente**: Tira 1d6. 1: Collo, 2: Mani, 3: Occhio, 4: Torace, 5: Gambe, 6: Orecchio. Tira 1d6. Se il totale è maggiore dei tuoi PF massimi, prendi il nuovo risultato.                                                                                               |
 | 2            | **Colpo tremante**: Sei disorientato e scosso. Descrivi come ti riprendi. Tira 1d6. Se il totale è maggiore dei tuoi PF massimi, prendi il nuovo risultato.                                                                                                                         |
 | 3            | **Sbattuto**: Vieni scaraventato e atterri con il volto a terra, stordito. Sei esausto finché non riposi per alcune ore. Poi, tira 1d6. Aggiungi quel numero ai tuoi PF massimi.                                                                                                    |

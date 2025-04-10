@@ -55,8 +55,8 @@ grand_parent: Seconda Edizione
 | **19**  | Tanner    |
 | **20**  | Thyme     |
 
-|         |           |
-| ------- | --------- |
+|         |          |
+| ------- | -------- |
 | **d20** | **Nome** |
 | **1**   | Alder    |
 | **2**   | Alistair |
@@ -81,8 +81,8 @@ grand_parent: Seconda Edizione
 
 ## Tratti Distintivi
 
-|         |           |
-| ------- | --------- |
+|         |                     |
+| ------- | ------------------- |
 | **d20** | **Tratto**          |
 | **1**   | Calvo               |
 | **2**   | Capelli Notevoli    |
@@ -107,8 +107,8 @@ grand_parent: Seconda Edizione
 
 ## Occupazione
 
-|         |           |
-| ------- | --------- |
+|         |                     |
+| ------- | ------------------- |
 | **d20** | **Occupazione**     |
 | **1**   | Accademico          |
 | **2**   | Assassino           |
@@ -134,8 +134,8 @@ grand_parent: Seconda Edizione
 
 ## Obiettivi
 
-|         |           |
-| ------- | --------- |
+|         |               |
+| ------- | ------------- |
 | **d20** | **Obiettivo** |
 | **1**   | Arricchimento |
 | **2**   | Ascensione    |
@@ -163,52 +163,52 @@ grand_parent: Seconda Edizione
 
 ### Virtù
 
-|         |           |
-| ------- | --------- |
-| d20    | Virtù           |
-| **1**  | Astuto          |
-| **2**  | Ben Connesso    |
-| **3**  | Compassionevole |
-| **4**  | Coraggioso      |
-| **5**  | Disciplinato    |
-| **6**  | Discreto        |
-| **7**  | Educato         |
-| **8**  | Giudizioso      |
-| **9**  | Ingegnoso       |
-| **10** | Intelligente    |
-| **11** | Leale           |
-| **12** | Meticoloso      |
-| **13** | Metodico        |
-| **14** | Onesto          |
-| **15** | Popolare        |
-| **16** | Pragmatico      |
-| **17** | Prudente        |
-| **18** | Raffinato       |
-| **19** | Spiritoso       |
-| **20** | Tenace          |
+|         |                 |
+| ------- | --------------- |
+| **d20** | **Virtù**       |
+| **1**   | Astuto          |
+| **2**   | Ben Connesso    |
+| **3**   | Compassionevole |
+| **4**   | Coraggioso      |
+| **5**   | Disciplinato    |
+| **6**   | Discreto        |
+| **7**   | Educato         |
+| **8**   | Giudizioso      |
+| **9**   | Ingegnoso       |
+| **10**  | Intelligente    |
+| **11**  | Leale           |
+| **12**  | Meticoloso      |
+| **13**  | Metodico        |
+| **14**  | Onesto          |
+| **15**  | Popolare        |
+| **16**  | Pragmatico      |
+| **17**  | Prudente        |
+| **18**  | Raffinato       |
+| **19**  | Spiritoso       |
+| **20**  | Tenace          |
 
 ### Vizi
 
-|         |           |
-| ------- | --------- |
-| d20    | Vizio         |
-| **1**  | Avido         |
-| **2**  | Cinico        |
-| **3**  | Codardo       |
-| **4**  | Corrotto      |
-| **5**  | Crudele       |
-| **6**  | Distaccato    |
-| **7**  | Egoista       |
-| **8**  | Impulsivo     |
-| **9**  | Incompetente  |
-| **10** | Ingannatore   |
-| **11** | Ingenuo       |
-| **12** | Intransigente |
-| **13** | Lunatico      |
-| **14** | Manipolatore  |
-| **15** | Pedante       |
-| **16** | Sarcastico    |
-| **17** | Spietato      |
-| **18** | Testardo      |
-| **19** | Vanitoso      |
-| **20** | Xenofobo      |
+|         |               |
+| ------- | ------------- |
+| **d20** | **Vizio**     |
+| **1**   | Avido         |
+| **2**   | Cinico        |
+| **3**   | Codardo       |
+| **4**   | Corrotto      |
+| **5**   | Crudele       |
+| **6**   | Distaccato    |
+| **7**   | Egoista       |
+| **8**   | Impulsivo     |
+| **9**   | Incompetente  |
+| **10**  | Ingannatore   |
+| **11**  | Ingenuo       |
+| **12**  | Intransigente |
+| **13**  | Lunatico      |
+| **14**  | Manipolatore  |
+| **15**  | Pedante       |
+| **16**  | Sarcastico    |
+| **17**  | Spietato      |
+| **18**  | Testardo      |
+| **19**  | Vanitoso      |
+| **20**  | Xenofobo      |

@@ -9,8 +9,9 @@ grand_parent: Seconda Edizione
 
 ## Categorie di Mostri
 
-| **d20** | **Gruppo**   | **Mostri**                                                                                         |
+|         |              |
 | ------- | ------------ | -------------------------------------------------------------------------------------------------- |
+| **d20** | **Gruppo**   | **Mostri**                                                                                         |
 | **1**   | Uccelli      | Fenice, Roc, Viverna                                                                               |
 | **2**   | Bestie       | Alce del Sangue, Orso Grizzly, Api Killer, Gatto Notturno, Vipera, Lupo                            |
 | **3**   | Colossi      | Drago Verde, Verme Porpora                                                                         |
