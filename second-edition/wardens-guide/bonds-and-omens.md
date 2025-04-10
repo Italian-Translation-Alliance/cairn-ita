@@ -13,7 +13,7 @@ I Legami e i Presagi forniscono ai personaggi dei giocatori ganci per l'avventur
 
 ## Legami
 
-I Legami spesso legano un personaggio giocante a un altro PG, all'ambientazione e ai suoi personaggi. Un PG può risolvere un Legame scoprendo la verità dietro i suoi misteri o risolvendo la causa che lo ha originato. In questo caso, il personaggio dovrebbe vivere una Crescita di qualche tipo, e il Guardiano può opzionalmente creare un nuovo Legame per il PG. I personaggi giocanti non sono obbligati a risolvere i loro Legami.
+I Legami spesso legano un personaggio giocante a un altro PG, all'ambientazione e ai suoi personaggi. Un PG può risolvere un Legame scoprendo la verità dietro i suoi misteri o risolvendo la causa che lo ha originato. In questo caso, il personaggio dovrebbe vivere una Crescita di qualche tipo, e il Custode può opzionalmente creare un nuovo Legame per il PG. I personaggi giocanti non sono obbligati a risolvere i loro Legami.
 
 ### I Legami dovrebbero...
 
