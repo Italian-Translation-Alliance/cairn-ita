@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tedesco
-parent: Localizzazioni
+parent: Prima Edizione
+grand_parent: Localizzazioni
 redirect_to: https://de.cairnrpg.com
 ---

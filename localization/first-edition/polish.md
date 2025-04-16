@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Polacco
-parent: Localizzazioni
+parent: Prima Edizione
+grand_parent: Localizzazioni
 redirect_to: https://pl.cairnrpg.com
 ---

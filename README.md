@@ -15,4 +15,4 @@ Traduzione Prima Edizione ad opera della [Italian Translation Alliance](https://
 - Revisione Italiana: [OSR Italia, Facebook](https://www.facebook.com/groups/osritalia/),[Ruling the Game, Telegram](http://t.me/osritalia) ed in particolare Francisco Pettigiani, Roberto Bisceglie, Yuri Zanelli, Barakiel The Archangel.
 
 Traduzione Seconda Edizione:
-- [Federico Mameli](https://github.com/fedemame)
+- Traduzione Player's Guide e Warden's Guide: [Federico Mameli](https://github.com/fedemame)

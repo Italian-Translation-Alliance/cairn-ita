@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Danese
-parent: Localizzazioni
+parent: Prima Edizione
+grand_parent: Localizzazioni
 redirect_to: https://da.cairnrpg.com
 ---
