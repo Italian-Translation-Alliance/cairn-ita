@@ -180,7 +180,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 Ogni dungeon dovrebbe includere una o più fazioni con obiettivi, ostacoli, leader e gerarchie propri.
 
-#### Obiettivi e Ostacoli
+#### Fini
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
@@ -346,26 +346,26 @@ Tira 1d20 per ogni colonna e combina i risultati.
 |         |              |                 |
 | ------- | ------------ | --------------- |
 | **d20** | **Trappola** | **Innesco**     |
-| **1**   | Invecchia    | Attivazione     |
-| **2**   | Brucia       | Rottura         |
-| **3**   | Cattura      | Attraversamento |
-| **4**   | Trascina     | Disturbo        |
-| **5**   | Confonde     | Ingresso        |
-| **6**   | Schiaccia    | Spegnimento     |
-| **7**   | Maledice     | Concentrazione  |
-| **8**   | Taglia       | Interazione     |
-| **9**   | Assorda      | Accensione      |
-| **10**  | Fa cadere    | Movimento       |
-| **11**  | Annega       | Apertura        |
-| **12**  | Congela      | Tiro            |
-| **13**  | Incolla      | Spinta          |
-| **14**  | Ipnotizza    | Lettura         |
-| **15**  | Trafigge     | Parlare         |
-| **16**  | Infetta      | Calpestare      |
-| **17**  | Solleva      | Prendere        |
-| **18**  | Avvelena     | Conversazione   |
-| **19**  | Fulmina      | Toccare         |
-| **20**  | Spara        | Inciampare      |
+| **1**   | Annega       | Accensione      |
+| **2**   | Assorda      | Apertura        |
+| **3**   | Avvelena     | Attivazione     |
+| **4**   | Brucia       | Attraversamento |
+| **5**   | Cattura      | Calpestare      |
+| **6**   | Confonde     | Concentrazione  |
+| **7**   | Congela      | Conversazione   |
+| **8**   | Fa cadere    | Disturbo        |
+| **9**   | Fulmina      | Inciampare      |
+| **10**  | Incolla      | Ingresso        |
+| **11**  | Infetta      | Interazione     |
+| **12**  | Invecchia    | Lettura         |
+| **13**  | Ipnotizza    | Movimento       |
+| **14**  | Maledice     | Parlare         |
+| **15**  | Schiaccia    | Prendere        |
+| **16**  | Solleva      | Rottura         |
+| **17**  | Spara        | Spegnimento     |
+| **18**  | Taglia       | Spinta          |
+| **19**  | Trafigge     | Tiro            |
+| **20**  | Trascina     | Toccare         |
 
 ## Esempio di Dungeon
 
@@ -424,7 +424,7 @@ _Nascosta in profondità nel dungeon si trova una Reliquia chiamata **Tramutaleg
 
 ### Mappa
 
-[![Clicca Qui!]({{ site.baseurl }}/img/2e/dungeon-seed-example.webp "Clicca per ingrandire"){:height="60%" width="60%"}]({{ site.baseurl }}/img/2e/dungeon-seed-example.webp)
+[![Cliccami!]({{ site.baseurl }}/img/2e/dungeon-seed-example.webp "Clicca per ingrandire"){:height="60%" width="60%"}]({{ site.baseurl }}/img/2e/dungeon-seed-example.webp)
 
 ### Il Tempio Spaccato
 

@@ -246,7 +246,7 @@ Una **Fonte** è una persona, luogo, fazione o entità che detiene parte o tutta
 ##### Esempi:
 
 - **Kewr la Bocca**, un contatto frequente per il **Conclave dei Mercanti**. Nonostante i loro eccellenti rapporti con questa fazione, chiedere aiuto per un'attività illecita potrebbe avere un costo elevato.
-- Un **Woodwose** che ha la sua casa nelle profondità della **Foresta dei Coltelli**. Il gruppo lo ha incontrato in una spedizione precedente e l'incontro non è finito bene. Tuttavia, si dice che conosca la natura di ogni erba e le loro proprietà curative.
+- Un **Uomo selvatico** che ha la sua casa nelle profondità della **Foresta dei Coltelli**. Il gruppo lo ha incontrato in una spedizione precedente e l'incontro non è finito bene. Tuttavia, si dice che conosca la natura di ogni erba e le loro proprietà curative.
 - Il **Tempio dei Burattini**, una compagnia circense nomade che ha viaggiato per le terre conosciute e sconosciute. Il gruppo ha assistito uno dei loro membri durante la **Pioggia di Fuoco**, quando anche le creature del Bosco si stavano preparando a fuggire dalle loro case. Se qualcuno ha sentito parlare di luoghi dimenticati, sono loro.
 
 ### Addestramento
