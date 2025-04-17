@@ -10,23 +10,23 @@ grand_parent: Seconda Edizione
 ## Scegli o Lancia un Background
 - Per prima cosa, lancia un dado o scegli da una delle opzioni nella tabella [Background](#background) sottostante e annota il numero di pagina. Farai riferimento a quella pagina per i prossimi passaggi.
 - Scegli un nome dalla lista disponibile, quindi registra gli oggetti iniziali del tuo personaggio. Consulta le sezioni [Inventario](#inventario) e [Slot dell'Inventario](#slot-dellinventario) per come registrare gli oggetti.
-- Lancia sui vari tavoli associati allo sfondo. Registra gli oggetti, le abilità o le capacità ottenute da ciascun risultato. Alcuni background potrebbero chiederti di fare riferimento anche alle tabelle del [Mercato](/second-edition/players-guide/marketplace).
+- Lancia sui vari tavoli associati allo sfondo. Registra gli oggetti, le abilità o le capacità ottenute da ciascun risultato. Alcuni background potrebbero chiederti di fare riferimento anche alle tabelle del [Mercato]({{ site.baseurl }}/second-edition/players-guide/marketplace).
 
 ## Background
 
 |         |                                                                   |        |
 | ------- | ----------------------------------------------------------------- | ------ | -------------------------------------------------------------- |
 | **d20** | **Background**                                                    |        |                                                                |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)                    | **11** | [Guardia delle Marche](/second-edition/backgrounds/marchguard) |
-| **2**   | [Barbiere-Chirurgo](/second-edition/backgrounds/barber-surgeon)   | **12** | [Guardiano dei Campi](/second-edition/backgrounds/fieldwarden) |
-| **3**   | [Calderaio](/second-edition/backgrounds/kettlewright)             | **13** | [Mezza Strega](/second-edition/backgrounds/half-witch)         |
-| **4**   | [Cercatore di Funghi](/second-edition/backgrounds/fungal-forager) | **14** | [Predatore](/second-edition/backgrounds/prowler)               |
-| **5**   | [Ciarlatano](/second-edition/backgrounds/mountebank)              | **15** | [Savio Verde](/second-edition/backgrounds/greenwise)           |
-| **6**   | [Corririvo](/second-edition/backgrounds/rill-runner)              | **16** | [Scrivano](/second-edition/backgrounds/scrivener)              |
-| **7**   | [Custode delle Ossa](/second-edition/backgrounds/bonekeeper)      | **17** | [Sfrecciavento](/second-edition/backgrounds/fletchwind)        |
-| **8**   | [Domatore di Bestie](/second-edition/backgrounds/beast-handler)   | **18** | [Spezzaincanti](/second-edition/backgrounds/hexenbane)         |
-| **9**   | [Esploratore](/second-edition/backgrounds/outrider)               | **19** | [Tagliaborse](/second-edition/backgrounds/cutpurse)            |
-| **10**  | [Giocoliere](/second-edition/backgrounds/jongleur)                | **20** | [Trovatello](/second-edition/backgrounds/foundling)            |
+| **1**   | [Aurifex]({{ site.baseurl }}/second-edition/backgrounds/aurifex)                    | **11** | [Guardia delle Marche]({{ site.baseurl }}/second-edition/backgrounds/marchguard) |
+| **2**   | [Barbiere-Chirurgo]({{ site.baseurl }}/second-edition/backgrounds/barber-surgeon)   | **12** | [Guardiano dei Campi]({{ site.baseurl }}/second-edition/backgrounds/fieldwarden) |
+| **3**   | [Calderaio]({{ site.baseurl }}/second-edition/backgrounds/kettlewright)             | **13** | [Mezza Strega]({{ site.baseurl }}/second-edition/backgrounds/half-witch)         |
+| **4**   | [Cercatore di Funghi]({{ site.baseurl }}/second-edition/backgrounds/fungal-forager) | **14** | [Predatore]({{ site.baseurl }}/second-edition/backgrounds/prowler)               |
+| **5**   | [Ciarlatano]({{ site.baseurl }}/second-edition/backgrounds/mountebank)              | **15** | [Savio Verde]({{ site.baseurl }}/second-edition/backgrounds/greenwise)           |
+| **6**   | [Corririvo]({{ site.baseurl }}/second-edition/backgrounds/rill-runner)              | **16** | [Scrivano]({{ site.baseurl }}/second-edition/backgrounds/scrivener)              |
+| **7**   | [Custode delle Ossa]({{ site.baseurl }}/second-edition/backgrounds/bonekeeper)      | **17** | [Sfrecciavento]({{ site.baseurl }}/second-edition/backgrounds/fletchwind)        |
+| **8**   | [Domatore di Bestie]({{ site.baseurl }}/second-edition/backgrounds/beast-handler)   | **18** | [Spezzaincanti]({{ site.baseurl }}/second-edition/backgrounds/hexenbane)         |
+| **9**   | [Esploratore]({{ site.baseurl }}/second-edition/backgrounds/outrider)               | **19** | [Tagliaborse]({{ site.baseurl }}/second-edition/backgrounds/cutpurse)            |
+| **10**  | [Giocoliere]({{ site.baseurl }}/second-edition/backgrounds/jongleur)                | **20** | [Trovatello]({{ site.baseurl }}/second-edition/backgrounds/foundling)            |
 
 
 ## Attributi, Protezione da Ferite e Tratti
@@ -40,8 +40,8 @@ grand_parent: Seconda Edizione
 - Gli Attributi non sono descrittori universali. Un personaggio con una bassa Forza non è necessariamente incapace di sollevare una porta pesante o sopravvivere a un combattimento mortale! Il rischio è semplicemente maggiore.
 
 ## Protezione da Ferite
-- Tira 1d6 per determinare la **Protezione dalle Ferite (PF)** iniziale del tuo PG, che rispecchia la sua capacità di evitare i danni in combattimento. La PF non indica la salute o la forza d’animo di un personaggio, né la si perde per molto tempo. Consulta la sezione [Guarigione e Recupero](/second-edition/players-guide/core-rules#guarigione-e-recupero) per maggiori dettagli.
-- Se un attacco porta la PF di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Cicatrici](/second-edition/players-guide/core-rules#cicatrici).
+- Tira 1d6 per determinare la **Protezione dalle Ferite (PF)** iniziale del tuo PG, che rispecchia la sua capacità di evitare i danni in combattimento. La PF non indica la salute o la forza d’animo di un personaggio, né la si perde per molto tempo. Consulta la sezione [Guarigione e Recupero]({{ site.baseurl }}/second-edition/players-guide/core-rules#guarigione-e-recupero) per maggiori dettagli.
+- Se un attacco porta la PF di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Cicatrici]({{ site.baseurl }}/second-edition/players-guide/core-rules#cicatrici).
 
 ## Inventario
 - I personaggi hanno un totale di dieci slot di inventario, ma possono portare comodamente solo quattro o cinque oggetti senza l'aiuto di borse, zaini, cavalli, carri, ecc.

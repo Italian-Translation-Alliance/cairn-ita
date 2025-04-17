@@ -49,7 +49,7 @@ Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode
 
 ## Mercenari
 - I gruppi di avventurieri possono reclutare mercenari, sfruttando le loro competenze, conoscenze e addestramento unici per aiutarli nelle spedizioni.
-- Per creare un mercenario, scegli un ruolo appropriato dalla tabella Servitori nel [Mercato](/second-edition/players-guide/marketplace). Tira 3d6 per ogni attributo e 1d6 per i loro PF. Assegna loro un equipaggiamento adeguato alla loro posizione, quindi tira sulle tabelle dei Tratti del Personaggio per caratterizzarli ulteriormente.
+- Per creare un mercenario, scegli un ruolo appropriato dalla tabella Servitori nel [Mercato]({{ site.baseurl }}/second-edition/players-guide/marketplace). Tira 3d6 per ogni attributo e 1d6 per i loro PF. Assegna loro un equipaggiamento adeguato alla loro posizione, quindi tira sulle tabelle dei Tratti del Personaggio per caratterizzarli ulteriormente.
 - In alternativa, scegli un background appropriato dalla guida Creazione del Personaggio e dai loro un **nome**. Tira (o scegli dalle) tabelle per quel background. Poi tira per Razioni, Monete d'Oro, Attributi, PF e età.
 
 ## Dado del Destino
@@ -69,7 +69,7 @@ Nel suo turno, un personaggio può muoversi fino a 12 metri ed effettuare al mas
 ### Attacco e Danni
 - L’attaccante tira il dado della sua arma e sottrae l’armatura del bersaglio, poi infligge il totale rimanente alla PF dell’avversario. Gli attacchi in combattimento colpiscono automaticamente.
 - Se più attaccanti colpiscono lo stesso nemico, tira tutti i dadi di danno e tieni il singolo risultato più alto. Tutte le azioni sono dichiarate prima di essere risolte.
-- Se un attacco porta i PF di un PG esattamente a 0, si consulta la tabella [Cicatrici](/second-edition/players-guide/core-rules#cicatrici) per vedere come il personaggio viene influenzato in modo unico.
+- Se un attacco porta i PF di un PG esattamente a 0, si consulta la tabella [Cicatrici]({{ site.baseurl }}/second-edition/players-guide/core-rules#cicatrici) per vedere come il personaggio viene influenzato in modo unico.
 
 ### Modificatori di Attacco
 - Se si combatte da una posizione di svantaggio (come attraverso una copertura o con le mani legate), l'attacco è _Compromesso_ e l'attaccante deve tirare 1d4 danno, indipendentemente dal dado di danno dell'attacco. Gli attacchi a mani nude infliggono sempre danni con dado d4.

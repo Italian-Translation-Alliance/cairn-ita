@@ -13,7 +13,7 @@ Di seguito sono riportati alcuni suggerimenti che potrebbero tornare utili nel p
 Rivedi le istruzioni nell'[SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). Un paio di cose da tenere a mente:
 - OSE (o B/X) ha blocchi di statistiche davvero eccezionali che possono essere facilmente troncati per conversioni rapide. Vedi questa [pagina](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) e questo [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) per saperne di più.
 - Dungeon World ha delle fantastiche "mosse" di mostri che si traducono in Danno Critico abbastanza bene, quindi cercare una creatura equivalente in quel sistema può essere davvero utile! Vedi questo esempio [qui](http://codex.dungeon-world.com/monster/5698559156420608).
-- A volte una traduzione diretta tra statistiche non è possibile. Va bene cos=! C'è un [modo](/strumenti/convertire-mostri/#usare-la-finzione)!
+- A volte una traduzione diretta tra statistiche non è possibile. Va bene cos=! C'è un [modo]({{ site.baseurl }}/first-edition/strumenti/convertire-mostri/#usare-la-finzione)!
 
 ### Salute, armatura e capacità
 - La **Protezione dalle Ferite** _non rappresenta_ la salute. È la capacità della creatura di evitare il pericolo, sia attraverso la costituzione, che la velocità o l'abilità. Se i PG avranno difficoltà a sferrare un colpo che effettivamente provoca danni, la creatura ha **PF** elevati. Una buona regola pratica è dare alla creatura +1 PF per ogni **DV**, oltre a un minimo di **3 PF** (una persona media). Di solito penso a un **DV** equivalente a un d6, che ha una _media_ di 3,5. Inizia sempre con i **PF** _per primi_ di una creatura, _poi_ dai la sua **FOR**.
@@ -30,8 +30,8 @@ La tabella seguente offre una guida sulla conversione da **ML** a **VOL**.
 | **VOL** | 6 | 12 | 15 | 18 |
 
 ### Combattimento
-- Il **danno** d'attacco è piuttosto semplice se proviene da giochi come OSE (o B /X); di solito puoi semplicemente copiarli così come sono. Se non sei sicuro, ricontrolla con la [tabella delle armi](/cairn-srd/#armi).
-- Attacchi multipli (ad es. 2 x artigli, 1 x pungiglione) in genere si convertono in [_Scoppio_](/cairn-srd#Scoppio) e/o nella regola delle "due armi" (ad es. d6+d6 è un tiro di 2d6, mantieni il massimo).
+- Il **danno** d'attacco è piuttosto semplice se proviene da giochi come OSE (o B /X); di solito puoi semplicemente copiarli così come sono. Se non sei sicuro, ricontrolla con la [tabella delle armi]({{ site.baseurl }}/first-edition/cairn-srd/#armi).
+- Attacchi multipli (ad es. 2 x artigli, 1 x pungiglione) in genere si convertono in [_Scoppio_]({{ site.baseurl }}/first-edition/cairn-srd#Scoppio) e/o nella regola delle "due armi" (ad es. d6+d6 è un tiro di 2d6, mantieni il massimo).
 - In caso di dubbio, pensa a quanti danni gravi dovrebbe fare la creatura. Ricorda che invece di aumentare di un livello il danno d'attacco, dovresti pensare a renderlo _potenziato_ in determinate situazioni o usa la regola dello _Scoppio_ e delle "due armi".
 
 ### Abilità e magia
@@ -42,7 +42,7 @@ La tabella seguente offre una guida sulla conversione da **ML** a **VOL**.
 ### Magia
 - Le creature magiche possono semplicemente "conoscere" un sacco di incantesimi. In questo caso, rendi i loro cadaveri magici (e pericolosi)!
 - Gli incantesimi sono complicati; puoi dare libri di incantesimi a chi usa la magia ma ricorda che potrebbero _lasciarli cadere_ una volta sconfitti.
-- Mi piace far implodere 1d4 libri di incantesimi lasciati cadere ([Dado del Fato](/cairn-srd#dado-del-fato)), solo per confondere le idee!
+- Mi piace far implodere 1d4 libri di incantesimi lasciati cadere ([Dado del Fato]({{ site.baseurl }}/first-edition/cairn-srd#dado-del-fato)), solo per confondere le idee!
 
 ### Tiri Salvezza
 - Puoi fare affidamento sui _tiri salvezza_ per raccogliere maggiori informazioni sulle capacità di una creatura, in particolare la sua capacità di evitare la morte per trauma fisico, magia o veleno. Vedi l'[SRD di OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) per maggiori dettagli.

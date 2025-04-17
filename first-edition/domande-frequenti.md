@@ -10,15 +10,15 @@ nav_order: 2
 
 ## Introduzione
 
-Qui sotto si trovano un po' di risposte ad alcune delle domande poste più di frequente da chi si approccia a Cairn per la prima volta. Per favore fate riferimento all'[SRD](/cairn-srd/), in particolare per quanto riguarda i [**tiri salvezza**](/cairn-srd/#tiri-salvezza) e il [**combattimento**](/cairn-srd/#combattimento), mentre leggete questa sezione.
+Qui sotto si trovano un po' di risposte ad alcune delle domande poste più di frequente da chi si approccia a Cairn per la prima volta. Per favore fate riferimento all'[SRD]({{ site.baseurl }}/first-edition/cairn-srd), in particolare per quanto riguarda i [**tiri salvezza**]({{ site.baseurl }}/first-edition/cairn-srd/#tiri-salvezza) e il [**combattimento**]({{ site.baseurl }}/first-edition/cairn-srd/#combattimento), mentre leggete questa sezione.
 
 **Da tenere a mente per i testi d'esempio!**
 - **Esther** sta giocando un ex **Erborista**
 - **Barry** gioca un ex **Cacciatore**
-- I personaggi sono in cerca di una potente [**Reliquia**](/cairn-srd/#reliquie), che si dice abbia poteri curativi.
+- I personaggi sono in cerca di una potente [**Reliquia**]({{ site.baseurl }}/first-edition/cairn-srd/#reliquie), che si dice abbia poteri curativi.
 - Di recente, il gruppo ha scoperto una pergamena che descriveva la vera posizione dell'oggetto, da qualche parte nell'estremità orientale della **Foresta di Geunant**, un bosco noto per i suoi alberi antichi e massicci, i cui grandi rami fanno passare poca luce.
 
-Puoi anche leggere l'intero **Esempio di Gioco** in una sola pagina [qui](/risorse/esempio-di-gioco).
+Puoi anche leggere l'intero **Esempio di Gioco** in una sola pagina [qui]({{ site.baseurl }}/first-edition/esempio-di-gioco).
 
 <a href='#/' id='expAll' class='exp'>Clicca qui per espandere/collassare tutti gli esempi</a>{: .btn }
 
@@ -57,7 +57,7 @@ Espandi per leggere l'esempio
 
  - Se non ci fosse stato nessun PG con il background **Erborista**, il Custode avrebbe probabilmente dichiarato che i PG ignoravano le proprietà della pianta e, si spera, i giocatori avrebbero provato a imparare di più facendo domande ed esperimenti.
 
- - Se un PG avesse avuto un background _tangenziale_ (come il **Cacciatore**) il Custode avrebbe potuto [lasciar decidere al Fato](/cairn-srd/#dado-del-fato) e tirare 1d6. Più alto il tiro, più probabilmente i PG avrebbero imparato qualcosa di importante o utile.
+ - Se un PG avesse avuto un background _tangenziale_ (come il **Cacciatore**) il Custode avrebbe potuto [lasciar decidere al Fato]({{ site.baseurl }}/first-edition/cairn-srd/#dado-del-fato) e tirare 1d6. Più alto il tiro, più probabilmente i PG avrebbero imparato qualcosa di importante o utile.
 </details>
 
 ## Quando dovrebbe iniziare un combattimento?
@@ -119,7 +119,7 @@ Espandi per leggere l'esempio
 Un PG o PNG deve effettuare un **tiro salvezza** se si verificano una o più delle seguenti condizioni:
  - Il risultato di un'azione è incerto.
  - Qualcosa è a rischio (una vita, un pericolo incombente, eccetera).
- - Se si effettua un tiro salvezza per Danno Critico in [**combattimento**](/cairn-srd/#danno-critico).
+ - Se si effettua un tiro salvezza per Danno Critico in [**combattimento**]({{ site.baseurl }}/first-edition/cairn-srd/#danno-critico).
 
 I **tiri salvezza** possono avvenire sia dentro che fuori il combattimento. Un **tiro salvezza** non è _quasi_ mai richiesto quando un PG o PNG è sotto attacco, perché gli attacchi colpiscono in automatico. Comunque, ci sono situazioni in cui la storia potrebbe dettare che un attacco è automaticamente fallimentare o impossibile.
 
@@ -130,7 +130,7 @@ Espandi per leggere l'esempio
  
  **Esther**: _"Sappiamo qualcosa di questa creatura?"_
 
- **Custode**: _"Sì - è un'[**Alce Sanguinaria**](/mostri/alce-sanguinaria/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
+ **Custode**: _"Sì - è un'[**Alce Sanguinaria**]({{ site.baseurl }}/risorse/mostri/alce-sanguinaria/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
 
  **Esther**: _"Spaventoso! In questo caso, voglio usare la mia azione per aiutare il mio compagno a trascinarsi fuori dal suo percorso, magari verso quella Quercia che hai menzionato prima."_
 
@@ -191,7 +191,7 @@ Occasionalmente, un'azione pericolosa, una trappola, un attacco a sorpresa o un 
 Espandi per leggere l'esempio
  </summary>
 
- **Custode**: _"Dopo il vostro incontro con l'**Alce Sanguinario**, tornate all'accampamento cercando di recuperare quanto più sonno potete. All'alba siete entrambi svegli e pronti a continuare il vostro viaggio."_
+ **Custode**: _"Dopo il vostro incontro con l'**Alce Sanguinaria**, tornate all'accampamento cercando di recuperare quanto più sonno potete. All'alba siete entrambi svegli e pronti a continuare il vostro viaggio."_
 
  **Esther**: _"Va bene. La domanda è, come attraversiamo il **Crollo Divino**? Ci sono ponti al nostro livello?"_
 
@@ -235,7 +235,7 @@ Espandi per leggere l'esempio
 - Se lo spirito, la forza di volontà o la determinazione di un PG vengono colpiti, sottrai da **VOL**. Questo tipo di danno è particolarmente utile da considerare per ferite magiche o superficiali. Un PG la cui anima è stata bruciata dalle energie arcane potrebbe aver bisogno di fare un tiro salvezza su **VOL** per leggere i Libri di Incantesimi, per esempio.
 
 Alcune considerazioni:
-- Una ferita potrebbe avere più aspetti: la [**fatica**](/cairn-srd/#privazione-e-fatica) potrebbe accompagnare una perdita di FOR dovuta a un veleno, per esempio. Fornisci sempre una possibile soluzione per superare una malattia.
+- Una ferita potrebbe avere più aspetti: la [**fatica**]({{ site.baseurl }}/first-edition/cairn-srd/#privazione-e-fatica) potrebbe accompagnare una perdita di FOR dovuta a un veleno, per esempio. Fornisci sempre una possibile soluzione per superare una malattia.
 - Il danno dovrebbe essere una conseguenza del fallire un **tiro salvezza**. Non far fare **tiri salvezza** ai giocatori dopo che hanno subito danni.
 - I danni narrativi sono tanto potenti quanto i danni meccanici diretti. Perde **DES** avrà un impatto sui riflessi e la velocità di un personaggio, ma una gamba rotta gli impedirà del tutto di muoversi!
 </details>
@@ -285,7 +285,7 @@ Espandi per leggere l'esempio
 
 ## Come progrediscono i personaggi senza cose come livelli o PE?
 
-In **Cairn**, la _crescita_ del personaggio è preferibile al suo _avanzamento_. Questo vuol dire che anche se un PG _cambierà_, non è detto che _migliori_ col tempo. La crescita avviene sia in modi meccanici (come le [**Cicatrici**](/cairn-srd/#cicatrici)) sia tramite eventi che hanno impatto solo nella storia.
+In **Cairn**, la _crescita_ del personaggio è preferibile al suo _avanzamento_. Questo vuol dire che anche se un PG _cambierà_, non è detto che _migliori_ col tempo. La crescita avviene sia in modi meccanici (come le [**Cicatrici**]({{ site.baseurl }}/first-edition/cairn-srd/#cicatrici)) sia tramite eventi che hanno impatto solo nella storia.
 
 **Il Custode dovrebbe considerare quanto segue quando fa crescere i PG senza usare le meccaniche:**
 - La crescita dovrebbe essere legata a un evento _specifico_ avvenuto nella storia.

@@ -132,7 +132,7 @@ La seguente è una lista di Reliquie prese dal web, con il permesso degli autori
 ## Dal Discord NSR
 
 ### Ultimo Respiro, Spada Corta, d8 danni, 1 carica
-- Piantare **Ultimo Respiro** nel terreno crea una [Prigione Astrale](/cairn-srd/#100-incantesimi) attorno al portatore. Il portatore è invulnerabile al danno, ma incapace di muoversi mentre è all'interno della prigione.
+- Piantare **Ultimo Respiro** nel terreno crea una [Prigione Astrale]({{ site.baseurl }}/first-edition/cairn-srd/#100-incantesimi) attorno al portatore. Il portatore è invulnerabile al danno, ma incapace di muoversi mentre è all'interno della prigione.
 - **Ricarica**: Nutrire **Ultimo Respiro** con le anime necessarie a costruire la prigione.
 
 ### Spada del Santo Cavaliere (d6), d6 cariche

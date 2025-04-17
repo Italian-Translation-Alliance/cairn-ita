@@ -613,7 +613,7 @@ Tira 1d10 per ciascuna colonna e combina i risultati.
 | **19**  | Torre              | Tossico                  |
 | **20**  | Villa              | Ultraterreno             |
 
-> Vedi il capitolo [Generazione Dungeon](/second-edition/wardens-guide/dungeon-seeds.md) per come approfondire i PDI di tipo Dungeon della tua ambientazione.
+> Vedi il capitolo [Generazione Dungeon]({{ site.baseurl }}/second-edition/wardens-guide/dungeon-seeds.md) per come approfondire i PDI di tipo Dungeon della tua ambientazione.
 
 ## Sentieri
 

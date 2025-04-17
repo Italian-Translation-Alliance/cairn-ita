@@ -33,7 +33,7 @@ Esplorare un dungeon è sempre pericoloso, e il tempo deve sempre essere valutat
 
 |  d6   |     Evento      |                                                                      Descrizione                                                                       |       |
 | :---: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
-| **1** |  **Incontro**   | Tira su una tabella degli incontri. Possibilmente **ostile**. (Vedi [Reazioni](https://claude.ai/second-edition/players-guide/core-rules/#reactions).) |       |
+| **1** |  **Incontro**   | Tira su una tabella degli incontri. Possibilmente **ostile**. (Vedi [Reazioni](https://claude.ai{{ site.baseurl }}/second-edition/players-guide/core-rules/#reactions).) |       |
 | **2** |    **Segno**    |                                   Un indizio, traccia, pista, tana abbandonata, odore, vittima, ecc. viene scoperto.                                   |       |
 | **3** |  **Ambiente**   |               L'ambiente circostante cambia o peggiora. L'acqua sale, i soffitti crollano, un rituale si avvicina al completamento, ecc.               |       |
 | **4** |   **Perdita**   |                Le torce si spengono, un incantesimo in corso si dissolve, ecc. Il gruppo deve risolvere l'effetto prima di proseguire.                 |       |
@@ -157,7 +157,7 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 
 |       |                 |                                                                                                                                                                                                                            |
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Incontro**    | Tira su una tabella degli incontri per quel tipo di terreno o località. Non dimenticare di tirare per le [reazioni](/second-edition/players-guide/core-rules#reazioni) dei PNG se applicabile.                                                                      |
+| **1** | **Incontro**    | Tira su una tabella degli incontri per quel tipo di terreno o località. Non dimenticare di tirare per le [reazioni]({{ site.baseurl }}/second-edition/players-guide/core-rules#reazioni) dei PNG se applicabile.                                                                      |
 | **2** | **Segno**       | Il gruppo scopre un indizio, una traccia o un'indicazione di un incontro nelle vicinanze, una località, una caratteristica nascosta o informazioni su un'area vicina.                                                                                               |
 | **3** | **Ambiente**    | Un cambiamento nel tempo o nel terreno.                                                                                                                                                                                                                             |
 | **4** | **Perdita**     | Il gruppo si trova di fronte a una scelta che costa loro una risorsa (razioni, strumenti, ecc.), tempo o sforzo.                                                                                                                                                    |

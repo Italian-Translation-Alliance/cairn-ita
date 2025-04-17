@@ -13,7 +13,7 @@ Per una "actual play" dal vivo di Cairn (con il commento del Custode), vedete [q
 **Tieni a mente che:**
 - **Esther** sta giocando un ex **Erborista**
 - **Barry** gioca un ex **Cacciatore**
-- I personaggi sono in cerca di una potente [**Reliquia**](/cairn-srd/#reliquie), che si dice abbia poteri curativi.
+- I personaggi sono in cerca di una potente [**Reliquia**]({{ site.baseurl }}/first-edition/cairn-srd/#reliquie), che si dice abbia poteri curativi.
 - Di recente, il gruppo ha scoperto una pergamena che descriveva la vera posizione dell'oggetto, da qualche parte nell'estremità orientale della **Foresta di Geunant**, un bosco noto per i suoi alberi antichi e massicci, i cui grandi rami fanno passare poca luce.
 
 
@@ -73,7 +73,7 @@ Per una "actual play" dal vivo di Cairn (con il commento del Custode), vedete [q
 
  **Esther**: _"Sappiamo qualcosa di questa creatura?"_
 
- **Custode**: _"Sì - è un'[**Alce Sanguinaria**](/mostri/alce-sanguinaria/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
+ **Custode**: _"Sì - è un'[**Alce Sanguinaria**]({{ site.baseurl }}/risorse/mostri/alce-sanguinaria), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
 
  **Esther**: _"Spaventoso! In questo caso, voglio usare la mia azione per aiutare il mio compagno a trascinarsi fuori dal suo percorso, magari verso quella Quercia che hai menzionato prima."_
 
