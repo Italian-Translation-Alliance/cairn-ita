@@ -13,25 +13,25 @@ grand_parent: Seconda Edizione
 | ------- | ------------ | -------------------------------------------------------------------------------------------------- |
 | **d20** | **Gruppo**   | **Mostri**                                                                                         |
 | **1**   | Uccelli      | Fenice, Roc, Viverna                                                                               |
-| **2**   | Bestie       | Alce del Sangue, Orso Grizzly, Api Killer, Gatto Notturno, Vipera, Lupo                            |
+| **2**   | Bestie       | Alce Sanguinaria, Orso Grizzly, Api Killer, Gatto Notturno, Vipera, Lupo                           |
 | **3**   | Colossi      | Drago Verde, Verme Porpora                                                                         |
 | **4**   | Costrutti    | Costrutto d'Ossa, Segugi di Ciottoli, Gargoyle                                                     |
-| **5**   | Demoni       | Segugio Infernale, Incubo                                                                          |
-| **6**   | Extraplanari | Occhio del Terrore, Straziamente                                                                   |
+| **5**   | Demoni       | Mastino Infernale, Incubo                                                                          |
+| **6**   | Extraplanari | Occhio del Terrore, Fendi Menti                                                                    |
 | **7**   | Fatati       | Boggart, Driade, Elfo del Gelo, Pixie, Berretto Rosso, Megera Notturna, Megera Marina, Fuoco Fatuo |
 | **8**   | Giganti      | Ettin, Gigante del Cielo, Gigante della Tempesta, Titano                                           |
 | **9**   | Goblinoidi   | Bugbear, Goblin, Hobgoblin, Orco, Goblin delle Radici, Troll, Troll del Bosco                      |
 | **10**  | Umanoidi     | Accolito, Bandito, Elfo del Gelo, Gnoll, Uomini Incappucciati, Tritone                             |
-| **11**  | Ibridi       | Centauro, Manticora, Minotauro, Orsobufo                                                           |
-| **12**  | Incorporei   | Predatore Invisibile, Ombra                                                                        |
+| **11**  | Ibridi       | Centauro, Manticora, Minotauro, Orsogufo                                                           |
+| **12**  | Incorporei   | Cacciatore Invisibile, Ombra                                                                       |
 | **13**  | Insettoidi   | Aranea, Orrore Sotterraneo, Locusta delle Caverne, Scorpione Gigante                               |
-| **14**  | Rettili      | Basilisco, Idra, Coboldo, Naga, Rettiliano                                                         |
-| **15**  | Magici       | Cane Intermittente, Pantera del Varco, Elementale dell'Acqua                                       |
+| **14**  | Rettili      | Basilisco, Idra, Coboldo, Naga, Uomo Lucertola                                                     |
+| **15**  | Magici       | Cane Intermittente, Distorcente, Elementale dell'Acqua                                       |
 | **16**  | Mitici       | Banshee, Grifone, Arpia, Idra, Lamia, Unicorno                                                     |
 | **17**  | Vegetali     | Viti Striscianti, Strega delle Radici, Cumulo Strisciante, Ent                                     |
-| **18**  | Mutaforma    | Suinide, Mannaro                                                                                   |
+| **18**  | Mutaforma    | Porco Diabolico, Mannaro                                                                           |
 | **19**  | Non Morti    | Guardiano della Cripta, Fantasma, Ghoul, Lich, Mummia, Scheletro, Vampiro, Spettro, Zombi          |
-| **20**  | Insoliti     | Melma Gelatinosa, Mimo, Mostro Rugginoso, Lumaca Guerriera                                         |
+| **20**  | Insoliti     | Melma Gelatinosa, Mimo, Mangia Ruggine, Lumaca Guerriera                                           |
 
 ## Accolito
 
@@ -40,7 +40,7 @@ grand_parent: Seconda Edizione
 - Servitori sacri devoti a una specifica divinità. Viaggiano di solito in gruppi di quattro o più.
 - Portano un simbolo sacro (_Sigillo_ una volta al giorno).
 
-## Alce del Sangue
+## Alce Sanguinaria
 
 4 PF, 12 FOR, 13 DES, 5 VOL, corna (d8)
 
@@ -120,6 +120,13 @@ grand_parent: Seconda Edizione
 - Preferiscono furtività e inganni per ottenere vantaggi.
 - Spesso comandano gruppi di creature simili (tipicamente goblin).
 
+## Cacciatore invisibile
+
+8 PF, 12 FOR, 12 DES, 15 VOL, pugni (d4+d4)
+
+- Entità intelligenti modellate nella realtà da un potente mago. Completamente invisibili e silenziose.
+- Gli attacchi infliggono danni diretti alla FOR (ignorando l’Armatura).
+
 ## Cane Intermittente
 
 5 PF, 11 FOR, 14 DES, 5 VOL, morso (d6)
@@ -161,6 +168,14 @@ grand_parent: Seconda Edizione
 
 - Alti umanoidi composti da vegetazione viscida. Vivono in paludi oscure e ambienti sotterranei umidi.
 - **Danno Critico**: Il bersaglio viene inghiottito intero e trascinato via.
+
+## Distorcente
+
+8 PF, 13 FOR, 16 DES, 12 VOL, tentacoli (d8+d8, _scoppio_), morso (d10)
+
+- Predatori grotteschi simili a pantere, con lunghi tentacoli taglienti che spuntano dalla schiena.
+- Resistenti agli attacchi magici. Il lanciatore deve superare un tiro salvezza su VOL perché l’effetto abbia successo.
+- Possono teletrasportarsi a breve distanza a volontà. Odiano i Cani Intermittenti.
 
 ## Drago Verde
 
@@ -214,6 +229,14 @@ grand_parent: Seconda Edizione
 
 - Spiriti incorporei dei morti inquieti, vulnerabili solo alla magia e a specifici riti consacrati.
 - **Danno Critico**: Il bersaglio deve effettuare un tiro salvezza su VOL o viene posseduto, agendo unicamente secondo i capricci del fantasma.
+
+## Fendi Menti
+
+12 PF, 8 FOR, 12 DES, 18 VOL, tentacoli (d6, _scoppio_)
+
+- Creature umanoidi dalla pelle viola e testa simile a una piovra. Vivono nelle profondità della terra o su vascelli spaziali. Si nutrono dei cervelli di altri umanoidi, assorbendone i ricordi e l’essenza vitale. Estremamente intelligenti, ma malvagi oltre ogni comprensione.
+- **Esplosione Mentale**: I bersagli vicini devono effettuare un tiro salvezza su VOL o perdere 1d4 VOL e restare paralizzati.
+- **Danno Critico**: Un tentacolo strappa il cervello della vittima fuori dal cranio.
 
 ## Fenice
 
@@ -359,6 +382,14 @@ grand_parent: Seconda Edizione
 - Grandi canidi che vivono principalmente in foreste o tundre.
 - Possono essere addestrati con impegno se catturati da cuccioli.
 
+## Mangia Ruggine
+
+5 PF, 16 FOR, 13 DES, 5 VOL, morso (d6)
+
+- Creature simili ad armadilli con code nodose e lunghe antenne. Si nutrono di ferro e metallo arrugginito.
+- Qualsiasi metallo ordinario toccato dalle loro antenne arrugginisce istantaneamente. Possono fiutare metallo da grande distanza.
+- **Danno Critico**: L’armatura metallica si trasforma in zavorra inutilizzabile.
+
 ## Mannaro
 
 8 PF, 15 FOR, 14 DES, 6 VOL, artigli (d6+d6), morso (d8)
@@ -374,6 +405,13 @@ grand_parent: Seconda Edizione
 - Mostruosità rancorose con volto umanoide, corpo di leone, ali di pipistrello e coda da scorpione. Dimorano in regioni montuose, castelli abbandonati e dungeon dimenticati.
 - Gli aculei della coda si comportano come dardi e ricrescono dopo alcuni giorni. Un singolo aculeo vale 150po per un collezionista.
 - **Danno Critico**: Il bersaglio è _esausto_ finché non riposa adeguatamente. Fino ad allora, si comporta in modo rozzo, egoista e crudele (più del solito, se lo è già di natura).
+
+## Mastino Infernale
+
+8 PF, 12 FOR, 15 DES, 9 VOL, morso (d8), alito di fuoco (d6, _scoppio_)
+
+- Cani mostruosi e intelligenti che vivono nei pressi dei vulcani.
+- Immuni al fuoco e ai danni da calore. Sono abbastanza caldi da fondere il ferro semplicemente mordendolo.
 
 ## Megera Marina
 
@@ -411,14 +449,6 @@ grand_parent: Seconda Edizione
 
 - Grandi umanoidi (solitamente maschi) con la testa di toro. Dimorano in labirinti o dungeon.
 - Tracciatori straordinari con un eccellente senso dell’olfatto e capacità di orientamento.
-
-## Mostro della Ruggine
-
-5 PF, 16 FOR, 13 DES, 5 VOL, morso (d6)
-
-- Creature simili ad armadilli con code nodose e lunghe antenne. Si nutrono di ferro e metallo arrugginito.
-- Qualsiasi metallo ordinario toccato dalle loro antenne arrugginisce istantaneamente. Possono fiutare metallo da grande distanza.
-- **Danno Critico**: L’armatura metallica si trasforma in zavorra inutilizzabile.
 
 ## Mummia
 
@@ -480,14 +510,6 @@ grand_parent: Seconda Edizione
 - Carnivori simili a orsi con il volto di un gufo. Si trovano nelle foreste fitte. Si dice siano il risultato di un incidente magico.
 - **Danno Critico**: Un pezzo di armatura viene strappato e distrutto.
 
-## Pantera del Varco
-
-8 PF, 13 FOR, 16 DES, 12 VOL, tentacoli (d8+d8, _scoppio_), morso (d10)
-
-- Predatori grotteschi simili a pantere, con lunghi tentacoli taglienti che spuntano dalla schiena.
-- Resistenti agli attacchi magici. Il lanciatore deve superare un tiro salvezza su VOL perché l’effetto abbia successo.
-- Possono teletrasportarsi a breve distanza a volontà. Odiano i Cani Intermittenti.
-
 ## Pixie
 
 3 PF, 3 FOR, 15 DES, 13 VOL
@@ -495,19 +517,13 @@ grand_parent: Seconda Edizione
 - Minuscoli umanoidi con ali d'insetto. Naturalmente invisibili.
 - Possono lanciare _Sonno_ e _Mascherata_ a volontà.
 
-## Predatore Invisibile
+## Porco Diabolico
 
-8 PF, 12 FOR, 12 DES, 15 VOL, pugni (d4+d4)
+9 PF, 16 FOR, 8 DES, 13 VOL, incornata (d6+d6)
 
-- Entità intelligenti modellate nella realtà da un potente mago. Completamente invisibili e silenziose.
-- Gli attacchi infliggono danni diretti alla FOR (ignorando l’Armatura).
-
-## Rettiliano
-
-5 PF, 1 Armatura, 14 FOR, 12 DES, 5 VOL, lancia d’osso (d8)
-
-- Umanoidi anfibi che vivono in grandi tribù vicino a paludi e giungle.
-- Forgiano armature e armi dalle ossa delle loro prede. Mangiano qualsiasi cosa, inclusi gli umanoidi.
+- Umanoidi obesi che si trasformano in mostruosità suine per divorare carne umana.
+- Preferiscono cacciare in insediamenti isolati vicini a foreste o zone umide. Possono mutare solo di notte.
+- **Affascinare**: Il bersaglio obbedisce a ogni comando del suinide finché non viene uccisa. Tiro salvezza su VOL una volta per round per liberarsi.
 
 ## Scheletro
 
@@ -531,13 +547,6 @@ grand_parent: Seconda Edizione
 - Costrutti immobili usati tipicamente come guardiani di grandi tombe o manufatti.
 - Immuni a qualsiasi tecnica di persuasione ordinaria, ma adorano un buon osso.
 
-## Segugio Infernale
-
-8 PF, 12 FOR, 15 DES, 9 VOL, morso (d8), alito di fuoco (d6, _scoppio_)
-
-- Cani mostruosi e intelligenti che vivono nei pressi dei vulcani.
-- Immuni al fuoco e ai danni da calore. Sono abbastanza caldi da fondere il ferro semplicemente mordendolo.
-
 ## Sfinge
 
 18 PF, 12 FOR, 13 DES, 18 VOL, artigli (d8+d8, _scoppio_), becco (d10)
@@ -560,22 +569,6 @@ grand_parent: Seconda Edizione
 - Eccellenti scavattrici che si nascondono sottoterra vicino all'acqua. Fanno spuntare piccoli filamenti come esche.
 - In superficie appaiono vagamente umanoidi, con il volto simile a un ceppo d’albero marcio.
 - Sono disposte a scambiare minerali rari in cambio di un “cadavere fresco” di qualunque tipo.
-
-## Suinide
-
-9 PF, 16 FOR, 8 DES, 13 VOL, incornata (d6+d6)
-
-- Umanoidi obesi che si trasformano in mostruosità suine per divorare carne umana.
-- Preferiscono cacciare in insediamenti isolati vicini a foreste o zone umide. Possono mutare solo di notte.
-- **Affascinare**: Il bersaglio obbedisce a ogni comando del suinide finché non viene uccisa. Tiro salvezza su VOL una volta per round per liberarsi.
-
-## SventraMente
-
-12 PF, 8 FOR, 12 DES, 18 VOL, tentacoli (d6, _scoppio_)
-
-- Creature umanoidi dalla pelle viola e testa simile a una piovra. Vivono nelle profondità della terra o su vascelli spaziali. Si nutrono dei cervelli di altri umanoidi, assorbendone i ricordi e l’essenza vitale. Estremamente intelligenti, ma malvagi oltre ogni comprensione.
-- **Esplosione Mentale**: I bersagli vicini devono effettuare un tiro salvezza su VOL o perdere 1d4 VOL e restare paralizzati.
-- **Danno Critico**: Un tentacolo strappa il cervello della vittima fuori dal cranio.
 
 ## Titano
 
@@ -621,6 +614,13 @@ grand_parent: Seconda Edizione
 - Gli Osservatori del Bosco; un culto che trae potere da linee telluriche, pietre runiche e simili.
 - **Danno Critico**: Risucchiano una parte dell’anima della vittima (1d4 danni alla VOL).
 - Portano due dei seguenti grimori: _Affascinare, Ipnotizzare, Spingere/Tirare, Scudo_.
+
+## Uomo Lucertola
+
+5 PF, 1 Armatura, 14 FOR, 12 DES, 5 VOL, lancia d’osso (d8)
+
+- Umanoidi anfibi che vivono in grandi tribù vicino a paludi e giungle.
+- Forgiano armature e armi dalle ossa delle loro prede. Mangiano qualsiasi cosa, inclusi gli umanoidi.
 
 ## Vampiro
 
