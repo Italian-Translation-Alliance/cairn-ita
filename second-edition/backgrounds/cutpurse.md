@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Cutpurse
 
-> Vivi nello spazio grigio tra chi ha il potere e chi non ce l'ha. Trovi opportunità dove altri vedono solo caos. Con dita agili, sollevi sia il mercante più ricco che la guardia più umile.
+> Vivi nello spazio grigio tra chi ha il potere e chi non ne ha. Trovi opportunità dove gli altri vedono solo caos. Con dita agili alleggerisci sia il mercante più ricco che la guardia più scalcinata.
 
 ## Nomi
 

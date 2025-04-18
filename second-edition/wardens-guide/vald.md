@@ -205,10 +205,10 @@ Una giornata dura 24 ore e la settimana è composta da 6 giorni. Ogni mese ha 24
 
 ## Il Clima di Vald
 
-|        | **Morta**          | **Secca**          | **Umida**           | **Del Raccolto**   |
+|        |                    |                    |                     |                    |
 | ------ | ------------------ | ------------------ | ------------------- | ------------------ |
-| **d6** | Freddo e sereno    | Caldo e soleggiato | Pioggia leggera     | Mite e soleggiato  |
-| **1**  |                    |                    |                     |                    |
+| **d6** | **Morta**          | **Secca**          | **Umida**           | **Del Raccolto**   |
+| **1**  | Freddo e sereno    | Caldo e soleggiato | Pioggia leggera     | Mite e soleggiato  |
 | **2**  | Mattine gelide     | Caldo e soleggiato | Cielo coperto       | Fresco e sereno    |
 | **3**  | Cielo coperto      | Caldo e ventilato  | Ventilato           | Caldo e soleggiato |
 | **4**  | Neve leggera       | Caldo e umido      | Pioggia intensa     | Caldo e ventilato  |

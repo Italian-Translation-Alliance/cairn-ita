@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Domatore di Bestie
 
-> Solo tu puoi camminare tra le creature della natura, senza paura e sotto controllo. Condividi una connessione con gli animali che altri possono solo sognare... sempre che tu non diventi il loro spuntino.
+> Solo tu riesci a camminare tra le creature selvatiche senza paura e mantenendo il controllo. Possiedi una connessione con gli animali che altri possono solo sognare... finché non finisci per diventare il loro spuntino.
 
 ## Nomi
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus

@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Sfrecciavento
 
-> Colpisci da lontano, ma questo non fa di te un codardo. Sei un musicista, e il canto della tua corda d’arco è solo un avvertimento, una promessa silenziosa di morte rapida.
+> Colpisci da lontano, ma questo non fa di te un codardo. Sei un musicista, e il canto della corda del tuo arco non è che un avvertimento, la promessa silenziosa di una morte rapida.
 
 ## Nomi
 

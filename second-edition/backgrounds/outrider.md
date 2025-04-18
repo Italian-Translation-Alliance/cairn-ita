@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Esploratore
 
-> Le tue monete arrivano da scorte carovaniere, caccia a fuggitivi o mettendo la spada al servizio di una causa. Sei stato salvatore, boia, eroe, perfino un criminale. Il tuo non è un cammino solitario, però: avrai sempre il tuo cavallo.
+> Le tue monete arrivano da scorte carovaniere, caccia a fuggitivi o mettendo la spada al servizio di una causa. Sei stato salvatore, boia, eroe, perfino un criminale. Tuttavia, il tuo non è un cammino solitario: il tuo cavallo sarà sempre con te.
 
 ## Nomi
 

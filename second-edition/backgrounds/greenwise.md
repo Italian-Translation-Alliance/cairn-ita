@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Savio Verde
 
-> Ti sei addentrato a fondo nella **Foresta**, strappandole i suoi segreti da rami nodosi e foglie sussurranti. Per questo regno verdeggiante non sei solo uno studioso, ma anche un confidente.
+> Ti addentri nelle profondità della **Foresta**, strappandole i segreti nascosti tra rami nodosi e foglie sussurranti. Per questo regno verdeggiante non sei un semplice studioso, ma anche un confidente.
 
 ## Nomi
 

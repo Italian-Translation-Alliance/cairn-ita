@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Guardiano dei Campi
 
-> Protettori dei raccolti, li difende da parassiti, ladri e bestie. Un ruolo di grande onore, finché dura: molti guardiani non muoiono per cause naturali. Tira una seconda volta sulla tabella dei **Legami**.
+> Protettori dei raccolti, li difende da parassiti, ladri e bestie. Un ruolo di grande onore finché dura: molti guardiani non muoiono per cause naturali. Tira una seconda volta sulla tabella dei **Legami**.
 
 ## Nomi
 

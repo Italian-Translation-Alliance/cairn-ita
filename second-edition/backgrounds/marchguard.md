@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Guardia delle Marche
 
-> Vincolato da un Giuramento di sangue a pattugliare il confine e proteggere il reame. Una volta prestato, il Giuramento non può essere infranto. La Guardia trova sempre i suoi.
+> Vincolato da un Giuramento di sangue a pattugliare il confine e proteggere il reame. Una volta prestato, il Giuramento non può essere infranto. La Guardia ritrova sempre i suoi.
 
 ## Nomi
 

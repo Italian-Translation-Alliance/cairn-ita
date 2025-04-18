@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Cercatore di Funghi
 
-> Segui i sussurri della terra profonda, il battito ritmico della foresta di micelio che cresce sotto la superficie. L’oscurità non ti fa paura. Inoltre, ami davvero tanto i funghi.
+> Segui i sussurri della terra profonda, il battito ritmico della foresta micelica che cresce sotto la superficie. L’oscurità non ti fa paura. E poi, beh... adori i funghi.
 
 ## Nomi
 

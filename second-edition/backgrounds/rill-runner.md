@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Corririvo
 
-> Canti le storie di fiumi e laghi, i tuoi talenti placano tanto gli amici quanto gli elementi. Hai visto più di molti altri, ma in qualche modo non ti sembra mai abbastanza.
+> Canti le storie di fiumi e laghi, e il tuo talento placa tanto gli amici quanto gli elementi. Seppur tu abbia visto più di molti altri, in qualche modo non ti sembra ancora abbastanza.
 
 ## Nomi
 

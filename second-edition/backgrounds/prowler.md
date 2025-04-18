@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Predatore
 
-> Sei uno spettro nella notte, un’ombra fugace che scivola accanto alla preda, invisibile. Ogni uccisione è una prova d’astuzia e determinazione animale, una sfida tra vita e morte. Sai che un giorno perderai. Non vedi l’ora.
+> Sei uno spettro nella notte, un’ombra fugace che scivola invisibile accanto alla preda. Ogni uccisione è una prova d’astuzia e determinazione animale, una sfida tra vita e morte. Sai che un giorno perderai. Non vedi l’ora.
 
 ## Nomi
 

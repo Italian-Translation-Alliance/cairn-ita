@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Scrivano
 
-> Copi testi antichi e mini manoscritti, registrando le voci degli ingegnosi, dei grandi e dei potenti. Dimostrerai che la penna è davvero più potente della spada.
+> Copi testi antichi e mini manoscritti, dando voce ai saggi, ai grandi e ai potenti. Dimostrerai che la penna è davvero più potente della spada.
 
 ## Nomi
 

@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Trovatello
 
-> Una insolita voglia, uno strano odore: in qualche modo, il tocco dell’_Altrove_ persiste ancora. Ovunque tu vada, fatichi a sentirti parte del mondo. Tira sulla tabella dei **Presagi** (anche se non sei il giocatore più giovane), ma tieni il risultato per te, per ora.
+> Una insolita voglia, un odore insolito: in qualche modo, il tocco dell’_Altrove_ è ancora con te. Ovunque tu vada, fatichi a sentirti parte del posto. Tira sulla tabella dei **Presagi** (anche se non sei il giocatore più giovane), ma tieni il risultato per te, per ora.
 
 ## Nomi
 

@@ -7,7 +7,7 @@ grand_parent: Seconda Edizione
 
 # Aurifex
 
-> Sei un artigiano dell'arcano, un fabbro delle forze sottili. Nel crogiolo del tuo laboratorio, le leggi che governano questo mondo sono distorte per adattarsi alle tue necessità.
+> Sei un artigiano dell'arcano, un fabbro delle forze sottili. Nel crogiolo del tuo laboratorio le leggi che governano questo mondo sono distorte per adattarsi alle tue necessità.
 
 ## Nomi
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
@@ -35,7 +35,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 |       |                          |                                                                                                                                                                                                                                                                        |
 | ----- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Gel Piroidrico**       | Un fluido verde appiccicoso che prende fuoco quando viene esposto all'aria. Dura per 8 ore e non può essere estinto (1 utilizzo).                                                                                                                                      |
+| **1** | **Gel Piroidrico**       | Un fluido verde appiccicoso che prende fuoco quando viene esposto all'aria. Brucia per 8 ore e non può essere estinto (1 utilizzo).                                                                                                                                      |
 | **2** | **Sfera Esplosiva**      | Una palla di ferro delle dimensioni di una testa, riempita con polvere esplosiva che detona all'impatto (d12, _scoppio_, _ingombrante_, 1 utilizzo)                                                                                                                    |
 | **3** | **Aqua Vita**            | Purifica qualsiasi liquido, trasformandolo in acqua pura. Berlo cura 1d6 di Forza (1 utilizzo)                                                                                                                                                                         |
 | **4** | **Pietra Mimica**        | Registra una breve frase che può poi essere riprodotta.                                                                                                                                                                                                                |
