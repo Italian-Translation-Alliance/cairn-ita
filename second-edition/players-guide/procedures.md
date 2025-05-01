@@ -11,44 +11,44 @@ grand_parent: Seconda Edizione
 
 ### Le Basi
 - Il ciclo di esplorazione dei dungeon (vedi sotto) è diviso in una seria di **Turni**, **Azioni** e delle loro conseguenze.
-- Nel loro **turno**, un personaggio può muoversi di una distanza pari al perimetro della loro luce della torcia (circa 40 piedi), ed eseguire una **azione**. I giocatori possono usare la loro **azione** per muoversi fino a tre volte quella distanza anche se ciò aumenterà la possibilità di innescare un tiro sulla tabella degli [Eventi del Dungeon](#eventi-del-dungeon).
+- Nel loro **turno**, i personaggi possono muoversi di una distanza pari al perimetro della luce della loro torcia (circa 12 metri), ed eseguire una **azione**. I giocatori possono usare la loro **azione** per muoversi fino a tre volte quella distanza anche se ciò aumenterà la possibilità di innescare un tiro sulla tabella degli [Eventi del Dungeon](#eventi-del-dungeon).
 - Il **Custode** dovrebbe presentare informazioni ovvie su un'area e i suoi pericoli liberamente e senza costi. Muoversi rapidamente o senza cautela può aumentare la possibilità di incontrare un mostro vagante, far scattare una trappola o innescare un tiro sulla tabella degli [Eventi del Dungeon](#eventi-del-dungeon).
 
-> Sebbene qui si utilizzi il termine "dungeon", può significare qualsiasi luogo pericoloso (ville, fattorie, siti di avventura, ecc.).
+> Sebbene qui si utilizzi il termine "dungeon", può riferirsi a qualsiasi luogo pericoloso (ville, fattorie, siti di avventura, ecc.).
 
 ### Ciclo di Esplorazione del Dungeon
 1. Il **Custode** descrive l'ambiente circostante del gruppo e qualsiasi pericolo immediato (combattimento, trappole, sorprese, ecc.). I giocatori quindi dichiarano i movimenti e le **azioni** previste dal loro personaggio.
 2. Il Custode risolve le **azioni** di ogni personaggio simultaneamente, insieme a qualsiasi **azione** già in corso. Ricorda, il Dado del Fato può essere uno strumento utile ogni volta che il Custode è in dubbio!
-3. I giocatori registrano qualsiasi perdita di risorse e qualsiasi nuova condizione (cioè uso di oggetti, _privazione_, ecc.). Il ciclo quindi ricomincia. Se appropriato, il **Custode** dovrebbe tirare sulla tabella degli [Eventi del Dungeon](#eventi-del-dungeon). Tenere a mente il buon senso nell'interpretare i risultati!
+3. I giocatori registrano qualsiasi perdita di risorse e qualsiasi nuova condizione (cioè uso di oggetti, _privazione_, ecc.). Il ciclo quindi ricomincia. Se appropriato, il **Custode** dovrebbe tirare sulla tabella degli [Eventi del Dungeon](#eventi-del-dungeon). Usate sempre il buon senso per interpretare i risultati!
 
 ### Eventi del Dungeon
 Esplorare un dungeon è sempre pericoloso, e il tempo deve sempre essere valutato contro il rischio di risvegliare gli abitanti del luogo, i pericoli naturali e cose peggiori. Quando il gruppo:
 
 - Trascorre più di un ciclo di dungeon in una singola stanza o luogo
-- Si muove velocemente o disordinatamente attraverso una stanza
+- Si muove velocemente o con noncuranza attraverso una stanza
 - Si sposta in una nuova area, livello o zona
-- Crea un forte disturbo
+- Crea un forte trambusto
 
 **Tira sulla tabella sottostante.**
 
-|  d6   |     Evento      |                                                                      Descrizione                                                                       |       |
-| :---: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
-| **1** |  **Incontro**   | Tira su una tabella degli incontri. Possibilmente **ostile**. (Vedi [Reazioni](https://claude.ai{{ site.baseurl }}/second-edition/players-guide/core-rules/#reactions).) |       |
-| **2** |    **Segno**    |                                   Un indizio, traccia, pista, tana abbandonata, odore, vittima, ecc. viene scoperto.                                   |       |
-| **3** |  **Ambiente**   |               L'ambiente circostante cambia o peggiora. L'acqua sale, i soffitti crollano, un rituale si avvicina al completamento, ecc.               |       |
-| **4** |   **Perdita**   |                Le torce si spengono, un incantesimo in corso si dissolve, ecc. Il gruppo deve risolvere l'effetto prima di proseguire.                 |       |
-| **5** | **Esaurimento** |               Il gruppo deve riposare (innescando un altro tiro su questa tabella), aggiungere una **Fatica**, o consumare una razione.                |       |
-| **6** |  **Silenzio**   |                                              Il gruppo viene lasciato solo (e al sicuro) per il momento.                                               |       |
+|       |                 |                                                                                                                                                         |
+| :---: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **1** |  **Incontro**   | Tira su una tabella degli incontri. Possibilmente **ostile**. (Vedi [Reazioni]({{ site.baseurl }}/second-edition/players-guide/core-rules/#reactions).) |
+| **2** |    **Segno**    |                                   Un indizio, traccia, pista, tana abbandonata, odore, vittima, ecc. viene scoperto.                                    |
+| **3** |  **Ambiente**   |               L'ambiente circostante cambia o peggiora. L'acqua sale, i soffitti crollano, un rituale si avvicina al completamento, ecc.                |
+| **4** |   **Perdita**   |                 Le torce si spengono, un incantesimo in corso si dissolve, ecc. Il gruppo deve risolvere l'effetto prima di proseguire.                 |
+| **5** | **Esaurimento** |                Il gruppo deve riposare (innescando un altro tiro su questa tabella), aggiungere una **Fatica**, o consumare una razione.                |
+| **6** |  **Silenzio**   |                                               Il gruppo viene lasciato solo (e al sicuro) per il momento.                                               |
 
 ### Azioni
-- Le **Azioni** sono qualsiasi attività non passiva, come _cercare trappole_, _forzare una porta_, _ascoltare per pericoli_, _disarmare una trappola_, _ingaggiare un nemico in combattimento_, _lanciare un incantesimo_, _schivare una trappola_, _scappare_, _riposare_, ecc.
+- Le **Azioni** sono qualsiasi attività non passiva, come _cercare trappole_, _forzare una porta_, _stare in ascolto di pericoli_, _disarmare una trappola_, _ingaggiare un nemico in combattimento_, _lanciare un incantesimo_, _schivare una trappola_, _scappare_, _riposare_, ecc.
 - Alcune **azioni** hanno regole speciali (vedi sotto), mentre altre possono richiedere più **turni** per essere completate.
 - **Azioni** rumorose o evidenti possono anche innescare un **incontro** con gli abitanti del dungeon.
 
 #### Cercare
 - Un personaggio può spendere un **turno** eseguendo una ricerca _esaustiva_ di **un** oggetto o luogo in un'area, rivelando eventuali tesori nascosti, trappole, porte segrete, ecc.
 - Stanze più grandi e terreni di dungeon difficili o complessi possono richiedere alcuni **turni** per essere adeguatamente perquisiti.
-- Perquisire una stanza _prima_ è un modo più sicuro per esplorare il dungeon, ma ha un costo elevato: il tempo.
+- Perquisire accuratamente una stanza _prima di fare altro_ è il modo più sicuro per esplorare il dungeon, ma ha un costo elevato: il tempo.
 
 #### Riposare
 - Un personaggio può spendere un turno a **riposare** per ripristinare tutti i **PF**.
@@ -56,14 +56,14 @@ Esplorare un dungeon è sempre pericoloso, e il tempo deve sempre essere valutat
 - Il **Riposo** non ripristina la **Fatica**, poiché è impossibile **Accamparsi** in sicurezza in un dungeon.
 
 ### Panico
-- Un personaggio che è circondato da nemici, avvolto dall'oscurità o che affronta le sue più grandi paure può sperimentare il _panico_. Un **tiro salvezza** di **VOL** è tipicamente richiesto per evitare di perdere il controllo e diventare _in preda al panico_.
-- Un personaggio _in preda al panico_ deve effettuare un **tiro salvezza** di **VOL** per superare la propria condizione come **azione** nel proprio **turno**.
+- Un personaggio che è circondato da nemici, avvolto dall'oscurità o che affronta le sue più grandi paure sentire del _panico_. Un **tiro salvezza** di **VOL** è tipicamente richiesto per evitare di perdere il controllo e diventare _in preda al panico_.
+- Un personaggio _in preda al panico_ deve effettuare un **tiro salvezza** su **VOL** per superare la propria condizione come **azione** nel proprio **turno**.
 - Un personaggio _in preda al panico_ ha 0 **PF**, non agisce nel primo round di combattimento e tutti i suoi attacchi sono _compromessi_.
 
 ### Elementi del Dungeon
 
 #### Luce
-- Le torce e altre fonti di luce radiale illuminano 40 piedi di dungeon e oltre ciò solo un profilo sfocato degli oggetti. Le torce durano finché non vengono spente da un personaggio o dall'ambiente.
+- Le torce e altre fonti di luce radiale illuminano 12 metri di dungeon e oltre ciò solo un profilo sfocato degli oggetti. Le torce durano finché non vengono spente da un personaggio o dall'ambiente.
 - Una torcia può essere accesa 3 volte prima di degradarsi permanentemente. Una lanterna può essere riaccesa 6 volte per tanica di olio, ma richiede più spazi nell'inventario.
 - I personaggi senza una fonte di luce possono soffrire di _panico_ fino a quando la loro situazione non viene risolta.
 
@@ -87,7 +87,7 @@ Esplorare un dungeon è sempre pericoloso, e il tempo deve sempre essere valutat
 ### Punti
 - Le possibili destinazioni su una mappa sono chiamate **punti**.
 - Uno o più **turni di guardia** possono essere necessari per viaggiare tra due **punti** su una mappa, a seconda del percorso, del terreno, del tempo e dello stato del gruppo.
-- Il gruppo ha un'idea approssimativa delle sfide coinvolte per raggiungere la destinazione, ma raramente dettagli specifici.
+- Il gruppo ha solo un'idea approssimativa delle sfide necessarie per raggiungere la destinazione, raramente conosce dettagli specifici.
 
 ### Durata del Viaggio
 Il tempo di viaggio in Cairn è contato in turni di guardia, divisi in tre segmenti di otto ore al giorno. Tuttavia, poiché la maggior parte dei gruppi sceglie di trascorrere il terzo turno di guardia del giorno riposando, si può usare "giorni" come abbreviazione per il tempo di viaggio.
@@ -114,15 +114,15 @@ Il tempo, il terreno, l'oscurità, i membri del gruppo feriti e altri ostacoli p
 
 ### Difficoltà del Terreno
 
-|                |                               |              |                                                                                                                     |
-| -------------- | ----------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **Difficoltà** | **Terreno**                   | **Penalità** | **Fattori**                                                                                                         |
-| **Facile**     | **Pianure, altopiani, valli** | nessuna      | _Aree sicure per il riposo, altri viaggiatori, buona visibilità_                                                    |
-| **Difficile**  | **Foreste, deserti, colline** | +1 Turno     | _Animali selvatici, inondazioni, attrezzature rotte, cadute di rocce, rifugi non sicuri, trappole per cacciatori_   |
-| **Pericoloso** | **Montagne, giungle, paludi** | +2 Turni     | _Sabbie mobili, fango succhiante, liane soffocanti, acqua impura, piante e animali velenosi, navigazione difficile_ |
+|                |                               |              |                                                                                                                       |
+| -------------- | ----------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| **Difficoltà** | **Terreno**                   | **Penalità** | **Fattori**                                                                                                           |
+| **Facile**     | **Pianure, altopiani, valli** | nessuna      | _Aree sicure per il riposo, altri viaggiatori, buona visibilità_                                                      |
+| **Difficile**  | **Foreste, deserti, colline** | +1 Turno     | _Animali selvatici, inondazioni, attrezzature rotte, cadute di rocce, rifugi non sicuri, trappole dei cacciatori_     |
+| **Pericoloso** | **Montagne, giungle, paludi** | +2 Turni     | _Sabbie mobili, fango risucchiante, liane soffocanti, acqua impura, piante e animali velenosi, navigazione difficile_ |
 
 ### Tempo Meteorologico
-Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione appropriata. Se viene ottenuto il risultato del tempo "**Estremo**" due volte di seguito, il tempo diventa "**Catastrofico**". Una burrasca diventa un uragano, una tempesta inonda la valle, ecc.
+Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione attuale. Se viene ottenuto il risultato del tempo "**Estremo**" due volte di seguito, il tempo diventa "**Catastrofico**". Una burrasca diventa un uragano, una tempesta inonda la valle, ecc.
 
 #### Tipo di Tempo
 
@@ -155,9 +155,9 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 
 ### Eventi della Natura Selvaggia
 
-|       |                 |                                                                                                                                                                                                                            |
-| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Incontro**    | Tira su una tabella degli incontri per quel tipo di terreno o località. Non dimenticare di tirare per le [reazioni]({{ site.baseurl }}/second-edition/players-guide/core-rules#reazioni) dei PNG se applicabile.                                                                      |
+|       |                 |                                                                                                                                                                                                                                                                     |
+| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Incontro**    | Tira su una tabella degli incontri per quel tipo di terreno o località. Non dimenticare di tirare per le [reazioni]({{ site.baseurl }}/second-edition/players-guide/core-rules#reazioni) dei PNG se applicabile.                                                    |
 | **2** | **Segno**       | Il gruppo scopre un indizio, una traccia o un'indicazione di un incontro nelle vicinanze, una località, una caratteristica nascosta o informazioni su un'area vicina.                                                                                               |
 | **3** | **Ambiente**    | Un cambiamento nel tempo o nel terreno.                                                                                                                                                                                                                             |
 | **4** | **Perdita**     | Il gruppo si trova di fronte a una scelta che costa loro una risorsa (razioni, strumenti, ecc.), tempo o sforzo.                                                                                                                                                    |
@@ -173,11 +173,11 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 
 #### Sonno
 - L'ultimo **turno di guardia** del giorno è tipicamente riservato all'azione [Accamparsi](#accamparsi).
-- I personaggi tipicamente hanno bisogno di dormire ogni giorno. Qualsiasi cosa oltre a un'interruzione minore può negare o annullare i benefici del sonno.
+- I personaggi tipicamente hanno bisogno di dormire ogni giorno. Qualsiasi cosa oltre a un'interruzione marginale può negare o annullare i benefici del sonno.
 - Se il gruppo salta l'azione **Accamparsi**, ciascuno aggiunge una **Fatica** al proprio inventario e sono _privati_. Inoltre, viaggiare quando si è privati del sonno aumenta la **Difficoltà** del terreno di un livello (ad esempio, _Facile_ diventa _Difficile_).
 
 #### Luce
-- Le torce e altre fonti di luce radiale illuminano 40 piedi davanti al gruppo, ma oltre ciò forniscono solo un profilo sfocato degli oggetti.
+- Le torce e altre fonti di luce radiale illuminano 12 metri davanti al gruppo, ma oltre ciò forniscono solo un profilo sfocato degli oggetti.
 - I personaggi senza una fonte di luce possono soffrire di _panico_ fino a quando la loro situazione non viene risolta.
 - Le condizioni ambientali (improvvise raffiche di vento, polvere, acqua, ecc.) possono facilmente spegnere una torcia.
 
@@ -188,7 +188,7 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 ### Azioni nella Natura Selvaggia
 
 #### Viaggiare
-- Il viaggio inizia. Luoghi, caratteristiche e terreni evidenti delle aree vicine vengono rivelati in base alla loro distanza. Questa azione è tipicamente intrapresa dall'intero gruppo come uno solo.
+- Il viaggio inizia. Luoghi, caratteristiche e terreni evidenti delle aree vicine vengono rivelati in base alla loro distanza. Questa azione è tipicamente intrapresa dall'intero gruppo in accordo.
 - Il gruppo tira 1d6 per vedere se si perde lungo il percorso. Questo rischio può aumentare o diminuire, a seconda della **Difficoltà** del percorso, delle mappe, delle abilità del gruppo e delle guide.
 - Se perso, il gruppo potrebbe dover spendere un'**Azione nella Natura Selvaggia** per ritrovare la strada. Altrimenti, il gruppo raggiunge il prossimo **punto** lungo il loro percorso.
 
@@ -229,7 +229,7 @@ Alcuni **Costi** possono essere ridotti o ignorati attraverso le abilità del pe
 Le seguenti attività rappresentano alcune delle **Azioni di Tempo Libero** più comuni che i giocatori possono scegliere. Il **Custode** può anche creare azioni personalizzate in base alle esigenze del gioco.
 
 ### Ricerca
-Un PG indaga su una domanda riguardante un pezzo di conoscenza perduta o dimenticata, la posizione di un oggetto perduto, il luogo in cui si trova un PNG importante, e così via. Per intraprendere questa azione, il giocatore deve avere una domanda chiaramente formulata a cui vorrebbe rispondere e una **Fonte** di conoscenza nel mondo di gioco con cui il personaggio può interagire. Se il PG non ha una **Fonte**, può spendere un'**Azione di Tempo Libero** cercando di trovarne una. Non c'è garanzia che avranno successo. Una volta posta una domanda e identificata una **Fonte** appropriata, il **Custode** dovrebbe fornire qualsiasi **Pietra Miliare** e **Costi** associati.
+Un PG cerca la risposta di una domanda riguardante un pezzo di conoscenza perduta o dimenticata, la posizione di un oggetto perduto, il luogo in cui si trova un PNG importante, e così via. Per intraprendere questa azione, il giocatore deve avere una domanda chiaramente formulata a cui vorrebbe rispondere e una **Fonte** di conoscenza nel mondo di gioco con cui il personaggio può interagire. Se il PG non ha una **Fonte**, può spendere un'**Azione di Tempo Libero** cercando di trovarne una. Non c'è garanzia che avranno successo. Una volta posta una domanda e identificata una **Fonte** appropriata, il **Custode** dovrebbe fornire qualsiasi **Pietra Miliare** e **Costi** associati.
 
 #### Domande
 Come sempre, la domanda deve provenire da un'esperienza avvenuta durante il gioco.
@@ -252,19 +252,19 @@ Una **Fonte** è una persona, luogo, fazione o entità che detiene parte o tutta
 ### Addestramento
 Un personaggio può migliorare le proprie abilità con un oggetto o capacità, con risultati narrativi o meccanici chiari. Potrebbero essere interessati a infliggere più danni con un'arma particolare, diminuire le probabilità di perdersi in condizioni meteorologiche avverse o imparare a leggere le lingue degli antichi. Un PG potrebbe trascorrere più **Azioni di Tempo Libero** allenandosi con una particolare arma, migliorando le proprie abilità settimana dopo settimana. Oppure potrebbero dover viaggiare fino alla casa di un saggio lontano, migliorandosi attraverso uno studio breve ma intenso.
 
-Il giocatore deve descrivere precisamente cosa vorrebbe migliorare e un **Maestro** con cui potrebbe allenarsi. E, naturalmente, l'ispirazione del personaggio per migliorare dovrebbe provenire da un'esperienza in gioco. Il **Custode** dovrebbe fornire qualsiasi **Pietra Miliare** e **Costo** associato.
+Il giocatore deve descrivere precisamente cosa vorrebbe migliorare e un **Maestro** con cui potrebbe allenarsi. E, naturalmente, il desiderio del personaggio di migliorare dovrebbe provenire da un'esperienza in gioco. Il **Custode** dovrebbe fornire qualsiasi **Pietra Miliare** e **Costo** associato.
 
 **Esempi:**
 
 - **La Parata a Due Mani**: Quando combatte con una mano libera, i PF di un PG aumentano temporaneamente di 1d4. Il gruppo ha assunto un mercenario dalle **Terre Craterizzate**, i cui combattenti enfatizzano l'evitare gli attacchi nemici. Ha accettato di addestrare chiunque possa batterla in combattimento a mani nude.
 - **Erboristeria**: Dati gli ingredienti adeguati, un PG può creare un **Unguento Curativo** (ripristina 4 FOR) come **Azione di Tempo Libero**. Dopo aver ricevuto cure da un anziano erborista nelle **Radure Verdeggianti**, il PG ferito ha chiesto di essere addestrato nelle arti di guarigione. Il **Maestro** ha acconsentito, ma ha chiesto che raccolgano tre erbe rare prima che l'addestramento possa iniziare.
-- **Maestro di Trote**: Quando si intraprende l'**Azione** di Rifornimento, le **Razioni** raccolte vicino a fonti di acqua dolce fredda aumentano di un livello (ad esempio, 1d4 diventa 1d6). Il gruppo ha scortato un naturalista arenato dai famigerati **Deserti d'Argento** in sicurezza fino alla città. Come ringraziamento, ha offerto di addestrare un PG a identificare e catturare un comune pesce di lago che frequenta le acque più fredde.
+- **Maestro di Trote**: Quando si intraprende l'**Azione** di Rifornimento, le **Razioni** raccolte vicino a fonti di acqua dolce fredda aumentano di un livello (ad esempio, 1d4 diventa 1d6). Il gruppo ha scortato un naturalista che si è perso nel famigerato **Deserto d'Argento** in sicurezza fino alla città. Come ringraziamento, egli ha offerto di addestrare un PG a identificare e catturare un comune pesce di lago che frequenta le acque più fredde.
 
 ### Rafforzare i Legami
-Un personaggio coltiva una connessione con un PNG o una Fazione nel mondo di gioco. Prima, devono identificare l'entità con cui desiderano rafforzare i legami, così come un **intento** specifico (ad esempio, costruire fiducia, riparare un'amicizia, cercare l'appartenenza a una Fazione, formare un'alleanza, e così via). Il **Custode** quindi fornisce misure concrete (descritte come **Pietre Miliari** e **Costi**) che il PG può intraprendere per far progredire la relazione. Con ogni **Pietra Miliare** completata, il **Custode** descrive come la relazione del PG è cresciuta o cambiata.
+Un personaggio coltiva una connessione con un PNG o una Fazione nel mondo di gioco. Prima, devono identificare l'entità con cui desiderano rafforzare i legami, così come un **intento** specifico (ad esempio, costruire fiducia, recuperare un'amicizia, farsi ammetere da una Fazione, formare un'alleanza, e così via). Il **Custode** quindi fornisce misure concrete (descritte come **Pietre Miliari** e **Costi**) che il PG può intraprendere per far progredire la relazione. Con ogni **Pietra Miliare** completata, il **Custode** descrive come la relazione del PG è cresciuta o cambiata.
 
 **Esempi:**
 
 - Dopo essere tornato da un'infruttuosa esplorazione nelle **Radici**, un PG scopre di aver involontariamente portato con sé un clandestino: un divoratore senza occhi, appena schiuso. Decidono di tenere la creatura e addestrarla in segreto.
 - Durante una sessione di gioco, un PG diventa amico di un agente dell'**Ordine dell'Elmo**. Impressionato dai valori dell'Ordine, il PG chiede quali sono i requisiti per entrarci.
-- Un agente di una potente fazione muore durante la **Battaglia delle Rane** mentre è sotto la protezione del gruppo. Adesso chi è responsabile desidera fare ammenda, in modo che il gruppo possa di nuovo eseguire compiti per quella fazione.
+- Un agente di una potente fazione muore durante la **Battaglia delle Rane** mentre è sotto la protezione del gruppo. Chi si sente responsabile della dipartita desidera fare ammenda, in modo che il gruppo possa di nuovo eseguire compiti per quella fazione.
