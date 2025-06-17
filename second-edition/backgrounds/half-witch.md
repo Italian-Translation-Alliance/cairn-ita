@@ -27,14 +27,14 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 |       |                                                                                                                                                                                                                                                                   |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Un **Violino di Rosa Nera** (_ingombrante_). La sua musica provoca intensa tristezza e immobilità ne mortali (gli altri ne sono solo affascinati). Non sai suonarlo.                                                                                              |
+| **1** | Un **Violino di Rosa Nera** (_ingombrante_). La sua musica provoca intensa tristezza e immobilità nei mortali (gli altri ne sono solo affascinati). Non sai suonarlo.                                                                                              |
 | **2** | **Gambe di carta**. Sei estremamente leggero e puoi cadere da alcuni piani d’altezza senza farti male. Cerca di non strapparle o bagnarle.                                                                                                                        |
 | **3** | Un **Incubo Vivente** dimora dentro di te, ma si manifesta ogni volta che sei in pericolo. Ha i tuoi stessi **Attributi** e **PF**, e attacca con artigli (d8+d8). Scompare ai **Danni Critici** (subisci 1d4 danni alla VOL), riappare alla prossima luna piena. |
 | **4** | Un **Corvo Famiglio** [8 PF, 3 FOR, 11 DES, 13 VOL, becco (d6)]. Parla come un essere intelligente ed è completamente devoto a te.                                                                                                                                |
 | **5** | Una **Spina di Rovo**. Può perforare qualsiasi materiale organico (in modo doloroso), ma quando viene rimossa non lascia tracce.                                                                                                                                  |
 | **6** | Il **Vero Nome** di una creatura fatata. Usalo per evocare il suo possessore e ottenere un grande favore, una sola volta. Potresti anche venderlo, se trovi l'acquirente giusto.                                                                                  |
 
-## Quale pozione porti con te, e quali ingredienti rari hai raccolto per crearla? Tira 1d6:
+## Quale intruglio porti con te, e quali ingredienti rari hai raccolto per crearlo? Tira 1d6:
 
 |       |                               |                                                                                                                                                                                            |
 | ----- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

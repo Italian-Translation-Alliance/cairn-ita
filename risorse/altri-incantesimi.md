@@ -7,7 +7,7 @@ nav_order: 5
 
 # Altri libri di incantesimi
 
-Se la lista di [incantesimi]({{ site.baseurl }}/first-edition/cairn-srd#100-incantesimi) standard di Cairn non soddisfa appieno le tue esigenze, usa la tabella d666 qui sotto.
+Se la lista di incantesimi ([prima edizione]({{ site.baseurl }}/first-edition/cairn-srd#100-incantesimi), [seconda edizione]({{ site.baseurl }}/second-edition/wardens-guide/spellbooks/)) standard di Cairn non soddisfa appieno le tue esigenze, usa la tabella d666 qui sotto.
 Si presume che i tiri per i danni siano da sottrarsi ai PF se non diversamente specificato (ad es. 1d6 danni contro 1d6 perdite di FOR).
 
 |     |                                                                     |                                                                                                                                                                                                                                              |

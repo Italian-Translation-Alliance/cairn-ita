@@ -7,7 +7,7 @@ grand_parent: Second Edition
 
 # Spezzaincanti
 
-> Sei solo un numero nella mano infallibile della giustizia. Vai dove gli altri temono di mettere piede, incrollabile e incorruttibile.
+> Sei solo un dito nella mano infallibile della giustizia. Vai dove gli altri temono di mettere piede, incrollabile e incorruttibile.
 
 ## Nomi
 

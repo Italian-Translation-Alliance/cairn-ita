@@ -19,7 +19,7 @@ Il ruolo o le abilità di un personaggio non sono limitati da una classe in part
 I personaggi saranno anche forti, ma sono anche vulnerabili al danno nelle sue molteplici forme. La morte è sempre dietro l’angolo, ma non si presenta mai per caso o senza preavviso.
 
 ### Fiction First
-I dadi non sempre sono in grado di esprimere la difficoltà o l’esito di un ostacolo. Il successo e il fallimento sono invece arbitrati dal Custode tramite il dialogo con i giocatori, sulla base di elementi del mondo.
+I dadi non sempre sono in grado di esprimere la difficoltà o l’esito di un impedimento. Il successo e il fallimento sono invece arbitrati dal Custode tramite il dialogo con i giocatori, sulla base di elementi del mondo.
 
 ### Crescita
 I personaggi evolvono man mano che avanzano nel mondo, guadagnando nuove competenze e abilità superando ostacoli e sopravvivendo a eventi pericolosi.
@@ -30,7 +30,7 @@ I giocatori dovrebbero sempre essere consci delle motivazioni dietro alle scelte
 ### Principi
 Sia il Custode che i giocatori hanno delle linee guida che aiutano a promuovere un’esperienza di gioco determinata dal pensiero critico, dall’esplorazione e da una narrazione spontanea.
 
-### Obbiettivi Condivisi
+### Obiettivi Condivisi
 I giocatori contano l’uno sull’altro al fine di sentirsi coinvolti nell’ambientazione condivisa, negli obiettivi dei personaggi e nelle sfide di gruppo. Per questo motivo, solitamente il gruppo lavora di squadra verso un obiettivo comune.
 
 ## Principi per i Giocatori
@@ -77,7 +77,7 @@ I giocatori contano l’uno sull’altro al fine di sentirsi coinvolti nell’am
 ### Difficoltà
 - Ai numeri e alla meccanica prediligi contesto e realismo .
 - Se i personaggi vogliono fare qualcosa di semplicemente impossibile, nessun lancio di dadi permetterà loro di farlo.
-- Ciò che il giocatore descrive, e come sfrutta la situazione, ragionevole? Lascia che accada.
+- Ciò che il giocatore descrive, e come sfrutta la situazione, è ragionevole? Lascia che accada.
 - I tiri salvezza coprono una grande quantità di situazioni incerte e spesso sono tutto ciò che occorre per azioni rischiose.
 
 ### Preparazione

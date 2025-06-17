@@ -36,9 +36,9 @@ grand_parent: Seconda Edizione
 |                                   |     |
 | --------------------------------- | --- |
 | Carretto (+4 slot, _ingombrante_) | 30  |
-| Carro (+8 slots, slow)            | 200 |
+| Carro (+8 slots, lento)           | 200 |
 | Cavallo (+4 slot)                 | 75  |
-| Mulo (+6 slot, slow)              | 30  |
+| Mulo (+6 slot, lento)             | 30  |
 | Passaggio in carrozza             | 5   |
 | Passaggio in nave                 | 10  |
 
@@ -84,6 +84,7 @@ grand_parent: Seconda Edizione
 | Bendaggi (3 utilizzi)                                                  | 30  |
 | Bussola                                                                | 75  |
 | Canna da Pesca                                                         | 10  |
+| Cannocchiale                                                           | 40  |
 | Catena (3m)                                                            | 10  |
 | Comfort per aria aperta (Coperta, Amaca, ecc.)                         | 10  |
 | Contenitori (Sacco, Borraccia, ecc.)                                   | 10  |
@@ -120,4 +121,3 @@ grand_parent: Seconda Edizione
 | Triboli                                                                | 10  |
 | Vescica d'Aria                                                         | 5   |
 | Vestiti per Regioni Selvatiche (Poncho, Mantello, ecc.) (_minuto_)     | 15  |
-| Vetro per spie                                                         | 40  |

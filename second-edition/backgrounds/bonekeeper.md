@@ -41,5 +41,5 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 | **2** | **Spugna**         | Si dice sia fatta dai resti di una rara creatura marina. Non sembra mai asciugarsi completamente.                                |
 | **3** | **Carrucola**      | Perfetta per spostare lapidi, rocce o persino cadaveri.                                                                          |
 | **4** | **Incenso**        | Ideale per rituali o per tenere lontane le mosche. Raffredda il sangue.                                                          |
-| **5** | **Piede di porco** | Infligge d6 danni. A volte serve solo per aprire qualcosa a forza!                                                               |
+| **5** | **Piede di porco** | Infligge d6 danni. A volte serve solo aprire qualcosa con la forza!                                                               |
 | **6** | **Repellente**     | Una roba potentissima. L’etichetta scolorita non rende chiaro contro _cosa_ sia stato creato. Forse... contro tutto. 3 utilizzi. |
