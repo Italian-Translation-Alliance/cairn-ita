@@ -79,7 +79,7 @@ Esplorare un dungeon è sempre pericoloso, e la velocità deve sempre essere con
 
 ## Esplorazione della Natura Selvaggia
 
-### guardie
+### Guardie
 - Un giorno è diviso in tre **guardie**, chiamati _mattina_, _pomeriggio_ e _notte_.
 - Ogni personaggio può scegliere _una_ [Azione nella Natura Selvaggia](#azioni-nella-natura-selvaggia) per **turno di guardia**.
 - Se i personaggi si dividono, ogni gruppo viene trattato come un'entità indipendente.
