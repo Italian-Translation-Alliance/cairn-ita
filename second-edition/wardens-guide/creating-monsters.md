@@ -15,7 +15,7 @@ Per creare un mostro unico, segui questi passaggi:
 - Tira sulla tabella [Attacchi del Mostro](#attacchi-del-mostro).
 - Tira sulla tabella [Abilità del Mostro](#abilità-del-mostro).
 - Descrivi l’aspetto, le abilità e gli attacchi della creatura in italiano semplice.
-- Crea le statistiche della creatura seguendo i principi, le definizioni e il formato del blocco stat sotto.
+- Crea le statistiche della creatura seguendo i principi, le definizioni e il formato del blocco di statistiche sotto.
 
 ## Principi
 
@@ -23,13 +23,13 @@ Per creare un mostro unico, segui questi passaggi:
 - Usa lo stile e l’atmosfera per rendere i mostri memorabili. I giocatori ricorderanno più facilmente un umanoide con faccia da maiale in cerca della sua pecora smarrita che un generico goblin arciere.
 - Adatta sempre le statistiche della creatura in base a ciò che è divertente e interessante.
 
-## **Protezione dalle Ferite**
+## Protezione dalle Ferite
 
 La capacità della creatura di evitare pericoli tramite resistenza, velocità o abilità. Dai 3 PF alle creature comuni, 6 PF a quelle robuste, e 10 o più PF a minacce serie.
 
 ## Armatura
 
-Può rappresentare durezza naturale o equipaggiamento indossato. Se può resistere a un attacco senza muoversi, aumenta il valore.
+Può rappresentare robustezza naturale o equipaggiamento indossato. Se può resistere a un attacco senza muoversi, aumenta il valore.
 
 ## Attributi
 
@@ -45,7 +45,7 @@ Parti da **10**. Aumenta se è veloce o agile, riduci se è lenta o goffa.
 
 ### Volontà
 
-Rappresenta la resistenza mentale e spirituale, oltre al potere sugli altri. Difende anche contro la magia.
+Rappresenta la resistenza mentale e spirituale, oltre al potere sugli altri. Difende anche dalla magia.
 
 ## Attacchi
 
@@ -55,7 +55,7 @@ Solitamente un oggetto (spada, arco) o arma naturale (artigli, zanne).
 
 Un’azione o potere unico, dentro o fuori dal combattimento.
 
-- Se si può evitare con mezzi normali, è un **Attacco** e interagisce con i PF.
+- Se si può evitare con mezzi normali, è un **Attacco** e interagisce con la PF.
 - Se non si può evitare normalmente, è un’**Abilità**.
 - Se colpisce un solo PG, ha effetto immediato, senza tiro salvezza.
 - Se colpisce più PG, richiede tiro salvezza immediato.
@@ -138,10 +138,10 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **6**   | Frusta            | Dissolve          |
 | **7**   | Fulmina           | Esplode           |
 | **8**   | Gas               | Incapacita        |
-| **9**   | Impatti           | Indebolisce       |
-| **10**  | Lancia            | Intrappola        |
-| **11**  | Morsi             | Lacera            |
-| **12**  | Pugnala           | Liquefa           |
+| **9**   | Infilza           | Indebolisce       |
+| **10**  | Impatti           | Intrappola        |
+| **11**  | Lancia            | Lacera            |
+| **12**  | Morde             | Liquefà           |
 | **13**  | Pugni             | Paralizza         |
 | **14**  | Punge             | Perfora           |
 | **15**  | Spacca            | Pietrifica        |
@@ -203,11 +203,11 @@ Questa creatura è fisicamente resistente, con **FOR** superiore alla media e un
 
 Non esiste un sistema perfetto per convertire da altri giochi, ma ecco alcuni suggerimenti utili!
 
-- **Protezione dalle Ferite (PF)**: Come regola generale, assegna +1 PF per ogni **DV**, oltre a un minimo di **3 PF** (la media per una persona comune). Considera i **DV** come un d6 (media 3,5). Parti sempre dai **PF**, poi passa alla **FOR**.
+- **Protezione dalle Ferite (PF)**: Come regola generale, assegna +1 PF per ogni **DV**, oltre a un minimo di **3 PF** (la media per una persona comune). Considera i **DV** come un d6 (media 3,5). Parti sempre dalla **PF**, poi passa alla **FOR**.
 
 - **Armatura**: Cerca espressioni come "come cuoio" o "come piastre" nei blocchi statistiche originali. Nei giochi stile B/X (come Old School Essentials), ignora il THAC0 e usa la CA decrescente quando possibile (7 = cuoio, 5 = maglia, 3 = piastre). Se viene data solo la CA crescente, usa (12 = cuoio, 14 = maglia, 16 = piastre). In ogni caso, l’Armatura dovrebbe andare da 1 a 3.
 
-- **Forza (FOR)**: Guarda ai **DV** e ai **PF**. Se è difficile da uccidere ma non per agilità, aumenta la **FOR** (non i PF). Parti da 10 **FOR** come media.
+- **Forza (FOR)**: Guarda ai **DV** e ai **PF**. Se è difficile da uccidere ma non per agilità, aumenta la **FOR** (non la PF). Parti da 10 **FOR** come media.
 
 - **Destrezza (DES)**: Parti da **10**. Se la creatura è particolarmente veloce, agile o scattante, aumenta il valore. Se è lenta, goffa o pesante, riducilo. (Vedi anche la sezione su [Tiri Salvezza](#tiri-salvezza)).
 
@@ -267,7 +267,7 @@ _DV 5, Velocità 36m, Armatura 14, Morale 11, Attacco: +4 d8 (artiglio, morso o 
 
 _**Dall’esempio sopra, possiamo dedurre che:**_
 - Appare come una donna umana alta con una gamba da volpe.
-- Ha PF non eccezionali, ma è molto veloce.
+- Ha PF non eccezionale, ma è molto veloce.
 - Il suo **ML** è alto: ha una forte volontà.
 - È agile e snella.
 - Attacca con denti e artigli (se può strangola).

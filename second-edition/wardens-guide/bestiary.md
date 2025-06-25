@@ -26,7 +26,7 @@ grand_parent: Seconda Edizione
 | **12**  | Incorporei   | Cacciatore Invisibile, Ombra                                                                       |
 | **13**  | Insettoidi   | Aranea, Orrore Sotterraneo, Locusta delle Caverne, Scorpione Gigante                               |
 | **14**  | Rettili      | Basilisco, Idra, Coboldo, Naga, Uomo Lucertola                                                     |
-| **15**  | Magici       | Cane Intermittente, Distorcente, Elementale dell'Acqua                                       |
+| **15**  | Magici       | Cane Intermittente, Distorcente, Elementale dell'Acqua                                             |
 | **16**  | Mitici       | Banshee, Grifone, Arpia, Idra, Lamia, Unicorno                                                     |
 | **17**  | Vegetali     | Viti Striscianti, Strega delle Radici, Cumulo Strisciante, Ent                                     |
 | **18**  | Mutaforma    | Porco Diabolico, Mannaro                                                                           |
@@ -94,7 +94,7 @@ grand_parent: Seconda Edizione
 
 - Lunghi lucertoloni serpentini che nidificano in profondità sotto terra o tra i rovi sotto i piedi.
 - Combattere un **Basilisco** senza incrociarne lo sguardo è difficile. (Gli attacchi frontali sono _compromessi_.)
-- **Sguardo**: Un bersaglio che guarda il Basilisco viene lentamente pietrificato dal basso verso l’alto, diventando completamente di pietra dopo tre turni. Un antidoto può essere preparato con le ventrigli del Basilisco. Il riflesso della creatura è innocuo.
+- **Sguardo**: Un bersaglio che guarda il Basilisco viene lentamente pietrificato dal basso verso l’alto, diventando completamente di pietra dopo tre turni. Un antidoto può essere preparato con i ventrigli del Basilisco. Il riflesso della creatura è innocuo.
 
 ## Berretto Rosso
 
@@ -168,14 +168,6 @@ grand_parent: Seconda Edizione
 
 - Alti umanoidi composti da vegetazione viscida. Vivono in paludi oscure e ambienti sotterranei umidi.
 - **Danno Critico**: Il bersaglio viene inghiottito intero e trascinato via.
-
-## Distorcente
-
-8 PF, 13 FOR, 16 DES, 12 VOL, tentacoli (d8+d8, _scoppio_), morso (d10)
-
-- Predatori grotteschi simili a pantere, con lunghi tentacoli taglienti che spuntano dalla schiena.
-- Resistenti agli attacchi magici. Il lanciatore deve superare un tiro salvezza su VOL perché l’effetto abbia successo.
-- Possono teletrasportarsi a breve distanza a volontà. Odiano i Cani Intermittenti.
 
 ## Drago Verde
 
@@ -287,7 +279,7 @@ grand_parent: Seconda Edizione
 18 PF, 2 Armatura, 18 FOR, 16 DES, 18 VOL, spadone (d12), _formazione_
 
 - Umanoidi grandi come edifici, dalla pelle color bronzo e capelli chiari. Vivono sulle vette più alte e le coste più rocciose.
-- Illesi dai fulmini, possono evocare tempeste a volontà. Volano cavalcando il vento.
+- Immuni ai fulmini, possono evocare tempeste a volontà. Volano cavalcando il vento.
 - **Fragore**: Infligge 4 danni alla FOR a un singolo bersaglio. Chi indossa armatura metallica subisce il doppio del danno.
 
 ## Gnoll
@@ -357,7 +349,7 @@ grand_parent: Seconda Edizione
 6 PF, 11 FOR, 12 DES, 16 VOL, morso dentato (d8)
 
 - Creature simili a centauri che si nutrono della forza vitale altrui, seducendo le vittime con fascino e intelligenza eccezionali. La parte superiore del corpo è solitamente umanoide, quella inferiore può essere ibrida con varie bestie.
-- Innalzate alla magia. Possono creare illusioni, affascinare creature e assumere sembianze diverse a volontà.
+- Inerentemente magiche, possono creare illusioni, affascinare creature e assumere sembianze diverse a volontà.
 - **Danno Critico**: Il bersaglio subisce d6 danni alla VOL mentre il suo spirito viene lentamente prosciugato. Diventa poi soggiogato alla Lamia, obbedendo a ogni suo comando mentre si trova alla sua presenza.
 
 ## Lich
@@ -419,7 +411,7 @@ grand_parent: Seconda Edizione
 
 - Megere spettrali dalla pelle verdognola che vivono in foreste di alghe e acque basse e calde.
 - Immuni alla magia proveniente dai grimori.
-- **Sguardo Orrendo**: Un bersaglio è sopraffatto dalla paura (i PF scendono a 0). Tiro salvezza su VOL ogni round per rompere l’incantesimo.
+- **Sguardo Orrendo**: Un bersaglio è sopraffatto dalla paura (la PF scende a 0). Tiro salvezza su VOL ogni round per rompere l’incantesimo.
 
 ## Megera Notturna
 
@@ -432,7 +424,7 @@ grand_parent: Seconda Edizione
 
 8 PF, 1 Armatura, 15 FOR, 6 DES, 3 VOL, tocco divorante (d8)
 
-- Grandi masse amorfe di gelatina trasparente. Cacciano cibo senza pensiero nei dungeon e nelle caverne sotterranee.
+- Grandi masse amorfe di gelatina trasparente. Cacciano cibo senza pensare nei dungeon e nelle caverne sotterranee.
 - **Danno Critico**: Il bersaglio viene inglobato, subendo d6 danni alla FOR per round finché non viene consumato.
 
 ## Mimo
@@ -510,6 +502,14 @@ grand_parent: Seconda Edizione
 - Carnivori simili a orsi con il volto di un gufo. Si trovano nelle foreste fitte. Si dice siano il risultato di un incidente magico.
 - **Danno Critico**: Un pezzo di armatura viene strappato e distrutto.
 
+## Pantera Distorcente
+
+8 PF, 13 FOR, 16 DES, 12 VOL, tentacoli (d8+d8, _scoppio_), morso (d10)
+
+- Predatori grotteschi simili a pantere, con lunghi tentacoli taglienti che spuntano dalla schiena.
+- Resistenti agli attacchi magici. Il lanciatore deve superare un tiro salvezza su VOL perché l’effetto abbia successo.
+- Possono teletrasportarsi a breve distanza a volontà. Odiano i Cani Intermittenti.
+
 ## Pixie
 
 3 PF, 3 FOR, 15 DES, 13 VOL
@@ -523,7 +523,7 @@ grand_parent: Seconda Edizione
 
 - Umanoidi obesi che si trasformano in mostruosità suine per divorare carne umana.
 - Preferiscono cacciare in insediamenti isolati vicini a foreste o zone umide. Possono mutare solo di notte.
-- **Affascinare**: Il bersaglio obbedisce a ogni comando del suinide finché non viene uccisa. Tiro salvezza su VOL una volta per round per liberarsi.
+- **Affascinare**: Il bersaglio obbedisce a ogni comando del suinide finché non viene ucciso. Tiro salvezza su VOL una volta per round per liberarsi.
 
 ## Scheletro
 
@@ -538,7 +538,7 @@ grand_parent: Seconda Edizione
 8 PF, 1 Armatura, 11 FOR, 12 DES, 4 VOL, chele (d10+d10)
 
 - Aracnidi grandi quanto cavalli, comuni in zone aride o caverne.
-- **Danno Critico**: Il veleno dell'aculeo liquefa gli organi interni del bersaglio, infliggendo d8 danni aggiuntivi alla FOR. La perdita di FOR è permanente.
+- **Danno Critico**: Il veleno dell'aculeo liquefà gli organi interni del bersaglio, infliggendo d8 danni aggiuntivi alla FOR. La perdita di FOR è permanente.
 
 ## Segugi di Ciottoli
 
@@ -566,7 +566,7 @@ grand_parent: Seconda Edizione
 
 8 PF, 9 FOR, 16 DES, 14 VOL, dita tuberose (d6)
 
-- Eccellenti scavattrici che si nascondono sottoterra vicino all'acqua. Fanno spuntare piccoli filamenti come esche.
+- Eccellenti scavatrici che si nascondono sottoterra vicino all'acqua. Fanno spuntare piccoli filamenti come esche.
 - In superficie appaiono vagamente umanoidi, con il volto simile a un ceppo d’albero marcio.
 - Sono disposte a scambiare minerali rari in cambio di un “cadavere fresco” di qualunque tipo.
 
@@ -589,7 +589,7 @@ grand_parent: Seconda Edizione
 
 14 PF, 1 Armatura, 14 FOR, 12 DES, 4 VOL, morso (d10), artigli (d8+d8)
 
-- Giganti umanoidi verrucosi fatti di carne e corteccia. Dimorano sottoterra o nelle foreste più fitte, oppure tra le rovine delle case delle loro vittime. Carnivori.
+- Giganteschi umanoidi verrucosi fatti di carne e corteccia. Dimorano sottoterra o nelle foreste più fitte, oppure tra le rovine delle case delle loro vittime. Carnivori.
 - Quando subisce un **Danno Critico**, un Troll continua a combattere, nonostante la perdita di carne e arti. Solo quando la sua FOR scende a 0 è veramente morto. A meno che la testa non venga immersa in acido, fuoco o magia potente, si rigenererà completamente entro 1d4 giorni.
 
 ## Troll dei Boschi
@@ -641,11 +641,11 @@ grand_parent: Seconda Edizione
 
 3 PF, 5 FOR, 12 DES, 3 VOL, morso (d6)
 
-- Serpenti velenosi spesso trovati in caverne, fosse e altri luoghi oscuri. Un antidoto può essere prodotto dalle loro sacche velenose.
+- Serpenti velenosi spesso trovati in caverne, fosse e altri luoghi oscuri. Un antidoto può essere ricavato dalle loro sacche velenose.
 - Usano calore e odore per rintracciare le vittime.
 - **Danno Critico**: Il bersaglio è avvelenato e morirà entro 1d12 ore se non curato.
 
-## Viti Striscianti
+## Viticci Striscianti
 
 8 PF, 10 FOR, 12 DES, 2 VOL, viticci (d4, _scoppio_)
 
@@ -656,14 +656,14 @@ grand_parent: Seconda Edizione
 
 11 PF, 15 FOR, 14 DES, 13 VOL, aculeo (d10)
 
-- Grandi rettili alati e intelligenti. Vivono in ogni tipo di ambiente, ma prediligono le scogliere aride.
+- Grandi rettili alati e intelligenti. Vivono in ogni tipo di ambiente, ma prediligono le rupi aride.
 - Schivi verso altre creature, preferiscono inseguire silenziosamente le loro prede da lontano.
 - **Danno Critico**: La vittima viene trafitta e bloccata sul posto. La viverna poi le stacca la testa a morsi.
 
-## Zombi
+## Zombie
 
 2 PF, 12 FOR, 6 DES, 3 VOL, unghie frastagliate (d6)
 
 - Cadaveri rianimati tramite rituali necromantici o oscure influenze. Immuni a qualsiasi effetto che influenzi la mente.
-- Se non vengono distrutti completamente (con fuoco, smembramento totale, ecc.), gli zombi si rialzeranno dopo pochi minuti.
-- **Danno Critico**: Il bersaglio è infettato e diventa _esausto_. Senza l’intervento di uno specialista o guaritore, si trasformerà in uno zombi entro 1d4 giorni.
+- Se non vengono distrutti completamente (con fuoco, smembramento totale, ecc.), gli zombie si rialzeranno dopo pochi minuti.
+- **Danno Critico**: Il bersaglio è infettato e diventa _esausto_. Senza l’intervento di uno specialista o guaritore, si trasformerà in uno zombie entro 1d4 giorni.

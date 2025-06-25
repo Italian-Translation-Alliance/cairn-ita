@@ -51,9 +51,9 @@ Le formazioni sono grandi gruppi di nemici trattati come un’unica entità. Son
 
 > In quanto formazione, i Ratti Traditori hanno la proprietà _scoppio_ e infliggono danni _potenziati_. Il Custode tira due d12, infliggendo 1 danno a Freya e 6 a Wolfram.
 
-**Custode**: _"Freya, essendo a terra non hai PF attivi, ma la tua armatura di cuoio ti protegge dai morsi dei ratti: nessun danno. Wolfram, prendi 6 danni, ma tra i tuoi PF e l’armatura riesci ad assorbirne la maggior parte. La prossima volta potresti non essere così fortunato."_ 
+**Custode**: _"Freya, essendo a terra non hai la PF attiva, ma la tua armatura di cuoio ti protegge dai morsi dei ratti: nessun danno. Wolfram, prendi 6 danni, ma tra i tuoi PF e l’armatura riesci ad assorbirne la maggior parte. La prossima volta potresti non essere così fortunato."_ 
 
-**Wolfram**: _"Va bene, tanto non ci sarà una prossima volta! Prendo la mira su quella creatura più alta e sparo. Lo so, devo tirare un d4, ma è tutto quello che ho!"_
+**Wolfram**: _"Va bene, tanto non ci sarà una prossima volta! Prendo la mira su quella creatura più alta e scocco. Lo so, devo tirare un d4, ma è tutto quello che ho!"_
 
 **Freya**: _"Tutto quello che posso fare è tirare di nuovo su VOL… riuscito! Meno male."_ 
 

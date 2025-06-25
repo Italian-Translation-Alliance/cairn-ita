@@ -30,8 +30,8 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 | **1** | Una casa estiva di un nobile. Il posto era pieno di vino pregiato (+20po), ma non c'era molto altro. Prendi **Cesoie da lattoniere**.                                                                  |
 | **2** | Una banca. (Sei stato catturato.) Porti un marchio visibile solo alla luce del fuoco, e chiunque veda il segno può chiederti una birra. Prendi **Bobina di filo metallico riavvolgibile**.             |
 | **3** | Un magazzino della gilda. Prendi una **Scala** (_compromesso_, 3m) e **Polvere Accecante** (1 utilizzo).                                                                                               |
-| **4** | Un prestito. Qualcuno ti ha anticipato, ma ha lasciato dietro un **Grimorio** di _Occhio Arcano_ (_minuto_). _Occhio Arcano_: Puoi vedere attraverso un occhio magico che vola attorno al tuo comando. |
-| **5** | Un alloggio di una guardia. Sei scappato, ma hai lasciato alcuni amici dietro. Prendi **Filo di Seta Resistente** (9m) e una sensazione di nausea.                                                     |
+| **4** | Un prestito. Qualcuno ti ha anticipato, ma ha lasciato indietro un **Grimorio** di _Occhio Arcano_ (_minuto_). _Occhio Arcano_: Puoi vedere attraverso un occhio magico che vola attorno al tuo comando. |
+| **5** | Un alloggio di una guardia. Sei scappato, ma hai lasciato alcuni amici indietro. Prendi **Filo di Seta Resistente** (9m) e una sensazione di nausea.                                                     |
 | **6** | Un'università. Sei stato visto ma non inseguito. Ancora non sai perché. Prendi **Sfere Fumogene** (3 utilizzi).                                                                                        |
 
 ## Cosa ti aiuta a rubare? Tira 1d6:

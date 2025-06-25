@@ -20,7 +20,7 @@ I Legami spesso legano un personaggio giocante a un altro PG, all'ambientazione 
 - Dare al personaggio un oggetto (spesso _minuto_) _o_ un'abilità unica.
 - Incoraggiare l'interazione del personaggio con l'ambientazione implicita.
 - Approfondire la storia del personaggio senza fare affidamento su eventi legati a specifici Background.
-- Fornire al personaggio una quest, un'opportunità o un piano d'azione.
+- Fornire al personaggio una missione, un'opportunità o un piano d'azione.
 
 ## Presagi
 
@@ -30,4 +30,4 @@ I Presagi sono i semi di un'avventura futura, premonizioni di un disastro a veni
 
 - Non fare mai affidamento su un personaggio giocante specifico per la loro rilevanza.
 - Dire sempre ai personaggi qualcosa sull'ambientazione che non conoscevano già.
-- Rivelare un modello o un altro indicatore evidente che qualcosa di terribile sta accadendo.
+- Rivelare uno schema o un altro indicatore evidente che qualcosa di terribile sta accadendo.

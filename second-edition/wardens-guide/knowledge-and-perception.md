@@ -9,11 +9,11 @@ grand_parent: Seconda Edizione
 
 ## Introduzione
 
-Cairn si differenzia da molti giochi di ruolo moderni per il fatto che non include meccaniche legate alla conoscenza o all’esperienza. Si assume invece che un personaggio possieda le conoscenze necessarie fintanto che ciò può essere giustificato nella narrazione. Allo stesso modo, non esistono meccaniche che regolano la percezione o la capacità di “individuare” dettagli importanti nell’ambiente. Il Custode dovrebbe invece fornire informazioni rilevanti e illimitate su ogni dettaglio che un personaggio può percepire con i propri sensi di base.
+Cairn si differenzia da molti giochi di ruolo moderni per il fatto che non include meccaniche legate alla conoscenza o all’esperienza. Si assume invece che un personaggio possieda le conoscenze necessarie fintanto che ciò può essere giustificato nel mondo di gioco. Allo stesso modo, non esistono meccaniche che regolano la percezione o la capacità di “individuare” dettagli importanti nell’ambiente. Il Custode dovrebbe invece fornire informazioni rilevanti e illimitate su ogni dettaglio che un personaggio può percepire con i propri sensi di base.
 
 ## Conoscenza
 
-La conoscenza di un personaggio è limitata solo da ciò che può essere spiegato tramite elementi della narrazione. Se si sa che un PG proviene da un contesto povero e ha imparato a sopravvivere in ogni modo possibile, allora il giocatore potrebbe sostenere che il personaggio è più capace nel rintracciare un PNG importante nascosto nei bassifondi. Potrebbe sapere a chi rivolgersi e quali scambi sarebbero necessari per ottenere informazioni sulla posizione del bersaglio.
+La conoscenza di un personaggio è limitata solo da ciò che può essere spiegato tramite elementi del mondo di gioco. Se si sa che un PG proviene da un contesto povero e ha imparato a sopravvivere in ogni modo possibile, allora il giocatore potrebbe sostenere che il personaggio è più capace nel rintracciare un PNG importante nascosto nei bassifondi. Potrebbe sapere a chi rivolgersi e quali scambi sarebbero necessari per ottenere informazioni sulla posizione del bersaglio.
 
 Se un personaggio non ha alcuna giustificazione per conoscere qualcosa, allora semplicemente non sa nulla a riguardo! Tuttavia, il Custode può decidere di tirare il **Dado del Fato** per determinare se il personaggio ha una possibilità di sapere _qualcosa_. Più alto è il risultato, più informazioni potrebbe (ragionevolmente) conoscere.
 

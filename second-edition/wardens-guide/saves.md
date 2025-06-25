@@ -23,8 +23,8 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 - La morte di un personaggio non dovrebbe mai arrivare a sorpresa. Se il rischio è tanto alto da poter essere letale, assicurati che il giocatore capisca in cosa si sta cacciando.
 - Offri sempre più opzioni valide al party. Più scelte hanno, più interessante sarà la situazione.
 - Il risultato di un tiro salvezza non deve essere sempre binario. Puoi modulare l’esito in base all’impegno, alla preparazione, alle risorse e all’abilità spese prima del tiro.
-- Sii trasparente con i giocatori. Non significa rivelare ogni segreto, ma fornire a ciascuno tutte le informazioni che il loro personaggio potrebbe ragionevolmente avere.
-- Evita di richiedere tiri ogni volta che puoi. Se un PG riesce a risolvere un problema solo con la narrativa, _non chiedere un tiro_.
+- Sii trasparente con i giocatori. Non significa rivelare ogni segreto, ma fornire a ciascuno tutte le informazioni che il suo personaggio potrebbe ragionevolmente avere.
+- Evita di richiedere tiri ogni volta che puoi. Se un PG riesce a risolvere un problema solo con il posizionamento narrativa, _non chiedere un tiro_.
 - Sostituisci più tiri con un solo lancio. Un solo tiro può aumentare la tensione e valorizzare le scelte del giocatore.
 
 ## Tiri Salvezza Tradizionali
@@ -77,7 +77,7 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Wolfram**: _"Peccato per Lucius. Ma dobbiamo scortare il cliente al tesoro immediatamente. Lo salveremo dopo."_
 
-**Freya**: _"Io NON lo lascio indietro. Andate pure, ma io lo tiro fuori di lì. Sono una tagliaborse, ho amici ovunque, no? Forse potrei usare qualche gergo da ladri per farmi dei contatti?"_
+**Freya**: _"Io NON lo lascio indietro. Andate pure, ma io lo tiro fuori di lì. Sono una tagliaborse, ho amici ovunque, no? Forse potrei usare qualche un po' di gergo ladro per farmi dei contatti?"_
 
 **Custode**: _"Certamente. Puoi passare la notte a cercare contatti tra la tua gente, se vuoi."_ 
 
@@ -119,7 +119,7 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 > Lucius racconta le azioni del party e i progressi fatti finora. Tira su VOL. Ottiene un 5: successo! Katja è convinta della sua sincerità.
 
-**Custode**: _"Mentre ascolta la tua storia, Katja aggrotta le sopracciglia, poi sorride. 'D’accordo, d’accordo, ti credo. Facciamo così: mi presenti questo "cliente" che avete così gentilmente accompagnato nella mia città, e io mi assicurerò che nessuno vi noti mentre ve ne andate. Ma dobbiamo muoverci subito, prima che tutto questo vada in rovina. E se succede, nemmeno io potrò salvarvi...'"_
+**Custode**: _"Mentre ascolta la tua storia, Katja aggrotta le sopracciglia, poi sorride. 'D’accordo, d’accordo, ti credo. Facciamo così: mi presenti questo "cliente" che avete così gentilmente accompagnato nella mia città, e io mi assicurerò che nessuno vi noti mentre ve ne andate. Ma dobbiamo muoverci subito, prima che questa storia diventi un macello. E se succede, nemmeno io potrò salvarvi...'"_
 
 > Un’ora dopo, Lucius ritrova Freya, ma non gli altri. Lei gli spiega che Wolfram e il cliente si sono già diretti al tesoro. Aggiunge che li accompagnerà volentieri, ma prima deve fare una sosta. C’è una faccenda in sospeso... riguardo a uno dei suoi pugnali.
 
@@ -161,7 +161,7 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Custode**: _"Sì, puoi farlo. Wolfram ha le mani occupate, quindi Lucius è la scelta migliore. Puoi lanciargli la corda senza problemi, ma sarà necessario un tiro salvezza su FOR. Essendo tu la più a rischio, dovrai effettuare il tiro."_ 
 
-**Freya**: _"Un amico e una corda? Mi sembra uno scambio onesto. Facciamolo!"_
+**Freya**: _"Un amico e una corda? Mi sembrano buone chance. Facciamolo!"_
 
 > Freya tira un 5: successo!
 

@@ -15,9 +15,9 @@ Proprio come il mondo di gioco si evolve e cambia col tempo, così fanno i perso
 
 ## Principi della Crescita
 
-- La crescita non è mai arbitraria, ma legata a un’esperienza precisa vissuta nella narrativa.
+- La crescita non è mai arbitraria, ma legata a un’esperienza precisa vissuta nel mondo di gioco.
 - È più importante che un personaggio diventi interessante, piuttosto che più abile o potente.
-- I personaggi crescono non solo perché vivono qualcosa di nuovo, ma perché quell’esperienza li ha colpiti in modo significativo.
+- I personaggi crescono non solo perché vivono qualcosa di nuovo, ma perché quell’esperienza li ha influenzati in modo significativo.
 - Offri occasioni di crescita ovunque possibile.
 - I personaggi crescono tanto durante una sessione quanto durante il Tempo Libero.
 - La crescita dovrebbe incoraggiare ulteriore interazione con il mondo di gioco e le sue sfide.
@@ -29,7 +29,7 @@ Proprio come il mondo di gioco si evolve e cambia col tempo, così fanno i perso
 
 ## Innesco: una Struttura per la Crescita
 
-Man mano che i personaggi si confrontano con il mondo di gioco, devono adattarsi a nuove realtà. Alcuni di questi adattamenti sono minimi e non vengono mai più richiamati. Altri sono cumulativi, frutto di esperienze ripetute o simili. Altri ancora sono così potenti da lasciare un impatto immediato e irreversibile. In tutti questi casi può essere utile identificare degli _Inneschi_ — momenti chiave che rappresentano un’opportunità di crescita. Si tratta di svolte nella vita di un personaggio, e dovrebbero essere sempre accompagnate da un cambiamento permanente e coerente. Un buon innesco richiede che il personaggio coinvolto abbia fatto almeno due delle seguenti cose:
+Man mano che i personaggi si confrontano con il mondo di gioco, devono adattarsi a nuove realtà. Alcuni di questi adattamenti sono minimi e vengono richiamati raramente. Altri sono cumulativi e rappresentano il susseguirsi di esperienze correlate. Altri ancora sono così potenti da lasciare un impatto immediato e irreversibile. In tutti questi casi può essere utile identificare degli _Inneschi_ — momenti chiave che rappresentano un’opportunità di crescita. Si tratta di svolte nella vita di un personaggio, e dovrebbero essere sempre accompagnate da un cambiamento permanente e coerente. Un buon innesco richiede che il personaggio coinvolto abbia fatto almeno due delle seguenti cose:
 
 - Portato avanti un comportamento chiaro e coerente legato a un obiettivo o a una linea d’azione.
 - Accettato un rischio evidente con potenziali conseguenze gravi, soprattutto quando l’esito era incerto.
@@ -74,11 +74,11 @@ _Julius era un tipo studioso, ansioso, né particolarmente forte né agile. Dopo
 
 In questo caso, anche se Julius aveva fallito in alcuni dei suoi tentativi, la preparazione e la costanza dimostrate, unite alla sua determinazione nel “fare le cose per bene”, gli sono valse una nuova capacità. Ricorda che in un combattimento tipico, i PG tirano già salvezze su DES all’inizio dello scontro, quindi i tiri successivi sono richiesti solo se un personaggio si espone ulteriormente (ad esempio per un atto coraggioso, un tentativo di fuga, ecc.). Inoltre, il tiro salvezza non è necessariamente richiesto al bersaglio dell’azione, ma solo a chi corre il rischio maggiore.
 
-### Successo o Fallimento nonostante il Talento Naturale
+### Successo o Fallimento nonostante Talenti e Abilità innati
 
 _Harrow e i suoi compagni stavano inseguendo una banda di briganti guidati da un famigerato licantropo. Dopo averli seguiti fino al loro rifugio, si avvicinarono all’alba, sperando che gli uomini dormissero ancora. Harrow guidava il gruppo lungo il perimetro del campo, cercando di entrare in silenzio. Ma fu più difficile del previsto: i briganti avevano postazioni di guardia su quattro lati. Il Custode stabilì che, poiché Harrow guidava il gruppo **e** aveva il punteggio più basso in DES (un misero 5), sarebbe stato lui a tirare la salvezza per evitare di essere scoperti. Riuscì, e il Custode decise che, da quel momento in poi, Harrow non avrebbe più dovuto tirare su DES in situazioni simili, avendo dimostrato una naturale affinità per l’infiltrazione._
 
-Questo è un chiaro esempio di un personaggio che agisce “fuori ruolo”. Nonostante il basso punteggio in DES, il fatto che Harrow abbia assunto la guida e ottenuto un successo critico è stato ritenuto dall’incontro un innesco valido per una crescita concreta.
+Questo è un chiaro esempio di un personaggio che agisce “fuori ruolo”. Il Custode ha deciso che, nonostante la DES relativamente bassa di Harrow, la sua decisione di guidare il gruppo e il suo successo finale fossero sufficienti a innescare la crescita.
 
 ### Avanzamento di Fazione
 

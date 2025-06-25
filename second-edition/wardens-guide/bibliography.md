@@ -9,21 +9,21 @@ grand_parent: Seconda Edizione
 
 ## Giochi e Supplementi
 
-- [Apocalypse World by Vincent and Meguey Baker](https://lumpley.itch.io/apocalypse-world/)
-- [Beyond the Wall by Peter S. Williams](https://www.flatlandgames.com/btw/)
-- [Dungeon World by Sage LaTorra and Adam Koebel](https://dungeon-world.com/)
-- [Electric Bastionland by Chris McDowall](https://bastionlandpress.com/)
-- [Errant by Ava Islam](https://killjestergames.itch.io/errant)
-- [FLEE by Emmy Verte](https://emmv.itch.io/flee)
-- [Into The Dungeon: Revived by Vladimir Arabadzhi](https://vladar4.github.io/itdr/)
-- [Knave & Maze Rats by Ben Milton](https://questingbeast.itch.io/knave)
-- [Mausritter by Isaac Williams](https://mausritter.com/)
-- [Old School Essentials by Gavin Norman](https://necroticgnome.com/)
-- [Perilous Wilds by Jason Lutes](https://www.drivethrurpg.com/en/product/407161/the-perilous-wilds-revised-edition)
-- [The Monster Overhaul by Skerples](https://www.drivethrurpg.com/en/product/421868/The-Monster-Overhaul/)
-- [Tunnel Goons by Nate Treme](https://www.tunnelgoons.com/)
-- [Vaults of Vaarn by Leo Hunt](https://antipodezines.com/collections/vaults-of-vaarn)
-- [World of Dungeons by John Harper](https://johnharper.itch.io/world-of-dungeons/)
+- [Beyond the Wall di Peter S. Williams](https://www.flatlandgames.com/btw/)
+- [Dungeon World di Sage LaTorra e Adam Koebel](https://narrattiva.it/it/shop/fantasy/dungeon-world-3-5/)
+- [Electric Bastionland di Chris McDowall](https://www.needgames.it/prodotto/electric-bastionland/)
+- [Errant di Ava Islam](https://killjestergames.itch.io/errant)
+- [FLEE di Emmy Verte](https://emmv.itch.io/flee)
+- [Il Mondo dell'Apocalisse di Vincent e Meguey Baker](https://narrattiva.it/it/shop/fantasy/awii-il-mondo-dellapocalisse-ii/)
+- [Into The Dungeon: Revived di Vladimir Arabadzhi](https://vladar.itch.io/into-the-dungeon-revived/devlog/507355/into-the-dungeon-revived-italian-translation)
+- [Knave & Maze Rats di Ben Milton](https://www.drivethrurpg.com/it/product/275839/knave-edizione-italiana)
+- [Mausritter di Isaac Williams](https://www.needgames.it/giochi/mausritter/)
+- [Old School Essentials di Gavin Norman](https://www.needgames.it/giochi/old-school-essentials/)
+- [Perilous Wilds di Jason Lutes](https://www.drivethrurpg.com/en/product/407161/the-perilous-wilds-revised-edition)
+- [The Monster Overhaul di Skerples](https://www.drivethrurpg.com/en/product/421868/The-Monster-Overhaul/)
+- [Tunnel Goons di Nate Treme](https://natetreme.itch.io/tunnelgoons/devlog/235781/tunnel-goons-italian-translation)
+- [Vaults of Vaarn di Leo Hunt](https://osr-italia.itch.io/le-volte-di-vaarn-1)
+- [World of Dungeons di John Harper](https://johnharper.itch.io/world-of-dungeons/)
 
 ## Blog
 

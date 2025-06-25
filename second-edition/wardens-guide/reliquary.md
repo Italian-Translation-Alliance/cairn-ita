@@ -66,7 +66,7 @@ grand_parent: Seconda Edizione
 
 ## Fischietto Teschio, 3 cariche
 
-- Emette un urlo agghiacciante che costringe chi lo ascolta (compreso chi lo suona) a effettuare un TIRO SALVEZZA su VOL o essere temporaneamente incapacitato.
+- Emette un urlo agghiacciante che costringe chi lo ascolta (compreso chi lo suona) a effettuare un tiro salvezza su VOL o essere temporaneamente incapacitato.
 - **Ricarica**: Nutri lo strumento con un ciuffo di capelli umani strappati da un cranio vivente.
 
 ## Fune Fischiante
@@ -79,7 +79,7 @@ grand_parent: Seconda Edizione
 
 ## Gomma di Ceralacca, 3 utilizzi, _minuto_
 
-- Mastica, poi sputa. La gomma si indurisce e si estende, formando una tenuta perfetta e infrangibile.
+- Mastica, poi sputa. La gomma si indurisce e si estende, formando un sigillo a tenuta perfetta e infrangibile.
 
 ## Grumo d’Anima
 
@@ -88,7 +88,7 @@ grand_parent: Seconda Edizione
 ## Guanto di Veleoseta, 1 carica, _minuto_
 
 - Una mano guantata può attraversare oggetti solidi.
-- **Ricarica**: Taglia via uno dei suoi dita.
+- **Ricarica**: Taglia via uno delle sue dita.
 
 ## Lacrima della Driade, 1 utilizzo
 
@@ -110,7 +110,7 @@ grand_parent: Seconda Edizione
 
 ## Mazza dell’Uccisore di Re (d8), 2 cariche
 
-- Alza l’arma e pronuncia un ordine o una dichiarazione. Chi fallisce un TIRO SALVEZZA su VOL deve obbedire, anche contro il proprio giudizio.
+- Alza l’arma e pronuncia un ordine o una dichiarazione. Chi fallisce un tiro salvezza su VOL deve obbedire, anche contro il proprio giudizio.
 - **Ricarica**: Infliggi un colpo mortale al leader di un gruppo o di una fazione.
 
 ## Moneta del Padre, 1 carica, _minuta_
@@ -124,7 +124,7 @@ grand_parent: Seconda Edizione
 
 ## Patto degli Amanti, 1 utilizzo
 
-- Una bottiglia di inchiostro rosso, con un cuore spezzato sull’etichetta. Scrivi un contratto di qualsiasi lunghezza. Chiunque lo firmi è vincolato a rispettarlo sotto pena di morte.
+- Una bottiglia di inchiostro rosso, con un cuore spezzato sull’etichetta. Scrivi un contratto di qualsiasi lunghezza. Chiunque lo firmi è vincolato a rispettarlo pena la morte.
 
 ## Pergamena dell’Oblio, 1 utilizzo, _minuto_
 
@@ -168,7 +168,7 @@ grand_parent: Seconda Edizione
 ## Sbarra Meraviglia, 1 carica
 
 - Premendo l’interruttore laterale, questa sbarra di ferro si blocca in posizione, anche in aria. Una volta bloccata, non può essere spostata finché l’interruttore non viene disattivato.
-- **Ricarica**: Tieni la sbarra con entrambe le mani senza lasciarla per un’ora continua (TIRO SALVEZZA su VOL per riuscire). Puoi tentare solo una volta al giorno.
+- **Ricarica**: Tieni la sbarra con entrambe le mani senza lasciarla per un’ora continua (tiro salvezza su VOL per riuscire). Puoi tentare solo una volta al giorno.
 
 ## Scatola dei Pettegolezzi, 1 carica
 
@@ -185,7 +185,7 @@ grand_parent: Seconda Edizione
 
 ## Specchio della Falena, _ingombrante_
 
-- Uno specchio a figura intera, doppia faccia. Entra nello specchio per essere trasportato in un altro specchio conosciuto. Ne esci sotto forma di uno sciame di falene che paralizza con lo sguardo (TIRO SALVEZZA su VOL per evitarlo). Puoi tornare alla tua forma normale a volontà. Lo specchio funziona solo in una direzione.
+- Uno specchio a figura intera, doppia faccia. Entra nello specchio per essere trasportato in un altro specchio conosciuto. Ne esci sotto forma di uno sciame di falene che paralizza con lo sguardo (tiro salvezza su VOL per evitarlo). Puoi tornare alla tua forma normale a volontà. Lo specchio funziona solo in una direzione.
 
 ## Ultimo Respiro (d6), 1 carica
 

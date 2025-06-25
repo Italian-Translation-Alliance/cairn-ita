@@ -9,7 +9,7 @@ grand_parent: Seconda Edizione
 
 ## Introduzione
 
-In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domande, ragionando in modo critico e agendo all’interno della finzione del mondo di gioco per ottenere vantaggi. I seguenti principi ed esempi aiutano i Custodi a formulare decisioni coerenti e corrette, che mettano alla prova i giocatori e li ricompensino per l’impegno.
+In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domande, ragionando in modo critico e agendo all’interno del mondo di gioco per ottenere vantaggi. I seguenti principi ed esempi aiutano i Custodi a formulare decisioni coerenti e corrette, che mettano alla prova i giocatori e li ricompensino per l’impegno.
 
 ## Principi per la Difficoltà Variabile
 
@@ -17,7 +17,7 @@ In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domand
 - **Modifica i risultati in base all’impegno.** Se i PG si sono dati da fare per riuscire nonostante il pericolo, migliora il risultato per riflettere la difficoltà affrontata.
 - **Dai risalto alle conseguenze narrative più che ai bonus meccanici.** Le ricompense puramente meccaniche sono spesso vuote e non offrono lo stesso potenziale delle ricompense legate al mondo di gioco.
 - **Molti pericoli possono essere mitigati o evitati con tempo, impegno e abilità.** Se non c’è un vero rischio, salta pure il tiro!
-- **Crea situazioni che privilegino soluzioni narrative.** Un problema è più interessante se la chiave per risolverlo si trova esclusivamente nella finzione del gioco.
+- **Crea situazioni che privilegino soluzioni narrative.** Un problema è più interessante se la chiave per risolverlo si trova esclusivamente nel mondo di gioco.
 
 ## Esempi
 
@@ -37,7 +37,7 @@ In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domand
 
 **Freya**: _"Lo so che dovrei darmi alla fuga... ma l’occasione è troppo ghiotta. Direi che è il momento di presentargli i Gemelli."_
 
-> Freya tira d6+d6 per i suoi pugnali (un 3 e un 5), infliggendo 5 danni diretti alla FOR del Troll. Il Custode tira un salvataggio da Danno Critico: 19, fallito!
+> Freya tira d6+d6 per i suoi pugnali (un 3 e un 5), infliggendo 5 danni diretti alla FOR del Troll. Il Custode fa un Tiro Salvezza per Danno Critico: 19, fallito!
 
 **Custode**: _"Lo colpisci con entrambe le lame, dalle ferite schizza sangue verde mentre la creatura urla di rabbia. Vediamo se sopravvive. No! Fallisce il tiro salvezza su FOR: **Danno Critico**! È fuori combattimento!"_
 
@@ -47,7 +47,7 @@ In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domand
 
 ### Lavoro di Squadra
 
-> Wolfram, Lucius e Freya stanno indagando su delle voci riguardo una creatura invisibile che ha attaccato dei locali nella Foresta. L’hanno seguita fino alla sua tana su un isolotto a soli 12 metri dalla riva di un lago velenoso. Il lago è separato dalla foresta circostante da una distesa di fango pesante.
+> Wolfram, Lucius e Freya stanno indagando su delle voci riguardo una creatura invisibile che ha attaccato dei locali nella Foresta. L’hanno seguita fino alla sua tana su un isolotto a soli 12 metri dalla riva di un lago velenoso. Il lago è separato dalla foresta circostante da una distesa di fango profondo.
 
 **Custode**: _"Le impronte finiscono sulla riva di un lago ribollente che gorgoglia e si muove in modo inquietante. Conoscendo la zona, vi rendete conto che, se l’acqua non vi ammazza, ci penseranno i vapori tossici che salgono dalla superficie!"_
 
@@ -77,13 +77,13 @@ In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domand
 
 **Custode**: _"La creatura viene trafitta dal dardo, da cui schizza un fluido verde. Dove cade, il terreno sfrigola come se fosse acido. Si gira verso il carro, ma prima che possa reagire, Lucius le tira addosso il sacco grosso. La creatura si agita dentro, torcendosi in ogni direzione."_
 
-> Il Custode tira un salvataggio su DES per la creatura (ha solo 8 DES fuori dall’acqua). Esce un 12: fallimento! Non riesce a liberarsi, e il gruppo la lega e la carica sul carro, insieme a un barattolo d’acqua tossica per il viaggio.
+> Il Custode fa un Tiro Salvezza su DES per la creatura (ha solo 8 DES fuori dall’acqua). Esce un 12: fallimento! Non riesce a liberarsi, e il gruppo la lega e la carica sul carro, insieme a un barattolo d’acqua tossica per il viaggio.
 
 > Lavorando insieme, il party fa ritorno in città senza altri problemi.
 
 ### Storia del Personaggio
 
-> Il party sta scortando un agente della fazione di Alsace in profondità nel territorio nemico. La destinazione è nascosta in un piccolo villaggio circondato da alte palizzate in legno. Il compito è far entrare il cliente nel paese ben sorvegliato e poi introdurlo nel deposito ancestrale di Der Thunn. Mentre si avvicinano, il sole sta appena calando, e Lucius è stato mandato in avanscoperta, fingendosi un menestrello del Sud.
+> Il party sta scortando un agente della fazione di Alsace in profondità nel territorio nemico. La destinazione è nascosta in un piccolo villaggio circondato da alte palizzate in legno. Il compito è far entrare il cliente nel paese ben sorvegliato e poi introdurlo nel tesoro di Der Thunn. Mentre si avvicinano, il sole sta appena calando, e Lucius è stato mandato in avanscoperta, fingendosi un menestrello del Sud.
 
 **Custode**: _"Ti avvicini al villaggio fortificato seguendo un sentiero sterrato che porta dritto al portone principale. Due guardie stanno ai lati del cancello chiuso. Sono quasi identiche, a parte il baffetto mal riuscito che uno dei due sfoggia."_
 
@@ -137,7 +137,7 @@ In *Cairn*, i giocatori sono incoraggiati a superare gli ostacoli facendo domand
 
 **Custode**: _"I soldati avanzano fino a che il capo non alza la spada e grida ‘Carica!’ Tutto succede nello stesso istante. Wolfram si alza e spara con la balestra. Ma visto che il capo fa parte di una formazione, Wolfram tira solo un d4."_ 
 
-> Wolfram tira un 3. L’elmo del capo assorbe 1 danno, quindi subisce solo 2 PF.
+> Wolfram tira un 3. L’elmo del capo assorbe 1 danno, quindi perde solo 2 PF.
 
 **Custode**: _"Il dardo sfreccia vicino alla spalla del capo, strappa la mostrina colorata. Lui stringe i denti e si lancia verso il lato est. Freya, nello stesso momento, apri il portello e lanci le Bombe Fumogene a est e ovest — segna 2 usi. Lucius, appena lei si sposta, versi l’Olio Miracoloso sulla scala."_
 

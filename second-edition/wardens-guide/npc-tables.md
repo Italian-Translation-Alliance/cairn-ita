@@ -81,31 +81,31 @@ grand_parent: Seconda Edizione
 
 ## Tratti Distintivi
 
-|         |                     |
-| ------- | ------------------- |
-| **d20** | **Tratto**          |
-| **1**   | Calvo               |
-| **2**   | Capelli Notevoli    |
-| **3**   | Denti Storti        |
-| **4**   | Emaciato            |
-| **5**   | Forte               |
-| **6**   | Giovane             |
-| **7**   | Muscoloso           |
-| **8**   | Occhi Brillanti     |
-| **9**   | Orecchio Mancante   |
-| **10**  | Portamento Fiero    |
-| **11**  | Sopracciglia Fitte  |
-| **12**  | Sopracciglia Spesse |
-| **13**  | Stanco              |
-| **14**  | Strizza gli Occhi   |
-| **15**  | Sudicio             |
-| **16**  | Vigile              |
-| **17**  | Viso Largo          |
-| **18**  | Voce Piacevole      |
-| **19**  | Voce Roca           |
-| **20**  | Zoppica             |
+|         |                    |
+| ------- | ------------------ |
+| **d20** | **Tratto**         |
+| **1**   | Calvo              |
+| **2**   | Capelli Notevoli   |
+| **3**   | Denti Storti       |
+| **4**   | Emaciato           |
+| **5**   | Forte              |
+| **6**   | Fronte Sporgente   |
+| **7**   | Giovane            |
+| **8**   | Muscoloso          |
+| **9**   | Occhi Brillanti    |
+| **10**  | Orecchio Mancante  |
+| **11**  | Portamento Fiero   |
+| **12**  | Sopracciglia Fitte |
+| **13**  | Stanco             |
+| **14**  | Strizza gli Occhi  |
+| **15**  | Sudicio            |
+| **16**  | Vigile             |
+| **17**  | Viso Largo         |
+| **18**  | Voce Piacevole     |
+| **19**  | Voce Roca          |
+| **20**  | Zoppica            |
 
-## Occupazione
+## Origine
 
 |         |                     |
 | ------- | ------------------- |
@@ -142,22 +142,21 @@ grand_parent: Seconda Edizione
 | **3**   | Conservazione |
 | **4**   | Difesa        |
 | **5**   | Dominazione   |
-| **6**   | Espansione    |
-| **7**   | Giustizia     |
-| **8**   | Guarigione    |
-| **9**   | Integrazione  |
-| **10**  | Libertà       |
-| **11**  | Pace          |
-| **12**  | Potere        |
-| **13**  | Preservazione |
-| **14**  | Purificazione |
+| **6**   | Epurazione    |
+| **7**   | Espansione    |
+| **8**   | Giustizia     |
+| **9**   | Guarigione    |
+| **10**  | Integrazione  |
+| **11**  | Libertà       |
+| **12**  | Pace          |
+| **13**  | Potere        |
+| **14**  | Preservazione |
 | **15**  | Purificazione |
 | **16**  | Redenzione    |
 | **17**  | Ricchezza     |
 | **18**  | Sopravvivenza |
 | **19**  | Unità         |
 | **20**  | Vendetta      |
-
 
 ## Tratti
 

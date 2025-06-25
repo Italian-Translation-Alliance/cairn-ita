@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Generazione Ambientazione
+title: Generare l'Ambientazione
 parent: Guida del Custode
 grand_parent: Seconda Edizione
 ---
 
-# Generazione Ambientazione
+# Generare l'Ambientazione
 
 ## Panoramica
 
-La procedura seguente serve a creare il _seme_ di un’ambientazione: la topografia, le caratteristiche naturali, i popoli e i percorsi che un party d’avventurieri potrebbe incontrare viaggiando in una regione. Inizieremo definendo le persone che vivono lì, le loro ambizioni e risorse, e le fazioni che le influenzano. Poi genereremo il terreno della regione, con i vari punti d’interesse, punti di riferimento, strade, sentieri e così via.
+La procedura seguente serve a creare il _seme_ di un’ambientazione: la topografia, le caratteristiche naturali, i popoli e i sentieri che un party d’avventurieri potrebbe incontrare viaggiando in una regione. Inizieremo definendo le persone che vivono lì, le loro ambizioni e risorse, e le fazioni che le influenzano. Poi genereremo il terreno della regione, con i vari punti d’interesse, punti di riferimento, strade, sentieri e così via.
 
 Come per qualsiasi altra regola, se un risultato di tabella non ti convince, rilancia o modificalo a tuo piacimento!
 
@@ -68,29 +68,29 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
-|         |                  |                   |
-| ------- | ---------------- | ----------------- |
-| **d20** | **Ambizione**    | **Carenza**       |
-| **1**   | Abbondanza       | Acqua             |
-| **2**   | Armonia Naturale | Armi              |
-| **3**   | Conoscenza       | Attrezzi          |
-| **4**   | Conquista        | Bestiame          |
-| **5**   | Controllo        | Cavalli           |
-| **6**   | Conversione      | Cibo              |
-| **7**   | Divisione        | Combustibile      |
-| **8**   | Dominio          | Conoscenza        |
-| **9**   | Esplorazione     | Erbe              |
-| **10**  | Fedeltà          | Gemme             |
-| **11**  | Indipendenza     | Imbarcazioni      |
-| **12**  | Pace             | Legname           |
-| **13**  | Potere           | Manodopera        |
-| **14**  | Purezza          | Medicina          |
-| **15**  | Ricchezza        | Merci da scambio  |
-| **16**  | Riconoscimento   | Metalli           |
-| **17**  | Ritorno          | Pietra            |
-| **18**  | Sicurezza        | Spezie            |
-| **19**  | Stabilità        | Terre Coltivabili |
-| **20**  | Unificazione     | Tessuti           |
+|         |                   |                   |
+| ------- | ----------------- | ----------------- |
+| **d20** | **Abbondanza**    | **Carenza**       |
+| **1**   | Acqua             | Acqua             |
+| **2**   | Armi              | Armi              |
+| **3**   | Attrezzi          | Attrezzi          |
+| **4**   | Bestiame          | Bestiame          |
+| **5**   | Cavalli           | Cavalli           |
+| **6**   | Cibo              | Cibo              |
+| **7**   | Combustibile      | Combustibile      |
+| **8**   | Conoscenza        | Conoscenza        |
+| **9**   | Erbe              | Erbe              |
+| **10**  | Gemme             | Gemme             |
+| **11**  | Imbarcazioni      | Imbarcazioni      |
+| **12**  | Legname           | Legname           |
+| **13**  | Manodopera        | Manodopera        |
+| **14**  | Medicina          | Medicina          |
+| **15**  | Merci da scambio  | Merci da scambio  |
+| **16**  | Metalli           | Metalli           |
+| **17**  | Pietra            | Pietra            |
+| **18**  | Spezie            | Spezie            |
+| **19**  | Terre Coltivabili | Terre Coltivabili |
+| **20**  | Tessuti           | Tessuti           |
 
 ### Fazioni
 
@@ -106,7 +106,7 @@ Le fazioni possiedono vantaggi che le aiutano a portare avanti la propria agenda
 
 Le fazioni cercano di portare avanti i propri piani in modo indipendente, coinvolgendo i PG solo se ciò può rafforzare la loro posizione. I piani sono definiti da una serie di 3-5 obiettivi che portano verso uno scopo ben preciso. Gli obiettivi sono _progressivi_, e si basano sui successi (o fallimenti) dei passaggi precedenti.
 
-Ogni obiettivo dovrebbe concentrarsi sull’acquisizione di un vantaggio specifico per poter passare al successivo. Almeno uno degli obiettivi dovrebbe affrontare l’ostacolo principale della fazione. Questo può essere il primo passo, oppure l’ultimo. Tutti i piani devono avere almeno un ostacolo che ne impedisce il completamento. Altri ostacoli possono emergere durante le Azioni di fazione (vedi sotto) o in seguito agli sviluppi della fiction.
+Ogni obiettivo dovrebbe concentrarsi sull’acquisizione di un vantaggio specifico per poter passare al successivo. Almeno uno degli obiettivi dovrebbe affrontare l’ostacolo principale della fazione. Questo può essere il primo passo, oppure l’ultimo. Tutti i piani devono avere almeno un ostacolo che ne impedisce il completamento. Altri ostacoli possono emergere durante le Azioni di fazione (vedi sotto) o in seguito all'evolversi del mondo di gioco.
 
 Completare l’agenda di una fazione dovrebbe essere un evento significativo, capace di cambiare radicalmente l’equilibrio politico o naturale della regione.
 
@@ -152,7 +152,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | ------- | -------------- | ------------- |
 | **d20** | **Tratto 1**   | **Tratto 2**  |
 | **1**   | Acuta          | Adattabile    |
-| **2**   | Ben collegata  | Astuta        |
+| **2**   | Ben connessa   | Astuta        |
 | **3**   | Decadente      | Brutale       |
 | **4**   | Disciplinata   | Cinica        |
 | **5**   | Discreta       | Codarda       |
@@ -255,7 +255,7 @@ La _Gilda_ è stata avvertita che un infiltrato ben piazzato si muove tra le sue
 #### Regole per le Fazioni
 
 - Di norma, le fazioni agiscono indipendentemente dalle azioni dei personaggi. Se i PG non intervengono, la fazione continuerà comunque a perseguire i propri obiettivi.
-- Il **Custode** deve affidarsi alla narrativa per stabilire se una fazione è nella posizione giusta per far avanzare la propria agenda.
+- Il **Custode** deve affidarsi alla situazione nel mondo di gioco per stabilire se una fazione è nella posizione giusta per far avanzare la propria agenda.
 - Alcuni obiettivi potrebbero essere legati al tempo o a circostanze specifiche. In altri casi, potrebbe essere più opportuno introdurre un nuovo obiettivo in seguito a eventi importanti, nuove alleanze o conflitti tra fazioni.
 - Ogni volta che una fazione è pronta a far avanzare uno dei suoi obiettivi, tira 1d6 sulla tabella delle [Azioni di Fazione](#azioni-di-fazione).
 - Se due fazioni sono _in contrasto_, quella _più a rischio_ deve effettuare un tiro salvezza su VOL, usando il punteggio del proprio agente più alto in grado. Se fallisce, non può tirare sulla tabella delle Azioni di Fazione in questo momento.
@@ -285,7 +285,7 @@ I **Punti di Riferimento** sono luoghi unici e ben visibili che possono fungere 
 #### Disegnare il Terreno
 
 1. Tira **1d6**, poi tira un numero di dadi pari al risultato ottenuto sulla mappa. Metti da parte quelli che cadono fuori dal foglio.
-2. Annota il risultato visibile su ogni dado e consulta la [Tabella Terreno](#terrain-die-drop-table) per determinare il tipo di terreno. Ad esempio, un dado che mostra 4 indica un Terreno Difficile.
+2. Annota il risultato visibile su ogni dado e consulta la [Tabella Terreno](#tabella-terreno) per determinare il tipo di terreno. Ad esempio, un dado che mostra 4 indica un Terreno Difficile.
 3. Disegna linee curve e irregolari attraverso la pagina, suddividendo la mappa attorno a ciascun dado.
 4. Tira sulla tabella appropriata per ogni risultato, annotando il tipo di terreno e il punto di riferimento corrispondente sulla mappa.
    - Sostituisci il dado con un triangolo e scrivi il punto di riferimento accanto.
@@ -306,29 +306,29 @@ I **Punti di Riferimento** sono luoghi unici e ben visibili che possono fungere 
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
-|         |                 |                          |
-| ------- | --------------- | ------------------------ |
-| **d20** | **Terreno**     | **Punto di Riferimento** |
-| **1**   | Altopiani       | Acquedotto in Rovina     |
-| **2**   | Brughiera       | Albero del Cuore         |
-| **3**   | Colline Alte    | Cancello Titanico        |
-| **4**   | Colline Basse   | Cascata Scintillante     |
-| **5**   | Fossati         | Cerchio di Menhir        |
-| **6**   | Gole            | Colonna Caduta           |
-| **7**   | Paludi Alte     | Foresta Pietrificata     |
-| **8**   | Pampas          | Fossa di Fuoco Freddo    |
-| **9**   | Pascoli         | Grande Ruota d’Acqua     |
-| **10**  | Pianure         | Impronta Enorme          |
-| **11**  | Praterie        | Labirinto Circolare      |
-| **12**  | Radure          | Lago Opaco               |
-| **13**  | Savane          | Meridiana Infranta       |
-| **14**  | Scarpate        | Oasi Illusoria           |
-| **15**  | Steppe          | Ponte Dorato             |
-| **16**  | Steppe Alte     | Scala tra le Nuvole      |
-| **17**  | Terre Basse     | Trono del Gigante        |
-| **18**  | Terre Coltivate | Volto d’Argento          |
-| **19**  | Valli           | Volto di Pietra Gigante  |
-| **20**  | Valloni         | Voragine                 |
+|         |                 |                            |
+| ------- | --------------- | -------------------------- |
+| **d20** | **Terreno**     | **Punto di Riferimento**   |
+| **1**   | Altopiani       | Acquedotto in Rovina       |
+| **2**   | Brughiera       | Albero del Cuore           |
+| **3**   | Colline Alte    | Cancello Titanico          |
+| **4**   | Colline Basse   | Cascata Scintillante       |
+| **5**   | Fossati         | Cerchio di Menhir          |
+| **6**   | Gole            | Colonna Caduta             |
+| **7**   | Paludi Alte     | Foresta Pietrificata       |
+| **8**   | Pampas          | Fossa di Fuoco Freddo      |
+| **9**   | Pascoli         | Grande Ruota Idraulica     |
+| **10**  | Pianure         | Gigantesco Volto di Pietra |
+| **11**  | Praterie        | Impronta Enorme            |
+| **12**  | Radure          | Labirinto Circolare        |
+| **13**  | Savane          | Lago Opaco                 |
+| **14**  | Scarpate        | Meridiana Infranta         |
+| **15**  | Steppe          | Oasi Illusoria             |
+| **16**  | Steppe Alte     | Ponte Dorato               |
+| **17**  | Terre Basse     | Scala tra le Nuvole        |
+| **18**  | Terre Coltivate | Trono del Gigante          |
+| **19**  | Valli           | Volto d’Argento            |
+| **20**  | Valloni         | Voragine                   |
 
 ### Difficile
 
@@ -441,7 +441,7 @@ Per determinare il clima medio di una regione, tira una volta sulla tabella [Cli
 
 ## Punti di Interesse
 
-I Punti di Interesse su una mappa (o PDI) sono generalmente suddivisi nelle seguenti categorie:
+I Punti di Interesse su una mappa (o POI) sono generalmente suddivisi nelle seguenti categorie:
 
 - **Cuore**: L’insediamento principale di una regione. Non è necessariamente il più grande o il più importante, ma dovrebbe sempre essere significativo per la storia e il popolo della regione.
 - **Insediamenti**: Centri abitati permanenti e in gran parte autosufficienti, solitamente governati da una fazione o autorità politica.
@@ -482,7 +482,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **2**   | Avamposto        | Comunità Molto Unita             |
 | **3**   | Bastione         | Conosciuto per la sua Ospitalità |
 | **4**   | Borgo            | Costruito sulle Ossa dei Giganti |
-| **5**   | Carovana         | Costruito sulle Rovine           |
+| **5**   | Carovana         | Costruito su delle Rovine        |
 | **6**   | Città            | Densità Abitativa Elevata        |
 | **7**   | Cittadella       | Diviso                           |
 | **8**   | Complesso        | Emette un Ronzio Misterioso      |
@@ -508,19 +508,19 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | ------- | ----------------- | ------------------------------------------------ |
 | **d20** | **Tappa**         | **Caratteristica**                               |
 | **1**   | Archivio          | Conosciuto per le sue Difese Elaborate           |
-| **2**   | Asilo             | Contiene un Artefatto Potente                    |
-| **3**   | Bacino Idrico     | Copertura per Attività Illegali                  |
-| **4**   | Bazar             | Costruito su Terra Sacra                         |
-| **5**   | Bunker            | Edifici Cadenti                                  |
-| **6**   | Campeggio         | Gli Occupanti Sono Eccessivamente Formali        |
-| **7**   | Campo di Lavoro   | Gli Occupanti Sono Estremamente Ligii alla Legge |
-| **8**   | Capanna           | Gli Stranieri Non Possono Portare Armi           |
+| **2**   | Bacino Idrico     | Contiene un Artefatto Potente                    |
+| **3**   | Bazar             | Copertura per Attività Illegali                  |
+| **4**   | Bunker            | Costruito su Terra Sacra                         |
+| **5**   | Campeggio         | Edifici Cadenti                                  |
+| **6**   | Campo di Lavoro   | Gli Occupanti Sono Eccessivamente Formali        |
+| **7**   | Capanna           | Gli Occupanti Sono Estremamente Ligii alla Legge |
+| **8**   | Capanno di Caccia | Gli Stranieri Non Possono Portare Armi           |
 | **9**   | Emporio           | Gli Stranieri Sono Vietati                       |
 | **10**  | Gilda             | Maledetto dai Precedenti Occupanti               |
 | **11**  | Locanda           | Non Compare su Nessuna Mappa                     |
 | **12**  | Ospizio           | Occupanti Diffidenti                             |
 | **13**  | Osservatorio      | Occupanti Schivi                                 |
-| **14**  | Rifugio di Caccia | Ospita un Artigiano Rinomato                     |
+| **14**  | Rifugio           | Ospita un Artigiano Rinomato                     |
 | **15**  | Sanatorio         | Parte di una Rotta Commerciale Illegale          |
 | **16**  | Santuario         | Popolare Destinazione di Pellegrinaggio          |
 | **17**  | Santuario Minore  | Protegge un Oggetto Potente                      |
@@ -570,9 +570,9 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **5**   | Ceppo Enorme          | Cartelli Affissi        |
 | **6**   | Cimitero Dimenticato  | Cumuli di Ossa          |
 | **7**   | Città in Rovina       | Entità Simbiotica       |
-| **8**   | Costrutto Arrugginito | Fossa di Rifiuti        |
-| **9**   | Fortezza in Rovina    | Graffiti Religiosi      |
-| **10**  | Giardino Incolto      | Ingresso Truccato       |
+| **8**   | Costrutto Arrugginito | Esca all'ingresso       |
+| **9**   | Fortezza in Rovina    | Fossa di Rifiuti        |
+| **10**  | Giardino Incolto      | Graffiti Religiosi      |
 | **11**  | Grotta Sommersa       | Ingresso Vietato        |
 | **12**  | Menhir Primordiali    | Macchinari Insoliti     |
 | **13**  | Miniera Crollata      | Precedentemente Abitato |
@@ -594,13 +594,13 @@ Tira 1d10 per ciascuna colonna e combina i risultati.
 | **d20** | **Tipo**           | **Caratteristica**       |
 | **1**   | Avamposto          | Abbandonato              |
 | **2**   | Bastione           | Allagato                 |
-| **3**   | Luogo di Sepoltura | Bruciato                 |
-| **4**   | Cantina            | Cristallino              |
-| **5**   | Caverna            | Crollato                 |
-| **6**   | Città in Rovina    | Distorto                 |
-| **7**   | Cripta             | Fatiscente               |
-| **8**   | Fortezza           | Fluttuante               |
-| **9**   | Laboratorio        | Fungino                  |
+| **3**   | Cantina            | Bruciato                 |
+| **4**   | Caverna            | Cristallino              |
+| **5**   | Città in Rovina    | Crollato                 |
+| **6**   | Cripta             | Distorto                 |
+| **7**   | Fortezza           | Fatiscente               |
+| **8**   | Laboratorio        | Fluttuante               |
+| **9**   | Luogo di Sepoltura | Fungino                  |
 | **10**  | Miniera            | Invertito                |
 | **11**  | Officina           | Isolato                  |
 | **12**  | Palazzo            | Meccanico                |
@@ -637,7 +637,7 @@ Disegnare i Sentieri
 - Decidi se un sentiero rappresenta una strada, un sentiero o un percorso selvaggio, e annotalo.
 - Tira sulla tabella [Caratteristiche dei Sentieri](#caratteristiche-dei-sentieri) per ogni sentiero e annota i risultati.
 - Determina la distanza tra i PDI e annota la durata sulla mappa:
-  - Un Turno (Watch) equivale a 8 ore di viaggio. Indica i giorni tra PDI ove possibile (tipicamente due Turni e un riposo per giorno).
+  - Una Guardia equivale a 8 ore di viaggio. Indica i giorni tra PDI ove possibile (tipicamente due Turni e un riposo per giorno).
   - Una distanza corta tra PDI prende 1 Turno, una media prende 2 Turni, una lunga ne prende 3.
   - Per i Sentieri, aggiungi 1 Turno. Per i Percorsi Selvaggi, aggiungi 2 Turni.
 
@@ -657,9 +657,9 @@ Tira 1d20 per ciascuna colonna e unisci i risultati
 | **7**   | Costruzione Recente      | Fa Molto Freddo                |
 | **8**   | Impronte di Bestiame     | Frutti Velenosi                |
 | **9**   | Impronte Ovunque         | Inondazioni Frequenti          |
-| **10**  | Pattuglie Costanti       | Mandrie in Fuga Occasionali    |
-| **11**  | Pellegrini Frequenti     | Nebbia Fitta Serale            |
-| **12**  | Pietre Miglia            | Passa su delle Rapide          |
+| **10**  | Pattuglie Costanti       | Nebbia Fitta la Sera           |
+| **11**  | Pellegrini Frequenti     | Occasionali Mandrie in Fuga    |
+| **12**  | Pietre Miliari           | Passa su delle Rapide          |
 | **13**  | Ricoperto di Vegetazione | Pedaggio Costoso               |
 | **14**  | Ritirato                 | Pieno di Fumo                  |
 | **15**  | Rosso Sangue             | Ponte Crollato                 |
@@ -686,4 +686,4 @@ Per esempio, poniamo che i risultati descrivano un popolo religioso con l’ambi
 
 Supponiamo invece che una fazione sia composta da nomadi, e che la loro risorsa principale sia la convinzione. Potresti dedurre che la loro élite è formata da capi religiosi. Se l’agenda della fazione fosse coltivare una risorsa rara, ma fossero ostacolati da tabù culturali, potresti decidere che abbiano ingaggiato il party per occuparsene al posto loro. Forse l’oggetto della missione è una pianta unica, che cresce solo in un luogo remoto, e che la missione debba restare segreta.
 
-Infine, il party incontrerebbe uno degli agenti della fazione: una spia che si finge venditrice ambulante. Solo lei conosce il luogo in cui cresce la pianta e come coltivarla. È probabile che questo PNG si trovi in un luogo importante, come il **Cuore** della regione.
+Infine, il party potrebbe incontrare uno degli agenti della fazione: una spia che si finge venditrice ambulante. Solo lei conosce il luogo in cui cresce la pianta e come coltivarla. È probabile che questo PNG si trovi in un luogo importante, come il **Cuore** della regione.

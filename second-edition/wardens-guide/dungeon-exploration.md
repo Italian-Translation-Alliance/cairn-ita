@@ -15,7 +15,7 @@ grand_parent: Seconda Edizione
 - Non dire ai personaggi come dovrebbero sentirsi, e racconta solo ciò che sta succedendo _adesso_, davanti ai loro occhi.
 - Dai indizi su cosa si trova oltre il prossimo corridoio: odori, suoni, dislivelli.
 - Assicurati che i giocatori sappiano sempre _a che punto sono nel Ciclo del Dungeon_: chi ha già agito, chi deve ancora fare qualcosa, ecc.
-- Il prezzo dell’esplorazione si paga a turni. Se il party si trattiene troppo a lungo in un luogo, agisce senza cautela, fa rumore o entra in una nuova zona, rischia un tiro sulla tabella degli Eventi del Dungeon. I giocatori devono sempre sapere quando stanno “spendendo” un turno.
+- Il prezzo dell’esplorazione si paga in turni. Se il party si trattiene troppo a lungo in un luogo, agisce senza cautela, fa rumore o entra in una nuova zona, rischia un tiro sulla tabella degli Eventi del Dungeon. I giocatori devono sempre sapere quando stanno “spendendo” un turno.
 
 ## Esempio di Esplorazione di un Dungeon
 

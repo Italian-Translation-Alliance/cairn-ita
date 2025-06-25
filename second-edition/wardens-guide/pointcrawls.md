@@ -9,7 +9,7 @@ grand_parent: Seconda Edizione
 
 I *pointcrawl* sono un modo per rappresentare i potenziali punti di interesse su una mappa, inclusi i loro ingressi, le loro uscite e i sentieri che li collegano. A differenza degli *hexcrawl*, che prevedono percorsi omnidirezionali per definizione, i pointcrawl offrono un numero definito di percorsi mirati tra le località. Questo approccio astrae alcuni degli elementi comuni all’esplorazione della natura selvaggia, mantenendo però gli aspetti più interessanti.
 
-Sebbene le procedure standard di generazione dell’ambientazione in questo manuale assumano un pointcrawl come predefinito, la maggior parte delle avventure old school non lo fa. Alcune sono mappe esagonali con lunghezze variabili, mentre altre indicano semplicemente le distanze in chilometri. Fortunatamente, è piuttosto semplice convertire quasi qualsiasi mappa in un pointcrawl.
+Sebbene le procedure standard di generazione dell’ambientazione in questo manuale diano per scontato di parlare di un pointcrawl, la maggior parte delle avventure old school non lo fa. Alcune usano mappe esagonali con esagoni di varie dimensioni, mentre altre indicano semplicemente le distanze in chilometri. Fortunatamente, è piuttosto semplice convertire quasi qualsiasi mappa in un pointcrawl.
 
 ## Conversione di una Mappa
 
@@ -36,7 +36,7 @@ I tempi di viaggio tra i vari punti sono stati determinati come segue (assumendo
 - Il viaggio tra i punti **2** e **4** dura 3 Turni di Guardia:
   - Aggiungi due turni per la distanza del percorso _media_.
   - Nessuna penalità per il viaggio su _strada_ mantenuta.
-  - Aggiungi un turno per il terreno _difficile_ forestale.
+  - Aggiungi un turno per il terreno _difficile_ della foresta.
 
 - Il viaggio tra i punti **4** e **5** dura 4 Turni di Guardia:
   - Aggiungi un turno per la distanza del percorso _breve_.
@@ -51,7 +51,7 @@ I tempi di viaggio tra i vari punti sono stati determinati come segue (assumendo
 - Il viaggio verso il punto **7**, da qualsiasi altro punto, richiede almeno 5 Turni di Guardia:
   - Aggiungi due turni per la distanza del percorso _media_.
   - Aggiungi due turni per il viaggio attraverso la _natura selvaggia_.
-  - Aggiungi un turno per il terreno _difficile_ forestale.
+  - Aggiungi un turno per il terreno _difficile_ della foresta.
 
 
 [![Cliccami!]({{ site.baseurl }}/img/2e/pointcrawl-example-map.png "Clicca per allargare"){:height="60%" width="60%"}]({{ site.baseurl }}/img/2e/pointcrawl-example-map.png)

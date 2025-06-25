@@ -1,11 +1,11 @@
 ---
-title: Generazione Foreste
+title: Generare le Foreste
 layout: default
 parent: Guida del Custode
 grand_parent: Seconda Edizione
 ---
 
-# Generazione Foreste
+# Generare le Foreste
 
 ## Forestcrawl
 
@@ -15,12 +15,12 @@ Un *forestcrawl* è un metodo semplice per esplorare una grande area boschiva, s
 
 - Segui le stesse regole di esplorazione dei _Dungeon_ presenti nella Guida del Giocatore, ma al posto della tabella degli Eventi del Dungeon usa quella degli **Eventi della Natura Selvaggia**.
 - Se il party decide di uscire dal sentiero e farsi strada nel bosco, il Custode dovrebbe chiarire subito i costi: tempo extra, fatica, attrezzi speciali eventualmente necessari e pericoli evidenti. Tagliare per il bosco attiva automaticamente un tiro sulla tabella degli Eventi della Natura Selvaggia.
-- I punti di un *forestcrawl* sono vicini tra loro. Se si seguono sentieri ben segnati, una piccola foresta (10-15 POI) può essere esplorata in un singolo Turno di Guardia.
+- I punti di un *forestcrawl* sono vicini tra loro. Se si seguono sentieri ben segnati, una piccola foresta (10-15 POI) può essere esplorata in una singola Guardia.
 - Affidati alla fiction e al buon senso per determinare quanta luce solare resta, se c’è un’area adatta al riposo, e quali rischi o difficoltà presenta il bosco al calare del buio.
 
 ## Creare una Foresta
 
-Segui questa procedura per generare qualsiasi zona boscosa in una regione. Se emergono contrasti o spunti interessanti, sentiti libero di rivedere o modificare i risultati ottenuti in precedenza!
+Segui questa procedura per generare qualsiasi zona boscosa in una regione. Se emergono conflitti o pattern interessanti, sentiti libero di rivedere o modificare i risultati ottenuti in precedenza!
 
 ### Materiali Necessari
 
@@ -78,37 +78,37 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 In un certo senso, il Bosco è un’entità viva e unica, con un cervello distribuito in ogni albero e pianta, connesso da una rete di spine e rami. Gli animali e le piante sono i suoi arti, guidati dai suoi desideri, paure e bisogni. Le creature che abitano al suo interno sono il suo sangue, e rispondono al suo richiamo proteggendolo dagli intrusi. Il Bosco proteggerà sempre se stesso e i suoi figli.
 
-Tira sulle tabelle dei [Tratti](#tratti) e degli [Obbiettivi della Foresta](#obbiettivi-della-foresta), e annota i risultati sul tuo quaderno. Questi risultati definiscono l’atteggiamento generale delle creature che popolano la foresta, oltre a ciò che la foresta _desidera_ nel suo insieme.
+Tira sulle tabelle dei [Tratti](#tratti) e degli [Obiettivi della Foresta](#obbiettivi-della-foresta), e annota i risultati sul tuo quaderno. Questi risultati definiscono l’atteggiamento generale delle creature che popolano la foresta, oltre a ciò che la foresta _desidera_ nel suo insieme.
 
 ### Tratti
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Virtù**     | **Virtù**     |
-| **1**   | Acuta         | Acuta         |
-| **2**   | Adattabile    | Adattabile    |
-| **3**   | Aggraziata    | Aggraziata    |
-| **4**   | Armoniosa     | Armoniosa     |
-| **5**   | Astuta        | Astuta        |
-| **6**   | Coltivatrice  | Coltivatrice  |
-| **7**   | Coraggiosa    | Coraggiosa    |
-| **8**   | Empatica      | Empatica      |
-| **9**   | Equilibrata   | Equilibrata   |
-| **10**  | Fiduciosa     | Fiduciosa     |
-| **11**  | Indipendente  | Indipendente  |
-| **12**  | Nutriente     | Nutriente     |
-| **13**  | Osservatrice  | Osservatrice  |
-| **14**  | Purificatrice | Purificatrice |
-| **15**  | Resistente    | Resistente    |
-| **16**  | Risoluta      | Risoluta      |
-| **17**  | Robusta       | Robusta       |
-| **18**  | Saggia        | Saggia        |
-| **19**  | Sapiente      | Sapiente      |
-| **20**  | Stabile       | Stabile       |
+|         |               |                |
+| ------- | ------------- | -------------- |
+| **d20** | **Virtù**     | **Vizi**       |
+| **1**   | Acuta         | Aggressiva     |
+| **2**   | Adattabile    | Altezzosa      |
+| **3**   | Aggraziata    | Avida          |
+| **4**   | Armoniosa     | Disinteressata |
+| **5**   | Astuta        | Dominante      |
+| **6**   | Coltivatrice  | Dubbiosa       |
+| **7**   | Coraggiosa    | Egoista        |
+| **8**   | Empatica      | Fervente       |
+| **9**   | Equilibrata   | Giudicante     |
+| **10**  | Fiduciosa     | Indifferente   |
+| **11**  | Indipendente  | Infestante     |
+| **12**  | Nutriente     | Ingenua        |
+| **13**  | Osservatrice  | Inquinante     |
+| **14**  | Purificatrice | Oscurante      |
+| **15**  | Resistente    | Parassitica    |
+| **16**  | Risoluta      | Passiva        |
+| **17**  | Robusta       | Predatoria     |
+| **18**  | Saggia        | Rigida         |
+| **19**  | Sapiente      | Sbadata        |
+| **20**  | Stabile       | Territoriale   |
 
-#### Obbiettivi della Foresta
+#### Obiettivi della Foresta
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
@@ -140,10 +140,10 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 ### Creare i PDI
 
-- Lancia **da 8 a 12 dadi da 6** sulla mappa della foresta, ignorando quelli che escono dal foglio. Questi rappresentano i Punti di Interesse (POI) della foresta.
+- Lancia **da 8 a 12 dadi da 6** sulla mappa della foresta, ignorando quelli che escono dal foglio. Questi rappresentano i Punti di Interesse (PDI) della foresta.
 - Scrivi sul foglio il risultato di ciascun dado usando la [Tabella di Lancio per la Foresta](#tabella-di-lancio-per-la-foresta). Ad esempio, un **4** indica un **Rifugio**, che puoi segnare con la lettera "R".
 - Scegli due punti opposti, preferibilmente vicini ai bordi del foglio: saranno l’ingresso e l’uscita della foresta.
-- Partendo dall’ingresso e arrivando all’uscita, numera ciascun POI sulla mappa.
+- Partendo dall’ingresso e arrivando all’uscita, numera ciascun PDI sulla mappa.
 - Tira sulle tabelle appropriate per ogni punto e annota i risultati nel tuo quaderno.
 - Filtra ogni risultato attraverso le tabelle che hai già generato in precedenza (descrizione della foresta, spirito, agenda…).
 
@@ -181,29 +181,29 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
-|         |                          |                          |
-| ------- | ------------------------ | ------------------------ |
-| **d20** | **Tipo di Sentiero**     | **Segnalazione**         |
-| **1**   | Alveo Secco              | Alberi graffiati da orsi |
-| **2**   | Bosco Ritirato           | Alberi piegati           |
-| **3**   | Cime Alberate            | Campanelli ovattati      |
-| **4**   | Marcia del Re            | Canti lontani            |
-| **5**   | Passaggio dei Banditi    | Escrementi di coniglio   |
-| **6**   | Passaggio dei Cervi      | Figure ai margini        |
-| **7**   | Passaggio Fatato         | Fumo                     |
-| **8**   | Pista del Cacciatore     | Funghi fosforescenti     |
-| **9**   | Rota di Guerra           | Graffi di artigli        |
-| **10**  | Sentiero Animale         | Immobilità               |
-| **11**  | Sentiero degli Alberi    | Impronte di volpe        |
-| **12**  | Sentiero del Frutteto    | Incisioni sugli alberi   |
-| **13**  | Sentiero del Pellegrino  | Mucchi di pietre         |
-| **14**  | Sentiero della Resina    | Orme di cervo            |
-| **15**  | Sentiero di Fattoria     | Piante ondeggianti       |
-| **16**  | Sentiero Sporoso         | Piume giganti            |
-| **17**  | Sentiero tra Massi       | Ragnatele fresche        |
-| **18**  | Strada del Mercante      | Risatine leggere         |
-| **19**  | Traccia da Foraggiamento | Tracce di serpente       |
-| **20**  | Vecchia Strada da Taglio | Vegetazione danneggiata  |
+|         |                                       |                          |
+| ------- | ------------------------------------- | ------------------------ |
+| **d20** | **Tipo di Sentiero**                  | **Tracce**               |
+| **1**   | Alveo Secco                           | Alberi graffiati da orsi |
+| **2**   | Alberi Guida Rialzati                 | Alberi piegati           |
+| **3**   | Bosco Ritirato                        | Campanelli ovattati      |
+| **4**   | Cammino del Pellegrino                | Canti lontani            |
+| **5**   | Marcia del Re                         | Escrementi di coniglio   |
+| **6**   | Passaggio Fatato                      | Figure ai margini        |
+| **7**   | Percorso dei Banditi                  | Fumo                     |
+| **8**   | Pista dei Cervi                       | Funghi fosforescenti     |
+| **9**   | Pista del Cacciatore                  | Graffi di artigli        |
+| **10**  | Rotta di Guerra                       | Immobilità               |
+| **11**  | Sentiero Animale                      | Impronte di volpe        |
+| **12**  | Sentiero Bordato con Alberi da Frutto | Incisioni sugli alberi   |
+| **13**  | sentiero Indicato dagli Alberi        | Mucchi di pietre         |
+| **14**  | Sentiero di Campagna                  | Orme di cervo            |
+| **15**  | Sentiero di Resina Appiccicosa        | Piante ondeggianti       |
+| **16**  | Sentiero Saturo di Spore              | Piume giganti            |
+| **17**  | Sentiero tra Massi                    | Ragnatele fresche        |
+| **18**  | Strada del Mercante                   | Risatine leggere         |
+| **19**  | Traccia da Foraggiamento              | Tracce di serpente       |
+| **20**  | Vecchia Strada del Taglialegna        | Vegetazione danneggiata  |
 
 > Se alcuni risultati sembrano strani o fuori contesto, va bene! Usa queste combinazioni inaspettate come spunto per nuove domande, tipo: “Perché _c'è_ una vecchia strada da taglio che porta al covo dei banditi?” Detto questo, se fai fatica a far funzionare un risultato, sentiti libero di sceglierne uno più adatto!
 
@@ -214,29 +214,29 @@ _Persino le persone possono essere mostri._
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
-|         |                   |                          |
-| ------- | ----------------- | ------------------------ |
-| **d20** | **Mostro**        | **Attività**             |
-| **1**   | Api Assassine     | È a caccia               |
-| **2**   | Bandito           | È intrappolato           |
-| **3**   | Cane Lampeggiante | È nascosto               |
-| **4**   | Centauro          | Sta accoppiandosi        |
-| **5**   | Cervo di Sangue   | Sta braccando            |
-| **6**   | Drago Verde       | Sta cercando cibo        |
-| **7**   | Driade            | Sta combattendo          |
-| **8**   | Ent               | Sta distruggendo         |
-| **9**   | Ettin             | Sta divorando            |
-| **10**  | Folletto          | Sta esplorando           |
-| **11**  | Fuoco Fatuo       | Sta facendo la guardia   |
-| **12**  | Gargoyle          | Sta morendo              |
-| **13**  | Gatto Notturno    | Sta pattugliando         |
-| **14**  | Lupo              | Sta perlustrando         |
-| **15**  | Naga              | Sta piangendo            |
-| **16**  | Orso Grizzly      | Sta recuperando le forze |
-| **17**  | Orsogufo          | Sta scavando             |
-| **18**  | Scheletro         | Sta seppellendo          |
-| **19**  | Troll dei Boschi  | Sta torturando           |
-| **20**  | Unicorno          | Sta uccidendo            |
+|         |                   |                     |
+| ------- | ----------------- | ------------------- |
+| **d20** | **Mostro**        | **Attività**        |
+| **1**   | Api Assassine     | Accoppiarsi         |
+| **2**   | Bandito           | Braccare            |
+| **3**   | Cane Lampeggiante | Cacciare            |
+| **4**   | Centauro          | Cercare cibo        |
+| **5**   | Cervo di Sangue   | Combattere          |
+| **6**   | Drago Verde       | Distruggere         |
+| **7**   | Driade            | Divorare            |
+| **8**   | Ent               | È intrappolato      |
+| **9**   | Ettin             | Esplorare           |
+| **10**  | Folletto          | Fare la guardia     |
+| **11**  | Fuoco Fatuo       | Morire              |
+| **12**  | Gargoyle          | Nascondersi         |
+| **13**  | Gatto Notturno    | Pattugliare         |
+| **14**  | Lupo              | Perlustrare         |
+| **15**  | Naga              | Piangere            |
+| **16**  | Orso Grizzly      | Recuperare le forze |
+| **17**  | Orsogufo          | Scavare             |
+| **18**  | Scheletro         | Seppellire          |
+| **19**  | Troll dei Boschi  | Torturare           |
+| **20**  | Unicorno          | Uccidere            |
 
 #### Rovine
 
@@ -259,12 +259,12 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **10**  | Monastero Allagato         | Soldatini Realistici                         |
 | **11**  | Mulino Marcio              | Sussurri Inudibili da Ogni Direzione         |
 | **12**  | Obelisco Scheggiato        | Terreno Protetto da Sigilli                  |
-| **13**  | Officina all’Aperto        | Un Concerto Fantasma e Silenzioso            |
-| **14**  | Padiglione Intrappolato    | Un Minuscolo Villaggio in Rovina             |
+| **13**  | Officina Scoperchiata      | Un Concerto Fantasma e Silenzioso            |
+| **14**  | Padiglione Coperto d'Edera | Un Minuscolo Villaggio in Rovina             |
 | **15**  | Ponte Infranto             | Una Strega in cerca di ingredienti           |
 | **16**  | Santuario Dimenticato      | Uno Specchio di Se Stesso                    |
 | **17**  | Statua Rovesciata          | Uno Spirito del Bosco, pronto a morire       |
-| **18**  | Tenuta Invasata            | Uno Sprite Egocentrico                       |
+| **18**  | Tenuta Invasa dalle Piante | Uno Sprite Egocentrico                       |
 | **19**  | Torre di Guardia in Rovina | Uomini Incappucciati che Compiono un Rituale |
 | **20**  | Villa Abbandonata          | Visioni del Passato                          |
 
@@ -275,29 +275,29 @@ Nonostante la natura selvaggia e imprevedibile del Bosco, c’è sempre stato ch
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
-|         |                         |                                       |
-| ------- | ----------------------- | ------------------------------------- |
-| **d20** | **Rifugio**             | **Caratteristica**                    |
-| **1**   | Albero Cavo             | Abbandonato, per ora                  |
-| **2**   | Area di Disboscamento   | Abitata da un’Entità Sovrannaturale   |
-| **3**   | Avamposto del Ranger    | Attira Bestie Selvatiche              |
-| **4**   | Baita del Cacciatore    | Caccia Vietata                        |
-| **5**   | Capanna con le Gambe    | Campo di Ladri                        |
-| **6**   | Capanna dell’Eremita    | Cavaliere del Bosco Lancia una Sfida  |
-| **7**   | Capanna Fumosa          | Costruito dentro un Albero Gigante    |
-| **8**   | Capanno da Pesca        | Costruito in sfida alle tradizioni    |
-| **9**   | Grotta nella Collina    | Frequentato da Contrabbandieri        |
-| **10**  | Mercato Notturno        | Infestata da Fantasmi Infastiditi     |
-| **11**  | Mulino a Vento Sdrucito | Invaso da Cultisti                    |
-| **12**  | Pozza Muschiosa         | Locale di Cena per i Popolani Pallidi |
-| **13**  | Rifugio di Banditi      | Nasconde un Artefatto Potente         |
-| **14**  | Riparo di Fortuna       | Occupata da Disertori dell’Esercito   |
-| **15**  | Ritiro Monastico        | Presenta un Pasto Pronto              |
-| **16**  | Rovine Dimenticate      | Protetto da Animali Addestrati        |
-| **17**  | Stalla dei Pallidi      | Protetto da uno Spirito Giocherellone |
-| **18**  | Torre del Falconiere    | Scena di un Antico Omicidio           |
-| **19**  | Torre Ricoperta d’Edera | Terreno di Caccia dei Porcellani      |
-| **20**  | Villaggio Nascosto      | Vegetazione Parassitaria              |
+|         |                            |                                       |
+| ------- | -------------------------- | ------------------------------------- |
+| **d20** | **Rifugio**                | **Caratteristica**                    |
+| **1**   | Albero Cavo                | Abbandonato, per ora                  |
+| **2**   | Area di Disboscamento      | Abitata da un’Entità Sovrannaturale   |
+| **3**   | Avamposto dei Guardaboschi | Attira Bestie Selvatiche              |
+| **4**   | Baita del Cacciatore       | Caccia Vietata                        |
+| **5**   | Capanna con le Gambe       | Campo di Ladri                        |
+| **6**   | Capanna dell’Eremita       | Cavaliere del Bosco Lancia una Sfida  |
+| **7**   | Capanna Fumosa             | Costruito dentro un Albero Gigante    |
+| **8**   | Capanno da Pesca           | Costruito in sfida alle tradizioni    |
+| **9**   | Grotta nella Collina       | Frequentato da Contrabbandieri        |
+| **10**  | Mercato Notturno           | Infestata da Fantasmi Infastiditi     |
+| **11**  | Mulino a Vento Sdrucito    | Invaso da Cultisti                    |
+| **12**  | Pozza Muschiosa            | Locale di Cena della Gente Pallida    |
+| **13**  | Rifugio di Banditi         | Nasconde un Artefatto Potente         |
+| **14**  | Riparo di Fortuna          | Occupata da Disertori dell’Esercito   |
+| **15**  | Ritiro Monastico           | Presenta un Pasto Pronto              |
+| **16**  | Rovine Dimenticate         | Protetto da Animali Addestrati        |
+| **17**  | Stalla della Gente Pallida | Protetto da uno Spirito Giocherellone |
+| **18**  | Torre del Falconiere       | Scena di un Antico Omicidio           |
+| **19**  | Torre Ricoperta d’Edera    | Terreno di Caccia degli Uomini Maiale |
+| **20**  | Villaggio Nascosto         | Vegetazione Parassitaria              |
 
 #### Pericoli
 
@@ -316,7 +316,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **6**   | Nebbia Psichica       | Creatura Ferita                     |
 | **7**   | Nido di Ragni Giganti | Fantasmi Intrappolati nei Cristalli |
 | **8**   | Ombre della Palude    | Fuochi Fatui che si Radunano        |
-| **9**   | Ortiche Urenti        | Ladri di Memoria                    |
+| **9**   | Ortiche Dolorose      | Ladri di Memoria                    |
 | **10**  | Piante Velenose       | Morti Vigilanti                     |
 | **11**  | Rovi Spinosi          | Pietre Urlanti                      |
 | **12**  | Sabbie Mobili Lente   | Ragnatele Invisibili                |
@@ -326,7 +326,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **16**  | Terreno Instabile     | Uccelli Spia                        |
 | **17**  | Trappola di Resina    | Un Basilisco Domestico              |
 | **18**  | Trappola per Animali  | Un Incantesimo Andato Storto        |
-| **19**  | Troll Congelato       | Viti Mimo                           |
+| **19**  | Troll Congelato       | Viticci Mimic                       |
 | **20**  | Tunnel di Rovi        | Zona di Pasto per Roditori Giganti  |
 
 ## Foresta di Esempio
@@ -397,7 +397,7 @@ Ai margini della foresta si trova un **falò** spento, con accanto mucchi di **t
 
 ### 2 – Tomba d’Ambra
 
-**Pericolo**: _Trappola di Resina_, _Fantasma Intrappolato in Cristallo_
+**Pericolo**: _Trappola di Resina_, _Fantasma Intrappolato nel Cristallo_
 
 Un boschetto tondeggiante di **alberi** color vermiglio circonda una grande **pozza** di resina gorgogliante. Al centro della pozza si intravede un **oggetto** appuntito di colore verde.
 
@@ -413,7 +413,7 @@ Un boschetto tondeggiante di **alberi** color vermiglio circonda una grande **po
 
 - Comunica telepaticamente con chi tiene in mano il cristallo.
 - Supplicherà chiunque di distruggere il cristallo. (Basta un bel colpo deciso.)
-- In cambio della libertà, offrirà al party una piuma nera, dicendo loro che con essa potranno entrare nella Capanna di Pollo di Anglwyst al punto **4**.
+- In cambio della libertà, offrirà al party una piuma nera, dicendo loro che con essa potranno entrare nella Capanna-Pollo di Anglwyst al punto **4**.
 
 ### 3 – Capanna di Sweeney
 
@@ -450,7 +450,7 @@ Molto spartana, contiene solo una **branda** e un piccolo **tavolo** da pranzo.
 
 - Un amuleto di legno che raffigura un uomo con barba e corna. Finché ci si trova nella foresta, si può aggiungere una **Fatica** per prendere in prestito i sensi di una creatura vicina. _Minuto_.
 
-### 4 – Capanna di Pollo di Anglwyst
+### 4 – Capanna-Pollo di Anglwyst
 
 **Rifugio**: _Capanna con le Gambe_, _Caccia Vietata_
 
@@ -487,7 +487,7 @@ Un lungo **albero** giace in mezzo a una piccola radura, nel punto in cui due **
 - **Albero**: Enorme e almeno parzialmente cavo. L’ingresso Est è pieno di impronte d’orso.
   - Un’orso Grizzly e i suoi tre cuccioli vivono all’interno. In inverno vanno in letargo, ma negli altri periodi sono svegli. La madre attaccherà chiunque entri (nessun tiro di reazione).
 - **Sentieri**: Foglie spezzate e graffi sugli alberi indicano chiaramente la presenza degli orsi.
-- **Scogliera**: Cerchi di metallo sono fissati nella roccia.
+- **Scogliera**: Cerchi di metallo sono fissati nella rupe.
   - Installati quando il bosco era ancora sfruttato per il legname, ma sono ancora saldi. Perfetti per corde.
 
 #### Orso Grizzly
@@ -587,7 +587,7 @@ Un **capanno** traballante costruito accanto a un piccolo **lago**, a Nord. Del 
 
 - **Capanno**: Costruito con tronchi semplici legati insieme con corde dall’aspetto recente. Fili da pesca si estendono dal lato Nord verso il lago.
 - **Lago**: Calmo, ma pieno di insetti. Un sentiero sul lato Ovest porta fuori dalla foresta.
-  - Il lago non viene pescato da tempo ed è sovrappopolato. Pescare qui è facilissimo.
+  -  Da tempo, nessuno pesca nel lago, che ora è sovrappopolato. Pescare qui è facilissimo.
 - **Fumo**: Esce da una griglia di legno accanto a una pila di pesce fritto (4 x Razioni, 3 usi ciascuna).
 - **Voci**: Risate e parole smorzate. Si sentono almeno due voci all’interno.
   - All’interno si nascondono tre ex soldati disertori. Sono pacifisti costretti con la forza a servire nell’esercito. Cercano rifugio nell’abbazia al punto **7**, ma non ci sono ancora arrivati. Sono allegri e di buon cuore, ma assolutamente codardi.

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Generazione Dungeon
+title: Generare il Dungeon
 parent: Guida del Custode
 grand_parent: Seconda Edizione
 ---
 
-# Generazione Dungeon
+# Generare il Dungeon
 
 ## Principi dei Dungeon
 
 - **Scopo**: Considera quale fosse lo scopo originale del dungeon, e come viene utilizzato oggi. Mostra la storia del dungeon includendo segni degli antichi abitanti e dei loro obiettivi. A volte un dungeon ha più di uno scopo, e questi possono entrare in conflitto, creando tensione tra gli occupanti.
 - **Livelli**: Anche se devono avere senso dal punto di vista architettonico e narrativo, i livelli dovrebbero rappresentare un pericolo crescente. In ogni livello, spingi i giocatori a valutare il rischio di esplorare più a fondo rispetto alla possibilità di ottenere una ricompensa.
-- **Struttura**: Crea più ingressi e uscite, offri percorsi alternativi, punti di strozzatura e nascondigli. Aggiungi informazioni evidenti e significative agli ingressi e alle uscite delle stanze.
+- **Struttura**: Crea più ingressi e uscite, offri percorsi alternativi, progetta strettoie e fornisci nascondigli. Aggiungi informazioni evidenti e significative agli ingressi e alle uscite delle stanze.
 - **Verticalità**: Inserisci stanze alte, strutture scalabili e percorsi che permettano di aggirare o superare ostacoli.
 - **Aree Segrete**: Includi zone nascoste, almeno una delle quali probabilmente non verrà scoperta, ma che valga comunque la pena trovare. Evita di nascondere informazioni cruciali dietro stanze segrete.
 - **Stanze**: Varia forme, dimensioni e funzioni. Usa motivi architettonici ricorrenti per collegare le stanze e suggerire ciò che verrà. Le descrizioni delle stanze dovrebbero essere facili da immaginare e ricordare.
@@ -43,7 +43,7 @@ Segui questa procedura per ogni Punto di Interesse (PDI) di tipo dungeon nella t
 2. Definisci i PNG e le fazioni del dungeon, inclusi i loro tratti e obiettivi unici.
 3. Definisci il tema del dungeon.
 4. Crea la mappa.
-5. Riempie le stanze del dungeon.
+5. Riempi le stanze del dungeon.
 
 ### Storia
 
@@ -158,9 +158,9 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **1**   | Affascinante    | Avido                  |
 | **2**   | Autosufficiente | Cinico                 |
 | **3**   | Compassionevole | Critico                |
-| **4**   | Coraggioso      | Dimentico              |
-| **5**   | Creativo        | Dispersivo             |
-| **6**   | Deduco          | Distaccato             |
+| **4**   | Coraggioso      | Dispersivo             |
+| **5**   | Creativo        | Distaccato             |
+| **6**   | Deduco          | Distratto              |
 | **7**   | Educato         | Egoista                |
 | **8**   | Erudito         | Impulsivo              |
 | **9**   | Incorruttibile  | Inflessibile           |
@@ -220,13 +220,13 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 #### Tabella di Lancio del Dado per il Dungeon
 
-|         |               |
-| ------- | ------------- |
-| **d6**  | **Stanza**    |
-| **1**   | Mostro        |
-| **2-3** | Lore/Contesto |
-| **4**   | Speciale      |
-| **5-6** | Trappola      |
+|         |                     |
+| ------- | ------------------- |
+| **d6**  | **Stanza**          |
+| **1**   | Mostro              |
+| **2-3** | Conoscenza/Contesto |
+| **4**   | Speciale            |
+| **5-6** | Trappola            |
 
 ## Disegna i Percorsi
 
@@ -277,9 +277,9 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Vegetale     | Torturare    |
 | **20**  | Volatile     | Uccidere     |
 
-#### Lore
+#### Conoscenza
 
-Le stanze dedicate alla Lore dovrebbero approfondire il tema del dungeon, offrire un insegnamento prezioso o mettere i personaggi in contatto con un PNG o una fazione. Potrebbero presentare un dilemma che unisce il party o lo mette in conflitto con la sua missione. Al minimo, queste stanze fungono da curiosità, aggiungendo qualcosa di memorabile all’esperienza al di là di pericoli o enigmi. Naturalmente, i personaggi non dovrebbero sapere in anticipo che queste stanze non contengono pericoli: ciò contribuisce alla tensione nel dungeon, pur offrendo un momento di tregua e sviluppo narrativo.
+Le stanze dedicate alla Conoscenza dovrebbero approfondire il tema del dungeon, offrire un insegnamento prezioso o mettere i personaggi in contatto con un PNG o una fazione. Potrebbero presentare un dilemma che unisce il party o lo mette in conflitto con la sua missione. Come minimo, queste stanze fungono da curiosità, aggiungendo qualcosa di memorabile all’esperienza al di là di pericoli o enigmi. Naturalmente, i personaggi non dovrebbero sapere in anticipo che queste stanze non contengono pericoli: ciò contribuisce alla tensione nel dungeon, pur offrendo un momento di tregua e sviluppo narrativo.
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
@@ -430,7 +430,7 @@ _Nascosta in profondità nel dungeon si trova una Reliquia chiamata **Tramutaleg
 
 #### Caratteristiche Generali
 
-- **Luce**: Applique da muro sono incassate nelle pareti di ogni stanza. Nessuna è accesa.
+- **Luce**: Portacandele da muro sono incassati nelle pareti di ogni stanza. Nessuna è accesa.
 - **Odore**: Umidità, terra e un leggero sentore di zolfo.
 - **Rumore**: Urla lontane, accompagnate da occasionali boati e scricchiolii.
 - **Struttura**: Pareti e pavimento sono fatti di legno pietrificato bianco.
@@ -522,7 +522,7 @@ Scaffali carichi avvolgono ogni centimetro delle pareti, i loro ripiani **impolv
 - **Movimento**: Soldati incappucciati in combattimento corpo a corpo con nemici invisibili.
   - Ci sono sempre almeno 3 membri di una delle due fazioni impegnati in schermaglie qui. Attaccheranno qualsiasi figura cerchi di attraversare la stanza, ma sono facilmente confusi dal fumo.
   - A causa del fumo, tutti gli attacchi in questa stanza sono _compromessi_.
-- **Pavimento**: Si è staccato al momento della spaccatura del tempio. Insieme al fumo, rende la navigazione estremamente difficile.
+- **Pavimento**: Si è diviso al momento della spaccatura del tempio. Insieme al fumo, rende la navigazione estremamente difficile.
 
 #### Cultista Druido
 
@@ -549,7 +549,7 @@ Il pavimento è pesantemente danneggiato, suddiviso in **piastrelle** rialzate d
 
 - **Piastrelle**: Un labirinto di frammenti spezzati. L’uscita Ovest è completamente nascosta.
 - **Fori**: Scavati da un **Orrore Sotterraneo**.
-  - Se il party ignora il soffitto, la creatura attacca il primo PG che passa sotto un foro (ignora i PF).
+  - Se il party ignora il soffitto, la creatura attacca il primo PG che passa sotto un foro (ignora la PF).
   - Un foro sul lato Ovest è in realtà un tunnel di 9 metri che conduce alla stanza **9**. Piccoli solchi lungo il tunnel facilitano la scalata, se raggiunti.
 
 #### Orrore Sotterraneo
