@@ -121,8 +121,8 @@ grand_parent: Seconda Edizione
 | **22**   | Diavolo        | **72**   | Re             |
 | **23**   | Dio            | **73**   | Ricciolo       |
 | **24**   | Disperazione   | **74**   | Rifugio        |
-| **25**   | Dolore         | **75**   | Rifugio        |
-| **26**   | Eco            | **76**   | Rimorso        |
+| **25**   | Dolore         | **75**   | Rimorso        |
+| **26**   | Eco            | **76**   | Riparo         |
 | **27**   | Fango          | **77**   | Rosso          |
 | **28**   | Fantasma       | **78**   | Rovina         |
 | **29**   | Fantasma       | **79**   | Scheggia       |
