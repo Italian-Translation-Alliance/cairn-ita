@@ -94,22 +94,22 @@ grand_parent: Seconda Edizione
 
 ## Sostantivi
 
-|          |                |          |
+|          |                |          |                |
 | -------- | -------------- | -------- | -------------- |
 | **d100** | **Sostantivo** | **d100** | **Sostantivo** |
-| **1**    | Abisso         | **51**   | Morte          |
-| **2**    | Alba           | **52**   | Morto          |
-| **3**    | Alleanza       | **53**   | Muggine        |
-| **4**    | Ambizione      | **54**   | Nebbia         |
-| **5**    | Ambra          | **55**   | Nero           |
-| **6**    | Arcobaleno     | **56**   | Ombra          |
-| **7**    | Argento        | **57**   | Oro            |
-| **8**    | Armonia        | **58**   | Orrore         |
-| **9**    | Aurora         | **59**   | Oscurità       |
-| **10**   | Bagliore       | **60**   | Osso           |
-| **11**   | Bastione       | **61**   | Paese          |
-| **12**   | Blu            | **62**   | Paura          |
-| **13**   | Brace          | **63**   | Pericolo       |
+| **1**    | Abisso         | **51**   | Morto          |
+| **2**    | Alba           | **52**   | Muggine        |
+| **3**    | Alleanza       | **53**   | Nebbia         |
+| **4**    | Ambizione      | **54**   | Nero           |
+| **5**    | Ambra          | **55**   | Ombra          |
+| **6**    | Arcobaleno     | **56**   | Oro            |
+| **7**    | Argento        | **57**   | Orrore         |
+| **8**    | Armonia        | **58**   | Oscurità       |
+| **9**    | Aurora         | **59**   | Osso           |
+| **10**   | Bagliore       | **60**   | Paese          |
+| **11**   | Bastione       | **61**   | Paura          |
+| **12**   | Blu            | **62**   | Pericolo       |
+| **13**   | Brace          | **63**   | Persecuzione   |
 | **14**   | Cielo          | **64**   | Pezza          |
 | **15**   | Corruzione     | **65**   | Pietra         |
 | **16**   | Cremisi        | **66**   | Pioggia        |
@@ -125,28 +125,28 @@ grand_parent: Seconda Edizione
 | **26**   | Eco            | **76**   | Riparo         |
 | **27**   | Fango          | **77**   | Rosso          |
 | **28**   | Fantasma       | **78**   | Rovina         |
-| **29**   | Fantasma       | **79**   | Scheggia       |
-| **30**   | Fato           | **80**   | Scintilla      |
-| **31**   | Fenditura      | **81**   | Serpente       |
-| **32**   | Ferro          | **82**   | Sole           |
-| **33**   | Fiamma         | **83**   | Spina          |
-| **34**   | Follia         | **84**   | Straccio       |
-| **35**   | Fumo           | **85**   | Sussurro       |
-| **36**   | Fuoco          | **86**   | Tempesta       |
-| **37**   | Gelo           | **87**   | Tempesta       |
-| **38**   | Giada          | **88**   | Terra          |
-| **39**   | Gigante        | **89**   | Terrore        |
-| **40**   | Guerra         | **90**   | Teschio        |
-| **41**   | Incubo         | **91**   | Tossico        |
-| **42**   | Isola          | **92**   | Tranquillo     |
-| **43**   | Lacerazione    | **93**   | Troll          |
-| **44**   | Lavanda        | **94**   | Tuono          |
-| **45**   | Luce           | **95**   | Valore         |
-| **46**   | Luminoso       | **96**   | Verde          |
-| **47**   | Luna           | **97**   | Viola          |
-| **48**   | Marciume       | **98**   | Viola          |
-| **49**   | Marmo          | **99**   | Vita           |
-| **50**   | Mela           | **100**  | Zefiro         |
+| **29**   | Fato           | **79**   | Scheggia       |
+| **30**   | Fenditura      | **80**   | Scintilla      |
+| **31**   | Ferro          | **81**   | Serpente       |
+| **32**   | Fiamma         | **82**   | Sole           |
+| **33**   | Follia         | **83**   | Spina          |
+| **34**   | Fumo           | **84**   | Straccio       |
+| **35**   | Fuoco          | **85**   | Sussurro       |
+| **36**   | Gelo           | **86**   | Tempesta       |
+| **37**   | Giada          | **87**   | Tempesta       |
+| **38**   | Gigante        | **88**   | Terra          |
+| **39**   | Guerra         | **89**   | Terrore        |
+| **40**   | Incubo         | **90**   | Teschio        |
+| **41**   | Isola          | **91**   | Tossico        |
+| **42**   | Lacerazione    | **92**   | Tranquillo     |
+| **43**   | Lavanda        | **93**   | Troll          |
+| **44**   | Luce           | **94**   | Tuono          |
+| **45**   | Luminoso       | **95**   | Valore         |
+| **46**   | Luna           | **96**   | Verde          |
+| **47**   | Marciume       | **97**   | Viola          |
+| **48**   | Marmo          | **98**   | Viola          |
+| **49**   | Mela           | **99**   | Vita           |
+| **50**   | Morte          | **100**  | Zefiro         |
 
 ## Sinonimi del Terreno
 
