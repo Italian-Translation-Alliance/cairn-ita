@@ -10,13 +10,13 @@ grand_parent: Seconda Edizione
 ## Giochi e Supplementi
 
 - [Beyond the Wall di Peter S. Williams](https://www.flatlandgames.com/btw/)
-- [Dungeon World di Sage LaTorra e Adam Koebel](https://narrattiva.it/it/shop/fantasy/dungeon-world-3-5/)
+- [Dungeon World di Sage LaTorra e Adam Koebel](https://dungeonworld.it/)
 - [Electric Bastionland di Chris McDowall](https://www.needgames.it/prodotto/electric-bastionland/)
 - [Errant di Ava Islam](https://killjestergames.itch.io/errant)
 - [FLEE di Emmy Verte](https://emmv.itch.io/flee)
 - [Il Mondo dell'Apocalisse di Vincent e Meguey Baker](https://narrattiva.it/it/shop/fantasy/awii-il-mondo-dellapocalisse-ii/)
 - [Into The Dungeon: Revived di Vladimir Arabadzhi](https://vladar.itch.io/into-the-dungeon-revived/devlog/507355/into-the-dungeon-revived-italian-translation)
-- [Knave & Maze Rats di Ben Milton](https://www.drivethrurpg.com/it/product/275839/knave-edizione-italiana)
+- [Knave](https://www.drivethrurpg.com/it/product/275839/knave-edizione-italiana) & [Maze Rats](https://italiantranslationalliance.org/progetti/maze_rats/) di Ben Milton
 - [Mausritter di Isaac Williams](https://www.needgames.it/giochi/mausritter/)
 - [Old School Essentials di Gavin Norman](https://www.needgames.it/giochi/old-school-essentials/)
 - [Perilous Wilds di Jason Lutes](https://www.drivethrurpg.com/en/product/407161/the-perilous-wilds-revised-edition)

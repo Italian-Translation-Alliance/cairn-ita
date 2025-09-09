@@ -196,7 +196,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **10**  | Rotta di Guerra                       | Immobilità               |
 | **11**  | Sentiero Animale                      | Impronte di volpe        |
 | **12**  | Sentiero Bordato con Alberi da Frutto | Incisioni sugli alberi   |
-| **13**  | sentiero Indicato dagli Alberi        | Mucchi di pietre         |
+| **13**  | Sentiero Indicato dagli Alberi        | Mucchi di pietre         |
 | **14**  | Sentiero di Campagna                  | Orme di cervo            |
 | **15**  | Sentiero di Resina Appiccicosa        | Piante ondeggianti       |
 | **16**  | Sentiero Saturo di Spore              | Piume giganti            |
@@ -487,7 +487,7 @@ Un lungo **albero** giace in mezzo a una piccola radura, nel punto in cui due **
 - **Albero**: Enorme e almeno parzialmente cavo. L’ingresso Est è pieno di impronte d’orso.
   - Un’orso Grizzly e i suoi tre cuccioli vivono all’interno. In inverno vanno in letargo, ma negli altri periodi sono svegli. La madre attaccherà chiunque entri (nessun tiro di reazione).
 - **Sentieri**: Foglie spezzate e graffi sugli alberi indicano chiaramente la presenza degli orsi.
-- **Scogliera**: Cerchi di metallo sono fissati nella rupe.
+- **Rupe**: Cerchi di metallo sono fissati nella rupe.
   - Installati quando il bosco era ancora sfruttato per il legname, ma sono ancora saldi. Perfetti per corde.
 
 #### Orso Grizzly

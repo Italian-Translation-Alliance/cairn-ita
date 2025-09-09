@@ -29,11 +29,11 @@ Esistono diverse religioni e credenze spirituali diffuse tra la gente comune.
 
 Setta religiosa gerarchica che venera _Rivulus_, un dio minuto dei fiumi e dei laghi. Anche chi non è affiliato conosce il loro rito di iniziazione: un annegamento rituale che talvolta si conclude con la morte del partecipante. Chi sopravvive viene chiamato _Nato dalla Marea_ e adotta un nuovo nome legato all’acqua (Carpa, Giunco, Ansa, e così via). Solo i membri del clero sono tenuti a sottoporsi al rituale; tuttavia, negli ultimi anni, il culto ha guadagnato sempre più seguaci tra la popolazione rurale, soprattutto nei villaggi vicini a specchi d’acqua.
 
-I Nati dalla Marea non sono certo l’unica fede del reame, ma la loro crescita costante e il loro fervore hanno attirato il rispetto di alcune fazioni, in particolare della _Casa dei Borghesi_. Questa espansione ha però anche suscitato ostilità: l’inimicizia con alcune fazioni è tale che, al giorno d’oggi, i membri del clero evitano di viaggiare da soli attraverso zone boschive, per non rischiare un pestaggio o peggio.
+I Nati dalla Marea non sono certo l’unica fede del reame, ma la loro crescita costante e il loro fervore hanno attirato il rispetto di alcune fazioni, in particolare della _Camera dei Gentiluomini_. Questa espansione ha però anche suscitato ostilità: l’inimicizia con alcune fazioni è tale che, al giorno d’oggi, i membri del clero evitano di viaggiare da soli attraverso zone boschive, per non rischiare un pestaggio o peggio.
 
 ### Il Corvo Bianco
 
-Diffusa tra coloro che vivono vicino alla Foresta, la fede nel _Corvo Bianco_ (o "lo Stormo", come preferiscono chiamarsi) si fonda su una profonda venerazione del potere della Foresta e sull’impegno a mantenerne la salute, insieme a quella delle sue creature. Sono devoti agli Uomini selvatici e obbediscono alla volontà della Foresta senza esitazione. Si riconoscono grazie a tatuaggi raffiguranti un uccello bianco sul polso, sul collo o sulla schiena. Ogni insediamento ospita uno Stormo distinto, legato alla propria comunità, e i suoi membri nutrono una forte diffidenza verso ogni forma di religione organizzata.
+Diffusa tra coloro che vivono vicino alla Foresta, la fede nel _Corvo Bianco_ (o "lo Stormo", come preferiscono chiamarsi) si fonda su una profonda venerazione del potere della Foresta e sull’impegno a mantenerne la salute, insieme a quella delle sue creature. Sono devoti agli Uomini Selvatici e obbediscono alla volontà della Foresta senza esitazione. Si riconoscono grazie a tatuaggi raffiguranti un uccello bianco sul polso, sul collo o sulla schiena. Ogni insediamento ospita uno Stormo distinto, legato alla propria comunità, e i suoi membri nutrono una forte diffidenza verso ogni forma di religione organizzata.
 
 ### La Stella a Cinque Punte
 
@@ -92,9 +92,9 @@ Oggi, quasi tutti sanno che è meglio evitare di parlare di Varchi, chiavi o alc
 
 ## Fazioni
 
-### La Casa dei Borghesi
+### La Camera dei Gentiluomini
 
-Un’assemblea di ricchi signori e dame proprietari terrieri. Astuti, risoluti e convinti della propria superiorità, possono compiere grandi imprese quando agiscono all’unisono. Sfortunatamente, i loro sforzi sono spesso ostacolati da litigi interni, dispute minute e dalla loro insaziabile brama di potere e prestigio. Anche se all’interno della Casa serpeggia una sana diffidenza verso l’_Ordine dei Nove_, un _Borghese_ difficilmente parlerà male di loro in pubblico. La Casa mantiene invece rapporti aperti e amichevoli con i Nati dalla Marea, sebbene internamente molti provino disagio per l’ascesa di questa giovane religione.
+Un’assemblea di ricchi signori e dame proprietari terrieri. Astuti, risoluti e convinti della propria superiorità, possono compiere grandi imprese quando agiscono all’unisono. Sfortunatamente, i loro sforzi sono spesso ostacolati da litigi interni, dispute minute e dalla loro insaziabile brama di potere e prestigio. Anche se all’interno della Camera serpeggia una sana diffidenza verso l’_Ordine dei Nove_, un _Gentiluomo_ difficilmente parlerà male di loro in pubblico. La Camera mantiene invece rapporti aperti e amichevoli con i Nati dalla Marea, sebbene internamente molti provino disagio per l’ascesa di questa giovane religione.
 
 ### L’Ordine dei Nove
 

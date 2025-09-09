@@ -26,7 +26,7 @@ grand_parent: Seconda Edizione
 | **12**  | Incorporei   | Cacciatore Invisibile, Ombra                                                                       |
 | **13**  | Insettoidi   | Aranea, Orrore Sotterraneo, Locusta delle Caverne, Scorpione Gigante                               |
 | **14**  | Rettili      | Basilisco, Idra, Coboldo, Naga, Uomo Lucertola                                                     |
-| **15**  | Magici       | Cane Intermittente, Distorcente, Elementale dell'Acqua                                             |
+| **15**  | Magici       | Cane Intermittente, Pantera Distorcente, Elementale dell'Acqua                                     |
 | **16**  | Mitici       | Banshee, Grifone, Arpia, Idra, Lamia, Unicorno                                                     |
 | **17**  | Vegetali     | Viti Striscianti, Strega delle Radici, Cumulo Strisciante, Ent                                     |
 | **18**  | Mutaforma    | Porco Diabolico, Mannaro                                                                           |

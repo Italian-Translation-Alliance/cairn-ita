@@ -207,8 +207,9 @@ grand_parent: Seconda Edizione
 | **16**  | Orda        |
 | **17**  | Ordine      |
 | **18**  | Patto       |
-| **19**  | Rete        |
-| **20**  | Sindacato   |
+| **19**  | Racket      |
+| **20**  | Rete        |
+
 
 #### Formula Nomi delle Fazioni
 
@@ -274,106 +275,106 @@ grand_parent: Seconda Edizione
 - Usa parole in contrasto (es. _Chioma Contorta_) per evocare un dettaglio interessante sul luogo.
 - L’allitterazione e le combinazioni piacevoli possono creare suoni armoniosi. _Bosco Sussurrante_ è più gradevole all’orecchio rispetto a _Bosco Intricato_.
 
-|          |                              |                    |
-| -------- | ---------------------------- | ------------------ |
-| **d100** | **Aggettivi**                | **Sostantivi**     |
-| 1        | Abbandonato                  | Accampamento       |
-| 2        | Aggrovigliato                | Acquitrino         |
-| 3        | Antico                       | Alberi             |
-| 4        | Armonioso                    | Altura             |
-| 5        | Aspro                        | Ammasso            |
-| 6        | Assolato                     | Arbusto            |
-| 7        | Brillante                    | Arco               |
-| 8        | Brullo                       | Avvallamento       |
-| 9        | Celestiale                   | Boccioli           |
-| 10       | Contorto                     | Boscaglia          |
-| 11       | Crepuscolare                 | Boschetto          |
-| 12       | Cristallino                  | Bosco Ceduo        |
-| 13       | Cupo                         | Brughiera          |
-| 14       | Denso                        | Canale             |
-| 15       | Desolato                     | Cardi              |
-| 16       | Dimenticato                  | Cascata            |
-| 17       | Distante                     | Caverna            |
-| 18       | Dorato                       | Ceppo              |
-| 19       | Echeggiante                  | Cerchio di pietre  |
-| 20       | Effimero                     | Cerreto            |
-| 21       | Enigmatico                   | Cespuglio          |
-| 22       | Erboso                       | Chioma             |
-| 23       | Esotico                      | Ciuffi             |
-| 24       | Etereo                       | Depressione        |
-| 25       | Eterno                       | Dominio            |
-| 26       | Fiorente                     | Erica              |
-| 27       | Florido                      | Faggeto            |
-| 28       | Fortunato                    | Felceto            |
-| 29       | Fragrante                    | Fogliame           |
-| 30       | Frastagliato                 | Foglie             |
-| 31       | Frondoso                     | Fonte              |
-| 32       | Frusciante                   | Foresta            |
-| 33       | Fruttuoso                    | Foresta da legname |
-| 34       | Fumoso                       | Foresta vergine    |
-| 35       | Gelido                       | Forra              |
-| 36       | Generoso                     | Frasche            |
-| 37       | Gentile                      | Fratta             |
-| 38       | Gocciolante                  | Frutteto           |
-| 39       | Illuminato                   | Funghi             |
-| 40       | Illuminato dalla luna		Fusto |
-| 41       | Incantato                    | Granito            |
-| 42       | Incolto                      | Grotta             |
-| 43       | Incombente                   | Groviglio          |
-| 44       | Incrollabile                 | Laggiù             |
-| 45       | Infestato                    | Legname            |
-| 46       | Inosservato                  | Limo               |
-| 47       | Inquietante                  | Luce               |
-| 48       | Invitante                    | Macchia            |
-| 49       | Isolato                      | Morta              |
-| 50       | Leggendario                  | Mota               |
-| 51       | Luccicante                   | Nodo               |
-| 52       | Luminescente                 | Oasi               |
-| 53       | Luminoso                     | Ombra              |
-| 54       | Lussureggiante               | Oscurità           |
-| 55       | Maculato                     | Palude             |
-| 56       | Maestoso                     | Panoramica         |
-| 57       | Malinconico                  | Pantano            |
-| 58       | Minaccioso                   | Pascolo            |
-| 59       | Misterioso                   | Passaggi           |
-| 60       | Mistico                      | Passo              |
-| 61       | Mormorante                   | Pendenza           |
-| 62       | Muschioso                    | Pergole            |
-| 63       | Nascosto                     | Pietre             |
-| 64       | Nebbioso                     | Pino               |
-| 65       | Nodoso                       | Piste              |
-| 66       | Opulento                     | Poggio             |
-| 67       | Oscuro                       | Ponte              |
-| 68       | Perduto                      | Prato              |
-| 69       | Piangente                    | Quercia            |
-| 70       | Pittoresco                   | Radici             |
-| 71       | Precario                     | Radura             |
-| 72       | Primevo                      | Rami               |
-| 73       | Puro                         | Rampicanti         |
-| 74       | Quieto                       | Rifugio            |
-| 75       | Radiante                     | Rigagnolo          |
-| 76       | Ripudiato                    | Riserva di caccia  |
-| 77       | Robusto                      | Rivo               |
-| 78       | Ruggente                     | Roveto             |
-| 79       | Sacro                        | Rovi               |
-| 80       | Selvaggio                    | Rugiada            |
-| 81       | Senza tempo                  | Rupe               |
-| 82       | Sereno                       | Ruscello           |
-| 83       | Serpentino                   | Santuario          |
-| 84       | Silente                      | Selva              |
-| 85       | Smeraldino                   | Sentiero           |
-| 86       | Sobrio                       | Sottobosco         |
-| 87       | Soleggiato                   | Spelonca           |
-| 88       | Solitario                    | Spiazzo            |
-| 89       | Sottile                      | Sterpaglie         |
-| 90       | Spettrale                    | Torre              |
-| 91       | Splendido                    | Torrente           |
-| 92       | Sussurrante                  | Tronchi            |
-| 93       | Torreggiante                 | Tumulti            |
-| 94       | Tortuoso                     | Vallata            |
-| 95       | Tranquillo                   | Valle stretta      |
-| 96       | Turbinante                   | Valletta           |
-| 97       | Velato                       | Via                |
-| 98       | Verdeggiante                 | Vivaio             |
-| 99       | Vissuto                      | Zefiro             |
-| 100      | Vivace                       | Zolla              |
+|          |                       |                    |
+| -------- | --------------------- | ------------------ |
+| **d100** | **Aggettivi**         | **Sostantivi**     |
+| 1        | Abbandonato           | Accampamento       |
+| 2        | Aggrovigliato         | Acquitrino         |
+| 3        | Antico                | Alberi             |
+| 4        | Armonioso             | Altura             |
+| 5        | Aspro                 | Ammasso            |
+| 6        | Assolato              | Arbusto            |
+| 7        | Brillante             | Arco               |
+| 8        | Brullo                | Avvallamento       |
+| 9        | Celestiale            | Boccioli           |
+| 10       | Contorto              | Boscaglia          |
+| 11       | Crepuscolare          | Boschetto          |
+| 12       | Cristallino           | Bosco Ceduo        |
+| 13       | Cupo                  | Brughiera          |
+| 14       | Denso                 | Canale             |
+| 15       | Desolato              | Cardi              |
+| 16       | Dimenticato           | Cascata            |
+| 17       | Distante              | Caverna            |
+| 18       | Dorato                | Ceppo              |
+| 19       | Echeggiante           | Cerchio di pietre  |
+| 20       | Effimero              | Cerreto            |
+| 21       | Enigmatico            | Cespuglio          |
+| 22       | Erboso                | Chioma             |
+| 23       | Esotico               | Ciuffi             |
+| 24       | Etereo                | Depressione        |
+| 25       | Eterno                | Dominio            |
+| 26       | Fiorente              | Erica              |
+| 27       | Florido               | Faggeto            |
+| 28       | Fortunato             | Felceto            |
+| 29       | Fragrante             | Fogliame           |
+| 30       | Frastagliato          | Foglie             |
+| 31       | Frondoso              | Fonte              |
+| 32       | Frusciante            | Foresta            |
+| 33       | Fruttuoso             | Foresta da legname |
+| 34       | Fumoso                | Foresta vergine    |
+| 35       | Gelido                | Forra              |
+| 36       | Generoso              | Frasche            |
+| 37       | Gentile               | Fratta             |
+| 38       | Gocciolante           | Frutteto           |
+| 39       | Illuminato            | Funghi             |
+| 40       | Illuminato dalla luna | Fusto              |
+| 41       | Incantato             | Granito            |
+| 42       | Incolto               | Grotta             |
+| 43       | Incombente            | Groviglio          |
+| 44       | Incrollabile          | Laggiù             |
+| 45       | Infestato             | Legname            |
+| 46       | Inosservato           | Limo               |
+| 47       | Inquietante           | Luce               |
+| 48       | Invitante             | Macchia            |
+| 49       | Isolato               | Morta              |
+| 50       | Leggendario           | Mota               |
+| 51       | Luccicante            | Nodo               |
+| 52       | Luminescente          | Oasi               |
+| 53       | Luminoso              | Ombra              |
+| 54       | Lussureggiante        | Oscurità           |
+| 55       | Maculato              | Palude             |
+| 56       | Maestoso              | Panoramica         |
+| 57       | Malinconico           | Pantano            |
+| 58       | Minaccioso            | Pascolo            |
+| 59       | Misterioso            | Passaggi           |
+| 60       | Mistico               | Passo              |
+| 61       | Mormorante            | Pendenza           |
+| 62       | Muschioso             | Pergole            |
+| 63       | Nascosto              | Pietre             |
+| 64       | Nebbioso              | Pino               |
+| 65       | Nodoso                | Piste              |
+| 66       | Opulento              | Poggio             |
+| 67       | Oscuro                | Ponte              |
+| 68       | Perduto               | Prato              |
+| 69       | Piangente             | Quercia            |
+| 70       | Pittoresco            | Radici             |
+| 71       | Precario              | Radura             |
+| 72       | Primevo               | Rami               |
+| 73       | Puro                  | Rampicanti         |
+| 74       | Quieto                | Rifugio            |
+| 75       | Radiante              | Rigagnolo          |
+| 76       | Ripudiato             | Riserva di caccia  |
+| 77       | Robusto               | Rivo               |
+| 78       | Ruggente              | Roveto             |
+| 79       | Sacro                 | Rovi               |
+| 80       | Selvaggio             | Rugiada            |
+| 81       | Senza tempo           | Rupe               |
+| 82       | Sereno                | Ruscello           |
+| 83       | Serpentino            | Santuario          |
+| 84       | Silente               | Selva              |
+| 85       | Smeraldino            | Sentiero           |
+| 86       | Sobrio                | Sottobosco         |
+| 87       | Soleggiato            | Spelonca           |
+| 88       | Solitario             | Spiazzo            |
+| 89       | Sottile               | Sterpaglie         |
+| 90       | Spettrale             | Torre              |
+| 91       | Splendido             | Torrente           |
+| 92       | Sussurrante           | Tronchi            |
+| 93       | Torreggiante          | Tumulti            |
+| 94       | Tortuoso              | Vallata            |
+| 95       | Tranquillo            | Valle stretta      |
+| 96       | Turbinante            | Valletta           |
+| 97       | Velato                | Via                |
+| 98       | Verdeggiante          | Vivaio             |
+| 99       | Vissuto               | Zefiro             |
+| 100      | Vivace                | Zolla              |

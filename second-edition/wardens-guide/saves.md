@@ -24,7 +24,7 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 - Offri sempre più opzioni valide al party. Più scelte hanno, più interessante sarà la situazione.
 - Il risultato di un tiro salvezza non deve essere sempre binario. Puoi modulare l’esito in base all’impegno, alla preparazione, alle risorse e all’abilità spese prima del tiro.
 - Sii trasparente con i giocatori. Non significa rivelare ogni segreto, ma fornire a ciascuno tutte le informazioni che il suo personaggio potrebbe ragionevolmente avere.
-- Evita di richiedere tiri ogni volta che puoi. Se un PG riesce a risolvere un problema solo con il posizionamento narrativa, _non chiedere un tiro_.
+- Evita di richiedere tiri ogni volta che puoi. Se un PG riesce a risolvere un problema solo con il posizionamento narrativo, _non chiedere un tiro_.
 - Sostituisci più tiri con un solo lancio. Un solo tiro può aumentare la tensione e valorizzare le scelte del giocatore.
 
 ## Tiri Salvezza Tradizionali

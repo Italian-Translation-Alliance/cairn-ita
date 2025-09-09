@@ -81,7 +81,7 @@ Esplorare un dungeon è sempre pericoloso, e la velocità deve sempre essere con
 
 ### Guardie
 - Un giorno è diviso in tre **guardie**, chiamati _mattina_, _pomeriggio_ e _notte_.
-- Ogni personaggio può scegliere _una_ [Azione nella Natura Selvaggia](#azioni-nella-natura-selvaggia) per **turno di guardia**.
+- Ogni personaggio può scegliere _una_ [Azione nella Natura Selvaggia](#azioni-nella-natura-selvaggia) per **guardia**.
 - Se i personaggi si dividono, ogni gruppo viene trattato come un'entità indipendente.
 
 ### Punti
@@ -90,7 +90,7 @@ Esplorare un dungeon è sempre pericoloso, e la velocità deve sempre essere con
 - Il gruppo ha solo un'idea approssimativa delle sfide necessarie per raggiungere la destinazione, raramente conosce dettagli specifici.
 
 ### Durata del Viaggio
-Il tempo di viaggio in Cairn è contato in guardie, divisi in tre segmenti di otto ore al giorno. Tuttavia, poiché la maggior parte dei gruppi sceglie di trascorrere il terzo turno di guardia del giorno riposando, si può usare "giorni" come abbreviazione per il tempo di viaggio.
+Il tempo di viaggio in Cairn è contato in guardie, divisi in tre segmenti di otto ore al giorno. Tuttavia, poiché la maggior parte dei gruppi sceglie di trascorrere la terza guardia del giorno riposando, si può usare "giorni" come abbreviazione per il tempo di viaggio.
 
 Per determinare la distanza tra due punti, combina tutte le penalità dalle tabelle di difficoltà del percorso, del terreno e del tempo, tenendo conto di eventuali cambiamenti di questi elementi lungo il percorso. Per i viaggi via corsi d'acqua, fai riferimento alla difficoltà del terreno circostante. Per terreni particolarmente vasti, assegna una penalità fino a +2 guardie al viaggio.
 
@@ -172,7 +172,7 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 - Alcuni terreni e condizioni meteorologiche possono essere più facili da attraversare di notte (il deserto, per esempio). Il **Custode** dovrebbe bilanciare queste sfide insieme a qualsiasi altra.
 
 #### Sonno
-- L'ultimo **turno di guardia** del giorno è tipicamente riservato all'azione [Accamparsi](#accamparsi).
+- L'ultima **guardia** del giorno è tipicamente riservato all'azione [Accamparsi](#accamparsi).
 - I personaggi tipicamente hanno bisogno di dormire ogni giorno. Qualsiasi cosa oltre a un'interruzione marginale può negare o annullare i benefici del sonno.
 - Se il gruppo salta l'azione **Accamparsi**, ciascuno aggiunge una **Fatica** al proprio inventario e sono _privati_. Inoltre, viaggiare quando si è privati del sonno aumenta la **Difficoltà** del terreno di un livello (ad esempio, _Facile_ diventa _Difficile_).
 
@@ -202,7 +202,7 @@ Ogni giorno, il Custode dovrebbe tirare sulla tabella del tempo per la stagione 
 #### Rifornirsi
 - Uno o più membri del gruppo possono cacciare, pescare o raccogliere cibo, raccogliendo 1d4 **Razioni** (3 usi ciascuna). La possibilità di un raccolto maggiore aumenta con ogni partecipante aggiuntivo (ad esempio, 1d4 diventa 1d6, fino a un massimo di 1d12).
 - L'esperienza o l'equipaggiamento rilevante può anche aumentare il raccolto.
-- Il gruppo può incontrare case e piccoli villaggi, spendendo oro e un intero **turno di guardia** per rifornirsi.
+- Il gruppo può incontrare case e piccoli villaggi, spendendo oro e un'intera **guardia** per rifornirsi.
 
 #### Accamparsi
 - Il gruppo si ferma per allestire un campo nella natura selvaggia. Ogni membro del gruppo (e le loro cavalcature) consuma una **Razione**.
