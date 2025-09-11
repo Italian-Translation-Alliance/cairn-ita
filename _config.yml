@@ -1,11 +1,15 @@
 title: Cairn
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-url: https://it.cairnrpg.com
-logo: "/img/logo.png"
-color_scheme: light
+site.url: https://it.cairnrpg.com
+logo: "/img/logo.svg"
+color_scheme: dark
+encoding: UTF-8
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
+include:
+  - js
 
 # Back to top link
 back_to_top: true
