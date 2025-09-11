@@ -11,8 +11,9 @@ Il testo integrale è rilasciato sotto licenza [CC-BY-SA 4.0](https://creativeco
 
 Traduzione Prima Edizione ad opera della [Italian Translation Alliance](https://www.italiantranslationalliance.org):
 - Traduzione Italiana SRD: [Stefano Grassi](https://ste.design/)
-- Traduzione Italiana Sito Web: [Lorenzo Rossi](https://oicn.icu/), [Alessio Persichetti](https://deeperintothedungeon.wordpress.com/) e [Roberto Bisceglie](https://zeruhur.space)
+- Traduzione Italiana Sito Web: [Lorenzo "The Kernel in Yellow" Rossi](https://wheretofind.me/@thekernelinyellow), [Alessio Persichetti](https://deeperintothedungeon.wordpress.com/) e [Roberto Bisceglie](https://zeruhur.space)
 - Revisione Italiana: [OSR Italia, Facebook](https://www.facebook.com/groups/osritalia/),[Ruling the Game, Telegram](http://t.me/osritalia) ed in particolare Francisco Pettigiani, Roberto Bisceglie, Yuri Zanelli, Barakiel The Archangel.
 
 Traduzione Seconda Edizione:
 - Traduzione Player's Guide e Warden's Guide: [Federico Mameli](https://github.com/fedemame)
+- Revisione Italiana: [Lorenzo "The Kernel in Yellow" Rossi](https://wheretofind.me/@thekernelinyellow)
