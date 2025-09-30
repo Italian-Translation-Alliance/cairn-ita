@@ -1,7 +1,7 @@
 ---
 title: Spezzaincanti
 layout: default
-parent: Backgrounds
+parent: Background
 grand_parent: Second Edition
 ---
 
