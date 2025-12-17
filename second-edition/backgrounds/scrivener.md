@@ -23,7 +23,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 - Punteruolo (d6)
 - Distintivo (_minuto_)
 
-## Quale opera hai tenuto per te? Tira 1d6:
+## Quale opera hai tenuto per te? Tira 1d6
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 | **5** | **La Cattedrale e la Chioma**. Rilegatura a foglia larga su pergamena. In apparenza un libro per bambini, ma i margini contengono informazioni su come viaggiare, mangiare e dormire nelle foreste alte.        |
 | **6** | **Giardino di Vetro**. Rilegato con la copertina di un altro libro. Opera eretica che descrive materiali, procedure e luoghi ottimali per aprire un **Varco**.                                                  |
 
-## Come trascrivi le informazioni sensibili? Tira 1d6:
+## Come trascrivi le informazioni sensibili? Tira 1d6
 
 |       |                               |                                                                                                                                       |
 | ----- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |

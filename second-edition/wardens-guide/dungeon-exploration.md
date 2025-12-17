@@ -54,60 +54,60 @@ Un ampio cortile esposto **all’aria aperta**. Il **suolo** è sabbioso e irreg
 
 **Custode**: _"**Lucius**, la **porta** è chiusa, antica, e in parte marcita. Ha una serratura in ferro arrugginita. Che fai?"_
 
-**Lucius**: _"Non ho grimaldelli, quindi appoggio l’orecchio alla porta per sentire se c’è qualcosa dall’altra parte."_ 
+**Lucius**: _"Non ho grimaldelli, quindi appoggio l’orecchio alla porta per sentire se c’è qualcosa dall’altra parte."_
 
-**Custode**: _"Appoggi l’orecchio e senti solo un leggero fruscio dall’altra parte."_ 
+**Custode**: _"Appoggi l’orecchio e senti solo un leggero fruscio dall’altra parte."_
 
-**Lucius**: _"E la serratura? È messa così male da poterci sbirciare attraverso? Oppure ci sono fessure nel legno? Dicevi che la porta era marcia."_ 
+**Lucius**: _"E la serratura? È messa così male da poterci sbirciare attraverso? Oppure ci sono fessure nel legno? Dicevi che la porta era marcia."_
 
-**Custode**: _"La serratura è ancora integra, ma troppo buia per vedere attraverso. Potresti illuminarla, oppure guardare da una delle fessure del legno."_ 
+**Custode**: _"La serratura è ancora integra, ma troppo buia per vedere attraverso. Potresti illuminarla, oppure guardare da una delle fessure del legno."_
 
-**Lucius**: _"Allora accendo la **torcia** e la sollevo per vedere meglio."_ 
+**Lucius**: _"Allora accendo la **torcia** e la sollevo per vedere meglio."_
 
 **Custode**: _"**Lucius**, attraverso le crepe vedi un pavimento di cemento grigio. Qualcosa brilla a terra, riflettendo la luce tremolante della torcia. Sembra un’impronta grande e bagnata!"_
 
-**Lucius**: _"Ah! Avverto subito gli altri."_ 
+**Lucius**: _"Ah! Avverto subito gli altri."_
 
-**Custode**: _"Ricevuto. Ora vediamo cosa riesce a scoprire **Freya** sulla statua."_ 
+**Custode**: _"Ricevuto. Ora vediamo cosa riesce a scoprire **Freya** sulla statua."_
 
-**Freya**: _"Giusto, ricordate che non voglio avvicinarmi troppo."_ 
+**Freya**: _"Giusto, ricordate che non voglio avvicinarmi troppo."_
 
 **Custode**: _"Ti avvicini fino a circa un metro e mezzo dalla statua. Il volto è scheggiato, e uno degli occhi è completamente mancante. Nell’altro, invece, c’è incastonato un bellissimo gioiello rosso. La statua impugna un bidente bianco. Vuoi interagire con la statua o passare oltre?"_
 
-**Freya**: _"È inquietante! Passo, almeno finché non capiamo meglio che funzione aveva questa stanza. Voglio dare un’occhiata alle macerie di cui parlavi prima."_ 
+**Freya**: _"È inquietante! Passo, almeno finché non capiamo meglio che funzione aveva questa stanza. Voglio dare un’occhiata alle macerie di cui parlavi prima."_
 
 **Custode**: _"Ti sposti verso le macerie accanto alla statua. Sembrano molto pesanti e difficili da spostare. Alla luce della torcia di **Wolfram**, noti qualcosa di rosso e lucente tra le fessure della pila. Che fai?"_
 
 **Freya**: _"Ovviamente indago meglio!"_
 
-**Custode**: _"Guardando da vicino, trovi un gioiello rosso stretto nel pugno di pietra di una statua. Sembra valere almeno 75po, e occuperebbe uno slot intero."_ 
+**Custode**: _"Guardando da vicino, trovi un gioiello rosso stretto nel pugno di pietra di una statua. Sembra valere almeno 75po, e occuperebbe uno slot intero."_
 
 **Freya**: _"Lo voglio. Posso estrarlo facilmente?"_
 
-**Custode**: _"Le dita sono ben strette attorno al gioiello; dovrai faticare per tirarlo fuori o spendere un turno in più per farlo con calma. In entrambi i casi, probabilmente scatterà un tiro sulla tabella degli eventi del dungeon."_ 
+**Custode**: _"Le dita sono ben strette attorno al gioiello; dovrai faticare per tirarlo fuori o spendere un turno in più per farlo con calma. In entrambi i casi, probabilmente scatterà un tiro sulla tabella degli eventi del dungeon."_
 
-**Freya**: _"Dannazione. Ok, lo faccio il più in fretta possibile: uso il bordo del mio pugnale e un pezzo di pietra per far leva. Rumore o non rumore, me lo porto via."_ 
+**Freya**: _"Dannazione. Ok, lo faccio il più in fretta possibile: uso il bordo del mio pugnale e un pezzo di pietra per far leva. Rumore o non rumore, me lo porto via."_
 
 **Custode**: _"Ok, vediamo quanto rumore fai..."_
 
 > **Il Custode tira sulla tabella degli Eventi del Dungeon: Ambiente.**
 
-**Custode**: _"Il rumore metallico che fa **Freya** mentre lavora rimbomba contro le pareti scoperte del cortile. Una tegola cade dal muro Est rompemdo il silenzio e rimbalzando sul pavimento di pietra. Lucius, senti dei fruscii che si fanno sempre più vicini  dalla porta dietro di te! Ed è proprio in quel momento che il gioiello si stacca."_ 
+**Custode**: _"Il rumore metallico che fa **Freya** mentre lavora rimbomba contro le pareti scoperte del cortile. Una tegola cade dal muro Est rompemdo il silenzio e rimbalzando sul pavimento di pietra. Lucius, senti dei fruscii che si fanno sempre più vicini  dalla porta dietro di te! Ed è proprio in quel momento che il gioiello si stacca."_
 
 **Custode**: _"E con questo, il ciclo si conclude. Che volete fare adesso?"_
 
 **Lucius**: _"Uhm, c’è qualcosa che si sta avvicinando. Possiamo andarcene SUBITO, per favore?"_
 
-**Freya**: _"Metto il gioiello nello zaino al volo."_ 
+**Freya**: _"Metto il gioiello nello zaino al volo."_
 
-**Wolfram**: _"Direi di infilarci sotto quell’arco di pietra a Ovest. Possiamo sempre tornare qui più tardi, quando usciamo."_ 
+**Wolfram**: _"Direi di infilarci sotto quell’arco di pietra a Ovest. Possiamo sempre tornare qui più tardi, quando usciamo."_
 
 **Freya**: _"Aspetta un attimo… e se questo gioiello andasse nell’occhio della statua? Potrebbe aprire una porta segreta!"_
 
 **Lucius**: _"Sei impazzita? Per quel che ne sappiamo, la statua si animerebbe e ci farebbe a pezzi!"_
 
-**Freya**: _"Oppure ci aprirebbe un passaggio nascosto."_ 
+**Freya**: _"Oppure ci aprirebbe un passaggio nascosto."_
 
-**Wolfram**: _"Basta, per ora andiamocene. C’è qualcosa dall’altra parte di quella porta, e io NON ho intenzione di scoprire cosa."_ 
+**Wolfram**: _"Basta, per ora andiamocene. C’è qualcosa dall’altra parte di quella porta, e io NON ho intenzione di scoprire cosa."_
 
 > **Il party si allontana verso la sala adiacente e l’avventura continua.**

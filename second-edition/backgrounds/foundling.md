@@ -23,7 +23,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 - Fionda (d6)  
 - Pugnale (d6)  
 
-## Chi ti ha accolto? Tira 1d6:
+## Chi ti ha accolto? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 | **5** | Una compagnia di artisti itineranti. Per un po’, sono stati come una famiglia per te. Poi una mattina ti sei svegliato e loro erano spariti senza una spiegazione. Ottieni un **Libro di Storie**, un **Pugnale** (d6) e molte domande senza risposta.                                                                                                                                                               |
 | **6** | I monaci di un monastero nascosto nella foresta. Le loro regole divennero troppo rigide, e scappasti di nascosto. Prendi un **Abito Monastico** (caldo, _minuto_) e un **Libro di Incantesimi** di _Controllo delle Piante_. Controllo delle Piante: Le piante e gli alberi vicini ti obbediscono e possono muoversi lentamente. _Delle foglie crescono lungo la rilegatura, e odora leggermente di decomposizione._ |
 
-## Cosa tiene lontana la cattiva sorte? Tira 1d6:
+## Cosa tiene lontana la cattiva sorte? Tira 1d6
 
 |       |                          |                                                                                                                                                  |
 | ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |

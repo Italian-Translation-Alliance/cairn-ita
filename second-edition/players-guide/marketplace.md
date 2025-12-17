@@ -26,7 +26,7 @@ grand_parent: Seconda Edizione
 | --------------------------------------------------------------------------- | --- |
 | Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)                       | 5   |
 | Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)                      | 10  |
-| Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, *ingombrante*) | 20  |
+| Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, _ingombrante_) | 20  |
 | Fionda (d6 danno)                                                           | 5   |
 | Arco (d6 danno, _ingombrante_)                                              | 20  |
 | Balestra (d8 danno, _ingombrante_)                                          | 30  |

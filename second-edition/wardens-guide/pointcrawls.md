@@ -24,34 +24,33 @@ Il metodo seguente si basa fortemente sulle procedure di Esplorazione della Natu
 I tempi di viaggio tra i vari punti sono stati determinati come segue (assumendo che il party viaggi a piedi):
 
 - Il viaggio tra i punti **1** e **2** dura 6 Turni di Guardia:
-  - Aggiungi due turni per la distanza del percorso _media_.
-  - Aggiungi un turno per il _sentiero_ attraverso montagne e foreste.
-  - Aggiungi due turni per il terreno _pericoloso_ montano e uno per la foresta.
+  - Aggiungi due turni per la distanza del percorso *media*.
+  - Aggiungi un turno per il *sentiero* attraverso montagne e foreste.
+  - Aggiungi due turni per il terreno *pericoloso* montano e uno per la foresta.
 
 - Il viaggio tra i punti **2** e **3** dura 4 Turni di Guardia:
-  - Aggiungi un turno per la distanza del percorso _breve_.
-  - Aggiungi un turno per il _sentiero_ montano.
-  - Aggiungi due turni per il terreno _pericoloso_ montano.
+  - Aggiungi un turno per la distanza del percorso *breve*.
+  - Aggiungi un turno per il *sentiero* montano.
+  - Aggiungi due turni per il terreno *pericoloso* montano.
 
 - Il viaggio tra i punti **2** e **4** dura 3 Turni di Guardia:
-  - Aggiungi due turni per la distanza del percorso _media_.
-  - Nessuna penalità per il viaggio su _strada_ mantenuta.
-  - Aggiungi un turno per il terreno _difficile_ della foresta.
+  - Aggiungi due turni per la distanza del percorso *media*.
+  - Nessuna penalità per il viaggio su *strada* mantenuta.
+  - Aggiungi un turno per il terreno *difficile* della foresta.
 
 - Il viaggio tra i punti **4** e **5** dura 4 Turni di Guardia:
-  - Aggiungi un turno per la distanza del percorso _breve_.
-  - Aggiungi un turno per il _sentiero_ nella palude.
-  - Aggiungi due turni per il terreno _pericoloso_ paludoso.
+  - Aggiungi un turno per la distanza del percorso *breve*.
+  - Aggiungi un turno per il *sentiero* nella palude.
+  - Aggiungi due turni per il terreno *pericoloso* paludoso.
 
 - Il viaggio tra i punti **4** e **6** dura 4 Turni di Guardia:
-  - Aggiungi due turni per la distanza del percorso _media_.
-  - Aggiungi un turno per il _sentiero_ attraverso le pianure.
-  - Nessuna penalità per il terreno _facile_ delle pianure.
+  - Aggiungi due turni per la distanza del percorso *media*.
+  - Aggiungi un turno per il *sentiero* attraverso le pianure.
+  - Nessuna penalità per il terreno *facile* delle pianure.
 
 - Il viaggio verso il punto **7**, da qualsiasi altro punto, richiede almeno 5 Turni di Guardia:
-  - Aggiungi due turni per la distanza del percorso _media_.
-  - Aggiungi due turni per il viaggio attraverso la _natura selvaggia_.
-  - Aggiungi un turno per il terreno _difficile_ della foresta.
-
+  - Aggiungi due turni per la distanza del percorso *media*.
+  - Aggiungi due turni per il viaggio attraverso la *natura selvaggia*.
+  - Aggiungi un turno per il terreno *difficile* della foresta.
 
 [![Cliccami!]({{ site.baseurl }}/img/2e/pointcrawl-example-map.png "Clicca per allargare"){:height="60%" width="60%"}]({{ site.baseurl }}/img/2e/pointcrawl-example-map.png)

@@ -23,7 +23,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 - Bussola
 - Pugnale (d6)
 
-## Per quali canzoni sei più conosciuto? Tira 1d6:
+## Per quali canzoni sei più conosciuto? Tira 1d6
 
 |       |                                                                                                                                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 | **5** | _Canto del Ruscello Argenteo_. Una ninna nanna senza parole che imita lo scorrere dell’acqua. Prendi un **Flauto di Pietra** che può calmare quasi ogni fiume.                                                                           |
 | **6** | _Il Tordo e il Prato_. Un racconto cupo narrato in coro alternato. Parti con una **Piuma d’Oca** (1 utilizzo, _minuto_). Una mappa disegnata con questa penna rivela il percorso più rapido tra due punti.                             |
 
-## Come ti mantieni durante i viaggi? Tira 1d6:
+## Come ti mantieni durante i viaggi? Tira 1d6
 
 |       |                       |                                                                                                                                                                                                 |
 | ----- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

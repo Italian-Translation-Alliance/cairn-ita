@@ -23,7 +23,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 - Guanti (_minuto_)  
 - Martello (d6)
 
-## Qual è il tuo mestiere? Tira 1d6:
+## Qual è il tuo mestiere? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,7 +34,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 | **5** | Offri protezione come servizio, osservando silenziosamente mentre il denaro passa di mano. Parti con **+d4 PF**, una **Spada Lunga** (d10, _ingombrante_) e un **Farsetto d'Arme** (+1 Armatura).                                                                              |
 | **6** | Recuperi stagno e ferro grezzi dai campi di battaglia, strappando denti da cadaveri ancora caldi. Parti con un **Asinello** giovane (+4 slot, lento), una **Balestra** (d8, _ingombrante_) e una **Sega** (d6).                                                                |
 
-## Cosa ti tira sempre fuori dai guai? Tira 1d6:
+## Cosa ti tira sempre fuori dai guai? Tira 1d6
 
 |       |                          |                                                                                                                                                                                                |
 | ----- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

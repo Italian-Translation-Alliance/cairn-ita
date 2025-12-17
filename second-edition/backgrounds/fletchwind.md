@@ -23,7 +23,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - Cuoio Bollito (1 Armatura)  
 - Unguento di Cuoreradice (ripristina 1d4 FOR, 1 utilizzo)
 
-## Come hai ottenuto il tuo arco? Tira 1d6:
+## Come hai ottenuto il tuo arco? Tira 1d6
 
 |       |                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 | **5** | **Addestramento**. Se sei il primo ad attaccare, gli attacchi in mischia contro di te sono _compromessi_ finché non subisci danni alla FOR.   |
 | **6** | **Esplorazione**. Quando esegui l’azione Viaggio, la tua presenza riduce la possibilità di perdersi di un grado (es. 4 su 6 diventa 3 su 6).  |
 
-## Di che legno è fatto il tuo arco? Tira 1d6:
+## Di che legno è fatto il tuo arco? Tira 1d6
 
 |       |                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------ |

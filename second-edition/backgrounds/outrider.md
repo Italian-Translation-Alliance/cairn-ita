@@ -23,7 +23,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 - Balestra (d8, _ingombrante_)
 - Cannocchiale
 
-## Quale codice o principio personale segui? Tira 1d6:
+## Quale codice o principio personale segui? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                              |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,7 +34,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 | **5** | **Fedeltà al lavoro**: La tua parola è sacra. Una volta accettato un incarico, lo porti a termine. Ottieni un **Bastoncino dei Voti** consunto. Una volta inciso un voto sulla sua superficie, il bastone si indurisce (d8) finché non viene completato. Si spezza in due se il voto viene infranto.         |
 | **6** | **Pagare sempre i debiti**: Ripaghi sempre ciò che devi, in monete o in natura. Non accetti nulla di meno dagli altri. Ottieni un **Registro Nascosto**, poi tira una seconda volta sulla tabella dei **Legami**.                                                                                            |
 
-## Di che razza è il tuo cavallo? Tira 1d6:
+## Di che razza è il tuo cavallo? Tira 1d6
 
 |       |                       |                                                                                                                     |
 | ----- | --------------------- | ------------------------------------------------------------------------------------------------------------------- |

@@ -14,16 +14,16 @@ grand_parent: Seconda Edizione
 Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 ## Equipaggiamento Iniziale
- 
+
 - 3d6 Pezzi d'oro
 - Razioni (3 utilizzi)
-- Torcia (3 utilizzi) 
+- Torcia (3 utilizzi)
 - Libro d'incantesimi (_Boscaglia_: una fitta barriera di alberi e rovi larga fino a 15 metri spunta all’improvviso. _Avvolto da viticci che devono essere recisi ogni volta che viene usato._)  
 - Pugnale di ferro(d6)
 - Sacchetto di erbe (ripristina 1 FOR, 3 utilizzi)  
 - Tuta mimetica
 
-## Cosa hai riportato indietro dalla Corte Oscura? Tira 1d6:
+## Cosa hai riportato indietro dalla Corte Oscura? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                   |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 | **5** | Una **Spina di Rovo**. Può perforare qualsiasi materiale organico (in modo doloroso), ma quando viene rimossa non lascia tracce.                                                                                                                                  |
 | **6** | Il **Vero Nome** di una creatura fatata. Usalo per evocare il suo possessore e ottenere un grande favore, una sola volta. Potresti anche venderlo, se trovi l'acquirente giusto.                                                                                  |
 
-## Quale intruglio porti con te, e quali ingredienti rari hai raccolto per crearlo? Tira 1d6:
+## Quale intruglio porti con te, e quali ingredienti rari hai raccolto per crearlo? Tira 1d6
 
 |       |                               |                                                                                                                                                                                            |
 | ----- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

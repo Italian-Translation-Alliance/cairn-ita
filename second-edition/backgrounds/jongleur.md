@@ -23,7 +23,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 - Giubba Portafortuna (+1 Armatura)  
 - Fionda (d6)
 
-## Cosa è successo alla tua ultima esibizione? Tira 1d6:
+## Cosa è successo alla tua ultima esibizione? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 | **5** | Sei stato sfigurato da un incidente sul palco. Il pubblico ha applaudito, credendolo parte dello spettacolo. Ottieni una **Corazza da Scena** vissuta (1 Armatura), una cicatrice memorabile e una paura per gli applausi.                                                                                                              |
 | **6** | Le tue abilità con i burattini erano pari solo alla tua bravura nell’imitazione. Eri così bravo che sei stato marchiato (letteralmente) come stregone e bandito. Ottieni un **Burattino Inquietante** e un **Teschio di Coniglio** (_minuto_) contro gli incanti.                                                                       |
 
-## Quale oggetto non sei riuscito a lasciare indietro? Tira 1d6:
+## Quale oggetto non sei riuscito a lasciare indietro? Tira 1d6
 
 |       |                         |                                                                                                                           |
 | ----- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |

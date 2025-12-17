@@ -13,7 +13,7 @@ Un *forestcrawl* è un metodo semplice per esplorare una grande area boschiva, s
 
 ### Esplorare il Bosco
 
-- Segui le stesse regole di esplorazione dei _Dungeon_ presenti nella Guida del Giocatore, ma al posto della tabella degli Eventi del Dungeon usa quella degli **Eventi della Natura Selvaggia**.
+- Segui le stesse regole di esplorazione dei *Dungeon* presenti nella Guida del Giocatore, ma al posto della tabella degli Eventi del Dungeon usa quella degli **Eventi della Natura Selvaggia**.
 - Se il party decide di uscire dal sentiero e farsi strada nel bosco, il Custode dovrebbe chiarire subito i costi: tempo extra, fatica, attrezzi speciali eventualmente necessari e pericoli evidenti. Tagliare per il bosco attiva automaticamente un tiro sulla tabella degli Eventi della Natura Selvaggia.
 - I punti di un *forestcrawl* sono vicini tra loro. Se si seguono sentieri ben segnati, una piccola foresta (10-15 POI) può essere esplorata in una singola Guardia.
 - Affidati alla fiction e al buon senso per determinare quanta luce solare resta, se c’è un’area adatta al riposo, e quali rischi o difficoltà presenta il bosco al calare del buio.
@@ -44,7 +44,7 @@ Segui questa procedura per generare qualsiasi zona boscosa in una regione. Se em
 
 Tira sulla tabella [Descrizione della Foresta](#descrizione-della-foresta-1) e annota i risultati sul tuo quaderno. Questa tabella descrive sia come la foresta viene percepita dagli estranei, sia eventuali elementi naturali unici che la caratterizzano. Se hai generato questa foresta usando le procedure del capitolo *Generazione Ambientazione*, considera in che modo il **Punto di Riferimento** associato influisce sull’area.
 
-> I Punti di Riferimento aiutano i viaggiatori a orientarsi tra la vegetazione fitta, fungendo da riferimenti geografici: alberi insolitamente alti, torri di guardia, e simili. La maggior parte si può vedere solo arrampicandosi su un albero, ma alcuni sono abbastanza grandi da distinguersi chiaramente nel verde. Alcuni punti sono _uditi_, più che visti.
+> I Punti di Riferimento aiutano i viaggiatori a orientarsi tra la vegetazione fitta, fungendo da riferimenti geografici: alberi insolitamente alti, torri di guardia, e simili. La maggior parte si può vedere solo arrampicandosi su un albero, ma alcuni sono abbastanza grandi da distinguersi chiaramente nel verde. Alcuni punti sono *uditi*, più che visti.
 
 ### Descrizione della Foresta
 
@@ -78,7 +78,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 In un certo senso, il Bosco è un’entità viva e unica, con un cervello distribuito in ogni albero e pianta, connesso da una rete di spine e rami. Gli animali e le piante sono i suoi arti, guidati dai suoi desideri, paure e bisogni. Le creature che abitano al suo interno sono il suo sangue, e rispondono al suo richiamo proteggendolo dagli intrusi. Il Bosco proteggerà sempre se stesso e i suoi figli.
 
-Tira sulle tabelle dei [Tratti](#tratti) e degli [Obiettivi della Foresta](#obbiettivi-della-foresta), e annota i risultati sul tuo quaderno. Questi risultati definiscono l’atteggiamento generale delle creature che popolano la foresta, oltre a ciò che la foresta _desidera_ nel suo insieme.
+Tira sulle tabelle dei [Tratti](#tratti) e degli [Obiettivi della Foresta](#obbiettivi-della-foresta), e annota i risultati sul tuo quaderno. Questi risultati definiscono l’atteggiamento generale delle creature che popolano la foresta, oltre a ciò che la foresta *desidera* nel suo insieme.
 
 ### Tratti
 
@@ -161,9 +161,9 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 
 ### Tipi di Sentiero
 
-- I **Sentieri Standard** sono percorsi evidenti o ben battuti tra due punti. _Rappresentati da una linea spessa._
-- I **Sentieri Nascosti** non compaiono su nessuna mappa conosciuta. La loro scoperta comporta sempre un costo. _Rappresentati da una linea tratteggiata._
-- I **Sentieri Condizionati** possono essere bloccati o richiedere strumenti speciali (barche, attrezzatura da arrampicata, ecc.) per essere attraversati. Alcuni potrebbero essere impossibili da percorrere senza una guida o una mappa. _Rappresentati da una linea incrociata._
+- I **Sentieri Standard** sono percorsi evidenti o ben battuti tra due punti. *Rappresentati da una linea spessa.*
+- I **Sentieri Nascosti** non compaiono su nessuna mappa conosciuta. La loro scoperta comporta sempre un costo. *Rappresentati da una linea tratteggiata.*
+- I **Sentieri Condizionati** possono essere bloccati o richiedere strumenti speciali (barche, attrezzatura da arrampicata, ecc.) per essere attraversati. Alcuni potrebbero essere impossibili da percorrere senza una guida o una mappa. *Rappresentati da una linea incrociata.*
 
 ### Disegna i Sentieri
 
@@ -173,7 +173,7 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
   - Alcuni percorsi sono **Nascosti**, rappresentati da una linea tratteggiata.
   - Se possibile, crea incroci (linee che si sovrappongono) senza POI tra di loro.
 - I **sentieri** veri e propri si disegnano sopra i percorsi che collegano 3-4 punti in modo evidente, coerente o interessante.
-  - I sentieri nascosti e i tratti troppo brevi o isolati di solito _non_ fanno parte di un sentiero.
+  - I sentieri nascosti e i tratti troppo brevi o isolati di solito *non* fanno parte di un sentiero.
   - Usa matite colorate o pastelli per distinguere i sentieri tra loro.
 - Tira sulla tabella [Tipi di Sentiero](#tipi-di-sentiero-1) per ogni sentiero, e annota i risultati nel tuo quaderno.
 
@@ -205,12 +205,12 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Traccia da Foraggiamento              | Tracce di serpente       |
 | **20**  | Vecchia Strada del Taglialegna        | Vegetazione danneggiata  |
 
-> Se alcuni risultati sembrano strani o fuori contesto, va bene! Usa queste combinazioni inaspettate come spunto per nuove domande, tipo: “Perché _c'è_ una vecchia strada da taglio che porta al covo dei banditi?” Detto questo, se fai fatica a far funzionare un risultato, sentiti libero di sceglierne uno più adatto!
+> Se alcuni risultati sembrano strani o fuori contesto, va bene! Usa queste combinazioni inaspettate come spunto per nuove domande, tipo: “Perché *c'è* una vecchia strada da taglio che porta al covo dei banditi?” Detto questo, se fai fatica a far funzionare un risultato, sentiti libero di sceglierne uno più adatto!
 
 #### Mostri
 
 I mostri sono qualsiasi creatura pericolosa che si possa incontrare nella foresta. Questo non significa che attacchino gli intrusi a vista! I mostri non stanno lì ad “aspettare” che i personaggi li trovino: hanno i propri obiettivi e desideri. Alcuni possono parlare, ragionare, o persino supplicare per la propria vita.  
-_Persino le persone possono essere mostri._
+*Persino le persone possono essere mostri.*
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
 
@@ -267,7 +267,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **18**  | Tenuta Invasa dalle Piante | Uno Sprite Egocentrico                       |
 | **19**  | Torre di Guardia in Rovina | Uomini Incappucciati che Compiono un Rituale |
 | **20**  | Villa Abbandonata          | Visioni del Passato                          |
-
 
 #### Rifugi
 
@@ -355,7 +354,7 @@ Lo spirito della foresta desidera ardentemente liberarsi della malattia che la s
 
 Per decenni, l’ordine e la stabilità della foresta sono stati garantiti da un accordo tra la strega del bosco **Anglwyst** e **Sweeney**, il campione del Bosco. La strega usava la sua magia per mantenere sani gli alberi e gli animali, mentre il campione vigilava affinché i cacciatori non uccidessero creature considerate essenziali per l’equilibrio del Bosco (individuate da una ciocca bianca nel pelo). Il loro patto era permanente e immutabile, e la foresta fu divisa, impedendo a entrambi di attraversare i confini stabiliti.
 
-Ma dopo la morte della vecchia strega, uno dei suoi incantesimi è andato fuori controllo, ed è diventato pericoloso. Ora una malattia magica ha iniziato a infettare alberi e animali, minacciando di consumare l’intera foresta. I cacciatori la chiamano _Avvizzimento_, perché prosciuga la vita di tutto ciò che tocca.
+Ma dopo la morte della vecchia strega, uno dei suoi incantesimi è andato fuori controllo, ed è diventato pericoloso. Ora una malattia magica ha iniziato a infettare alberi e animali, minacciando di consumare l’intera foresta. I cacciatori la chiamano *Avvizzimento*, perché prosciuga la vita di tutto ciò che tocca.
 
 ## Sentieri
 
@@ -383,7 +382,7 @@ Sweeney permette agli estranei di cacciare solo su questo sentiero, e da nessun�
 
 ### 1 – Campo Malato [Ingresso]
 
-**Rovina**: _Campo Pietrificato_, _Ricoperto di Flora Insolita_
+**Rovina**: *Campo Pietrificato*, *Ricoperto di Flora Insolita*
 
 Ai margini della foresta si trova un **falò** spento, con accanto mucchi di **teli da campo** grigio scuro. Piante, fiori e altra **flora** crescono rigogliose sull’intera area. Un **sentiero** a **Nord** si inoltra nella foresta.
 
@@ -397,7 +396,7 @@ Ai margini della foresta si trova un **falò** spento, con accanto mucchi di **t
 
 ### 2 – Tomba d’Ambra
 
-**Pericolo**: _Trappola di Resina_, _Fantasma Intrappolato nel Cristallo_
+**Pericolo**: *Trappola di Resina*, *Fantasma Intrappolato nel Cristallo*
 
 Un boschetto tondeggiante di **alberi** color vermiglio circonda una grande **pozza** di resina gorgogliante. Al centro della pozza si intravede un **oggetto** appuntito di colore verde.
 
@@ -407,7 +406,7 @@ Un boschetto tondeggiante di **alberi** color vermiglio circonda una grande **po
 - **Oggetto**: Sembra fatto di cristallo.
   - Scivoloso. Difficile e lento da estrarre senza strumenti adeguati (guanti, bastone, ecc.).
   - All’interno è intrappolato lo spirito di un famiglio chiamato **Gundersnatch**.
-  - Se infranto, un’ombra dalle fattezze di un enorme uccello si alzerà sopra il party, per poi svanire. Qualsiasi personaggio con la condizione _privato_ la vedrà rimossa.
+  - Se infranto, un’ombra dalle fattezze di un enorme uccello si alzerà sopra il party, per poi svanire. Qualsiasi personaggio con la condizione *privato* la vedrà rimossa.
 
 #### Gundersnatch
 
@@ -417,7 +416,7 @@ Un boschetto tondeggiante di **alberi** color vermiglio circonda una grande **po
 
 ### 3 – Capanna di Sweeney
 
-**Rifugio**: _Capanna dell’Eremita_, _Presenta un Pasto Pronto_
+**Rifugio**: *Capanna dell’Eremita*, *Presenta un Pasto Pronto*
 
 In cima a una piccola collina sorge una **capanna** di legno. A Ovest dell’edificio ci sono file di piccoli **tronchi**, mentre a Est è montata una grande **rastrelliera**.
 
@@ -442,17 +441,17 @@ Molto spartana, contiene solo una **branda** e un piccolo **tavolo** da pranzo.
 12 PF, 2 Armatura, 13 FOR, 15 DES, 17 VOL, arco di tasso (d8)
 
 - Un vecchio brontolone ricoperto di muschio. Se ferito, il Bosco lo protegge e lo guarisce. Ogni volta che muore, ritorna più verde di prima.
-- Vorrebbe fermare l’_Avvizzimento_, ma non può entrare nel punto **6** a causa del suo patto con Anglwyst. Come prova d’onore e abilità, chiederà al party di aiutarlo a scacciare i Ragni Giganti dal punto **9**.
+- Vorrebbe fermare l’*Avvizzimento*, ma non può entrare nel punto **6** a causa del suo patto con Anglwyst. Come prova d’onore e abilità, chiederà al party di aiutarlo a scacciare i Ragni Giganti dal punto **9**.
   - Se il party riesce nella prima impresa, Sweeney donerà loro un **Ciondolo di Karnon**, e prometterà ulteriori ricchezze se riusciranno a spezzare la magia che sta devastando la foresta al punto **6**.
   - Se il party riesce a fermare l’Avvizzimento, Sweeney aprirà il passaggio segreto per il punto **4**, concedendo loro l’accesso alla Capanna.
 
 #### Ciondolo di Karnon
 
-- Un amuleto di legno che raffigura un uomo con barba e corna. Finché ci si trova nella foresta, si può aggiungere una **Fatica** per prendere in prestito i sensi di una creatura vicina. _Minuto_.
+- Un amuleto di legno che raffigura un uomo con barba e corna. Finché ci si trova nella foresta, si può aggiungere una **Fatica** per prendere in prestito i sensi di una creatura vicina. *Minuto*.
 
 ### 4 – Capanna-Pollo di Anglwyst
 
-**Rifugio**: _Capanna con le Gambe_, _Caccia Vietata_
+**Rifugio**: *Capanna con le Gambe*, *Caccia Vietata*
 
 Una **capanna** cilindrica, con camino, coperta da **vegetazione** fitta si trova ai margini di una piccola radura. Un **cartello** di legno è piantato nel terreno all’ingresso Ovest. Sul lato Nord è montata una lunga bobina di **rete da pollaio**.
 
@@ -480,7 +479,7 @@ Decorata in modo ricco. Accanto al camino a Nord si trova un grande **barile** d
 
 ### 5 – Albero all’Incrocio
 
-**Mostro**: _Grizzly_, _Fa la Guardia_
+**Mostro**: *Grizzly*, *Fa la Guardia*
 
 Un lungo **albero** giace in mezzo a una piccola radura, nel punto in cui due **sentieri** si incrociano. A Sud, una ripida **scogliera** scende verso il basso.
 
@@ -500,13 +499,13 @@ Un lungo **albero** giace in mezzo a una piccola radura, nel punto in cui due **
 
 ### 6 – Santuario Grigio
 
-**Pericolo**: _Troll Congelato_, _Incantesimo Andato Storto_
+**Pericolo**: *Troll Congelato*, *Incantesimo Andato Storto*
 
 Un **santuario** nella foresta grigia si erge all’incrocio di quattro sentieri. Al centro, due enormi **statue** sembrano impegnate in una lotta.
 
 - **Santuario**: Tutta la vegetazione nei dintorni è spenta e priva di vita, come se il colore fosse stato risucchiato via.
   - L’aria vibra di magia, che si concentra soprattutto sopra le due statue.
-  - L’effetto dell’_Avvizzimento_ è evidente ancora prima di entrare nella radura: si sta diffondendo in ogni direzione.
+  - L’effetto dell’*Avvizzimento* è evidente ancora prima di entrare nella radura: si sta diffondendo in ogni direzione.
   - La materia vegetale portata nella radura comincerà presto a pietrificarsi, anche senza contatto diretto.
 - **Statue**: Due troll di legno lottano per un oggetto brillante, sollevato in alto da quello più grande.
   - L’oggetto è uno **Specchio dell’Epoca**, una reliquia il cui potere ha destabilizzato il delicato incantesimo che un tempo rendeva questo luogo un rifugio rigoglioso per la vita della foresta.
@@ -515,7 +514,7 @@ Un **santuario** nella foresta grigia si erge all’incrocio di quattro sentieri
 
 #### Specchio dell’Epoca
 
-- Una volta al giorno, chi lo possiede può rivedere 5 minuti della propria vita in terza persona. L’uso prolungato può creare dipendenza. Chi non lo usa regolarmente soffre la condizione di _privazione_.
+- Una volta al giorno, chi lo possiede può rivedere 5 minuti della propria vita in terza persona. L’uso prolungato può creare dipendenza. Chi non lo usa regolarmente soffre la condizione di *privazione*.
 - **Ricarica**: Cattura il riflesso di un’altra persona nello specchio senza che se ne accorga.
 
 #### Troll di Legno
@@ -528,7 +527,7 @@ Un **santuario** nella foresta grigia si erge all’incrocio di quattro sentieri
 
 ### 7 – Abbazia Allagata
 
-**Rovine**: _Monastero Allagato_, _Nascondiglio Nascosto_
+**Rovine**: *Monastero Allagato*, *Nascondiglio Nascosto*
 
 Tre **edifici** sommersi emergono dal centro di un piccolo stagno, con i loro tetti **conici** che spuntano appena dalla superficie dell’acqua. A Nord, un letto di fiume asciutto sfocia direttamente nello stagno. Il sentiero a Est è costeggiato da decine di **mucchi di pietre**.
 
@@ -546,16 +545,16 @@ Tre **edifici** sommersi emergono dal centro di un piccolo stagno, con i loro te
 - **Arazzi**: Ammuffiti e irrecuperabili.
   - Un tempo raffiguravano l’abbazia al suo apice e la vita dei monaci che vi abitavano.
 - **Pavimento**: Una delle assi di legno è meno marcita delle altre. Ha un odore floreale.
-  - Sotto si trova un incantesimo nascosto: _Sentiero del Desiderio_.
+  - Sotto si trova un incantesimo nascosto: *Sentiero del Desiderio*.
 - **Scala**: Completamente sommersa. Le stanze sottostanti contengono solo cadaveri galleggianti e libri rovinati.
 
-#### _Sentiero del Desiderio_
+#### *Sentiero del Desiderio*
 
-- Mostra il percorso più breve verso l’oggetto del vero _desiderio_ del cuore. _Profuma di lavanda. Chi lo legge più di una volta al giorno subisce una Fatica aggiuntiva. L’effetto è cumulativo._
+- Mostra il percorso più breve verso l’oggetto del vero *desiderio* del cuore. *Profuma di lavanda. Chi lo legge più di una volta al giorno subisce una Fatica aggiuntiva. L’effetto è cumulativo.*
 
 ### 8 – Massa Nera
 
-**Pericolo**: _Nido di Ragni Giganti_, _Creatura Ferita_
+**Pericolo**: *Nido di Ragni Giganti*, *Creatura Ferita*
 
 Un **cinghiale** nero zoppica rumorosamente vicino a una grande **massa** di fili neri e alberi. Dalle cime pendono **carcasse** secche avvolte nella seta. A Sud, un letto di **fiume** asciutto è pieno di legna ammucchiata.
 
@@ -565,7 +564,7 @@ Un **cinghiale** nero zoppica rumorosamente vicino a una grande **massa** di fil
   - È il nido di 3 **Ragni di Seta Nera**, che attaccheranno chiunque tocchi il cibo o si avvicini troppo.
   - Dal nido si possono raccogliere 200po in seta nera: una corda di 18 metri molto resistente e idrorepellente, ambita da molti.
 - **Carcasse**: Per lo più animali. Una sagoma umana si intravede tra le ragnatele.
-  - Era un cacciatore che ha ignorato gli avvertimenti di Sweeney e ha cacciato a nord del _Sentiero del Cacciatore_. Addosso ha Razioni (2 utilizzi), 33po e un coltello da fianco (d6).
+  - Era un cacciatore che ha ignorato gli avvertimenti di Sweeney e ha cacciato a nord del *Sentiero del Cacciatore*. Addosso ha Razioni (2 utilizzi), 33po e un coltello da fianco (d6).
 - **Fiume**: Grandi pezzi di legno sparsi ovunque. Alcuni sono avvolti da fili di seta nera.
   - Era una diga di castori che teneva l’acqua sotto controllo. I ragni l’hanno distrutta per costruire il loro nido. L’allagamento ha distrutto l’abbazia al punto **7**, ma il fiume si è prosciugato solo dopo una recente siccità.
 
@@ -581,13 +580,13 @@ Un **cinghiale** nero zoppica rumorosamente vicino a una grande **massa** di fil
 
 ### 9 – Capanno da Pesca [Uscita]
 
-**Rifugio**: _Capanno da Pesca_, _Occupato da Disertori dell’Esercito_
+**Rifugio**: *Capanno da Pesca*, *Occupato da Disertori dell’Esercito*
 
 Un **capanno** traballante costruito accanto a un piccolo **lago**, a Nord. Del **fumo** si alza da una griglia per cucinare sul lato Ovest, mentre **voci** forti risuonano dalla finestra rivolta a Sud.
 
 - **Capanno**: Costruito con tronchi semplici legati insieme con corde dall’aspetto recente. Fili da pesca si estendono dal lato Nord verso il lago.
 - **Lago**: Calmo, ma pieno di insetti. Un sentiero sul lato Ovest porta fuori dalla foresta.
-  -  Da tempo, nessuno pesca nel lago, che ora è sovrappopolato. Pescare qui è facilissimo.
+  - Da tempo, nessuno pesca nel lago, che ora è sovrappopolato. Pescare qui è facilissimo.
 - **Fumo**: Esce da una griglia di legno accanto a una pila di pesce fritto (4 x Razioni, 3 usi ciascuna).
 - **Voci**: Risate e parole smorzate. Si sentono almeno due voci all’interno.
   - All’interno si nascondono tre ex soldati disertori. Sono pacifisti costretti con la forza a servire nell’esercito. Cercano rifugio nell’abbazia al punto **7**, ma non ci sono ancora arrivati. Sono allegri e di buon cuore, ma assolutamente codardi.

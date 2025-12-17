@@ -17,13 +17,13 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 
 - 3d6 Pezzi d’Oro
 - Razioni (3 utilizzi)
-- Torcia (3 utilizzi) 
+- Torcia (3 utilizzi)
 - Carretto (+4 slot, _ingombrante_ se trainato)
 - Mazzo di Carte Truccate
 - Cappello Elegante (_minuto_)
 - Spada-Bastone (d6)
 
-## Come è stata smascherata la tua frode? Tira 1d6:
+## Come è stata smascherata la tua frode? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 | **5** | Sei stato maledetto da una strega di campagna per aver imbrogliato gli abitanti di un villaggio. La magia agisce in modo imprevedibile nelle tue mani (_TIRO SALVEZZA su VOL per evitare disastri_). Se sei il bersaglio di magia, lo stesso effetto si applica a chi la lancia.                                                                                                                                                |
 | **6** | Le tue "sedute spiritiche" erano in realtà una messinscena basata su un libro di incantesimi di Illusione Uditiva abilmente nascosto. Inevitabilmente, un cliente ha scoperto il tuo segreto. Parti con il **Libro di Incantesimi** e un mazzo di foulard. Illusione Uditiva: crei suoni illusori che sembrano provenire da una direzione a tua scelta. Il possesso prolungato può far confondere i pensieri altrui coi propri. |
 
-## Quale cimelio potrebbe sempre identificarti? Tira 1d6:
+## Quale cimelio potrebbe sempre identificarti? Tira 1d6
 
 |       |                         |                                                                                                                                                                                                |
 | ----- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

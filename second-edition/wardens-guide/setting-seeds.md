@@ -63,7 +63,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Tradizionale  | Stabilità        |
 | **20**  | Xenofoba      | Unificazione     |
 
-
 #### Risorse
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
@@ -301,7 +300,6 @@ I **Punti di Riferimento** sono luoghi unici e ben visibili che possono fungere 
 | **4-5** | Difficile      |
 | **6**   | Pericoloso     |
 
-
 ### Facile
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
@@ -386,7 +384,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Terre Desolate | Uomo sulla Montagna      |
 | **20**  | Torbiere       | Vulcano Attivo           |
 
-
 ### Fiumi, Mari e Laghi
 
 Ogni regione dovrebbe includere almeno una fonte d'acqua. Altrimenti, da dove verrebbero l’acqua potabile o le notizie dal resto del Reame?
@@ -411,7 +408,6 @@ Per determinare il clima medio di una regione, tira una volta sulla tabella [Cli
 | **4**  | Mite e nuvolosa     | Fresca e tempestosa  | Fredda e nuvolosa   | Gelida e tempestosa     |
 | **5**  | Fredda e ventosa    | Calda e umida        | Fresca e piovosa    | Ghiacciata e nevosa     |
 | **6**  | Fredda e piovosa    | Torbida e afosa      | Gelida e tempestosa | Ghiacciata e grandinosa |
-
 
 #### Clima Insolito
 
@@ -470,7 +466,7 @@ I Punti di Interesse su una mappa (o POI) sono generalmente suddivisi nelle segu
 | **2-3** | Curiosità            |
 | **4**   | Tana                 |
 | **5-6** | Dungeon              |
- 
+
 ### Insediamenti
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
@@ -498,7 +494,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **18**  | Rocca            | Sede di una Forgia Leggendaria   |
 | **19**  | Villa            | Si Muove o Ruota                 |
 | **20**  | Villaggio        | Sorvegliato da Bestie Addestrate |
-
 
 ### Tappe
 
@@ -584,7 +579,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Tana Nascosta         | Urla Continue           |
 | **20**  | Torre Abbandonata     | Uscita Nascosta         |
 
-
 ### Dungeon
 
 Tira 1d10 per ciascuna colonna e combina i risultati.
@@ -628,6 +622,7 @@ I **Sentieri** fungono da collegamenti geografici sulla mappa, spaziando da stra
 ### Disegnare i Sentieri
 
 Disegnare i Sentieri
+
 - A partire dal Cuore, crea da 1 a 4 sentieri tra ciascun PDI.
   - Crea anelli, diramazioni, vicoli ciechi e scorciatoie tra i PDI.
   - Alcuni sentieri possono essere catene legate a un tipo di terreno (passi montani, fiumi, ecc.).

@@ -12,6 +12,7 @@ grand_parent: Seconda Edizione
 ## Quando Effettuare un Tiro
 
 Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro salvezza:
+
 - Quando vuole evitare le conseguenze negative di un’azione rischiosa.
 - Quando agisce in opposizione a un altro personaggio, PNG o creatura.
 - Quando aiuta uno o più personaggi in un’azione rischiosa.
@@ -37,17 +38,17 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Freya**: _"Eh? Non ti sento, con tutto questo ringhiare!"_
 
-**Custode**: _"All’improvviso, la guardia si ferma e fischia, richiamando il suo animale. Poi tira una leva dietro di sé, e un forte rumore di ferraglia comincia a provenire dal corridoio a Est. Ora capite cosa ha fatto: un pesante cancello di ferro sta scendendo dal soffitto. Se si chiude, resterete intrappolati in questa parte della prigione! Wolfram può passare senza problemi. Lucius e Freya dovranno tirare un salvezza su DES per riuscire a passare."_ 
+**Custode**: _"All’improvviso, la guardia si ferma e fischia, richiamando il suo animale. Poi tira una leva dietro di sé, e un forte rumore di ferraglia comincia a provenire dal corridoio a Est. Ora capite cosa ha fatto: un pesante cancello di ferro sta scendendo dal soffitto. Se si chiude, resterete intrappolati in questa parte della prigione! Wolfram può passare senza problemi. Lucius e Freya dovranno tirare un salvezza su DES per riuscire a passare."_
 
 **Wolfram**: _"Mi fermo e cerco di tenere su il cancello il più a lungo possibile. Cosa rischio?"_
 
-**Custode**: _"È un cancello massiccio. Potrebbe spezzarti le braccia. Oppure restare bloccato sotto."_ 
+**Custode**: _"È un cancello massiccio. Potrebbe spezzarti le braccia. Oppure restare bloccato sotto."_
 
-**Wolfram**: _"Lancio il fagotto oltre il cancello, poi mi preparo per afferrarlo. Lucius, Freya, voi correte avanti. Ci penso io."_ 
+**Wolfram**: _"Lancio il fagotto oltre il cancello, poi mi preparo per afferrarlo. Lucius, Freya, voi correte avanti. Ci penso io."_
 
 > Lucius e Freya accettano, e Wolfram tira un 13: successo!
 
-**Custode**: _"Gemendo, trattieni il cancello mentre le sbarre ti schiacciano braccia e spalle. Quando senti che sta per romperti in due, Lucius e Freya ti sorpassano e raggiungono la salvezza. Ti lasci andare all’indietro e il cancello cade di colpo sul pavimento di pietra con tale forza da rompere il meccanismo. Non si torna indietro! Nemmeno la guardia riuscirà più a passare."_ 
+**Custode**: _"Gemendo, trattieni il cancello mentre le sbarre ti schiacciano braccia e spalle. Quando senti che sta per romperti in due, Lucius e Freya ti sorpassano e raggiungono la salvezza. Ti lasci andare all’indietro e il cancello cade di colpo sul pavimento di pietra con tale forza da rompere il meccanismo. Non si torna indietro! Nemmeno la guardia riuscirà più a passare."_
 
 **Wolfram**: _"Come ho sempre detto: 'Dalla forza nasce la virtù!' O era 'C’è virtù nella forza?' Vabbè, aspettatemi!"_
 
@@ -59,15 +60,15 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Freya**: _"Devo squagliarmela senza che questi idioti si accorgano che ero qui. Sembra che stiano per andarsene?"_
 
-**Custode**: _"A dire il vero, uno di loro ha tirato fuori un mazzo di carte e gli altri annuiscono entusiasti. Sembra che abbiano intenzione di restare ancora un po'."_ 
+**Custode**: _"A dire il vero, uno di loro ha tirato fuori un mazzo di carte e gli altri annuiscono entusiasti. Sembra che abbiano intenzione di restare ancora un po'."_
 
-**Freya**: _"Dannazione. Beh, non c’è momento migliore di adesso, no? Torno indietro da dove sono venuta, in silenzio."_ 
+**Freya**: _"Dannazione. Beh, non c’è momento migliore di adesso, no? Torno indietro da dove sono venuta, in silenzio."_
 
-**Custode**: _"Va bene, ma prima non c’era nessuno quando sei passata. Ora non è più così. Dovrai fare un tiro salvezza su DES per evitare di essere scoperta."_ 
+**Custode**: _"Va bene, ma prima non c’era nessuno quando sei passata. Ora non è più così. Dovrai fare un tiro salvezza su DES per evitare di essere scoperta."_
 
 > Freya tira un 16: fallimento!
 
-**Custode**: _"Appena oltrepassi l’ultima trave, questa scricchiola. Tutti e sei gli uomini alzano lo sguardo e ti vedono mentre ti lanci verso il cunicolo che conduce in cucina. Non ti hanno visto bene in faccia, ma sanno che qualcuno è lassù! Urlano e sguainano le armi."_ 
+**Custode**: _"Appena oltrepassi l’ultima trave, questa scricchiola. Tutti e sei gli uomini alzano lo sguardo e ti vedono mentre ti lanci verso il cunicolo che conduce in cucina. Non ti hanno visto bene in faccia, ma sanno che qualcuno è lassù! Urlano e sguainano le armi."_
 
 **Freya**: _"Mi resta solo una bomba fumogena, e intendo usarla. Salto giù in cucina e cerco una pentola. Se ricordo bene, l’acqua fa impazzire il fumo..."_
 
@@ -79,7 +80,7 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Freya**: _"Io NON lo lascio indietro. Andate pure, ma io lo tiro fuori di lì. Sono una tagliaborse, ho amici ovunque, no? Forse potrei usare qualche un po' di gergo ladro per farmi dei contatti?"_
 
-**Custode**: _"Certamente. Puoi passare la notte a cercare contatti tra la tua gente, se vuoi."_ 
+**Custode**: _"Certamente. Puoi passare la notte a cercare contatti tra la tua gente, se vuoi."_
 
 > Il party si divide. Freya impara ciò che le serve da un ricettatore locale. (Le costa uno dei suoi pugnali gemelli, e la cosa non le va giù). Lucius intanto attende la sentenza in una cella sotto la caserma cittadina.
 
@@ -95,27 +96,27 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Lucius**: _"Salve, amico! Potrei parlare con un tuo superiore? Ho notizie importanti che potrebbero interessarlo..."_
 
-**Custode**: _"Il carceriere sogghigna mentre solleva un paio di manette."_ 
+**Custode**: _"Il carceriere sogghigna mentre solleva un paio di manette."_
 
 **Lucius**: _"L’UOMO PALLIDO DESIDERA MORIRE!"_
 
-**Custode**: _"Il carceriere si blocca, poi abbassa le manette. Annuisce una volta e ti fa cenno di seguirlo."_ 
+**Custode**: _"Il carceriere si blocca, poi abbassa le manette. Annuisce una volta e ti fa cenno di seguirlo."_
 
-**Lucius**: _"Beh, è andata bene. Cos’è, un codice per carcerieri? Per boia? In ogni caso, lo seguo."_ 
+**Lucius**: _"Beh, è andata bene. Cos’è, un codice per carcerieri? Per boia? In ogni caso, lo seguo."_
 
-**Custode**: _"Il carceriere ti conduce nel buio della prigione, lontano dalla luce. Giunto a una parete, bussa tre volte su una pietra sopra la testa. Dopo un attimo, la parete si apre e lui entra con sicurezza. All’interno, una donna dai capelli neri è seduta a una scrivania. Ti sorride e ti fa cenno di sederti."_ 
+**Custode**: _"Il carceriere ti conduce nel buio della prigione, lontano dalla luce. Giunto a una parete, bussa tre volte su una pietra sopra la testa. Dopo un attimo, la parete si apre e lui entra con sicurezza. All’interno, una donna dai capelli neri è seduta a una scrivania. Ti sorride e ti fa cenno di sederti."_
 
-**Lucius**: _"Uh oh. Posso tornare in cella? Scherzo, scherzo. Mi siedo."_ 
+**Lucius**: _"Uh oh. Posso tornare in cella? Scherzo, scherzo. Mi siedo."_
 
 **Custode**: _"Il carceriere esce. La stanza è piccola. C’è una sola porta, dietro la donna. Fuori dalla finestrella della porta, un uomo imponente fa la guardia. La donna ti sorride di nuovo: 'Benvenuto, signor... beh, non importa. C’è solo un motivo per cui sei qui. Hai pronunciato una frase che solo ladri e furfanti conoscono. E tu, chi sei davvero?'"_
 
-**Lucius**: _"E adesso? Non ho nulla da offrire... A parte, forse, la verità? Immagino che questo significhi che devo fare un tiro salvezza su VOL, giusto? Per risultare convincente."_ 
+**Lucius**: _"E adesso? Non ho nulla da offrire... A parte, forse, la verità? Immagino che questo significhi che devo fare un tiro salvezza su VOL, giusto? Per risultare convincente."_
 
-**Custode**: _"Lo faresti comunque, anche mentendo. Sei chiaramente tu quello più a rischio qui, e nonostante tu sia un ciarlatano navigato, hai l’impressione che lei veda oltre ogni bugia. In fondo, tu e lei potreste non essere così diversi."_ 
+**Custode**: _"Lo faresti comunque, anche mentendo. Sei chiaramente tu quello più a rischio qui, e nonostante tu sia un ciarlatano navigato, hai l’impressione che lei veda oltre ogni bugia. In fondo, tu e lei potreste non essere così diversi."_
 
 **Lucius**: _"Va bene. Signora: sarò onesto con lei. I miei amici e io siamo qui per entrare nel tesoro di Der Thunn. Ho sentito quella frase pochi minuti fa. Credo sia stata la mia compagna Freya a lasciarmi il messaggio. Se mi lasciate andare, farò in modo di menzionare il vostro nome... scusate, qual era?"_
 
-**Custode**: _"Katja. E ora, raccontami tutto."_ 
+**Custode**: _"Katja. E ora, raccontami tutto."_
 
 > Lucius racconta le azioni del party e i progressi fatti finora. Tira su VOL. Ottiene un 5: successo! Katja è convinta della sua sincerità.
 
@@ -135,7 +136,7 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 > Freya effettua un tiro salvezza su FOR per afferrare l’Hobgoblin e lanciarlo di sotto. Tira un 17: fallimento!
 
-**Custode**: _"Il capo hobgoblin ti afferra e ti scaglia all’indietro, facendoti precipitare oltre il ciglio del dirupo. Per fortuna, il tuo Catring si attiva consumando la sua ultima carica: riesci ad afferrare agilmente un ramo sporgente a circa tre metri sotto. Ti serviranno due turni per risalire, oppure puoi fare un tiro salvezza su DES per tentare una scalata rapida."_ 
+**Custode**: _"Il capo hobgoblin ti afferra e ti scaglia all’indietro, facendoti precipitare oltre il ciglio del dirupo. Per fortuna, il tuo Catring si attiva consumando la sua ultima carica: riesci ad afferrare agilmente un ramo sporgente a circa tre metri sotto. Ti serviranno due turni per risalire, oppure puoi fare un tiro salvezza su DES per tentare una scalata rapida."_
 
 **Freya**: _"Dannazione. Speriamo che i miei compagni riescano a cavarsela fino al mio ritorno..."_
 
@@ -145,26 +146,26 @@ Ci sono tre situazioni comuni in cui un personaggio dovrebbe effettuare un tiro 
 
 **Custode**: _"Il sentiero a Nord passa sopra un arco contorto sospeso su un oscuro baratro. A Est, un passaggio roccioso scende verso l’oscurità sottostante. Cosa fate?"_
 
-**Wolfram**: _"La nostra preda dovrebbe trovarsi in cima a questo maledetto posto! Propongo di proseguire verso Nord."_ 
+**Wolfram**: _"La nostra preda dovrebbe trovarsi in cima a questo maledetto posto! Propongo di proseguire verso Nord."_
 
 **Custode**: _"Gli altri sono d’accordo? Bene. Supponendo che manteniate la stessa formazione..."_
 
-**Wolfram**: _"Aspettate! Vado io davanti. Il mio Ordine può rivelare ciò che è nascosto, e sento che c’è qualcosa di sinistro più avanti. Guiderò io, avanzando con cautela, pronto con il mio Frammento di Vetro Vuoto."_ 
+**Wolfram**: _"Aspettate! Vado io davanti. Il mio Ordine può rivelare ciò che è nascosto, e sento che c’è qualcosa di sinistro più avanti. Guiderò io, avanzando con cautela, pronto con il mio Frammento di Vetro Vuoto."_
 
 **Custode**: _"Wolfram, ti fai avanti con attenzione sul ponte, che geme e scricchiola a ogni passo. Sembra solido sotto i piedi, però. Quando raggiungete il centro, il terreno comincia a tremare violentemente e si riempie di crepe. Sta per crollare da dietro!"_
 
 **Wolfram**: _"Se corriamo dall’altra parte, abbiamo buone probabilità di farcela?"_
 
-**Custode**: _"Tu e Lucius siete più avanti e quindi meno a rischio. Ma Freya è in fondo alla fila, e dovrà fare un tiro salvezza su DES per arrivare dall’altra parte sana e salva."_ 
+**Custode**: _"Tu e Lucius siete più avanti e quindi meno a rischio. Ma Freya è in fondo alla fila, e dovrà fare un tiro salvezza su DES per arrivare dall’altra parte sana e salva."_
 
 **Freya**: _"Dovevi proprio metterti in testa, eh, Wolfie? Ho una corda. Posso lanciarla a uno degli altri?"_
 
-**Custode**: _"Sì, puoi farlo. Wolfram ha le mani occupate, quindi Lucius è la scelta migliore. Puoi lanciargli la corda senza problemi, ma sarà necessario un tiro salvezza su FOR. Essendo tu la più a rischio, dovrai effettuare il tiro."_ 
+**Custode**: _"Sì, puoi farlo. Wolfram ha le mani occupate, quindi Lucius è la scelta migliore. Puoi lanciargli la corda senza problemi, ma sarà necessario un tiro salvezza su FOR. Essendo tu la più a rischio, dovrai effettuare il tiro."_
 
 **Freya**: _"Un amico e una corda? Mi sembrano buone chance. Facciamolo!"_
 
 > Freya tira un 5: successo!
 
-**Custode**: _"Mentre il ponte crolla, Wolfram e Lucius corrono verso l’altro lato, con Freya subito dietro. Proprio quando il terreno svanisce sotto i suoi piedi, Freya lancia la corda a Lucius. Il ponte scompare dietro di lei mentre sbatte contro la parete, aggrappandosi con tutte le forze. Lentamente, si arrampica lungo la parete, sforzandosi di raggiungere il bordo qualche metro più sopra. Alla fine, si tira su e si ritrova sul pavimento polveroso."_ 
+**Custode**: _"Mentre il ponte crolla, Wolfram e Lucius corrono verso l’altro lato, con Freya subito dietro. Proprio quando il terreno svanisce sotto i suoi piedi, Freya lancia la corda a Lucius. Il ponte scompare dietro di lei mentre sbatte contro la parete, aggrappandosi con tutte le forze. Lentamente, si arrampica lungo la parete, sforzandosi di raggiungere il bordo qualche metro più sopra. Alla fine, si tira su e si ritrova sul pavimento polveroso."_
 
 **Freya**: _"Divertente. E adesso?"_

@@ -34,7 +34,6 @@ grand_parent: Seconda Edizione
 | **5**  | (Il) **[Sostantivo]** **[Aggettivo]** **[PDI]**    |
 | **6**  | **[PDI]** di (il) **[Aggettivo]** **[Sostantivo]** |
 
-
 ## Aggettivi
 
 |          |               |          |               |
@@ -90,7 +89,6 @@ grand_parent: Seconda Edizione
 | **48**   | Luccicante    | **98**   | Vietato       |
 | **49**   | Lucido        | **99**   | Vistoso       |
 | **50**   | Luminoso      | **100**  | Vuoto         |
-
 
 ## Sostantivi
 
@@ -178,11 +176,10 @@ grand_parent: Seconda Edizione
 | **Tundra**          | distesa, boreale, steppa artica                                     |
 | **Valle**           | valletta, conca, bacino, gola, varco, burrone                       |
 
-
 ### Nomi delle Fazioni
 
 1. Tira sulla tabella sottostante [Formula Nomi delle Fazioni](#formula-nomi-delle-fazioni).
-2. Tira sulle tabelle [Aggettivi](#aggettivi), [Sostantivi](#sostantivi), e [Tipi di Gruppi](#tipi-di-gruppi) quando appropriato. 
+2. Tira sulle tabelle [Aggettivi](#aggettivi), [Sostantivi](#sostantivi), e [Tipi di Gruppi](#tipi-di-gruppi) quando appropriato.
 
 #### Tipi di Gruppi
 
@@ -210,7 +207,6 @@ grand_parent: Seconda Edizione
 | **19**  | Racket      |
 | **20**  | Rete        |
 
-
 #### Formula Nomi delle Fazioni
 
 |        |                                                          |
@@ -228,7 +224,7 @@ grand_parent: Seconda Edizione
 1. Tira sulla tabella sottostante [Formula Nomi del Governo](#formula-nomi-del-regnante).
 2. Tira sulle tabelle [Aggettivi](#aggettivi), [Sostantivi](#sostantivi), [Terreni](#sinonimi-del-terreno), e [Tipologia del Governo](#tipologia-del-governo), e aggiungi "di" o "il/la/" dove appropriato.
 
-| Opzionalmente, sostituisci qualsiasi valore col sinonimo principale del terreno, es. "_La Falesia Nebbiosa_". 
+| Opzionalmente, sostituisci qualsiasi valore col sinonimo principale del terreno, es. "_La Falesia Nebbiosa_".
 
 ### Formula Nomi del Governo
 

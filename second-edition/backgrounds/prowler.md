@@ -17,13 +17,13 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
 - 3d6 Pezzi d’Oro
 - Razioni (3 utilizzi)
-- Torcia (3 utilizzi) 
+- Torcia (3 utilizzi)
 - Telo Cerato
 - Cuoio Bollito (1 Armatura)
 - Spada Corta (d6)
 - Trappola a Molla (4 danni alla FOR)
 
-## Cosa hai cacciato l’ultima volta? Tira 1d6:
+## Cosa hai cacciato l’ultima volta? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 | **5** | Un _lupo cavo_ che spaventava i viaggiatori. Hai avuto pietà della creatura denutrita e l’hai curata. Ora ti è fedele fino alla morte. È anche un ottimo scavatore. 5 PF, 11 FOR, 13 DES, 8 VOL, denti (d6).                                                                    |
 | **6** | Una _gazzella azzurra_. I gameti hanno un valore notevole, se estratti correttamente. Ci sei riuscito, ma hai lasciato il suo nido in balia dei lupi. Ottieni un **Coltellino da Scuoio** (d6), **20po extra** e un senso di colpa persistente.                                 |
 
-## Quale strumento c’è sempre nel tuo zaino? Tira 1d6:
+## Quale strumento c’è sempre nel tuo zaino? Tira 1d6
 
 |       |                         |                                                                                                                       |
 | ----- | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |

@@ -10,9 +10,11 @@ grand_parent: Seconda Edizione
 > Cammini sulla linea sottile tra guaritore e tormentatore, conoscendo la fragilità della carne ma anche i segreti che essa cela. Con gli strumenti giusti, vita e morte sono semplicemente parole.
 
 ## Nomi
+
 Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna
 
 ## Equipaggiamento Iniziale
+
 - 3d6 Pezzi d'Oro
 - Razioni (3 utilizzi)
 - Torcia (3 utilizzi)
@@ -21,7 +23,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 - Sanguisuga (recupera 1 FOR, 3 utilizzi)
 - Abbigliamento Medico Macchiato (_minuto_)
 
-## Come ti sei "migliorato"? Tira 1d6:
+## Come ti sei "migliorato"? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -32,7 +34,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 | **5** | Il tuo **petto** è foderato con sigilli alchemici, _indurendo la pelle_ (1 Armatura). Indossare altra armatura metallica annulla l'effetto.                                                                                                                                                                                    |
 | **6** | Un **braccio** è completamente metallico e può essere rimosso dalla spalla. Può essere usato come arma (d8, _ingombrante_ quando non attaccato) e può muoversi indipendentemente se sei in grado di vederlo.                                                                                                                   |
 
-## Quale strumento raro è essenziale per il tuo lavoro? Tira 1d6:
+## Quale strumento raro è essenziale per il tuo lavoro? Tira 1d6
 
 |       |                               |                                                                                                                                                                                                    |
 | ----- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

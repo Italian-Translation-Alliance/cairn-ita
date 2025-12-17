@@ -131,7 +131,6 @@ grand_parent: Seconda Edizione
 | **19**  | Spia                |
 | **20**  | Venditore Ambulante |
 
-
 ## Obiettivi
 
 |         |               |
