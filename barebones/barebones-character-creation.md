@@ -230,7 +230,7 @@ Tira sulla tabella seguente per determinare il background e l'equipaggiamento in
 |  8   | **Astrologo**: Candela (3 usi, attenuata), Marmi, Cannocchiale                                                                                                         |
 |  9   | **Avicoltore**: Gabbia, Rete, Fischietto (_minuto_)                                                                                                                    |
 |  10  | **Barbiere-chirurgo**: Bende (3 usi), Forbici, Sedativo                                                                                                                |
-|  11  | **Becchino**: alcool, scala, pala                                                                                                                                      |
+|  11  | **Becchino**: alcol, scala, pala                                                                                                                                       |
 |  12  | **Bibliotecario**: Candela (3 usi, attenuato), Pergamena e inchiostro (3 usi), Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (_minuto_) |
 |  13  | **Boia**: Maschera, Corda (25 piedi), Cote                                                                                                                             |
 |  14  | **Bottaio**: martello, trapano a mano, sega                                                                                                                            |
@@ -319,7 +319,7 @@ Tira sulla tabella seguente per determinare il background e l'equipaggiamento in
 |  97  | **Vasaio**: scalpello, secchio, pinze                                                                                                                                  |
 |  98  | **Venditore ambulante**: Carrello (+4 slot, _ingombrante_), attrezzatura aggiuntiva casuale, sacco                                                                     |
 |  99  | **Vetraio**: occhiali, lenti, pinze                                                                                                                                    |
-| 100  | **Vignaio**: alcool, corda (25 piedi), bottiglia sigillabile                                                                                                           |
+| 100  | **Vignaio**: alcol, corda (25 piedi), bottiglia sigillabile                                                                                                            |
 
 ### Armature & Armi
 
@@ -357,7 +357,7 @@ Inoltre, tira sulle seguenti tabelle per l'armatura, le armi e l'equipaggiamento
 #### Equipaggiamento aggiuntivo
 
 | d100 | Equipaggiamento                                                                            |
-| ---- | ------------------------------------------------------------------------------------------ |
+|------|--------------------------------------------------------------------------------------------|
 | 1    | Acido                                                                                      |
 | 2    | Aconito                                                                                    |
 | 3    | Alcol                                                                                      |
@@ -367,20 +367,20 @@ Inoltre, tira sulle seguenti tabelle per l'armatura, le armi e l'equipaggiamento
 | 7    | Bacchetta da rabdomante                                                                    |
 | 8    | Bandiera di segnalazione                                                                   |
 | 9    | Bende (3 usi)                                                                              |
-| 10   | Bomba fumogena                                                                             |
-| 11   | Borsa di tela cerata                                                                       |
-| 12   | Borsa impermeabile                                                                         |
-| 13   | Bottiglia sigillabile                                                                      |
-| 14   | Bussola                                                                                    |
-| 15   | Camera d'aria                                                                              |
-| 16   | Campana                                                                                    |
-| 17   | Candela (3 usi, fioca)                                                                     |
-| 18   | Canna da pesca                                                                             |
-| 19   | Cannocchiale                                                                               |
-| 20   | Carrello (+4 slot, _ingombrante_)                                                          |
-| 21   | Carretto (+8 slot, lento)                                                                  |
-| 22   | Carte                                                                                      |
-| 23   | Casuale [Libro degli incantesimi](/barebones/barebones-spellbooks)                         |
+| 10   | Biglie                                                                                     |
+| 11   | Bomba fumogena                                                                             |
+| 12   | Borsa di tela cerata                                                                       |
+| 13   | Borsa impermeabile                                                                         |
+| 14   | Bottiglia sigillabile                                                                      |
+| 15   | Bussola                                                                                    |
+| 16   | Camera d'aria                                                                              |
+| 17   | Campana                                                                                    |
+| 18   | Candela (3 usi, fioca)                                                                     |
+| 19   | Canna da pesca                                                                             |
+| 20   | Cannocchiale                                                                               |
+| 21   | Carrello (+4 slot, _ingombrante_)                                                          |
+| 22   | Carretto (+8 slot, lento)                                                                  |
+| 23   | Carte                                                                                      |
 | 24   | Catena (10 piedi)                                                                          |
 | 25   | Catrame                                                                                    |
 | 26   | Ciotola                                                                                    |
@@ -393,10 +393,10 @@ Inoltre, tira sulle seguenti tabelle per l'armatura, le armi e l'equipaggiamento
 | 33   | Erbe da fumare (3 usi)                                                                     |
 | 34   | Esplosivo                                                                                  |
 | 35   | Farina                                                                                     |
-| 36   | Fischio (_minuto_)                                                                         |
+| 36   | Fischietto (_minuto_)                                                                      |
 | 37   | Forbici                                                                                    |
 | 38   | Gabbia                                                                                     |
-| 39   | Garrotta                                                                                   |
+| 39   | Garrota                                                                                    |
 | 40   | Gesso (_minuto_)                                                                           |
 | 41   | Grasso                                                                                     |
 | 42   | Grimaldello                                                                                |
@@ -404,50 +404,50 @@ Inoltre, tira sulle seguenti tabelle per l'armatura, le armi e l'equipaggiamento
 | 44   | Incenso                                                                                    |
 | 45   | Kit da cucito                                                                              |
 | 46   | Lanterna                                                                                   |
-| 47   | Latta per olio (6 usi)                                                                     |
+| 47   | Latta d'olio (6 usi)                                                                       |
 | 48   | Lente                                                                                      |
 | 49   | Lente d'ingrandimento                                                                      |
-| 50   | Libro dei canti                                                                            |
-| 51   | Lima in metallo                                                                            |
-| 52   | Liuto                                                                                      |
-| 53   | Magnetite                                                                                  |
-| 54   | Manette                                                                                    |
-| 55   | Mantello (_piccolo_)                                                                       |
-| 56   | Marmi                                                                                      |
+| 50   | [Libro degli incantesimi](/barebones/barebones-spellbooks) Casuale                         |
+| 51   | Libro dei canti                                                                            |
+| 52   | Lima in metallo                                                                            |
+| 53   | Liuto                                                                                      |
+| 54   | Magnetite                                                                                  |
+| 55   | Manette                                                                                    |
+| 56   | Mantello (_minuto_)                                                                        |
 | 57   | Martello                                                                                   |
 | 58   | Maschera                                                                                   |
 | 59   | Miele                                                                                      |
 | 60   | Occhiali                                                                                   |
 | 61   | Olio infiammabile                                                                          |
 | 62   | Pala                                                                                       |
-| 63   | Parrucca                                                                                   |
-| 64   | Pergamena di [Libro degli incantesimi](/barebones/barebones-spellbooks) casuale (_minuto_) |
-| 65   | Pergamena e inchiostro (3 usi)                                                             |
-| 66   | Picchi da arrampicata                                                                      |
-| 67   | Piccone                                                                                    |
-| 68   | Piede di porco                                                                             |
-| 69   | Pinze                                                                                      |
+| 63   | Palo (10 piedi)                                                                            |
+| 64   | Parrucca                                                                                   |
+| 65   | Pergamena di [Libro degli incantesimi](/barebones/barebones-spellbooks) casuale (_minuto_) |
+| 66   | Pergamena e inchiostro (3 usi)                                                             |
+| 67   | Picchi da arrampicata                                                                      |
+| 68   | Piccone                                                                                    |
+| 69   | Piede di porco                                                                             |
 | 70   | Pinze                                                                                      |
-| 71   | Poli (10 piedi)                                                                            |
-| 72   | Polvere da sparo                                                                           |
-| 73   | Poncho (_piccolo_)                                                                         |
-| 74   | Profumo                                                                                    |
-| 75   | Puleggia                                                                                   |
-| 76   | Rampino                                                                                    |
-| 77   | Rete                                                                                       |
-| 78   | Sacco                                                                                      |
-| 79   | Sanguisuga (ripristina 1 STR, 3 usi)                                                       |
-| 80   | Scala (10 piedi, _ingombrante_)                                                            |
-| 81   | Scalpello                                                                                  |
-| 82   | Secchio                                                                                    |
-| 83   | Sedativo                                                                                   |
-| 84   | Sega                                                                                       |
-| 85   | Serratura e chiave                                                                         |
-| 86   | Sestante                                                                                   |
-| 87   | Soffietto                                                                                  |
-| 88   | Specchio                                                                                   |
-| 89   | Stilo                                                                                      |
-| 90   | Stivali chiodati                                                                           |
+| 71   | Polvere da sparo                                                                           |
+| 72   | Poncho (_minuto_)                                                                          |
+| 73   | Profumo                                                                                    |
+| 74   | Puleggia                                                                                   |
+| 75   | Rampino                                                                                    |
+| 76   | Rete                                                                                       |
+| 77   | Sacco                                                                                      |
+| 78   | Sanguisuga (ripristina 1 STR, 3 usi)                                                       |
+| 79   | Scala (10 piedi, _ingombrante_)                                                            |
+| 80   | Scalpello                                                                                  |
+| 81   | Secchio                                                                                    |
+| 82   | Sedativo                                                                                   |
+| 83   | Sega                                                                                       |
+| 84   | Serratura e chiave                                                                         |
+| 85   | Sestante                                                                                   |
+| 86   | Soffietto                                                                                  |
+| 87   | Specchio                                                                                   |
+| 88   | Stilo                                                                                      |
+| 89   | Stivali chiodati                                                                           |
+| 90   | Tenaglie                                                                                   |
 | 91   | Tenda (per 2 persone, _ingombrante_)                                                       |
 | 92   | Trapano a mano                                                                             |
 | 93   | Trappola (d6 danni STR)                                                                    |
@@ -455,7 +455,7 @@ Inoltre, tira sulle seguenti tabelle per l'armatura, le armi e l'equipaggiamento
 | 95   | Tronchesi                                                                                  |
 | 96   | Tubo                                                                                       |
 | 97   | Veleno                                                                                     |
-| 98   | Ventilatore                                                                                |
+| 98   | Ventaglio                                                                                  |
 | 99   | Vernice                                                                                    |
 | 100  | Violino                                                                                    |
 
