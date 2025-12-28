@@ -12,9 +12,9 @@ nav_order: 5
 1. Tira per il [Nome](#nomi) del tuo personaggio e per l'**Età**(2d20+10).
 2. Tira per gli [Attributi](#attributi) e la [Protezione dalle Ferite](#protezione-dalle-ferite) dei tuoi personaggi.
 3. Tira per i [Tratti](#tratti) del tuo personaggio.
-4. Tira per lo [Sfondo](#background) del tuo personaggio e gli oggetti correlati.
+4. Tira per il [Background](#background) del tuo personaggio e gli oggetti correlati.
 5. Tira per [Arma e Armatura](#armi-e-armature) del tuo personaggio. 
-6. Tira per un [Equipamento Aggiuntivo](#equipaggiamento-aggiuntivo) per completare l'equipaggiamento iniziale del tuo personaggio.
+6. Tira per un [Equipaggiamento Aggiuntivo](#equipaggiamento-aggiuntivo) per completare l'equipaggiamento iniziale del tuo personaggio.
 7. Acquista eventuali oggetti aggiuntivi che il tuo personaggio può permettersi dal [Mercato](/barebones/barebones-marketplace.md).
 
 ### Nomi
@@ -219,90 +219,90 @@ Tira sulle seguenti tabelle per i Tratti del tuo personaggio.
 Tira sulla tabella seguente per determinare il background e l'equipaggiamento iniziale del tuo personaggio:
 
 | d100 | Background ed Equipaggiamento                                                                                                                                          |
-|:----:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1  | **Acchiappatopi**: Sacco, Trappola, Fischio (_minuto_)                                                                                                                 |
-|   2  | **Accolito**: Incenso, Pergamena e Inchiostro (3 usi), [Libro degli incantesimi](/barebones/barebones-spellbooks)                                                      |
-|   3  | **Acrobata**: Asta (10 piedi), Corda (25 piedi), Bomba fumogena                                                                                                        |
-|   4  | **Alchimista**: Acido, Lente, Borsa di tela cerata                                                                                                                     |
-|   5  | **Apicoltore**: Olio di fuoco, Guanti (_minuto_), Miele                                                                                                                |
-|   6  | **Araldo**: Maschera, Bandiera di segnalazione, Fischietto (_minuto_)                                                                                                  |
-|   7  | **Assassino**: Garrotta, Maschera, Veleno                                                                                                                              |
-|   8  | **Astrologo**: Candela (3 usi, attenuata), Marmi, Cannocchiale                                                                                                         |
-|   9  | **Avicoltore**: Gabbia, Rete, Fischietto (_minuto_)                                                                                                                    |
+|:----:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1   | **Acchiappatopi**: Sacco, Trappola, Fischio (_minuto_)                                                                                                                 |
+|  2   | **Accolito**: Incenso, Pergamena e Inchiostro (3 usi), [Libro degli incantesimi](/barebones/barebones-spellbooks)                                                      |
+|  3   | **Acrobata**: Asta (10 piedi), Corda (25 piedi), Bomba fumogena                                                                                                        |
+|  4   | **Alchimista**: Acido, Lente, Borsa di tela cerata                                                                                                                     |
+|  5   | **Apicoltore**: Olio di fuoco, Guanti (_minuto_), Miele                                                                                                                |
+|  6   | **Araldo**: Maschera, Bandiera di segnalazione, Fischietto (_minuto_)                                                                                                  |
+|  7   | **Assassino**: Garrotta, Maschera, Veleno                                                                                                                              |
+|  8   | **Astrologo**: Candela (3 usi, attenuata), Marmi, Cannocchiale                                                                                                         |
+|  9   | **Avicoltore**: Gabbia, Rete, Fischietto (_minuto_)                                                                                                                    |
 |  10  | **Barbiere-chirurgo**: Bende (3 usi), Forbici, Sedativo                                                                                                                |
-|  11  | **Beadle**: Campana, Guanti (_minuto_), Fischietto (_minuto_)                                                                                                          |
-|  12  | **Becchino**: alcool, scala, pala                                                                                                                                      |
-|  13  | **Bibliotecario**: Candela (3 usi, attenuato), Pergamena e inchiostro (3 usi), Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (_minuto_) |
-|  14  | **Boia**: Maschera, Corda (25 piedi), Cote                                                                                                                             |
-|  15  | **Bottaio**: martello, trapano a mano, sega                                                                                                                            |
-|  16  | **Cacciatore di streghe**: Corda (25 piedi), Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks)(_minuto_), Cannocchiale                      |
-|  17  | **Cacciatore di taglie**: Polvere flash, Manette, Corda (25 piedi)                                                                                                     |
-|  18  | **Cacciatore**: trappola, corda (25 piedi), erbe fumanti (3 usi)                                                                                                       |
-|  19  | **Calzolaio**: pinze, sacco, kit da cucito                                                                                                                             |
-|  20  | **Campanaro**: Guanti (_minuto_), Corda (25 piedi), Fischio (_minuto_)                                                                                                 |
-|  21  | **Candeliere**: Candela (3 usi, fioca), Miele, Profumo                                                                                                                 |
-|  22  | **Carceriere**: Catena (10 piedi), Manette, Fischio (_minuto_)                                                                                                         |
-|  23  | **Carpentiere**: martello, lima di metallo, sega                                                                                                                       |
-|  24  | **Carradore**: trapano a mano, puleggia, sega                                                                                                                          |
-|  25  | **Cartografo**: Bussola, Pergamena e Inchiostro (3 usi), Sestante                                                                                                      |
-|  26  | **Casellatore**: campanello, lucchetto e chiave, borsa impermeabile                                                                                                    |
-|  27  | **Cavaliere**: Guanti (_minuto_), Bandiera di segnalazione, cote                                                                                                       |
-|  28  | **Ciarlatano**: Carte, Vernice, Profumo                                                                                                                                |
-|  29  | **Collezionista di sanguisughe**: Guanti (_minuto_), Sanguisuga (ripristina 1 STR, 3 usi), Rete                                                                        |
-|  30  | **Conciatore**: Guanti (_minuto_), Pinze, Catrame                                                                                                                      |
-|  31  | **Contadino**: Corda (25 piedi), Sacco, Pala                                                                                                                           |
-|  32  | **Contrabbandiere**: lucchetto e chiave, borsa di tela cerata, corda (25 piedi)                                                                                        |
-|  33  | **Corriere**: campana, bussola, pergamena e inchiostro (3 usi)                                                                                                         |
-|  34  | **Cultista**: Incenso, Maschera, Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (_minuto_)                                               |
-|  35  | **Cuoco**: Farina, Secchio, Erbe Affumicanti (3 usi)                                                                                                                   |
-|  36  | **Custode della cripta**: Incenso, Lanterna, Oliatore (6 usi)                                                                                                          |
-|  37  | **Demolitore**: esplosivo, occhiali, grasso                                                                                                                            |
-|  38  | **Duellante**: Mantello (_minuto_), Guanti (_minuto_), Cote                                                                                                            |
-|  39  | **Erborista**: Antitossina, Artemisia, Sacco                                                                                                                           |
-|  40  | **Eremita**: coperta, palo (3 piedi), erbe fumanti (3 usi)                                                                                                             |
-|  41  | **Esattore delle tasse**: Pergamena e Inchiostro (3 usi), Bottiglia richiudibile, Fischietto (_minuto_)                                                                |
-|  42  | **Fabbricatore di frecce**: Sacco, Trappola, Cote                                                                                                                      |
-|  43  | **Fabbro**: serratura e chiave, lima di metallo, pinze                                                                                                                 |
-|  44  | **Fabbro**: Soffietto, martello, tenaglie di ferro                                                                                                                     |
-|  45  | **Falconiere**: Gabbia, Guanti (_minuto_), Fischietto (_minuto_)                                                                                                       |
-|  46  | **Filosofo**: Gesso (_ minuto _), Pergamena e Inchiostro, Pipa                                                                                                         |
-|  47  | **Garzone di stalla**: coperta, corda (25 piedi), pala                                                                                                                 |
-|  48  | **Giardiniere**: Guanti (_minuto_), Sacco, Pala                                                                                                                        |
-|  49  | **Giocattolaio**: colla, pinze, forbici                                                                                                                                |
-|  50  | **Gioielliere**: lente d'ingrandimento, pinze, tenaglie                                                                                                                |
-|  51  | **Giullare**: Carte, Liuto, Profumo                                                                                                                                    |
-|  52  | **Guardia**: Lanterna, Manette, Fischio (_minuto_)                                                                                                                     |
-|  53  | **Illusionista**: Candela (3 usi, attenuato), Polvere flash, Specchio                                                                                                  |
-|  54  | **Intrattenitore**: dadi, libro di canzoni, parrucca                                                                                                                   |
-|  55  | **Ladro**: triboli, rampino, grimaldello                                                                                                                               |
-|  56  | **Lampionaio**: scala (10 piedi, _ingombrante_), latta d'olio (6 usi), fischio (_minuto_)                                                                              |
-|  57  | **Locandiere**: alcol, bende (3 usi), pergamena e inchiostro (3 usi)                                                                                                   |
-|  58  | **Macellaio**: Secchio, Sega, Cote                                                                                                                                     |
-|  59  | **Marinaio**: amaca, corda (50 piedi), cannocchiale                                                                                                                    |
-|  60  | **Medico**: Antitossina, Bende (3 usi), Piede di porco                                                                                                                 |
-|  61  | **Mercante**: equipaggiamento aggiuntivo casuale, stilo, carro (+8 slot, lento)                                                                                        |
-|  62  | **Minatore**: Lanterna, Magnetite, Piccone                                                                                                                             |
-|  63  | **Monaco**: Candela (3 usi, oscurata), Mantello (_minuto_), Libro dei Cantici                                                                                          |
-|  64  | **Mugnaio**: Ciotola, Farina, Corda (25 piedi)                                                                                                                         |
-|  65  | **Muratore**: scalpello, ventaglio, martello                                                                                                                           |
-|  66  | **Musicista**: ciotola, violino, libro dei canti                                                                                                                       |
-|  67  | **Naturalista**: amaca, corda (25 piedi), cannocchiale                                                                                                                 |
-|  68  | **Navigatore**: Compass, Poncho (_minuto_), Spyglass                                                                                                                   |
-|  69  | **Orologiaio**: lente d'ingrandimento, lima di metallo, pinze                                                                                                          |
-|  70  | **Oste**: alcol, bottiglia sigillabile, sedativo                                                                                                                       |
-|  71  | **Pasticcere**: Farina, Miele, Bottiglia sigillabile                                                                                                                   |
-|  72  | **Pastore**: Mantello (_minuto_), Corda (25 piedi), Fischio (_minuto_)                                                                                                 |
-|  73  | **Pellegrino**: coperta, palo (3 metri), poncho (_minuto_)                                                                                                             |
-|  74  | **Pescatore**: vescica, canna da pesca, rete                                                                                                                           |
-|  75  | **Pittore**: vernice, pergamena e inchiostro (3 usi), stilo                                                                                                            |
-|  76  | **Predicatore di strada**: Campana, pergamena e inchiostro, Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (minuto)                      |
-|  77  | **Prete**: Bende (3 usi), Candela (3 usi, attenuata), Incenso                                                                                                          |
-|  78  | **Prospettore**: Lanterna, Magnetite, Piccone                                                                                                                          |
-|  79  | **Rabdomante**: bacchetta da rabdomante, bottiglia sigillabile, pala                                                                                                   |
-|  80  | **Raccoglitore d'olio**: Lanterna, Lattina d'olio (6 usi), Bottiglia sigillabile                                                                                       |
-|  81  | **Rapinatore di strada**: rampino, corda (25 piedi), bandiera di segnalazione                                                                                          |
-|  82  | **Ricettatore**: Tronchesi, attrezzatura aggiuntiva casuale, sacco                                                                                                     |
-|  83  | **Rilegatore**: colla, pergamena e inchiostro (3 usi), kit da cucito                                                                                                   |
+|  11  | **Becchino**: alcool, scala, pala                                                                                                                                      |
+|  12  | **Bibliotecario**: Candela (3 usi, attenuato), Pergamena e inchiostro (3 usi), Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (_minuto_) |
+|  13  | **Boia**: Maschera, Corda (25 piedi), Cote                                                                                                                             |
+|  14  | **Bottaio**: martello, trapano a mano, sega                                                                                                                            |
+|  15  | **Cacciatore di streghe**: Corda (25 piedi), Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks)(_minuto_), Cannocchiale                      |
+|  16  | **Cacciatore di taglie**: Polvere flash, Manette, Corda (25 piedi)                                                                                                     |
+|  17  | **Cacciatore**: trappola, corda (25 piedi), erbe fumanti (3 usi)                                                                                                       |
+|  18  | **Calzolaio**: pinze, sacco, kit da cucito                                                                                                                             |
+|  19  | **Campanaro**: Guanti (_minuto_), Corda (25 piedi), Fischio (_minuto_)                                                                                                 |
+|  20  | **Candeliere**: Candela (3 usi, fioca), Miele, Profumo                                                                                                                 |
+|  21  | **Carceriere**: Catena (10 piedi), Manette, Fischio (_minuto_)                                                                                                         |
+|  22  | **Carpentiere**: martello, lima di metallo, sega                                                                                                                       |
+|  23  | **Carradore**: trapano a mano, puleggia, sega                                                                                                                          |
+|  24  | **Cartografo**: Bussola, Pergamena e Inchiostro (3 usi), Sestante                                                                                                      |
+|  25  | **Casellatore**: campanello, lucchetto e chiave, borsa impermeabile                                                                                                    |
+|  26  | **Cavaliere**: Guanti (_minuto_), Bandiera di segnalazione, cote                                                                                                       |
+|  27  | **Ciarlatano**: Carte, Vernice, Profumo                                                                                                                                |
+|  28  | **Collezionista di sanguisughe**: Guanti (_minuto_), Sanguisuga (ripristina 1 STR, 3 usi), Rete                                                                        |
+|  29  | **Conciatore**: Guanti (_minuto_), Pinze, Catrame                                                                                                                      |
+|  30  | **Contadino**: Corda (25 piedi), Sacco, Pala                                                                                                                           |
+|  31  | **Contrabbandiere**: lucchetto e chiave, borsa di tela cerata, corda (25 piedi)                                                                                        |
+|  32  | **Corriere**: campana, bussola, pergamena e inchiostro (3 usi)                                                                                                         |
+|  33  | **Cultista**: Incenso, Maschera, Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (_minuto_)                                               |
+|  34  | **Cuoco**: Farina, Secchio, Erbe Affumicanti (3 usi)                                                                                                                   |
+|  35  | **Custode della cripta**: Incenso, Lanterna, Oliatore (6 usi)                                                                                                          |
+|  36  | **Demolitore**: esplosivo, occhiali, grasso                                                                                                                            |
+|  37  | **Duellante**: Mantello (_minuto_), Guanti (_minuto_), Cote                                                                                                            |
+|  38  | **Erborista**: Antitossina, Artemisia, Sacco                                                                                                                           |
+|  39  | **Eremita**: coperta, palo (3 piedi), erbe fumanti (3 usi)                                                                                                             |
+|  40  | **Esattore delle tasse**: Pergamena e Inchiostro (3 usi), Bottiglia richiudibile, Fischietto (_minuto_)                                                                |
+|  41  | **Fabbricatore di frecce**: Sacco, Trappola, Cote                                                                                                                      |
+|  42  | **Fabbro**: serratura e chiave, lima di metallo, pinze                                                                                                                 |
+|  43  | **Fabbro ferraio**: Soffietto, martello, tenaglie di ferro                                                                                                             |
+|  44  | **Falconiere**: Gabbia, Guanti (_minuto_), Fischietto (_minuto_)                                                                                                       |
+|  45  | **Filosofo**: Gesso (_ minuto _), Pergamena e Inchiostro, Pipa                                                                                                         |
+|  46  | **Garzone di stalla**: coperta, corda (25 piedi), pala                                                                                                                 |
+|  47  | **Giardiniere**: Guanti (_minuto_), Sacco, Pala                                                                                                                        |
+|  48  | **Giocattolaio**: colla, pinze, forbici                                                                                                                                |
+|  49  | **Gioielliere**: lente d'ingrandimento, pinze, tenaglie                                                                                                                |
+|  50  | **Giullare**: Carte, Liuto, Profumo                                                                                                                                    |
+|  51  | **Guardia**: Lanterna, Manette, Fischietto (_minuto_)                                                                                                                  |
+|  52  | **Illusionista**: Candela (3 usi, attenuato), Polvere flash, Specchio                                                                                                  |
+|  53  | **Intrattenitore**: dadi, libro di canzoni, parrucca                                                                                                                   |
+|  54  | **Ladro**: triboli, rampino, grimaldello                                                                                                                               |
+|  55  | **Lampionaio**: scala (10 piedi, _ingombrante_), latta d'olio (6 usi), fischio (_minuto_)                                                                              |
+|  56  | **Locandiere**: alcol, bende (3 usi), pergamena e inchiostro (3 usi)                                                                                                   |
+|  57  | **Macellaio**: Secchio, Sega, Cote                                                                                                                                     |
+|  58  | **Marinaio**: amaca, corda (50 piedi), cannocchiale                                                                                                                    |
+|  59  | **Medico**: Antitossina, Bende (3 usi), Piede di porco                                                                                                                 |
+|  60  | **Mercante**: equipaggiamento aggiuntivo casuale, stilo, carro (+8 slot, lento)                                                                                        |
+|  61  | **Minatore**: Lanterna, Magnetite, Piccone                                                                                                                             |
+|  62  | **Monaco**: Candela (3 usi, oscurata), Mantello (_minuto_), Libro dei Cantici                                                                                          |
+|  63  | **Mugnaio**: Ciotola, Farina, Corda (25 piedi)                                                                                                                         |
+|  64  | **Muratore**: scalpello, ventaglio, martello                                                                                                                           |
+|  65  | **Musicista**: ciotola, violino, libro dei canti                                                                                                                       |
+|  66  | **Naturalista**: amaca, corda (25 piedi), cannocchiale                                                                                                                 |
+|  67  | **Navigatore**: bussola, poncho (_minuto_), cannocchiale                                                                                                               |
+|  68  | **Orologiaio**: lente d'ingrandimento, lima di metallo, pinze                                                                                                          |
+|  69  | **Oste**: alcol, bottiglia sigillabile, sedativo                                                                                                                       |
+|  70  | **Pasticcere**: Farina, Miele, Bottiglia sigillabile                                                                                                                   |
+|  71  | **Pastore**: Mantello (_minuto_), Corda (25 piedi), Fischio (_minuto_)                                                                                                 |
+|  72  | **Pellegrino**: coperta, palo (3 metri), poncho (_minuto_)                                                                                                             |
+|  73  | **Pescatore**: vescica, canna da pesca, rete                                                                                                                           |
+|  74  | **Pittore**: vernice, pergamena e inchiostro (3 usi), stilo                                                                                                            |
+|  75  | **Predicatore di strada**: Campana, pergamena e inchiostro, Pergamena casuale [Libro degli incantesimi](/barebones/barebones-spellbooks) (minuto)                      |
+|  76  | **Prete**: Bende (3 usi), Candela (3 usi, attenuata), Incenso                                                                                                          |
+|  77  | **Prospettore**: Lanterna, Magnetite, Piccone                                                                                                                          |
+|  78  | **Rabdomante**: bacchetta da rabdomante, bottiglia sigillabile, pala                                                                                                   |
+|  79  | **Raccoglitore d'olio**: Lanterna, Lattina d'olio (6 usi), Bottiglia sigillabile                                                                                       |
+|  80  | **Rapinatore di strada**: rampino, corda (25 piedi), bandiera di segnalazione                                                                                          |
+|  81  | **Ricettatore**: Tronchesi, attrezzatura aggiuntiva casuale, sacco                                                                                                     |
+|  82  | **Rilegatore**: colla, pergamena e inchiostro (3 usi), kit da cucito                                                                                                   |
+|  83  | **Sagrestano**: Campana, Guanti (_minuto_), Fischietto (_minuto_)                                                                                                      |
 |  84  | **Sarto**: Mantello (_minuto_), Forbici, Kit da cucito                                                                                                                 |
 |  85  | **Scomettitore**: alcol, carte, dadi                                                                                                                                   |
 |  86  | **Scriba**: Candela (3 usi, attenuato), Pergamena e Inchiostro (3 usi), Stilo                                                                                          |
@@ -319,7 +319,7 @@ Tira sulla tabella seguente per determinare il background e l'equipaggiamento in
 |  97  | **Vasaio**: scalpello, secchio, pinze                                                                                                                                  |
 |  98  | **Venditore ambulante**: Carrello (+4 slot, _ingombrante_), attrezzatura aggiuntiva casuale, sacco                                                                     |
 |  99  | **Vetraio**: occhiali, lenti, pinze                                                                                                                                    |
-|  100 | **Vignaio**: alcool, corda (25 piedi), bottiglia sigillabile                                                                                                           |
+| 100  | **Vignaio**: alcool, corda (25 piedi), bottiglia sigillabile                                                                                                           |
 
 ### Armature & Armi
 
