@@ -16,4 +16,5 @@ Traduzione Prima Edizione ad opera della [Italian Translation Alliance](https://
 
 Traduzione Seconda Edizione:
 - Traduzione Player's Guide e Warden's Guide: [Federico Mameli](https://github.com/fedemame)
+- Tradizione Versione Barebone: [Roberto Bisceglie](https://zeruhur.space)
 - Revisione Italiana: [Lorenzo "The Kernel in Yellow" Rossi](https://wheretofind.me/@thekernelinyellow)
