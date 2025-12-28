@@ -17,7 +17,7 @@ I Personaggi Giocanti (PG) hanno tre **Attributi**:
 - **Destrezza (DES)**: Usata per i tiri salvezza che richiedono prontezza, velocità e riflessi, come schivare, arrampicarsi, muoversi silenziosamente, bilanciarsi, ecc.
 - **Volontà (VOL)**: Usata per i tiri salvezza per persuadere, ingannare, interrogare, intimidire, affascinare, provocare, manipolare incantesimi, ecc.
 
-> Gli attributi non sono descrittori universali. Un personaggio con una FOR bassa non è necessariamente irrimediabilmente debole; possono ancora tentare di sollevare una porta pesante o sopravvivere a un combattimento mortale! Il loro rischio è semplicemente più alto.
+> Gli attributi non sono descrittori universali. Un personaggio con una FOR bassa non è necessariamente irrimediabilmente debole; può ancora tentare di sollevare una porta pesante o sopravvivere a un combattimento mortale! Il rischio che corre è semplicemente più alto.
 
 #### Perdita di Attributi
 
@@ -26,26 +26,26 @@ I Personaggi Giocanti (PG) hanno tre **Attributi**:
   
 ### Protezione da Ferite
 
-- Tira 1d6 per determinare la **Protezione dalle Ferite (PF)** iniziale del tuo PG, che rispecchia la sua capacità di evitare i danni in combattimento. La PF non indica la salute o la forza d’animo di un personaggio, né la si perde per molto tempo. Consulta la sezione [Guarigione e Recupero](#guarigione-e-recupero) per maggiori dettagli.
+- Tira 1d6 per determinare la **Protezione dalle Ferite (PF)** iniziale del tuo PG, che rispecchia la sua capacità di evitare i danni in combattimento. La PF non indica la salute o la forza d’animo di un personaggio, né la si perde per molto tempo. Consulta la sezione [Guarigione e Recupero](#guarigione-e-recupero) per maggiori dettagli.
 - Se un attacco porta la PF di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Cicatrici](#cicatrici).
 
 #### Guarigione e Recupero
 
 - Riposarsi per qualche momento e bere un po' d'acqua ripristina la PF persa, ma potrebbe lasciare il gruppo vulnerabile. Le bende possono stabilizzare un personaggio che ha subito danni critici.
-- La perdita di attributi (vedi **Danno Critico**) può generalmente essere recuperata con una settimana di riposo, facilitato da un guaritore o da un'altra competenza analoga.
+- La perdita di attributi (vedi [Danno Critico](#danno-critico)) può generalmente essere recuperata con una settimana di riposo, facilitato da un guaritore o da un'altra competenza analoga.
 - Alcuni di questi servizi possono essere gratuiti, mentre mezzi di recupero più convenienti o magici possono avere un costo.
 
 ## Armatura
 
 - Prima di calcolare i danni alla PF, sottrarre il valore di **Armatura** del bersaglio dal risultato dei tiri per il danno.
-- Scudi e armature simili forniscono un bonus alla difesa (ad esempio +1 Armatura), ma solo mentre l’oggetto è impugnato o indossato. Alcuni potrebbero anche fornire vantaggi aggiuntivi, a seconda della narrativa.
+- Scudi e armature simili forniscono un bonus alla difesa (ad esempio +1 Armatura), ma solo mentre l’oggetto è impugnato o indossato. Alcuni potrebbero anche fornire vantaggi aggiuntivi, a seconda della situazione nel mondo di gioco.
 - Un PG, PNG o mostro non può avere più di 3 di Armatura.
 
 ## Inventario
 
 - I personaggi hanno un totale di dieci slot di inventario, ma possono portare comodamente solo quattro o cinque oggetti senza l'aiuto di borse, zaini, cavalli, carri, ecc.
 - Ogni PG parte con uno **Zaino** che può contenere fino a sei slot di oggetti o **Fatica**. I carretti (che devono essere trainati con entrambe le mani), i cavalli o i muli possono fare una grande differenza nel quanto un PG può portare con sé in un'avventura. **I mercenari** possono anche essere pagati per portare l'equipaggiamento.
-- L'inventario è astratto, dipendente solo dalla narrazione e dal giudizio del Custode. Chiunque abbia un inventario pieno (ovvero che occupa tutti e 10 gli slot) è ridotto a 0 PF. Un personaggio non può riempire più di dieci slot.
+- L'inventario è astratto, dipendente solo dalla situazione nel mondo di gioco e dal giudizio del Custode. Chiunque abbia un inventario pieno (ovvero che occupa tutti e 10 gli slot) è ridotto a 0 PF. Un personaggio non può riempire più di dieci slot.
 
 ### Slot dell'Inventario
 
@@ -83,7 +83,7 @@ I Personaggi Giocanti (PG) hanno tre **Attributi**:
 ### Lanciare Incantesimi
 
 - Chiunque può lanciare un incantesimo tenendo un libro degli incantesimi con entrambe le mani e leggendo ad alta voce il suo contenuto. Dopo di che, deve aggiungere una **Fatica** al proprio inventario.
-- Con tempo e sicurezza, i PG possono _potenziare_ l'impatto di un incantesimo (ad esempio, colpire più bersagli, aumentarne la potenza, ecc.) senza costi aggiuntivi.
+- Avendo a disposizione tempo e sicurezza, i PG possono _potenziare_ l'impatto di un incantesimo (ad esempio, colpire più bersagli, aumentarne la potenza, ecc.) senza costi aggiuntivi.
 - Se il PG è _esausto_ o in pericolo (ad esempio durante un combattimento), il Custode potrebbe richiedere una prova di salvataggio di VOL per evitare effetti negativi dal lancio dell'incantesimo. Le conseguenze di un fallimento sono proporzionate all'effetto previsto e potrebbero comportare una **Fatica** aggiuntiva, la distruzione del libro degli incantesimi, ferite e persino la morte.
 
 ### Pergamene
@@ -103,8 +103,8 @@ Le Reliquie sono oggetti imbevuti di un incantesimo o potere magico. Non causano
 ### Mercenari
 
 - I gruppi di avventurieri possono reclutare mercenari, sfruttando le loro competenze, conoscenze e addestramento unici per aiutarli nelle spedizioni.
-- Per creare un mercenario, scegli un ruolo appropriato dalla tabella Servitori nel [Mercato]({{ site.baseurl }}/barebones/marketplace#mercenari-per-giorno). Tira 3d6 per ogni attributo e 1d6 per la loro PF. Assegna loro un equipaggiamento adeguato alla loro posizione, quindi tira sulle tabelle dei Tratti del Personaggio per caratterizzarli ulteriormente.
-- In alternativa, scegli un background appropriato dalla guida [**Creazione del Personaggio**](/barebones/character-creation) e dai loro un **nome**. Tira (o scegli dalle) tabelle per quel background. Poi tira per Razioni, Monete d'Oro, Attributi, PF e età.
+- Per creare un mercenario, scegli un ruolo appropriato dalla tabella Servitori nel [Mercato]({{ site.baseurl }}/barebones/barebones-marketplace#mercenari-per-giorno). Tira 3d6 per ogni attributo e 1d6 per la loro PF. Assegna loro un equipaggiamento adeguato alla loro posizione, quindi tira sulle tabelle dei Tratti del Personaggio per caratterizzarli ulteriormente.
+- In alternativa, scegli un background appropriato dalla guida [**Creazione del Personaggio**]({{ site.baseurl }}/barebones/barebones-character-creation) e dagli un **nome**. Tira sulle (o scegli dalle) tabelle per il background. Poi tira per Razioni, Monete d'Oro, Attributi, PF e età.
 
 ### Reazioni
 
@@ -121,7 +121,7 @@ Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode
 
 - Un **Round** corrisponde a circa dieci secondi di tempo di gioco e si svolge con ogni parte che agisce a turno. Ogni round inizia con i PG che sono in grado di agire, seguiti dai loro avversari. _Il risultato delle azioni di ciascuna parte avviene simultaneamente_.
 - Durante il _primo round di combattimento_, ogni PG deve un tiro salvezza su DES per poter agire. Circostanze speciali, abilità, oggetti o capacità potrebbero annullare questa necessità. I PG che falliscono la loro prova _perdono il loro turno_ per questo round.
-- I loro avversari prendono poi il loro turno, e il primo round termina. Il round successivo inizia con i PG che agiscono, seguiti dai loro avversari, e così via, fino a quando il combattimento non si conclude con una parte sconfitta o in fuga.
+- I loro avversari svolgono poi il proprio turno, e il primo round termina. Il round successivo inizia con i PG che agiscono, seguiti dai loro avversari, e così via, fino a quando il combattimento non si conclude con una parte sconfitta o in fuga.
 
 ### Azioni
 
@@ -175,11 +175,11 @@ Se un danno a un PG riduce la sua PF esattamente a 0, consulta il risultato sull
 #### Tabella delle Cicatrici
 
 |              |                                                                                                                                                                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ------------ |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **PF persi** | **Risultato**                                                                                                                                                                                                                                                                        |
 | 1            | **Cicatrice permanente**: Tira 1d6. 1: Collo, 2: Mani, 3: Occhio, 4: Torace, 5: Gambe, 6: Orecchio. Tira 1d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato.                                                                                               |
-| 2            | **Colpo tremante**: Sei disorientato e scosso. Descrivi come ti riprendi. Tira 1d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato.                                                                                                                         |
-| 3            | **Sbattuto**: Vieni scaraventato e atterri con il volto a terra, stordito. Sei esausto finché non riposi per alcune ore. Poi, tira 1d6. Aggiungi quel numero alla tua PF massima.                                                                                                    |
+| 2            | **Colpo stordente**: Sei disorientato e scosso. Descrivi come ti riprendi. Tira 1d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato.                                                                                                                        |
+| 3            | **Sbattuto**: Vieni scaraventato e atterri con il volto a terra, stordito. Sei _esausto_ finché non riposi per alcune ore. Poi, tira 1d6. Aggiungi quel numero alla tua PF massima.                                                                                                  |
 | 4            | **Arto rotto**: Tira 1d6. 1-2: Gamba, 3-4: Braccio, 5: Costola, 6: Cranio. Una volta rimesso in sesto, tira 2d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato.                                                                                            |
 | 5            | **Malattia**: Sei affetto da una grave e sgradevole infezione. Quando la superi, tira 2d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato.                                                                                                                  |
 | 6            | **Ferita alla testa disorientante**: Tira 1d6. 1-2: FOR, 3-4: DES, 5-6: VOL. Tira 3d6. Se il totale è maggiore del tuo attributo attuale, prendi il nuovo risultato.                                                                                                                 |
@@ -187,5 +187,5 @@ Se un danno a un PG riduce la sua PF esattamente a 0, consulta il risultato sull
 | 8            | **Sordità**: Non puoi sentire nulla finché non trovi un aiuto straordinario. Comunque, fai un tiro salvataggio su VOL. Se lo superi, aumenta la tua PF massima di 1d4.                                                                                                               |
 | 9            | **Riprogrammazione mentale**: Una parte nascosta della tua psiche è scossa. Tira 3d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato.                                                                                                                       |
 | 10           | **Smembramento**: Un arto viene strappato, storpiato o diventa inutile. (Il Custode ti dirà quale.) Poi fai un tiro salvezza su VOL. Se lo superi, aumenta la tua PF massima di 1d6.                                                                                                 |
-| 11           | **Ferita mortale**: Sei esausto e fuori combattimento. Muori entro un'ora a meno che non venga curato. Al recupero, tira 2d6. Prendi il nuovo risultato come la tua PF massima.                                                                                                      |
-| 12           | **Condannato**: La morte sembrava così vicina, ma in qualche modo sei sopravvissuto. Se il tuo prossima tiro salvezza contro danno critico è un fallimento, muori in modo orribile. Se la superi, tira 3d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato. |
+| 11           | **Ferita mortale**: Sei _esausto_ e fuori combattimento. Senza cure, muori entro un'ora. Al recupero, tira 2d6. Prendi il nuovo risultato come la tua PF massima.                                                                                                                    |
+| 12           | **Condannato**: La morte sembrava così vicina, ma in qualche modo sei sopravvissuto. Se il tuo prossimo tiro salvezza contro danno critico è un fallimento, muori in modo orribile. Se la superi, tira 3d6. Se il totale è maggiore della tua PF massima, prendi il nuovo risultato. |
