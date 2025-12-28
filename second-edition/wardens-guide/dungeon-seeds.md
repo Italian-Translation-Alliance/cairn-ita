@@ -81,7 +81,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Tesoro Ammassato             | Una Società Segreta        |
 | **20**  | Volta Inespugnabile          | Una Tribù Guerriera        |
 
-
 #### Costruzione
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
@@ -369,7 +368,7 @@ Tira 1d20 per ogni colonna e combina i risultati.
 
 ## Esempio di Dungeon
 
-Per questo esempio, supponiamo di essere davanti a un PDI generato usando i metodi descritti nel capitolo *Semi d’Ambientazione*. I risultati rilevanti sono stati:
+Per questo esempio, supponiamo di essere davanti a un PDI generato usando i metodi descritti nel capitolo _Semi d’Ambientazione_. I risultati rilevanti sono stati:
 
 - **Terreno**: _Foresta_  
 - **Tipo**: _Tempio_  

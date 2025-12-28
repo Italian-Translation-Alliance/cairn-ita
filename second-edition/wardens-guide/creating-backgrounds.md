@@ -27,6 +27,7 @@ Prepara una lista di aggettivi comuni che descrivono il tuo nuovo Background. Se
 ### Equipaggiamento Iniziale
 
 I personaggi di Cairn sono largamente definiti dal loro inventario, quindi l'inizio dovrebbe essere il primo posto in cui dipingere la tela unica di un Background. Ogni Background ha:
+
 - Oro, cibo e una fonte di luce. Questi dovrebbero essere comunque unici; un Background potrebbe iniziare con razioni insolite, un elmetto a candela, e così via.
 - Fino a quattro oggetti _unici_ che rafforzano il tema principale. Almeno uno di questi oggetti dovrebbe essere una sorta di arma.
 - Gli oggetti iniziali non dovrebbero occupare più di sette slot in totale, per non sovraccaricare l'inventario di un personaggio.

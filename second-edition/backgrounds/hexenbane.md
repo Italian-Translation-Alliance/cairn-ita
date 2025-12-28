@@ -23,7 +23,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunilde, Beatrix
 - Coltello d’Argento (d6)  
 - Balestra (d8, _ingombrante_)
 
-## A quale ordine appartieni? Tira 1d6:
+## A quale ordine appartieni? Tira 1d6
 
 |       |                                                                                                                                                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunilde, Beatrix
 | **5** | **Ordine di Canaas**. Una volta al giorno puoi trasformarti in un lupo. Ottieni una **Catena di Argento Vivo**. Senza di essa, non puoi tornare alla tua forma umana.                                                 |
 | **6** | **Ordine del Velo Silenzioso**. Ottieni una **Pietra della Quiete** (2 utilizzi) avvolta in iuta. Estingue ogni fiamma nei paraggi quando esposta all’aria.                                                           |
 
-## Qual è stato il tuo voto? Tira 1d6:
+## Qual è stato il tuo voto? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

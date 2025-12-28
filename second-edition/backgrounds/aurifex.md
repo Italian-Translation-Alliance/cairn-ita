@@ -10,9 +10,11 @@ grand_parent: Seconda Edizione
 > Sei un artigiano dell'arcano, un fabbro delle forze sottili. Nel crogiolo del tuo laboratorio le leggi che governano questo mondo sono distorte per adattarsi alle tue necessità.
 
 ## Nomi
+
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## Equipaggiamento Iniziale
+
 - 3d6 Pezzi d'Oro
 - Razioni (3 utilizzi)
 - Lanterna
@@ -20,7 +22,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 - Coltello-ago (d6)
 - Guanti Protettivi (_minuto_)
 
-## Cosa è andato orribilmente storto? Tira 1d6:
+## Cosa è andato orribilmente storto? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +33,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **5** | La tua ricetta alchemica ha funzionato, ma un rivale ha rubato il progetto prima che le tue affermazioni potessero essere dimostrate. Prendi un prototipo di **Archibugio** (d12, _scoppio_, _ingombrante_) che richiede un turno per essere ricaricato, e un gusto per la vendetta. |
 | **6** | Deriso per aver scoperto come trasformare l'oro in _piombo_, sei diventato una barzelletta per tutti. Prendi una bottiglia di **Solvente Universale** (2 utilizzi) che dissolve qualsiasi cosa tocchi nei suoi componenti.                                                               |
 
-## Quale meraviglia alchemica è il prodotto della tua ultima invenzione? Tira 1d6:
+## Quale meraviglia alchemica è il prodotto della tua ultima invenzione? Tira 1d6
 
 |       |                          |                                                                                                                                                                                                                                                                        |
 | ----- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

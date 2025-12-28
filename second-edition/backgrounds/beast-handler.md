@@ -10,9 +10,11 @@ grand_parent: Seconda Edizione
 > Solo tu riesci a camminare tra le creature selvatiche senza paura e mantenendo il controllo. Possiedi una connessione con gli animali che altri possono solo sognare... finché non finisci per diventare il loro spuntino.
 
 ## Nomi
+
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
 ## Equipaggiamento Iniziale
+
 - 3d6 Pezzi d'Oro
 - Razioni (3 utilizzi)
 - Torcia (3 utilizzi)
@@ -21,7 +23,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 - Esca
 - Corda (7 m)
 
-## Quale creatura è la tua specialità? Tira 1d6:
+## Quale creatura è la tua specialità? Tira 1d6
 
 |       |               |                                                                                                                                                                                                                              |
 | ----- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +34,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 | **5** | **Roditori**  | Prendi una **Flauto di Pan** che emette un suono acuto che solo i roditori possono sentire. Finché suoni, ti seguiranno, fino alla loro morte.                                                                               |
 | **6** | **Serpenti**  | Prendi una **Pietra Riscaldante** che genera un calore irresistibile e una fiala di **Antitossina** (2 utilizzi).                                                                                                            |
 
-## Cosa hai imparato dalle creature della natura? Tira 1d6:
+## Cosa hai imparato dalle creature della natura? Tira 1d6
 
 |       |                                                                                                                                                                                                                                   |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -23,7 +23,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 - Grimaldelli
 - Abito Nero (_minuto_)
 
-## Qual è stato il tuo ultimo grande colpo? Tira 1d6:
+## Qual è stato il tuo ultimo grande colpo? Tira 1d6
 
 |       |                                                                                                                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,7 +34,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 | **5** | Un alloggio di una guardia. Sei scappato, ma hai lasciato alcuni amici indietro. Prendi **Filo di Seta Resistente** (9m) e una sensazione di nausea.                                                     |
 | **6** | Un'università. Sei stato visto ma non inseguito. Ancora non sai perché. Prendi **Sfere Fumogene** (3 utilizzi).                                                                                        |
 
-## Cosa ti aiuta a rubare? Tira 1d6:
+## Cosa ti aiuta a rubare? Tira 1d6
 
 |       |                            |                                                                                                                                                                     |
 | ----- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

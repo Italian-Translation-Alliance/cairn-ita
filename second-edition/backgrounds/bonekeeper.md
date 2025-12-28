@@ -22,7 +22,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 - Pala (d6)
 - Catena (3m)
 
-## Cosa hai preso dai morti? Tira 1d6:
+## Cosa hai preso dai morti? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 | **5** | Il **Libro degli Incantesimi: Rileva Magia**, rubato da un’antica biblioteca. La tua famiglia era devota a una divinità sotterranea dimenticata, ma tu hai perso la fede. Anche se esiliato, continui a servire, seppur come apostata. _Rileva Magia_: puoi vedere o udire le aure magiche nelle vicinanze. _Diventa caldo al tatto quando viene usata della magia nei paraggi._                          |
 | **6** | Una **maschera da medico della peste**, appartenuta a qualcuno che non è sopravvissuto alla malattia che ha sterminato tutti quelli che conoscevi. Avrebbe dovuto tenerla indosso.                                                                                                                                                                                                                        |
 
-## Quale strumento è stato indispensabile nel tuo lavoro? Tira 1d6:
+## Quale strumento è stato indispensabile nel tuo lavoro? Tira 1d6
 
 |       |                    |                                                                                                                                  |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |

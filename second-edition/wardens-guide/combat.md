@@ -42,13 +42,13 @@ Il combattimento in Cairn è veloce, frenetico e spesso letale. Inoltre, le rego
 
 > Wolfram e Freya tirano i loro attacchi, ma solo il risultato più alto infligge danno al tizio grosso [8 PF, 15 FOR, 7 DES, 9 VOL, ascia da guerra (d10)]. Wolfram tira un 4, Freya un 5 e un 1 con i suoi due pugnali.
 
-**Custode**: _"Vi lanciate entrambi contro l’uomo con l’ascia. Con un movimento rapido schiva facilmente la stoccata di Wolfram, ma con Freya ci va davvero vicino! Le sue due lame tagliano l’aria proprio dove lui si trovava un istante prima. Per un soffio non lo sventri! Ci sei andata vicina."_ 
+**Custode**: _"Vi lanciate entrambi contro l’uomo con l’ascia. Con un movimento rapido schiva facilmente la stoccata di Wolfram, ma con Freya ci va davvero vicino! Le sue due lame tagliano l’aria proprio dove lui si trovava un istante prima. Per un soffio non lo sventri! Ci sei andata vicina."_
 
-**Freya**: _"Apprezzo… ma non è che mi faccia sentire molto meglio."_ 
+**Freya**: _"Apprezzo… ma non è che mi faccia sentire molto meglio."_
 
 > Ora tocca agli avversari attaccare o compiere un’azione. Anche se la descrizione avviene in modo sequenziale, gli effetti avvengono più o meno nello stesso momento. Il Custode tira un dado d’attacco per ciascun nemico, mirando a ogni PG una sola volta. L’uomo grosso tira un d10 ma infligge solo 3 danni a Freya, mentre i due compari tirano un d6 ciascuno, infliggendo rispettivamente 1 danno a Wolfram e 6 a Lucius. Mentre il Custode narra i risultati, ogni giocatore aggiorna la propria PF o la FOR sulla scheda.
 
-**Custode**: _"Ora tocca ai vostri avversari. L’uomo grosso agita la sua ascia verso Freya, ma manca il bersaglio: c’è un bello spazio tra lei e il filo dell’ascia. Non è detto che vi vada così bene la prossima volta. Poi, il tizio più basso prova a pugnalare Wolfram, che è il più vicino. Fortuna vuole che la lama gli rimbalzi sull’armatura. E infine tocca alla sorella del tipo… che quasi stacca la testa a Lucius! La lama, per qualche strano motivo, non taglia, ma lo sbatte via con una tale forza che quasi crolla a terra. Davanti agli occhi, solo luci e scintille."_ 
+**Custode**: _"Ora tocca ai vostri avversari. L’uomo grosso agita la sua ascia verso Freya, ma manca il bersaglio: c’è un bello spazio tra lei e il filo dell’ascia. Non è detto che vi vada così bene la prossima volta. Poi, il tizio più basso prova a pugnalare Wolfram, che è il più vicino. Fortuna vuole che la lama gli rimbalzi sull’armatura. E infine tocca alla sorella del tipo… che quasi stacca la testa a Lucius! La lama, per qualche strano motivo, non taglia, ma lo sbatte via con una tale forza che quasi crolla a terra. Davanti agli occhi, solo luci e scintille."_
 
 **Lucius**: _"Ahi. Questo mi porta esattamente a 0 PF. Devo tirare sulla tabella delle Cicatrici, giusto?"_
 
@@ -60,7 +60,7 @@ Il combattimento in Cairn è veloce, frenetico e spesso letale. Inoltre, le rego
 
 **Wolfram**: _"Contrattacco il tizio più basso!"_
 
-**Freya**: _"Io ci riprovo con quello grosso."_ 
+**Freya**: _"Io ci riprovo con quello grosso."_
 
 **Lucius**: _"Vado a colpire quella donna con il mio bastone-spada."_
 

@@ -22,7 +22,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 - Corda (7 metri)  
 - Secchio di Metallo
 
-## Quale strano fungo hai scoperto? Tira 1d6:
+## Quale strano fungo hai scoperto? Tira 1d6
 
 |       |                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 | **5** | **Copparamo**. Se ingerito, ti fa rimpicciolire fino alle dimensioni di un topo. (I tuoi oggetti rimangono della stessa taglia.) Torni normale entro un’ora, spesso a scatti. 1 utilizzi. |
 | **6** | **Fiore di Radice**. Un fungo bianco che cresce solo sui cadaveri nel profondo sottosuolo. Ingeriscilo per recuperare d6 VOL. Sognerai i morti e le loro storie. 1 utilizzo.              |
 
-## Cosa ti tiene sano di mente, anche nell’oscurità più totale? Tira 1d6:
+## Cosa ti tiene sano di mente, anche nell’oscurità più totale? Tira 1d6
 
 |       |                        |                                                                                                   |
 | ----- | ---------------------- | ------------------------------------------------------------------------------------------------- |

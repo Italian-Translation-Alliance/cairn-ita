@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Mercato
-parent: Guida del Giocatore
-grand_parent: Seconda Edizione
+title: Edizione Barebones - Mercato
+parent: Barebones
+nav_order: 7
 ---
 
-# Mercato
+# Mercato 
 
 > Tutti i prezzi sono in pezzi d'oro
 
@@ -26,7 +26,7 @@ grand_parent: Seconda Edizione
 | --------------------------------------------------------------------------- | --- |
 | Pugnale, Randello, Falcetto, Bastone, etc. (d6 danno)                       | 5   |
 | Lancia, Spada, Mazza, Ascia, Flagello, etc. (d8 danno)                      | 10  |
-| Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, _ingombrante_) | 20  |
+| Alabarda, Martello da guerra, Spada lunga , etc. (d10 danno, *ingombrante*) | 20  |
 | Fionda (d6 danno)                                                           | 5   |
 | Arco (d6 danno, _ingombrante_)                                              | 20  |
 | Balestra (d8 danno, _ingombrante_)                                          | 30  |
@@ -53,7 +53,7 @@ grand_parent: Seconda Edizione
 | Razioni (3 utilizzi)                              | 10  |
 | Cibo per animali (3 utilizzi, ingombrante)        | 5   |
 
-## Mercenari
+## Mercenari (per giorno)
 
 |                            |     |
 | -------------------------- | --- |
@@ -69,6 +69,7 @@ grand_parent: Seconda Edizione
 | Navigatore                 | 10  |
 | Segugio                    | 5   |
 | Studioso                   | 20  |
+
 
 ## Oggetti
 
@@ -121,3 +122,4 @@ grand_parent: Seconda Edizione
 | Triboli                                                                | 10  |
 | Vescica d'Aria                                                         | 5   |
 | Vestiti per Regioni Selvatiche (Poncho, Mantello, ecc.) (_minuto_)     | 15  |
+

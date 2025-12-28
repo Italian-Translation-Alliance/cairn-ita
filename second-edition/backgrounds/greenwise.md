@@ -1,4 +1,5 @@
 ---
+---
 title: Savio Verde
 layout: default
 parent: Background
@@ -24,7 +25,7 @@ Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - Ciondolo intrecciato (_minuto_, _Protezione_ una volta al giorno)  
 _Protezione_: appare un cerchio d’argento di 15 metri di diametro sul terreno. Scegli una specie che non può attraversarlo.
 
-## Come ti ha deluso la Foresta? Tira 1d6:
+## Come ti ha deluso la Foresta? Tira 1d6
 
 |       |                                                                                                                                                                                                                                  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +36,7 @@ _Protezione_: appare un cerchio d’argento di 15 metri di diametro sul terreno.
 | **5** | Il tuo impressionante fiore-cadavere ha vinto un concorso locale e poi ha ucciso un giudice. Sei fuggito, ma non senza il **Premio in denaro (100 po)** e una taglia sulla tua testa.                                            |
 | **6** | Hai creato una tintura curativa che accidentalmente causa infertilità. Ottieni una **Pozione curativa** che ripristina completamente la FOR. Solo tu conosci i suoi effetti collaterali.                                         |
 
-## Cosa ti tiene al sicuro nella Foresta? Tira 1d6:
+## Cosa ti tiene al sicuro nella Foresta? Tira 1d6
 
 |       |                          |                                                                                                                    |
 | ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |

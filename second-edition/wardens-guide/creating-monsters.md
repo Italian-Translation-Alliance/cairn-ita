@@ -10,6 +10,7 @@ grand_parent: Seconda Edizione
 ## Panoramica
 
 Per creare un mostro unico, segui questi passaggi:
+
 - Tira sulla tabella [Aspetto del Mostro](#aspetto-del-mostro).
 - Tira sulla tabella [Tratti del Mostro](#tratti-del-mostro).
 - Tira sulla tabella [Attacchi del Mostro](#attacchi-del-mostro).
@@ -63,6 +64,7 @@ Un’azione o potere unico, dentro o fuori dal combattimento.
 ## Formato Statistiche Mostro
 
 X PF, X Armatura, X FOR, X DES, X VOL, Attacco (dX, oggetti speciali, _qualità_)
+
 - Descrizione coinvolgente dell’aspetto, comportamento o abitudini.
 - Tattica o peculiarità che lo distingue.
 - Effetto speciale o conseguenza del danno critico.
@@ -70,7 +72,6 @@ X PF, X Armatura, X FOR, X DES, X VOL, Attacco (dX, oggetti speciali, _qualità_
 ## Aspetto del Mostro
 
 Tira 1d20 per ciascuna colonna e combina i risultati.
-
 
 |         |                |                    |
 | ------- | -------------- | ------------------ |
@@ -95,7 +96,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **18**  | Squamoso       | Voce               |
 | **19**  | Traslucido     | Zanne              |
 | **20**  | Viscido        | Zanne ricurve      |
-
 
 ## Tratti del Mostro
 
@@ -178,7 +178,6 @@ Tira 1d20 per ciascuna colonna e combina i risultati.
 | **19**  | Trasforma      | Udito         |
 | **20**  | Vincola        | Visione       |
 
-
 ## Esempio di Mostro
 
 - **Aspetto**: _Incurvato_ + _Carapace_  
@@ -232,13 +231,11 @@ Non esiste un sistema perfetto per convertire da altri giochi, ma ecco alcuni su
 | **Attacchi di Soffio**             | **DES** o **FOR** |
 | **Incantesimi, Bastoni o Scettri** | **VOL**           |
 
-
 ### Combattimento
 
 - **Dado di Danno**: Può essere copiato così com’è da molti sistemi OSR, ma è sempre bene confrontarlo con le armi elencate nel Mercato.
 - **Attacchi multipli**: Converti in _scoppio_ o in danno con più dadi (es. d6+d6).
 - **Attacchi Devastanti**: Valuta se renderli _potenziati_, aggiungere il tag _scoppio_, o usare più dadi.
-
 
 ### Abilità
 
@@ -262,10 +259,12 @@ Ecco un esempio:
 
 Può assumere la forma di una volpe o di una donna alta 2 metri con testa di volpe.  
 _DV 5, Velocità 36m, Armatura 14, Morale 11, Attacco: +4 d8 (artiglio, morso o strangolamento)_  
+
 - Difesa: Immune alle armi metalliche  
 - Speciale: Può trasformarsi a volontà in una volpe o in una fanciulla con una gamba da volpe (stesse statistiche)
 
 _**Dall’esempio sopra, possiamo dedurre che:**_
+
 - Appare come una donna umana alta con una gamba da volpe.
 - Ha PF non eccezionale, ma è molto veloce.
 - Il suo **ML** è alto: ha una forte volontà.
@@ -275,6 +274,7 @@ _**Dall’esempio sopra, possiamo dedurre che:**_
 - È immune alle armi metalliche.
 
 _**Cosa ne ricaviamo?**_
+
 - È veloce e abile in combattimento. Se partiamo da **3 PF** e aggiungiamo 1 per ogni **DV**, otteniamo **8 PF**.
 - Non ha pelle protettiva, è umanoide a parte la testa. **Nessuna Armatura**.
 - È robusta. Un umano ha 10 **FOR**, lei può avere **12 FOR**.

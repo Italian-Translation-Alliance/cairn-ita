@@ -77,7 +77,6 @@ Gli studiosi scrivono che i Vicini sono in grado di far fluire la magia come fos
 
 Coloro che vivono nella Foresta sanno di portare sempre con sé amuleti, doni o oggetti simili, nel caso di un incontro fortuito. E sebbene i Vicini raramente si interessino ai confini del loro regno, si sa che infliggono punizioni severe a chiunque osi oltrepassarli senza invito. Tuttavia, è risaputo che i Vicini temono profondamente le Radici, e evitano i Varchi ogni volta che possono.
 
-
 ## Le Radici
 
 Le **Radici** sono un reame di mistero e orrore sotterraneo, indifferente alle divisioni arbitrarie delle civiltà della superficie. Nel sottosuolo, cunicoli labirintici si estendono per distanze incommensurabili, collegando umili fogne cittadine a rovine remote oltre i confini conosciuti. Solo i più coraggiosi (o gli sciocchi) osano entrare nelle Radici in cerca di Reliquie dimenticate o ricchezze smisurate, e quei pochi che fanno ritorno sussurrano di orrori indicibili e intelligenze maligne poste a guardia di tali tesori perduti. Alcuni racconti parlano di avventurieri rimasti intrappolati per secoli negli abissi, riemersi convinti che fossero passate solo poche ore. Altri dicono di aver percorso in un giorno, attraverso i tunnel, un viaggio che avrebbe richiesto una settimana in superficie.
@@ -101,6 +100,7 @@ Un’assemblea di ricchi signori e dame proprietari terrieri. Astuti, risoluti e
 Un consorzio di mercanti, studiosi e potenti, l’Ordine si affida alla propria immensa ricchezza e a una vasta rete di spie per portare avanti i propri obiettivi. Il loro scopo principale è la scoperta, identificazione e regolamentazione delle Reliquie. Negli ultimi anni, hanno rivolto la loro attenzione alle Radici, convinti che sia da lì che provenga la maggior parte delle Reliquie, e pagano profumatamente per qualsiasi informazione riguardo ai Varchi. Il nome dell’Ordine deriva dai suoi nove membri fondatori, i cui nomi e titoli restano segreti. L’Ordine detesta i Libri degli Incantesimi e chi li porta con sé. Non vedono ragione di partecipare apertamente alla politica, ma mantengono spie in quasi ogni fazione.
 
 L’Ordine impiega diversi ranghi e titoli distinti (in ordine di autorità):
+
 - _Lettore_: Un iniziato è considerato _Lettore Minore_ fino a che non si è dimostrato degno; in seguito viene insignito del titolo di _Lettore Maggiore_. Solo questi ultimi possono utilizzare Reliquie.
 - _Custode_: Protettore di un Varco, simile a un soldato o mercenario.
 - _Archivista_: Ricercatore o bibliotecario altamente rispettato, guidato dal _Gran Archivista_.
@@ -155,7 +155,6 @@ Una giornata dura 24 ore e la settimana è composta da 6 giorni. Ogni mese ha 24
 4. Rallegrarsi  
 5. Rinunciare  
 6. Rinnovare  
-
 
 ### Feste, Festival ed Eventi ordinati per data
 

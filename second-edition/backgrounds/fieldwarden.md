@@ -11,7 +11,7 @@ grand_parent: Seconda Edizione
 
 ## Nomi
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
+Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Equipaggiamento Iniziale
 
@@ -23,7 +23,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 - Ascia da Mano (d6)  
 - Repellente (scegli di che tipo, 3 utilizzi)  
 
-## Cosa ti ha sconfitto? Tira 1d6:
+## Cosa ti ha sconfitto? Tira 1d6
 
 |       |                                                                                                                                                                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,7 +34,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 | **5** | Lupi, o almeno così credevi. Ora sei un **Licantropo** [8 PF, 15 FOR, 14 DES, artigli (d6+d6), morso (d8)]. La tua VOL resta invariata. Puoi _trasformarti_ a volontà (una volta al giorno), ma devi superare un tiro VOL per tornare umano. Chiunque sopravviva a un tuo attacco deve superare un tiro VOL o verrà infettato. |
 | **6** | Ladri di raccolti. Non tutti sopravvissero, ma erano troppi. Parti con +d4 PF e un **Falcione Dentellato** (d8).                                                                                                                                                                                                               |
 
-## Quale strumento ti ha salvato la vita? Tira 1d6:
+## Quale strumento ti ha salvato la vita? Tira 1d6
 
 |       |                          |                                                                                                                                                                                                                    |
 | ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
