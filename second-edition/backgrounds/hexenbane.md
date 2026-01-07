@@ -2,7 +2,7 @@
 title: Spezzaincanti
 layout: default
 parent: Background
-grand_parent: Second Edition
+grand_parent: Seconda Edizione
 ---
 
 # Spezzaincanti
