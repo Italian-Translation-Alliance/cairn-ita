@@ -1,5 +1,4 @@
 ---
----
 title: Savio Verde
 layout: default
 parent: Background
